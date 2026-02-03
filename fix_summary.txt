@@ -1,0 +1,133 @@
+================================================================================
+SUMMARY OF INDEXTERM CONTENT LOSS FIXES
+================================================================================
+
+Total fixes across all files: 1861
+Total chapters/sections affected: 21
+
+================================================================================
+
+FIXES BY CHAPTER:
+--------------------------------------------------------------------------------
+
+Ch 1 - Fundamentals of the Clinical Interview
+  Files affected: 7
+  Total fixes: 67
+  Sample missing terms: depth, Emergency and crisis settings, suicidal, precipitating, more...
+
+Ch 2 - The Clinical Interview
+  Files affected: 7
+  Total fixes: 60
+  Sample missing terms: planning, supporting, opportunity, chapter, strategies...
+
+Ch 3 - Content of the Interview
+  Files affected: 9
+  Total fixes: 64
+  Sample missing terms: interview, concerns, assessment, assessment, presenting problem...
+
+Ch 4 - Mental Status Examination
+  Files affected: 3
+  Total fixes: 58
+  Sample missing terms: mental status examination (MSE), functioning, clinician, domains, domains...
+
+Ch 5 - Neurodevelopmental Disorders
+  Files affected: 3
+  Total fixes: 41
+  Sample missing terms: Alzheimer’s disease, Huntington’s disease, dementia, traumatic brain injury (TBI), range...
+
+Ch 6 - Depressive Disorders
+  Files affected: 7
+  Total fixes: 42
+  Sample missing terms: Depressive disorders, Depressive disorders, dysregulation, Disruptive Mood Dysregulation Disorder (DMDD), DMDD...
+
+Ch 7 - Bipolar and Related Disorders
+  Files affected: 5
+  Total fixes: 51
+  Sample missing terms: disorders, diagnoses, Bipolar disorder, individuals, bipolar disorder...
+
+Ch 8 - Anxiety Disorders
+  Files affected: 7
+  Total fixes: 47
+  Sample missing terms: Anxiety disorders, disorders, enormous, purpose, interviewer...
+
+Ch 9 - OCD and Related Disorders
+  Files affected: 6
+  Total fixes: 52
+  Sample missing terms: (OCD), domains, contamination, dimensions, diagnosis...
+
+Ch 10 - Trauma and Stressor-Related Disorders
+  Files affected: 7
+  Total fixes: 69
+  Sample missing terms: posttraumatic stress disorder (PTSD), depression, PTSD, Trauma, trauma...
+
+Ch 11 - Dissociative Disorders
+  Files affected: 5
+  Total fixes: 119
+  Sample missing terms: Dissociative disorders (DDs), Dissociation, Steinberg, Steinberg, dissociation...
+
+Ch 12 - Somatic Symptom and Related Disorders
+  Files affected: 6
+  Total fixes: 91
+  Sample missing terms: group, different, requirement, psychological, heterogeneous...
+
+Ch 13 - Feeding and Eating Disorders
+  Files affected: 7
+  Total fixes: 162
+  Sample missing terms: refers, occurring, sections, AN, their...
+
+Ch 14 - Sleep-Wake Disorders
+  Files affected: 8
+  Total fixes: 134
+  Sample missing terms: According, diagnosed, designations, Distress severity, clinical...
+
+Ch 15 - Disruptive, Impulse-Control, and Conduct Disorders
+  Files affected: 8
+  Total fixes: 80
+  Sample missing terms: associated, serious, types, Screening, treatment...
+
+Ch 16 - Substance-Related and Addictive Disorders
+  Files affected: 8
+  Total fixes: 145
+  Sample missing terms: characteristics, personality disorders (PDs), criteria, the, personality...
+
+Ch 17 - Neurocognitive Disorders
+  Files affected: 9
+  Total fixes: 180
+  Sample missing terms: symptoms, Schizophrenia, slight, schizophrenia, periods...
+
+Ch 18 - Personality Disorders
+  Files affected: 7
+  Total fixes: 127
+  Sample missing terms: diagnostic, Children, symptoms, For, important...
+
+Ch 19 - Schizophrenia Spectrum and Psychotic Disorders
+  Files affected: 6
+  Total fixes: 85
+  Sample missing terms: life, definition, with, overarching, foundational...
+
+Ch 20 - Sexual Dysfunctions and Gender Dysphoria
+  Files affected: 8
+  Total fixes: 105
+  Sample missing terms: Historically, practitioners, Psychology professionals, psychology professionals, can...
+
+Ch 21 - Paraphilic Disorders
+  Files affected: 4
+  Total fixes: 82
+  Sample missing terms: Suicide, concern, incidence, suicidal thoughts, with...
+
+================================================================================
+
+KEY EXAMPLES OF FIXES (from your screenshots):
+--------------------------------------------------------------------------------
+
+1. Ch 6 - Depressive Disorders (sect1.9781071643624.ch0008s0002.xml):
+   - "Depressive disorders" - was missing at start of "Description of the Disorders" section
+   - "Disruptive Mood Dysregulation Disorder (DMDD)" - was missing at start of subsection
+   - "Persistent Depressive Disorder (PDD)" - was missing at start of subsection
+   - "Dysthymia" - was missing after "formerly known as"
+   - "MDD" - multiple instances were missing throughout
+
+2. These patterns occurred across ALL chapters where indexed terms appeared at the 
+   beginning of sentences or after certain punctuation.
+
+================================================================================
