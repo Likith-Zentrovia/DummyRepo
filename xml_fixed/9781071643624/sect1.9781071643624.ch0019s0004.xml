@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0004" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0019s0003</risprev>
+         <riscurrent>sect1.9781071643624.ch0019s0004</riscurrent>
+         <risnext>sect1.9781071643624.ch0019s0005</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>19</chapternumber>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>17. Schizophrenia and Other Psychotic Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Case Illustrations</title>
+   describe<indexterm significance="normal">
+      <primary>describe</primary>
+   </indexterm>
+   <para>
+      <phrase>17.3</phrase>Table 17.3</para>
+   <para role="SimplePara">Descriptions of characteristic symptoms<indexterm significance="normal">
+         <primary>characteristic symptoms</primary>
+      </indexterm> of schizophrenia from symptom rating scales</para>
+   <table id="ch0019s0004ta03">
+      <title/>
+      <tgroup cols="2">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Characteristic symptom</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Item description with sample anchors</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Delusions<superscript>a</superscript>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Unusual, odd, strange, or bizarre thought content. Include thought insertion, withdrawal, and broadcasting. Include grandiose, somatic, and persecutory delusions</para>
+                  <para role="SimplePara">Very mild ideas of reference (people stare/laugh at him/her). Ideas of persecution (people mistreat him/her). Unusual beliefs in psychic powers, spirits, UFOs. Not strongly held. Some doubt</para>
+                  <para role="SimplePara">Moderate delusion present but not strongly held—functioning not disrupted;<emphasis>or</emphasis> encapsulated delusion with full conviction—functioning not disrupted</para>
+                  <para role="SimplePara">Severe full delusion(s) present with much preoccupation<emphasis>or</emphasis> many areas of functioning disrupted by delusional thinking</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Hallucinations<superscript>a</superscript>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Reports of perceptual experiences in the absence of external stimuli. When rating degree to which functioning is disrupted by hallucinations, do not include preoccupation with the content of the hallucinations. Consider only disruption due to the hallucinatory experiences</para>
+                  <para role="SimplePara">Very mild while resting or going to sleep sees visions, hears voices sounds or whispers in absence of external stimulation, but no impairment in functioning</para>
+                  <para role="SimplePara">Moderate occasional verbal (auditory), visual, olfactory, tactile, or gustatory hallucinations (1–3) times but no impairment in functioning or frequent nonverbal (e. g., sounds or whispers) hallucinations</para>
+                  <para role="SimplePara">Severe several times a day or many areas of functioning are disrupted by hallucinations</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Disorganized speech<superscript>b</superscript> (thought disorder)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Disorganized process of thinking characterized by disruption of goal-directed sequencing (e. g., circumstantiality, tangentiality, loose associations, non-sequitors, gross illogicality, or thought blocking)</para>
+                  <para role="SimplePara">Mild thinking is circumstantial, tangential, or paralogical. There is some difficulty in directing thoughts toward a goal, and some loosening of associations may be evidenced under pressure</para>
+                  <para role="SimplePara">Moderate able to focus thoughts when communications are brief and structured, but becomes loose or irrelevant when dealing with more complex communications or when under minimal pressure</para>
+                  <para role="SimplePara">Severe thinking is seriously derailed and internally inconsistent resulting in gross irrelevancies and disruptions of thought processes which occur almost constantly</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Disorganized behavior<superscript>a, b</superscript>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Unusual and bizarre behavior, stylized movements or acts, or any postures which are clearly uncomfortable or inappropriate</para>
+                  <para role="SimplePara">Mild eccentric or odd mannerisms or activity that ordinary persons would have difficulty explaining, e. g., grimacing, picking. Observed once for a brief period</para>
+                  <para role="SimplePara">Moderate mannerisms or posturing maintained for 5 s or more that could make the patient stand out in a crowd</para>
+                  <para role="SimplePara">Severe posturing, intense rocking, strange rituals that dominate patient’s attention and behavior</para>
+                  <para role="SimplePara">or</para>
+                  <para role="SimplePara">Reports of behaviors that are odd or unusual. Not limited to interview period</para>
+                  <para role="SimplePara">Mild peculiar behavior, (e. g., talking loudly in public, fails to make appropriate eye contact when talking with others)</para>
+                  <para role="SimplePara">Moderately severe highly unusual (e. g., wandering streets aimlessly, eating nonfoods, fixated staring in a socially disruptive way)</para>
+                  <para role="SimplePara">Severe unusual petty crimes, (e. g., directing traffic, public nudity, contacting authorities about imaginary crimes)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Negative symptoms<superscript>b</superscript> (blunted affect)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Diminished emotional responsiveness as characterized by a reduction in facial expression, modulation of feelings, and communicative gestures</para>
+                  <para role="SimplePara">Mild changes in facial expression and communicative gestures seem stilted, forced, artificial, or lacking in modulation</para>
+                  <para role="SimplePara">Moderately Severe affect generally appears “flat,” with few changes in facial expression and a paucity of communicative gestures</para>
+                  <para role="SimplePara">Extreme changes in facial expression and evidence of communicative gestures are virtually absent. Patient seems constantly to show a barren or “wooden” expression</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="SimplePara">
+      <emphasis>Note.</emphasis> Mild level symptoms may not always meet the threshold of diagnostic criteria, but are listed here to provide the range of symptom presentation</para>
+   <para role="SimplePara">
+      <superscript>a</superscript> Adapted from BPRS (Lukoff et al., <emphasis role="CitationRef">
+         <phrase>1986</phrase>
+      </emphasis>)</para>
+   <para role="SimplePara">
+      <superscript>b</superscript> Adapted from PANSS (Kay et al., <emphasis role="CitationRef">
+         <phrase>1987</phrase>
+      </emphasis>)</para>
+   <sect2 id="ch0019s0004s01" role="Heading">
+      <title>Hallucinations and Delusions</title>
+      <para role="Para">This vignette includes<indexterm significance="normal">
+            <primary>includes</primary>
+         </indexterm> description of positive symptoms leading to a recent psychiatric hospitalization. Note that delusional symptoms include delusions of reference and grandiose delusions and the auditory hallucinations are consistent in content with the grandiose delusions. Also note that the active symptoms were present for several months, gradually becoming more severe.</para>
+      <para role="Para">Interviewee (I): I was hearing voices. That was when it was getting really bad.</para>
+      <para role="Para">I was confused. I couldn’t tell if the voices were real or not.</para>
+      <para role="Para">Clinician (C): Can you give<indexterm significance="normal">
+            <primary>give</primary>
+         </indexterm> me an example of this?</para>
+      <para role="Para">I: I was doing pretty well for myself. I had a job, an apartment, and a car and in the middle of everything I left to go to New York City. I saw a television show about Wall Street and I thought it was about me. I was getting messages from commercials, movies, from other people. When I interacted with people I got hidden messages from them. I believed that important financial people wanted me to go to New York City and that I would become rich if I went there.</para>
+      <para role="Para">C: How long had this been going on?</para>
+      <para role="Para">I: It had been going on for a while, like a couple of months, but it wasn’t until I saw this particular television show that I was convinced that I was supernatural.</para>
+      <para role="Para">C: How did you become convinced you were supernatural?</para>
+      <para role="Para">I: I heard voices telling me<indexterm significance="normal">
+            <primary>me</primary>
+         </indexterm>.</para>
+      <para role="Para">C: Tell me a little bit more about<indexterm significance="normal">
+            <primary>about</primary>
+         </indexterm> the voices. Did you hear more than one voice?</para>
+      <para role="Para">I: Yes, lots of voices at a time. They talked to each other; it was like they were worshipping me.</para>
+      <para role="Para">C: How were they worshipping you?</para>
+      <para role="Para">I: They were saying things like: He is brilliant. We’ve never seen someone with so much genius. He finished high school at age 15. He is a magician with numbers.</para>
+      <para role="Para">The following is an example of an exchange in which an interviewee describes paranoid (persecutory) delusions about being monitored by the government:</para>
+      <para role="Para">Clinician (C): Has there ever been a time when you thought people were going out of their way to try to hurt you?</para>
+      <para role="Para">Interviewee (I): Well, they would come into my room at night and go through my things.</para>
+      <para role="Para">C: Can you tell me a little bit more about that?</para>
+      <para role="Para">I: They came in when I was sleeping<indexterm significance="normal">
+            <primary>sleeping</primary>
+         </indexterm> and also when I wasn’t there.</para>
+      <para role="Para">C: Who did you think was going through your things?</para>
+      <para role="Para">I: The government.</para>
+      <para role="Para">C: What did you think they were looking for?</para>
+      <para role="Para">I: The CIA is keeping an eye on me. They follow me when I’m outside too.</para>
+      <para role="Para">C: Why would the CIA be keeping an eye on you?</para>
+      <para role="Para">I: My therapist might work<indexterm significance="normal">
+            <primary>work</primary>
+         </indexterm> for them too. But I’m not sure about that. She has other things to worry about that are more important than me.</para>
+      <para role="Para">C: You said before that the CIA is keeping an eye on you. Why would they do that?</para>
+      <para role="Para">I: They want to find a way to lock me up. So, I won’t tell anyone the things I know. But I keep my eye out for them. When I see they’ve been there I know I need to be careful.</para>
+      <para role="Para">C: Can you tell me a little bit more about this?</para>
+      <para role="Para">I: Well, they leave little clues.They<indexterm significance="normal">
+            <primary>They</primary>
+         </indexterm> want me to know they are watching me. Like when they come into my room, I can tell.</para>
+      <para role="Para">C: How can you tell?</para>
+      <para role="Para">I: I can feel it. I can just tell. Sometimes my lamp shade is tilted a certain way and that is usually a sign they have<indexterm significance="normal">
+            <primary>have</primary>
+         </indexterm>been there.</para>
+   </sect2>
+   <sect2 id="ch0019s0004s02" role="Heading">
+      <title>Disorganized Speech</title>
+      <para role="Para">Disorganized responses<indexterm significance="normal">
+            <primary>responses</primary>
+         </indexterm> to interview questions that are tangential, unrelated, or largely incomprehensible are symptoms of thought disorder. In the case of an interviewee with significant disorganization symptoms, the clinician should adopt a much more structured approach shifting to more close-ended questions. In some cases, the interview may need to be limited and the clinician must rely on other informants to obtain needed information to inform diagnosis such as the duration of active symptoms or other types of behaviors<indexterm significance="normal">
+            <primary>behaviors</primary>
+         </indexterm> that have been observed.</para>
+   </sect2>
+</sect1>

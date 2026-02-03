@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0007" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0003s0006</risprev>
+         <riscurrent>sect1.9781071643624.ch0003s0007</riscurrent>
+         <risnext>sect1.9781071643624.ch0003s0008</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>2. Interviewing Strategies, Empathy, and Rapport</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Examples of Fully and Semi-Structured Interviews for DSM-5</title>
+   <sect2 id="ch0003s0007s01" role="Heading">
+      <title>Cultural Formulation Interview</title>
+      <para role="Para">The Cultural Formulation Interview<indexterm significance="normal">
+            <primary>Cultural Formulation Interview</primary>
+         </indexterm> (CFI; Lewis-Fernández et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>) was developed in 2013 to provide guidance for psychologists in addressing the relevance of cultural issues in mental health care (American Psychiatric Association, <emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>). Although this interview is not used for diagnostic purposes, the CFI is used to ensure that cultural factors are considered in the process of diagnosis and treatment planning. This 20-min interview was designed to equate the importance of the individual perspective with the signs and symptoms of a disorder and provides a semi-structured format to accomplish this goal (Aggarwal &amp; Lewis-Fernández, <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). The CFI is structured to be straightforward and simple to administer. A total of 16 questions comprises four sections of the interview: cultural definition of the problem; cultural perceptions of cause, context, and support; cultural identity of the individual; and cultural factors affecting self-coping and past help-seeking. When necessary and appropriate, an alternative version of the CFI, the Informant Cultural Formulation Interview, can be conducted with close associates of the client to collect collateral information. This version of the CFI may be particularly helpful when working with clients who have cognitive limitations. The CFI has been administered internationally in field tests and has demonstrated efficacy and improved trust and alliance in the therapeutic relationship (Jarvis et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0003s0007s02" role="Heading">
+      <title>The Diagnostic Interview Schedule for DSM-5</title>
+      <para role="Para">The Diagnostic Interview Schedule (DIS; Summerfeldt &amp; Antony,<emphasis role="CitationRef">
+            <phrase>2002</phrase>
+         </emphasis>) was first published in 1988 and was the first fully structured interview designed to assess for the presence or absence of major psychiatric disorders. The DIS was developed to minimize the need for clinical judgment when making<indexterm significance="normal">
+            <primary>making</primary>
+         </indexterm> a diagnosis, reducing the education requirements to administer the assessment and broadening its applications. The current DIS for DSM-5 (DIS-5) consists of 14 diagnostic modules and covers several disorders from categories such as depressive disorders, anxiety disorders, trauma-and stressor-related disorders, and substance use disorders. However, this interview does not assess separation anxiety disorder, somatic symptoms and related disorders, dissociative disorders, and most sexual disorders. This modular format of the interview allows the interviewer to choose which diagnostic modules to administer, potentially based on symptom presentation.</para>
+   </sect2>
+   <sect2 id="ch0003s0007s03" role="Heading">
+      <title>The Structured Clinical Interview for DSM-5</title>
+      <para>
+         <phrase>1987</phrase>
+         <phrase>2015</phrase>
+         <phrase>2.3</phrase>
+         <phrase>2.4</phrase>Table 2.3</para>
+      <para role="SimplePara">SCID-5 coverage of diagnostic categories Table 2.4</para>
+      <table id="ch0003s0007ta03">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Modules</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Specific diagnostic categories/symptoms</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module A: Mood episodes, cyclothymic disorder, persistent depressive disorder, and premenstrual dysphoric disorder</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Major depressive episode; manic episode; hypomanic episode; cyclothymic disorder; persistent depressive disorder (dysthymia); premenstrual dysphoric disorder; bipolar disorder due to another medical condition (AMC); substance/medication-induced bipolar disorder; depressive disorder due to AMC; substance/medication-induced depressive disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module B: Psychotic and associated symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Delusions; hallucinations; disorganized speech and behavior; catatonic behavior; negative symptoms</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module C: Differential diagnosis of psychotic disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Schizophrenia; schizophreniform disorder; schizoaffective disorder; delusional disorder; brief psychotic disorder; psychotic disorder due to AMC<emphasis role="strong">;</emphasis> substance/medication-induced psychotic disorder; other specified psychotic disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module D<emphasis role="strong">:</emphasis> Differential</para>
+                     <para role="SimplePara">Diagnosis of mood disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Bipolar I disorder; bipolar II disorder; other specified bipolar disorder; major depressive disorder; other specified depressive disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module E: Substance use disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Alcohol use disorder; cannabis use disorder; inhalant use disorder; other hallucinogen use disorder; opioid use disorder; phencyclidine use disorder; sedative, hypnotic, or anxiolytic use disorder; stimulant use disorder; other or unknown substance use disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module F: Anxiety disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Panic disorder; agoraphobia; social anxiety disorder; specific phobia; generalized anxiety disorder; separation anxiety disorder; anxiety disorder due to AMC; substance/medication-induced anxiety disorder; other specified anxiety disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module G: Obsessive-compulsive and related disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Obsessive-compulsive disorder; hoarding disorder; body dysmorphic disorder; trichotillomania; excoriation disorder; other specified obsessive-compulsive and related disorder; obsessive-compulsive and related disorder due to AMC; substance/medication-induced obsessive-compulsive and related disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module H<emphasis role="strong">:</emphasis> Sleep-wake disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Insomnia disorder; hypersomnolence disorder; substance/medication-induced sleep disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module I: Feeding and eating disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Anorexia nervosa; bulimia nervosa; binge-eating disorder; avoidant/restrictive food intake disorder; other specified feeding or eating disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module J: Somatic symptom and related disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Somatic symptom disorder; illness anxiety disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module K: Externalizing disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Adult attention-deficit/hyperactivity disorder; intermittent explosive disorder; gambling disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Module L: Trauma-and stressor-related disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Acute stress disorder; posttraumatic stress disorder; adjustment disorder; other specified trauma-and stressor-related disorder</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="SimplePara">SCID-5 versions</para>
+      <table id="ch0003s0007ta04">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Versions</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Translations</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">SCID-5-research version (SCID-5-RV)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">English, Norwegian, and Spanish</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">SCID-5-clinical trials (SCID-5-CT)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">English</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">SCID-5-clinical version (SCID-5-CV)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">English, Chinese (simplified), Dutch, German, Greek, Hungarian, Italian, Korean, Norwegian, Portuguese, Romanian, and Turkish</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">SCID-5-personality disorders (SCID-5-PD)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">English, Danish, Dutch, German, Greek, Italian, Korean, polish, Romanian, and Turkish</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">SCID-5-alternative model for personality disorders</para>
+                     <para role="SimplePara">(SCID-5-AMPD)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">English</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para">
+         <emphasis role="strong">SCID-5 Research Version</emphasis>: The SCID-5 Research Version<indexterm significance="normal">
+            <primary>SCID-5 Research Version</primary>
+         </indexterm> (SCID-5-RV; First et al., <emphasis role="CitationRef">
+            <phrase>2015a</phrase>
+         </emphasis>, <emphasis role="CitationRef">
+            <phrase>b</phrase>
+         </emphasis>) was developed to be used in research settings. It is the most comprehensive version of the SCID-5 and includes a broad range of mental health diagnoses, as well as relevant subtypes and specifiers. There are two configurations of the SCID-5-RV available: the “core” version and the “enhanced” version. The “enhanced” version contains all the disorders in the “core” version and includes several optional disorders—separation anxiety disorder, avoidant/restrictive food intake disorder, intermittent explosive disorder, gambling disorder, hoarding disorder, body dysmorphic disorder, trichotillomania disorder, and excoriation disorder. The “core” version can be administered in 45–120 min, and the “enhanced” version can be administered in 45–180 min. The SCID-5-RV is customizable and can be tailored to the needs of researchers.</para>
+      <para role="Para">
+         <emphasis role="strong">SCID-5 Clinician Version</emphasis>: The SCID-5 Clinician Version<indexterm significance="normal">
+            <primary>SCID-5 Clinician Version</primary>
+         </indexterm> (SCID-5-CV; First et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>) is the most commonly used version of the SCID-5 and is designed to be useful in clinical settings. This interview is an abridged and modified version of the SCID-5-RV meant to decrease clinician burden. The SCID-5-CV assesses the most common mental health diagnoses seen in clinical environments, such as depressive disorders and anxiety disorders. The SCID-5-CV is recommended to diagnose disorders other than personality disorders in clinical, forensic, or assessment settings, as well as in settings where the range of presenting disorders is sufficiently covered by the SCID-5-CV. The administration time for the SCID-5-CV ranges from 30 to 120 min.</para>
+      <para role="Para">
+         <emphasis role="strong">SCID-5 Clinical Trials</emphasis>: The SCID-5 Clinical Trials Version (SCID-5-CT; First et al., <emphasis role="CitationRef">
+            <phrase>2015a</phrase>
+         </emphasis>) is an adapted and modified version of the SCID-5-RV to include the most common inclusion and exclusion criteria in clinical trials. The administration time is 30–75 min. There are two options for the SCID-5-CT. First, the SCID-5-CT can be fully customizable to feature various inclusion and exclusion criteria. Second, there are several templates of the SCID-5-CT that assess particular inclusionary mental health diagnoses such as schizoaffective disorder, schizophreniform disorder, schizophrenia, bipolar I acute mania, bipolar I or II depression, or adult ADHD. An “exclusionary” version of the SCID-5-CV is also available to exclude individuals from clinical trials with certain mental health diagnoses (e. g., substance use disorders, anorexia nervosa).</para>
+      <para role="Para">
+         <emphasis role="strong">SCID-5 Personality Disorders</emphasis>: The SCID-5 Personality Disorder Version (SCID-5-PD; First et al., <emphasis role="CitationRef">
+            <phrase>2015a</phrase>
+         </emphasis>) assesses personality disorders<indexterm significance="normal">
+            <primary>disorders</primary>
+         </indexterm> according to the categorical classification system in DSM-5. In this assessment, there are ten distinct personality disorders: paranoid, schizoid, schizotypal, antisocial, borderline, histrionic, narcissistic, avoidant, dependent, and obsessive-compulsive. The SCID-5-PD also allows for the diagnosis of unspecified personality disorder. Each diagnosis includes a dimensional rating to note whether the personality disorder is “absent,” “sub-threshold,” or “threshold.” The administration time for the SCID-5-PD is 30–120 min. Additionally, the SCID-5-PD comes with a self-report questionnaire, the SCID-5-PDQ, to shorten administration time; this self-report measure can guide clinicians to possible diagnoses.</para>
+      <para role="Para">
+         <emphasis role="strong">SCID-5 Alternative Model of Personality Disorders</emphasis>: The SCID-5 Alternative Model of Personality Disorders (SCID-5-AMPD; First et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>) provides dimensional and categorical systems for diagnosing personality disorders. This interview is consistent with the conceptualization of personality disorders listed in the “Emerging Measures and Models” section of the DSM-5. There are five broad domains to describe personality functioning: negative affectivity, detachment, antagonism, disinhibition, and psychoticism.</para>
+      <para role="Para">
+         <emphasis role="strong">QuickSCID-5</emphasis>: In 2021, the QuickSCID-5<indexterm significance="normal">
+            <primary>QuickSCID-5</primary>
+         </indexterm> was published as a brief alternative version to the SCID-5 (First &amp; Williams, <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>). In contrast to the 2-h administration of the full SCID-5 interview, the QuickSCID-5 was designed to be a fully structured interview administered in 30 min or fewer<indexterm significance="normal">
+            <primary>fewer</primary>
+         </indexterm>. Most of the questions require dichotomous “yes/no” responses, eliminating the need to probe for additional, more descriptive examples. As such, this interview removes some of the burden from the clinician to be an expert in diagnostic interviewing. The QuickSCID-5 follows a modular design that allows the interviewer to select any module that is applicable. The modules include mood episodes and disorders, psychotic symptoms screen, alcohol and other substance use disorders, anxiety disorders, obsessive-compulsive disorder, adult ADHD, posttraumatic stress disorder, eating disorders, screening for other disorders, and rule-out mental disorders due to a medical condition and substance/medication-induced mental disorders. The QuickSCID-5 cannot be used to ascertain a psychotic disorder diagnosis, due to recommendations of avoiding such diagnoses with purely dichotomous yes/no responses.</para>
+   </sect2>
+   <sect2 id="ch0003s0007s04" role="Heading">
+      <title>The Diagnostic Interview for Anxiety, Mood, and OCD and Related Neuropsychiatric Disorders</title>
+      <para role="Para">The Diagnostic Interview for Anxiety<indexterm significance="normal">
+            <primary>Anxiety</primary>
+         </indexterm>, Mood<indexterm significance="normal">
+            <primary>Mood</primary>
+         </indexterm>, and OCD<indexterm significance="normal">
+            <primary>OCD</primary>
+         </indexterm> and Related Neuropsychiatric Disorders (DIAMOND; Tolin et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>) is a semi-structured interview intended for use in adults with suspected anxiety, mood, or obsessive-compulsive and related disorders. The administration time for the DIAMOND ranges from 30 to 90 min. This interview includes questions that assess diagnostic criteria for all disorders in those sections of the DSM-5 and certain diagnoses that commonly co-occur with these diagnostic categories (e. g., autism spectrum disorder, avoidant personality disorder). Similar to the interviews described previously, the DIAMOND follows a modular format, and the selection of modules should be based on presenting problem. In fact, the DIAMOND includes an optional self-report screening to determine which modules would be most appropriate to administer.</para>
+   </sect2>
+   <sect2 id="ch0003s0007s05" role="Heading">
+      <title>The Anxiety and Related Disorders Interview Schedule for DSM-5</title>
+      <para role="Para">The Anxiety and Related Disorders Interview Schedule for DSM-5 (ADIS-5; Brown &amp; Barlow,<emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>) is a semi-structured interview designed to assess current mood, anxiety, obsessive-compulsive, trauma, and related disorders. This interview also contains screening questions for various disorders that co-occur with mood and anxiety disorders, such as hoarding disorder, impulse control disorders, feeding and eating disorders, dissociative disorders, and psychotic disorders. Additionally, throughout the interview, the interviewer inquires for dimensional ratings of the key features of all possible disorders, regardless of if the diagnosis is being considered. Dimensional ratings of the final diagnosis(es) are also included to measure the degree of distress or impairment the disorder may be causing. One alternative version of the ADIS-5—the ADIS-5 Lifetime (ADIS-5-L)—contains all of the same diagnoses as the ADIS-5 and includes assessment for lifetime diagnoses. This version also collects a diagnostic timeline to determine the time of onset, remission, and sequence of various diagnoses. The primary disadvantage of the ADIS-5 is the administration time; this assessment takes 2–4 h to administer.</para>
+   </sect2>
+   <sect2 id="ch0003s0007s06" role="Heading">
+      <title>The Mini-International Neuropsychiatric Interview for DSM-5</title>
+      <para role="Para">The Mini-International Neuropsychiatric Interview for DSM-5 (MINI-5) was developed to assess the disorders considered most important in clinical and research settings. This interview was designed to be brief and broad, requiring 15 min to administer and including symptoms from a variety of DSM-5 diagnoses (Sheehan et al.,<emphasis role="CitationRef">
+            <phrase>1997</phrase>
+         </emphasis>). Each question is dichotomous and allows for yes/no answers. There are several versions of the MINI-5 available, including the MINI-KID, MINI-Screen, and the MINI-Plus. The MINI-KID was developed to assess the 30 most common mental health disorders in children and adolescents aged 6–17 (D. V. Sheehan et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>). The MINI-KID has 24 modules, with separate suicidality modules organized by age group. The parent and child are interviewed together, although all questions are directed toward the child. Parents are asked to only respond if the child provides inaccurate information. To interview parents, the MINI-KID Parent Version would be more appropriate, though it is recommended to use the MINI-KID where possible. The administration time for the MINI-KID can vary between 15 and 50 min. The MINI-Screen and MINI-Plus were developed for use in adults. The MINI-Screen includes only the screening questions from the modules of the MINI-5. The instructions recommend conducting the full module based on positive screens from these questions to gather a more holistic understanding of accurate diagnoses. Lastly, the MINI-Plus is a slightly longer interview that can capture up to 48 disorders, including comorbidities (Pinninti et al., <emphasis role="CitationRef">
+            <phrase>2003</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0003s0007s07" role="Heading">
+      <title>The Kiddie Schedule for Affective Disorders and Schizophrenia for DSM-5</title>
+      <para role="Para">The Kiddie Schedule for Affective Disorders and Schizophrenia (K-SADS) is a semi-structured interview developed in 1978, modeled after the Schedule for Affective Disorders and Schizophrenia and geared toward children and adolescents aged 6–18. This interview has been updated with published revisions of the DSM, with the latest version being the K-SADS for DSM-5 (K-SADS-5; De La Peña et al.,<emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). This interview was designed to help collect information from children, parents, and other collateral sources. Diagnoses are assessed as current (i. e., symptoms present within two months of interview) or lifetime (Kaufman et al.,<emphasis role="CitationRef">
+            <phrase>1997</phrase>
+         </emphasis>). The K-SADS-5 consists of a screening section and six supplements. The screening section briefly assesses for affective and psychotic disorders but also includes other disorders such as feeding and eating disorders. Following the screening section, interviewers are able to choose appropriate supplemental assessments to administer. The six supplements include (1) depressive and bipolar disorders, (2) psychotic disorders, (3) anxiety, stress, and obsessive-compulsive disorders, (4) disruptive behavior and impulse control disorders, (5) substance use disorders and feeding and eating disorders, and (6) neurodevelopmental disorders. Administration time for this interview can range between 35 and 75 min, depending on the severity of symptom presentation.</para>
+   </sect2>
+</sect1>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0007" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0018s0006</risprev>
+         <riscurrent>sect1.9781071643624.ch0018s0007</riscurrent>
+         <risnext>sect1.9781071643624.ch0018s0008</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>16. Personality Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Dos and Don’ts</title>
+   <para>
+      <phrase>2016</phrase>
+      <phrase>16.5</phrase>Table 16.5</para>
+   <para role="SimplePara">Dos and Don’ts<indexterm significance="normal">
+         <primary>Don’ts</primary>
+      </indexterm>
+   </para>
+   <table id="ch0018s0007ta05">
+      <title/>
+      <tgroup cols="2">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Dos</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’ts</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Obtain a thorough symptom picture and assessment of psychological, interpersonal, and vocational functioning in order to make a differential diagnosis, especially in patients who present with substance abuse, affective disorder, anxiety, and/or interpersonal or work-related problems</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Fail to consider how symptoms may impact style of reporting; individuals with PDs may have a grandiose self-image (i. e., narcissistic PD), an overly dramatic manner of speaking (i. e., histrionic PD), or a wary suspiciousness which may not be readily disclosed (i. e., paranoid PD) or the individual may lack insight/forthrightness</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Share diagnostic impressions with the patient in the setting of providing psychoeducation and identifying treatment goals</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Provide a diagnosis without sufficient psychoeducation; PDs are highly stigmatized and poorly understood by the general public and misinformation exists on internet</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Use the patient’s words or preface interventions with comments such as “as you said earlier” to maintain rapport and help the patient more readily accept clinician’s comments and recommendations</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Follow semi-structured interviews to the letter, they are semi-structured for a reason; ask further clarifying questions and for examples from the client’s life</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Consider your own biases based on gender, race, SES, age, sexual orientation, etc. when making a diagnosis; consider cultural context</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Fail to consider how PDs may present differently by gender, age, culture, etc. For example, a young man with borderline PD may present differently than an older woman with borderline PD</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Consider the onset, course, and duration of symptoms; PDs are disorders that must be present across time and context</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Rely on heuristics based solely on “clinical experience” to diagnose a PD; it is important that all symptoms are assessed for in making diagnostic decisions and no areas are left out</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

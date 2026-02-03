@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0021s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0021s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0021s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0021s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>21</chapternumber>
+         <chapterid>ch0021</chapterid>
+         <chaptertitle>18. Interviewing Children</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Information</title>
+   <sect2 id="ch0021s0003s01" role="Heading">
+      <title>Using the Referral Question</title>
+      <para role="Para">Prior to an initial evaluation<indexterm significance="normal">
+            <primary>evaluation</primary>
+         </indexterm>or diagnostic interview with a child, a brief screen is often conducted to determine appropriateness of the referral for a given clinic or practice. This might include basic demographic information, referral source, and reason for referral. For children, this information is typically provided by a caregiver who is seeking an evaluation for treatment or further assessment (i. e., psychoeducational or neuropsychological assessment). The referral question is critical to identifying appropriate assessment tools and formulating an initial set of hypotheses for the diagnostic evaluation process. The referral question is also important for determining whether the services requested can be provided in that setting.</para>
+   </sect2>
+   <sect2 id="ch0021s0003s02" role="Heading">
+      <title>Whom to Meet With</title>
+      <para role="Para">The referral question<indexterm significance="normal">
+            <primary>question</primary>
+         </indexterm>can provide valuable information about who to meet with to conduct the diagnostic interview and obtain relevant information. Depending on the purpose of the interview and the feasibility of communicating with other sources of information, the interviewer may wish to gather relevant data from others who observe the child in different contexts (i. e., collateral informants). This may include teachers, other caregivers or family members, siblings, or other service providers. In addition to interviewing the caregiver, child, and collateral informants, the order in which these individuals are interviewed can be important and can influence the process of diagnosing. Clinicians should be mindful that informants are likely to be discrepant in their reporting about the child. Children behave differently in different environments and informants may also view problems differently, resulting in reporting discrepancies. Clinicians must integrate information provided by all informants to understand the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm>presenting concerns and should therefore consider the vantage points of the informant in the child’s life (e. g., the child’s teacher versus caregiver) and how the environment may impact the child’s behavior with that informant.</para>
+      <para role="Para">Although the child themself is a critical source of information for the interview process, caregivers are often the people responsible for bringing children to the clinic and scheduling services, so it is important that they be interviewed to obtain relevant information about the child. Often, the caregiver is the most reliable source of information about the child’s developmental history, the history of their presenting concerns, and information about the targets of intervention. As children get older and develop more awareness and insight, however, they may become a more reliable source of information, particularly information about their internal experience of symptoms. At times, children may be referred for evaluation or treatment by other providers or adults who are not the primary<indexterm significance="normal">
+            <primary>primary</primary>
+         </indexterm>caregivers (e. g., teachers, healthcare professionals, judicial or child protective system), and the caregiver may have less information about the presenting concerns because they have not observed these issues, or they do not perceive these issues as a problem. For example, children demonstrating behavioral concerns in the school setting may be referred for services by school personnel, and the caregiver may not observe the same problematic behavior in the home. In cases like these, speaking with the initial referral source can be important, but meaningful information can still be obtained from the caregiver by asking questions specific to the reason for referral. Furthermore, caregivers expressing that they do not perceive their child to have a problem despite concerns raised by others is informative. This may suggest, for example, that the child’s behavior is quite different across environments, that the caregiver or overarching culture of the child views the symptoms as stigmatizing, or that caregivers<indexterm significance="normal">
+            <primary>caregivers</primary>
+         </indexterm>
+         perceive<indexterm significance="normal">
+            <primary>perceive</primary>
+         </indexterm> the problems as being manageable without mental health intervention.</para>
+      <para role="Para">Interviewing caregivers<indexterm significance="normal">
+            <primary>caregivers</primary>
+         </indexterm> can also provide useful information about the targets for treatment and the child’s environment. In addition to gathering information from caregivers about the child, meeting with the caregivers allows the clinician to obtain information about the <emphasis>caregivers and family</emphasis> that is pertinent to diagnosis and treatment. The way caregivers react to problematic behavior or clinical concerns, their perception of the causes of the problem, parenting stress, caregiver psychopathology, caregiver perceptions of family and social culture in which child resides, and their resources or motivation to address the problem are all important for diagnosis, case conceptualization, and treatment. If children<indexterm significance="normal">
+            <primary>children</primary>
+         </indexterm>spend a great deal of time with other caregivers (e. g., a nanny, grandparent), obtaining consent from the caregiver<indexterm significance="normal">
+            <primary>caregiver</primary>
+         </indexterm> to speak with these individuals may also be helpful.<phrase>18.1</phrase>Table 18.1</para>
+      caregiver<indexterm significance="normal">
+         <primary>caregiver</primary>
+      </indexterm>
+      clinicians,<indexterm significance="normal">
+         <primary>clinicians,</primary>
+      </indexterm>
+      <para role="SimplePara">Sources of information<indexterm significance="normal">
+            <primary>information</primary>
+         </indexterm>
+      </para>
+      <table id="ch0021s0003ta01">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Source</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Type of information</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Child</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Direct information about their own experience of symptoms or presenting concerns</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Caregivers</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Developmental history</para>
+                     <para role="SimplePara">• Treatment history</para>
+                     <para role="SimplePara">• History of presenting problems and current concerns</para>
+                     <para role="SimplePara">• Family dynamic and parenting strategies</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Referral source</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Information about the reason for referral, particularly helpful if caregiver does not perceive a problem</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Teachers</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Observations of the child in a different setting, outside the home</para>
+                     <para role="SimplePara">• Information about child’s school functioning</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Other service providers</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Treatment history</para>
+                     <para role="SimplePara">• Prior effective and ineffective strategies</para>
+                     <para role="SimplePara">• Medical/psychiatric history</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Direct observations</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• School observation: Child’s behavior in the school context</para>
+                     <para role="SimplePara">• Home/family observation: Family dynamic and home environment</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para">While interviewing multiple informants across settings may be useful for obtaining comprehensive and thorough information about a child, this requires additional effort and time on the part of the clinician. Such extensive interviewing may be customary in some settings for different types of services (e. g., psychoeducational evaluation versus intake for therapy). However, it is important to consider when efficiency should be prioritized over breadth of the interview, particularly if speaking with additional informants will unnecessarily delay the initiation of treatment, provide only minimal additional<indexterm significance="normal">
+            <primary>additional</primary>
+         </indexterm>information, or increase the cost of services.</para>
+   </sect2>
+   <sect2 id="ch0021s0003s03" role="Heading">
+      <title>Remote Evaluation Considerations</title>
+      <para role="Para">During and<indexterm significance="normal">
+            <primary>and</primary>
+         </indexterm> following the COVID-19 pandemic<indexterm significance="normal">
+            <primary>COVID-19 pandemic</primary>
+         </indexterm>, many mental health services for youth have been effectively delivered remotely or via telehealth. Assessments conducted via telehealth hold many advantages, including increased access to care and environmental information, but they also introduce additional considerations for how evaluations are conducted. Telehealth<indexterm significance="normal">
+            <primary>Telehealth</primary>
+         </indexterm>options for assessment eliminate some barriers to assessment, in the sense that time and transportation concerns are somewhat minimized. Telehealth delivery also broadens the scope of assessments by allowing clinicians to gather other information relevant to the home environment. For example, in-home telehealth services can be helpful in the visualization of a child’s home environment, which may supplement clinical observation throughout an interview (e. g., asking a child with suspected hoarding disorder to show you their bedroom for better assessment).</para>
+      <para role="Para">The nature of remote<indexterm significance="normal">
+            <primary>remote</primary>
+         </indexterm>assessments, held in a space uncontrolled by clinicians, also necessitates consideration for client confidentiality and child behavior management. As is true for in-clinic assessments, when conducting telehealth assessments, it is important to prioritize client privacy and adhere to Health Insurance Portability and Accountability Act (HIPAA)<indexterm significance="normal">
+            <primary>Health Insurance Portability and Accountability Act (HIPAA)</primary>
+         </indexterm> regulations for videoconferencing<indexterm significance="normal">
+            <primary>videoconferencing</primary>
+         </indexterm>. Planning for any safety concerns is also warranted. This can be done by confirming the address where the child and family are located and the nearest emergency room and ensuring adult supervision for emergencies. Given state licensing requirements, it is also required that the clinician confirm that they and the client are in a state in which<indexterm significance="normal">
+            <primary>which</primary>
+         </indexterm> the provider is licensed. The relative location of the child’s caregiver<indexterm significance="normal">
+            <primary>caregiver</primary>
+         </indexterm> to the child during a telehealth interview should also be established and rules about whether and when a caregiver must be present in the house or near the device used should be clarified at the outset.</para>
+      <para role="Para">It is worth noting that a caveat of telehealth care<indexterm significance="normal">
+            <primary>care</primary>
+         </indexterm> is its reliance on consistent home internet access and devices. Many households lack stable or high-speed internet services, and some families have no access at all. Engaging in discussions with caregivers about transportation accessibility and technological resources prior to the assessment can provide clinicians with insights into the appropriateness of telehealth evaluations<indexterm significance="normal">
+            <primary>evaluations</primary>
+         </indexterm> for a particular family.</para>
+   </sect2>
+   <sect2 id="ch0021s0003s04" role="Heading">
+      <title>General Interview Guidelines</title>
+      <para role="Para">The goal of a diagnostic interview<indexterm significance="normal">
+            <primary>interview</primary>
+         </indexterm> is typically to identify the primary concern(s), assign a diagnosis, and develop an initial plan for intervention or treatment. To do this, the diagnostic interview should provide information that will be helpful for developing a case conceptualization. That is, the interview should provide the clinician with information about possible preceding and maintaining factors of the child’s current concerns to identify targets for intervention. Therefore, the interview should not only collect information necessary to diagnose but also to <emphasis>treat</emphasis>.</para>
+      <para role="Para">The type or format of the interview will depend on the setting, the available time, the referral question, and the purpose of the interview. Clinicians may choose to conduct an unstructured interview, a semi-structured interview, or a structured interview. Each of these confers different advantages and disadvantages and may require different levels of familiarity and skill to be administered effectively.</para>
+      <para role="Para">Despite their name,unstructured<indexterm significance="normal">
+            <primary>unstructured</primary>
+         </indexterm> interviews typically involve a structure laid out by the interviewer with questions posed to the client (child and/or caregiver). Unstructured interviews do not utilize a single standardized format, which allows questions to be asked in any order, added, or omitted, as desired. The accuracy of diagnoses established through unstructured interviews can vary depending on the skill of the interview and the interviewer’s thoroughness in obtaining information necessary to confirm whether certain diagnostic criteria are met. The primary advantage of an unstructured interview is that it often follows the flow of a natural conversation, and this style can facilitate development of rapport and trust between the interviewer and interviewee by creating a sense of comfort during the interview process. However<indexterm significance="normal">
+            <primary>However</primary>
+         </indexterm>, unstructured interviews tend to be narrow and hypothesis-driven, which leads to significant limitations for obtaining diagnostic accuracy and interrater reliability.</para>
+      <para role="Para">Semi-structured interviews provide guidelines for questions to be asked and follow-up prompts for further information to assess the child and determine a diagnosis. Semi-structured interviews may include suggested questions and probes, but these types of interviews allow the clinician flexibility to ask additional questions and discuss other relevant information. While semi-structured interviews appear to improve diagnostic reliability, they may be more time-consuming and require additional training.</para>
+      <para role="Para">Structured interviews<indexterm significance="normal">
+            <primary>interviews</primary>
+         </indexterm>follow more rigid rules, with questions being presented in a specific order, utilizing strict skip-out and follow-up rules (i. e., “if yes, proceed to next question; if no, proceed to next section”). They minimize variability and bias from the clinician and can provide information that is more objective. Such tools are often preferable in research settings that require interrater reliability and accuracy of diagnoses. Furthermore, because follow-up probes and questions are typically not included within the interview, they can often be conducted in a shorter period. However, structured interviews may not capture critical information necessary for a diagnosis, particularly where children have more limited insight. Structured interviews capture the presence or absence of specific symptoms, but they may not capture information necessary for understanding the preceding and maintaining factors of the child’s presenting problem, which is critical for differential diagnosis, developing a case conceptualization,and<indexterm significance="normal">
+            <primary>and</primary>
+         </indexterm> establishing a treatment strategy.</para>
+      <para role="Para">Regardless of the style of diagnostic interview employed, to facilitate an open and honest discussion, rapport building is an essential first step when meeting with a caregiver<indexterm significance="normal">
+            <primary>caregiver</primary>
+         </indexterm> or a child. Diagnostic interviewing often involves discussing difficult topics and sharing personal information. It is the responsibility of the interviewer to create a warm and supportive atmosphere; without such an atmosphere, children and their caregivers may be less willing to share information freely and answer questions openly. Several minutes should be set aside for rapport building with the child and with the caregiver<indexterm significance="normal">
+            <primary>caregiver</primary>
+         </indexterm> to allow them to share general information about themselves or discuss topics that are unrelated to the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm>reason for the clinic visit, as they acclimate to the interviewer and clinic setting. Asking children about things they enjoy can be a helpful way to make them feel listened to during the initial stages of an interview or to further personalize the interaction throughout. Many of the initial rapport building strategies remain the same for virtual evaluations such as asking a child about a character on their T-shirt or asking about school. During a telehealth<indexterm significance="normal">
+            <primary>telehealth</primary>
+         </indexterm>evaluation, there is an added opportunity to ask about room decor or a pet that can be heard in the background. Clinicians can also choose to use more expressive movements or nonverbal cues (e. g., facial expressions), emoji video reaction options, or other facets of the virtual environment (e. g., watching a preferred brief video as a reinforcer) to foster a deeper sense of engagement<indexterm significance="normal">
+            <primary>engagement</primary>
+         </indexterm> with the child. Another strategy to provide a supportive and welcoming environment is to introduce the steps of the interview or intake process with the caregiver and/or with the child. For many families, the diagnostic interview may be their first experience with a mental health professional, so proving clear information about the process and creating a welcoming environment can reduce anxiety about the experience.</para>
+      <para role="Para">The order in which children and caregivers<indexterm significance="normal">
+            <primary>caregivers</primary>
+         </indexterm> are interviewed can also impact the experience of the client and the type of information obtained by the clinician. Depending on the nature of the referral question and the family dynamic, it may be preferable to meet with the child first to obtain information and build rapport. In cases where there is conflict or discrepancy between the caregiver and child, interviewing the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm>caregiver first may put the child on the defensive and may make them feel as though the clinician has aligned with the caregiver. In some cases, it may be appropriate to interview the caregiver first if, for example, the service being provided will be focused on the caregivers (e. g., caregiver management training), or if the child is younger. However, in situations where the child will be the focus of services (e. g., child-focused therapy), maintaining rapport with the child through the intake process is important.</para>
+      <para role="Para">When meeting with the child, it is critical to set aside the necessary time to build rapport and address any concerns they may have about the assessment and treatment process. This is particularly important if the clinician conducting the diagnostic interview will oversee future treatment. In this case, the evaluation<indexterm significance="normal">
+            <primary>evaluation</primary>
+         </indexterm>is often the first meeting between the child and the clinician, so developing rapport and making the child feel comfortable sets the stage for a good therapeutic alliance. Meeting alone with the child also allows them the opportunity to speak freely about things they may not be comfortable discussing in front of caregivers<indexterm significance="normal">
+            <primary>caregivers</primary>
+         </indexterm> and to understand the child’s perspective about the presenting problems. Children can be valuable sources of information regarding caregiver behaviors and strategies for managing the child’s presenting symptoms.</para>
+      <para role="Para">It is also important when meeting with families to not only establish confidentiality within the clinical setting but also to discuss issues of privacy relating to information that the child shares with the therapist, particularly for older children and adolescents. While caregivers have the right to know most information for children under age 18, it is important to briefly discuss with the caregiver<indexterm significance="normal">
+            <primary>caregiver</primary>
+         </indexterm> and child what information<indexterm significance="normal">
+            <primary>information</primary>
+         </indexterm> is necessary to share, and how this information will be shared. Of course, it is important to establish that information that may jeopardize the safety or well-being of the child must be shared with the caregiver, and all applicable regulations and codes regarding reporting of such information must be followed. However, many children may be struggling with issues that they are worried about discussing with their caregivers, such as sexual or gender identity, abuse, or sensitive peer issues; creating an environment in which the child feels comfortable sharing these concerns with the clinician is helpful for obtaining a complete diagnostic and clinical picture.</para>
+      <para role="Para">It may also be important to interview the caregiver(s)<indexterm significance="normal">
+            <primary>caregiver(s)</primary>
+         </indexterm> alone to obtain information about the child’s developmental history, the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> history of presenting concerns, and family psychiatric history. While meeting with the caregivers, the clinician can discuss the assessment process and treatment, as well as provide information about what can be expected during both. Many caregivers may feel anxious and have questions about their child’s problems, so listening openly and providing reassurance to caregivers are crucial during the diagnostic interview. Finally, to the degree that it is important to the evaluation, an opportunity to meet with and observe the child<indexterm significance="normal">
+            <primary>child</primary>
+         </indexterm> and the caregiver<indexterm significance="normal">
+            <primary>caregiver</primary>
+         </indexterm> together can be helpful for understanding the family dynamic. This meeting can be brief and can take place during the initial introduction at the start of the visit, or it can be more extensive depending on the information required by the clinician. Sometimes, a very brief observation can be sufficient, particularly in cases where there is obvious tension between the caregiver and the child. In these situations, navigating the diagnostic interview carefully is critical to obtain the perspective of the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm>caregiver and the child independently.</para>
+   </sect2>
+   <sect2 id="ch0021s0003s05" role="Heading">
+      <title>Direct Observations</title>
+      <para role="Para">Observing behavior<indexterm significance="normal">
+            <primary>behavior</primary>
+         </indexterm> in various environments can be a useful source of data for establishing child diagnoses and developing a case conceptualization. Direct observation of the child can take place in more naturalistic environments, including the home or school. Using direct observation, the clinician can identify factors in the environment that contribute to the child’s behavior or maintain problematic behavior. In addition, through naturalistic observation, the clinician can identify antecedents or consequents of presenting concerns or targets for intervention in the environment. Direct observation can take place formally, using structured coding systems or functional assessment tools, or informally. In either case, it is important for the observer to establish the purpose and the focus of the observation to obtain<indexterm significance="normal">
+            <primary>obtain</primary>
+         </indexterm> useful data and consider whether an observation is necessary for the interview process, as this often requires significant time and may be costly for families.</para>
+      <para role="Para">Observations may take place in the home or the school, although they should ideally be done unobtrusively or virtually, where possible. While observing the child in the home can be useful for obtaining information about the family dynamic or home environment, it is often difficult to do this, as the presence of an observer in the home may change the family’s behavior and/or may produce a more socially desirable presentation. Therefore, obtaining information about the family dynamic in the clinic is often a suitable alternative.</para>
+      <para role="Para">Observing the child in the school<indexterm significance="normal">
+            <primary>school</primary>
+         </indexterm> may be especially relevant in situations where the presenting concerns are most impairing in this setting. To ensure natural behavior, it is often best to have the clinician send someone who the child does not recognize, when possible. If the clinician has not yet met the child, they may be able to conduct the observation. It is necessary to obtain caregiver permission to conduct such an observation and to communicate with the child’s school to set up the observation and ensure that the school does not notify the child they are being observed. For a summary of information that can be obtained through direct<indexterm significance="normal">
+            <primary>direct</primary>
+         </indexterm> observation, see Table <emphasis role="InternalRef">
+            <phrase>18.1</phrase>
+         </emphasis>.</para>
+   </sect2>
+   <sect2 id="ch0021s0003s06" role="Heading">
+      <title>Additional Assessment</title>
+      <para role="Para">In some cases, it may be relevant<indexterm significance="normal">
+            <primary>relevant</primary>
+         </indexterm> to communicate with other healthcare or mental health providers to get information pertinent to the child’s presenting problems. Prior to such communication, it is necessary to have the caregiver<indexterm significance="normal">
+            <primary>caregiver</primary>
+         </indexterm> provide a release to speak with other professionals who have seen the child. Speaking with physicians who have treated the child can help the clinician understand the interaction between medical and psychological concerns, which may be relevant for distinguishing somatic symptoms from those that result from an underlying biological condition. Primary care physicians can also provide information about the child’s medical and developmental history. To facilitate communication with physicians, who may work on a different schedule than therapists, it may be helpful to have the families alert the provider in advance of the clinician’s efforts to reach them. To reduce the burden on clinicians, families can also obtain copies of relevant medical records to share for assessment purposes.</para>
+      <para role="Para">Speaking with other care<indexterm significance="normal">
+            <primary>care</primary>
+         </indexterm>providers, including psychiatrists or previous therapists, is also helpful to understand the presenting problems and prior treatment efforts and establish strategies that have or have not been helpful for the child. This also opens a channel of communication between the interviewing clinician and other therapists or doctors who may be treating the child concurrently. Finally, depending on the referral question and the nature of the assessment, it may be necessary to use additional standardized tools, including cognitive and achievement tests, behavior rating scales, and personality inventories. These approaches are discussed later in the chapter.</para>
+   </sect2>
+</sect1>

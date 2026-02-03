@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0008s0007" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0008s0006</risprev>
+         <riscurrent>sect1.9781071643624.ch0008s0007</riscurrent>
+         <risnext>sect1.9781071643624.ch0008s0008</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>8</chapternumber>
+         <chapterid>ch0008</chapterid>
+         <chaptertitle>6. Depressive Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Information Critical to Making a Diagnosis</title>
+   <para role="Para">In addition to the above-mentioned considerations when making a diagnosis for a depressive disorder, it is also important to differentiate among possible diagnoses and use specifiers. To do this accurately, it is crucial to be aware of comorbid mental health conditions, medication side effects that mimic depressive symptoms, and other medical conditions that may be comorbid or differentiated from depressive disorders.</para>
+   <sect2 id="ch0008s0007s01" role="Heading">
+      <title>Differential Diagnosis of a Depressive Disorder Versus Other Mental Disorders</title>
+      <para role="Para">The importance of differential diagnosis cannot be understated. Accurate diagnosis impacts the clinician’s ability to prescribe and deliver appropriate treatments and to predict clinical outcomes. Whereas the presence of manic or hypomanic episodes may appear to easily differentiate unipolar<indexterm significance="normal">
+            <primary>unipolar</primary>
+         </indexterm> and bipolar disorders, the distinction may not always be so readily apparent when assessing an individual. One challenge relates to the issue of self-reported mood. It can be difficult to differentiate between a “normal good mood” that may occur during remission of MDD or PDD versus an “unusually high or elevated mood” that occurs during a manic or hypomanic episode in bipolar disorder. For example, with chronic MDD or PDD, the person may have felt unusually down or depressed for such a long period of time that <emphasis>any</emphasis>increase in mood may seem unusually high. In this case, the person may respond positively to questions designed to capture mania (e. g., person required less sleep than usual because their “usual” during the chronic depression was 10 or more hours of sleep).</para>
+      <para role="Para">A second difficulty in differentiation has to do with determining the difference between the self-reported atypical or irritable symptoms in MDD and the irritable mood that occurs with bipolar disorders, which may be qualitatively different, but unclear to the child/adolescent or adult who has never experienced both. Fortunately, these symptoms are not the sole criteria upon which to base a diagnosis. Careful questioning and eliciting examples can provide necessary detail to assist in determining if the self-reported description of “elevated” or “irritable” mood meets the criteria for abnormal functioning.</para>
+      <para role="Para">In addition, a number of additional symptoms should be considered before a definitive diagnosis is made. For example, people with MDD tend to desire more or better sleep, whereas individuals with bipolar disorders report less of a desire or need for sleep and are often doing some activity during normal sleeping hours (Joiner et al.,<emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>). Other factors that suggest the possibility of bipolar instead of unipolar depression include worse cognitive functioning (Gildengers et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>), family history of bipolarity, and a higher number of past mood episodes (Angst et al., <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>).</para>
+      <para role="Para">Another difficulty in differentiation has to do with overlapping symptoms. For example, individuals with anxiety disorders, alcohol and substance use disorders, or bipolar disorder commonly report feelings of sadness and hopelessness (Tebeka et al.,<emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>), which are hallmark symptoms of depressive disorders in adults. The <emphasis>DSM-5-TR</emphasis> (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>) allows for recognition of these anxious symptoms in terms of using a specifier, <emphasis>with anxious distress</emphasis>to denote the expression of at least 2 of 5 anxiety symptoms (e. g., difficulty concentrating, fear of something bad happening) occurring during most days of either an MDE or PDD. However, the presence of both depressive and anxiety symptoms complicates the diagnostic picture in terms of which symptoms appeared first or are primary. What is clear is that when these symptoms are comorbid, the prognosis is poor (e. g., longer duration of symptoms, more suicidal ideation, poorer treatment response) (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).<phrase>6.3</phrase>Table 6.3</para>
+      <para role="SimplePara">Symptoms attributable to major depressive disorder and commonly associated medical conditions for differential diagnosis<indexterm significance="normal">
+            <primary>diagnosis</primary>
+         </indexterm>
+      </para>
+      <table id="ch0008s0007ta03">
+         <title/>
+         <tgroup cols="9">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <colspec colname="c4" colnum="4"/>
+            <colspec colname="c5" colnum="5"/>
+            <colspec colname="c6" colnum="6"/>
+            <colspec colname="c7" colnum="7"/>
+            <colspec colname="c8" colnum="8"/>
+            <colspec colname="c9" colnum="9"/>
+            <tbody>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Major depressive disorder</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Hypo-thyroidism</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Diabetes mellitus</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Parkinson’s disease</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Huntington’s disease</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Lupus erythematosus</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Deficiencies of vitamins (e. g., B<subscript>12</subscript>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Pancreatic cancer</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Depressed mood</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Anhedonia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Substantial weight or appetite change</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Changes in sleep</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Observable agitation or retardation of movements</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Changes in energy level</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Experience of worthlessness or guilt</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Difficulty concentrating or making decisions</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Thoughts of death or suicide</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">✔</para>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0008s0007s02" role="Heading">
+      <title>Use of Specifiers</title>
+      <para role="Para">The <emphasis>DSM-5-TR</emphasis> (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>) utilizes a number of standard specifiers to describe the clinical status of the most recent mood episode and the course of the disorder. The first type of specifiers describes symptom features of the mood episode: with anxious distress, with mixed features, with melancholic features, with atypical features, with psychotic features (mood-congruent or mood-incongruent), with catatonia, with peripartum onset, and with seasonal pattern (recurrent episode only). <emphasis>With anxious distress</emphasis> was added in <emphasis>DSM-5</emphasis> in recognition of the common co-occurrence of anxious symptoms with depressive or manic/hypomanic episodes. <emphasis>With mixed features</emphasis> is used when the person meets criteria for one type of mood episode (depressive or manic/hypomanic) and displays at least three symptoms of the other types of episode, without meeting full criteria. Melancholic features<indexterm significance="normal">
+            <primary>Melancholic features</primary>
+         </indexterm> refer to a person who is unresponsive to pleasant or pleasurable stimuli, who tends to experience depression as being worse in the morning, and who reports excessive feelings of guilt. Atypical features<indexterm significance="normal">
+            <primary>Atypical features</primary>
+         </indexterm> of depression include what is referred to as “mood reactivity,” that is, temporary lightening of mood in response to positive events, and the presence of at least two of the following: increased appetite or weight gain, hypersomnia (greater than 10 h of sleep per day), feeling as if the arms or legs are weighed down (leaden paralysis), and extreme sensitivity to rejection in relationships. Psychotic features<indexterm significance="normal">
+            <primary>Psychotic features</primary>
+         </indexterm> involve hallucinations or delusions and may be mood-congruent or incongruent. <emphasis>With catatonia</emphasis> includes not responding, talking, or moving; or repetitive speech or movement. <emphasis>With peripartum onset</emphasis> involves onset during pregnancy or within 4 weeks of giving birth. <emphasis>With seasonal pattern</emphasis> refers to a pattern of recurrent episodes that occur only during specific times of year.</para>
+      <para role="Para">Based on a review (Sachdev et al.,<emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>), three changes to the specifiers may have particular utility with older adults. Many older adults with depression also experience symptoms of anxiety; thus, <emphasis>with anxious distress</emphasis> may better characterize these older adults. Similarly, older adults may be more stable in their moods, so <emphasis>mixed features</emphasis> may signify some kind of deterioration in the mood disorder or other possible medical condition. Third, depressed older adults are more likely to experience psychotic symptoms than younger ages, so it may be useful to use the <emphasis>psychotic features</emphasis> specifier, which is no longer dependent on the severity of the depressive episode (Sachdev et al., <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>).</para>
+      <para role="Para">Another type of specifier relates to the intensity or impact of symptoms on functioning and is referred to as a<emphasis>severity</emphasis> specifier. These specifiers include mild, moderate, or severe. The severity specifiers are discussed in more detail in the specific disorders section. Also, recovery can be characterized as <emphasis>full remission</emphasis> such that the person is symptom free between the recurrent episodes or <emphasis>partial remission</emphasis> of symptoms during the interepisode period.</para>
+      <para role="Para">Empirical research regarding the epidemiology and predictive value of the symptom specifiers appears to be limited for older adults. Characterizing the severity and course of the mood disorders, however, has important implications for treatment. Older adults with more severe depressive symptoms and younger age of onset are more likely to experience a chronic course (Comijs et al.,<emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>).</para>
+   </sect2>
+</sect1>

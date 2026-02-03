@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0023s0007" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0023s0006</risprev>
+         <riscurrent>sect1.9781071643624.ch0023s0007</riscurrent>
+         <risnext>sect1.9781071643624.ch0023s0008</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>23</chapternumber>
+         <chapterid>ch0023</chapterid>
+         <chaptertitle>20. Interviewing in Health, Medical, and Integrated Care Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Information Critical to Making a Diagnosis</title>
+   <para role="Para">A diagnostic interview<indexterm significance="normal">
+         <primary>interview</primary>
+      </indexterm>that produces an accurate diagnosis is valuable for various reasons. It informs treatment planning, informs team members in both interdisciplinary and multidisciplinary settings about the patient and what may benefit their care (e. g., trauma-informed approach to physical exams, psychiatry medication management, cognition’s impact on retention of information, etc.), and of course, within the medical model, produces a billing code for insurance companies. The medical model has shifted the field of psychology considerably in that it relies on categorical labels to describe the patient experience. Medical providers and clinicians use Current Procedural Terminology (CPT) codes<indexterm significance="normal">
+         <primary>Current Procedural Terminology (CPT) codes</primary>
+      </indexterm> to report services and determine reimbursement rates. According to American Psychological Association (<emphasis role="CitationRef">
+         <phrase>2023</phrase>
+      </emphasis>), the three most common codes used by psychologists are Health and Behavior Assessment and Intervention (96156–96171), Psychotherapy Codes (CPT codes 90832–90863), and Psychological and Neuropsychological Testing Codes (CPT codes 96105–96146). There are also<indexterm significance="normal">
+         <primary>also</primary>
+      </indexterm>Caregiver Behavior Management Training Codes, Consultation Codes, and more. Commonly within the healthcare setting, mental health codes are secondary to the medical diagnosis, which results in using Health and Behavior Assessment CPT codes.</para>
+   <para role="Para">However, as we know from being human, every person is nuanced and unique, hence the value of the biopsychosocial model and flexibility within treatment settings despite the diagnoses. According to the American Psychological Association (<emphasis role="CitationRef">
+         <phrase>2005</phrase>
+      </emphasis>), the APA Council of Representatives released a statement in 2005 underscoring the importance of utilizing evidence-based practice in the treatment of disorders, which encompasses research evidence with patient values, strengths, personality, and sociocultural context.</para>
+   <para role="Para">Additionally, a psychologist should consider an individual’s past psychiatric diagnosis (diagnosis by history), rule-outs and differentials, and provisional and Z-code diagnosis when formulating a diagnostic impression. As previously stated, completing a chart review, obtaining collateral information, initiating an interview with the individual, noting observations, and conducting brief mood and cognitive screeners provide a psychologist with the necessary information to form a comprehensive diagnosis and treatment planning.</para>
+   <sect2 id="ch0023s0007s01" role="Heading">
+      <title>Diagnosis by History</title>
+      <para role="Para">Diagnosing mental health<indexterm significance="normal">
+            <primary>health</primary>
+         </indexterm>conditions by history involves the individual’s past and present experiences, behaviors, and symptoms. Reviewing past interviews with the individual and identifying their subjective experiences, including mood, thought patterns, behavior changes, and functional impairments, can give the psychologist a starting point of what symptomology may resurface or progress and help distinguish between acute, episodic, and chronic conditions. Additionally, identifying past<indexterm significance="normal">
+            <primary>past</primary>
+         </indexterm> family medical and psychiatric history and the individual’s social and developmental history may help identify potential genetic and environmental influences. The benefits of accessing this information include helping the psychologist and healthcare team identify factors contributing to or exacerbating the individual’s mental and physical health. Identifying past mental health and comorbid diagnoses also facilitates the development of a treatment plan that addresses the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> unique needs of the individual.</para>
+   </sect2>
+   <sect2 id="ch0023s0007s02" role="Heading">
+      <title>Differentials and Rule-Outs</title>
+      <para role="Para">
+         Differential and rule-out<indexterm significance="normal">
+            <primary>Differential and rule-out</primary>
+         </indexterm>diagnoses involve distinguishing between two or more conditions that share similar symptoms to arrive at the most accurate diagnosis. This process requires a systematic approach with careful consideration of all possible diagnoses. The key steps involved include reviewing the individual’s symptoms: duration, severity, nature, and impact on daily life. Next, identify possible physical health conditions that could mimic psychiatric symptoms (e. g., neurological conditions and thyroid disorders), which a medical health professional can further examine<indexterm significance="normal">
+            <primary>examine</primary>
+         </indexterm> for appropriate evaluation. In addition to ruling out, a psychologist would also examine comorbidities. Identifying and evaluating co-occurring conditions may aid or complicate the proposed treatment planning and diagnosis. For example, the patient in case example one had a medical condition of chronic obstructive pulmonary disease (COPD)<indexterm significance="normal">
+            <primary>chronic obstructive pulmonary disease (COPD)</primary>
+         </indexterm>. Most often, a diagnosis of COPD is comorbid with an anxiety-related mental health diagnosis. Additionally, there is a bi-directional relationship where the symptoms of anxiety may exacerbate the symptoms of COPD and vice-versa. Accurately diagnosing and treating the primary condition and comorbidities improves<indexterm significance="normal">
+            <primary>improves</primary>
+         </indexterm> the prognosis and overall quality of life for the individual.</para>
+   </sect2>
+   <sect2 id="ch0023s0007s03" role="Heading">
+      <title>Provisional Diagnosis</title>
+      <para role="Para">Provisional diagnoses<indexterm significance="normal">
+            <primary>diagnoses</primary>
+         </indexterm>are temporary when sufficient evidence suggests a particular disorder, but confirmatory data is pending (e. g., medical or specialized psychiatric/neuropsychological examinations). Provisional diagnoses allow the psychologist to begin treatment with the best data and information available. Early treatment and intervention can significantly impact prognosis. As treatment takes effect, the diagnostic picture may become more apparent, allowing the psychologist to make further adjustments to the diagnosis. Reviewing the treatment effects and outcomes ensures that the individual’s medical records accurately reflect their current medical status.</para>
+   </sect2>
+   <sect2 id="ch0023s0007s04" role="Heading">
+      <title>Z-Codes</title>
+      <para role="Para">
+         Z-codes<indexterm significance="normal">
+            <primary>Z-codes</primary>
+         </indexterm> are part of the International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) and describe factors influencing the individual’s health status and contact with health services. Z-codes are important in the health care setting as they highlight psychosocial and medical issues, which can lead to better treatment outcomes. Using case example one, collaboration with the individual’s social work professional to address the distress caused by housing, Inadequate Housing (Z59.1) can help facilitate connecting the individual with community-based, older-adult<indexterm significance="normal">
+            <primary>older-adult</primary>
+         </indexterm> housing options that also factor in her low socioeconomic status, Low Income (Z59.6) which may facilitate connection to additional resources the individual may or may not be aware of applying.</para>
+      <para role="Para">Using historical, differentials, rule-outs, provisional, and Z-code diagnoses is integral to a nuanced and dynamic approach to diagnosis. Psychologists in healthcare settings can provide personalized care that addresses several factors affecting an individual’s mental health. By leveraging these diagnostic elements, psychologists can ensure more comprehensive formulations that lead to more accurate diagnoses,tailored<indexterm significance="normal">
+            <primary>tailored</primary>
+         </indexterm> treatment plans, and improved outcomes.</para>
+   </sect2>
+</sect1>

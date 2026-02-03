@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0011s0007" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0011s0006</risprev>
+         <riscurrent>sect1.9781071643624.ch0011s0007</riscurrent>
+         <risnext>sect1.9781071643624.ch0011s0008</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>11</chapternumber>
+         <chapterid>ch0011</chapterid>
+         <chaptertitle>9. Obsessive-Compulsive and Related Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Dos and Don’ts</title>
+   <para>
+      <phrase>9.4</phrase>whatwho Table 9.4</para>
+   <para role="SimplePara">Dos and don’ts of diagnostic interviewing in OCD</para>
+   <table id="ch0011s0007ta04">
+      <title/>
+      <tgroup cols="2">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Dos</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’ts</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Do</emphasis>: Provide psychoeducation on OCD and related disorder symptoms and presentation</para>
+                  <para role="SimplePara">– Ensure individuals understand the meaning of obsessions and compulsions</para>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Do</emphasis>: Create an environment that feels safe for the patient to disclose</para>
+                  <para role="SimplePara">– Build trust by setting a tone that this is a judgment-free space to show empathy and encourage patient to be open and transparent about their intrusive thoughts. For children, this could be starting the interaction with asking about their preferred activities and friendships if they are hesitant at the beginning of the interview</para>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Do</emphasis>: Ask for collateral sources of information</para>
+                  <para role="SimplePara">– Such as parents, romantic partners, teachers, and family members to gather a sense of what compulsions may be occurring</para>
+                  <para role="SimplePara">– Can be helpful to get information from religious leaders/pastors when necessary or feeling out of one’s scope</para>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Do</emphasis>: Use evidence-based treatment tools (e. g., CY-BOCS, Y-BOCS)</para>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Do</emphasis>: Assess for cultural considerations to ensure one is understanding cultural practices or beliefs in context of the individual’s OCD symptoms</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Don’t</emphasis>: Forget to ask about all different subtypes of OCD during clinical interviews</para>
+                  <para role="SimplePara">– Assists with obtaining accurate information on full spectrum of OCD symptoms patient is presenting with</para>
+                  <para role="SimplePara">– If this is not done, interviewers may miss several OCD symptoms, as there are high degrees of stigma and shame with certain subtypes of OCD that patients may not disclose if not explicitly asked</para>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Don’t</emphasis>: Further contribute to stigma by showcasing panic, disgust, or alarm when patients speak about their intrusive thoughts/images and compulsions</para>
+                  <para role="SimplePara">– Ensure familiarity with all different types of OCD content so that you can speak openly with patients without appearing embarrassed</para>
+                  <para role="SimplePara">– This will show them that they can also share details about their OCD</para>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Don’t</emphasis>: Forget to utilize developmentally appropriate language</para>
+                  <para role="SimplePara">– Consider cognitive functioning and age</para>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Don’t</emphasis>: Rely solely on clinical judgment and expertise to form an OCD diagnosis or evaluation of the severity of symptoms</para>
+                  <para role="SimplePara">– Use evidence-based measures</para>
+                  <para role="SimplePara">– Ensure you are not misdiagnosing (e. g., psychosis/delusional thinking vs. extreme lack of insight with OCD)</para>
+                  <para role="SimplePara">
+                     <emphasis role="strong">• Don’t</emphasis>: Forget to discuss confidentiality with both children and parents</para>
+                  <para role="SimplePara">– Ensure parents understand that content can be sensitive for a child to disclose and may take time for the child to feel comfortable sharing with parent</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0016s0006" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0016s0005</risprev>
+         <riscurrent>sect1.9781071643624.ch0016s0006</riscurrent>
+         <risnext>sect1.9781071643624.ch0016s0007</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>16</chapternumber>
+         <chapterid>ch0016</chapterid>
+         <chaptertitle>14. Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Information Critical to Making a Diagnosis</title>
+   diagnosis<indexterm significance="normal">
+      <primary>diagnosis</primary>
+   </indexterm>
+   <itemizedlist mark="none" role="none">
+      <listitem role="ListItem">
+         <para role="Para">A detailed description of the presenting issue</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Personal significance attached to the presenting issue</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Level of distress and areas of life affected</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Onset of the problem</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Frequency of the difficulty</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Patterns of the behavior</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">What is the reason for seeking treatment at this time?</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">If partnered, how is the issue affecting the partner(s)?</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Information related to current/past<indexterm significance="normal">
+               <primary>current/past</primary>
+            </indexterm>partners/relationships and social support</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Sexual history, including information related to negative experiences (e. g., abuse)</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Medical and<indexterm significance="normal">
+               <primary>and</primary>
+            </indexterm> psychiatric history, including past and present medications and surgeries</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Alcohol and drug use and abuse</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Sex/gender, gender identity, sexual orientation, and sexual identity</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Content and frequency of sexual fantasies</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Family of origin issues</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Client’s causal attributions for their difficulty</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Comorbid conditions</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Past or current convictions of problematic sexual behaviors</para>
+      </listitem>
+      <listitem role="ListItem">
+         <para role="Para">Cultural and religious schemas<indexterm significance="normal">
+               <primary>schemas</primary>
+            </indexterm>
+         </para>
+      </listitem>
+   </itemizedlist>
+</sect1>

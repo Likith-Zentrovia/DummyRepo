@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0017s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0017s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0017s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0017s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>17</chapternumber>
+         <chapterid>ch0017</chapterid>
+         <chaptertitle>15. Substance Use Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Information</title>
+   <para role="Para">The best method of assessment for substance use problems depends on the goal of the assessment, such as an SUD diagnosis, treatment referral, treatment planning, or treatment response. It is also important to consider the assessment environment, which may include primary care, SUD treatment, harm reduction programs, and community mental health care. In this section, we highlight important considerations and recommendations across three types<indexterm significance="normal">
+         <primary>types</primary>
+      </indexterm> of assessment: screening, diagnosis, and dimensional. The procedures to determine treatment recommendations are beyond the scope of this chapter; the interested reader is referred to a review of the American Society of Addiction Medicine’s (ASAM) client placement criteria (Gastfriend &amp; Mee-Lee, <emphasis role="CitationRef">
+         <phrase>2022</phrase>
+      </emphasis>) and SAMHSA’s medication guide for opioid use disorder.</para>
+   <sect2 id="ch0017s0002s01" role="Heading">
+      <title>Screening</title>
+      Screening<indexterm significance="normal">
+         <primary>Screening</primary>
+      </indexterm>
+      treatment<indexterm significance="normal">
+         <primary>treatment</primary>
+      </indexterm>
+      <para>
+         <phrase>15.1</phrase>
+         <phrase>2021</phrase>
+         <phrase>2018</phrase>Table 15.1</para>
+      <para role="SimplePara">Brief screening<indexterm significance="normal">
+            <primary>screening</primary>
+         </indexterm>tools used in SBIRT models and community care settings</para>
+      <table id="ch0017s0002ta01">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Tool</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Description</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">References</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Alcohol/Cannabis Use Disorder Identification Test (AUDIT/CUDIT)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Substance: Alcohol, cannabis</para>
+                     <para role="SimplePara">Outcome: Consumption, physiological dependence, related behavior, related harm</para>
+                     <para role="SimplePara">Administration: Clinician or self-report</para>
+                     <para role="SimplePara">Duration: 10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Saunders et al. (<emphasis role="CitationRef">
+                           <phrase>1993</phrase>
+                        </emphasis>), Adamson and Sellman (<emphasis role="CitationRef">
+                           <phrase>2003</phrase>
+                        </emphasis>), Thompson et al. (<emphasis role="CitationRef">
+                           <phrase>2019</phrase>
+                        </emphasis>), Tran et al. (<emphasis role="CitationRef">
+                           <phrase>2021</phrase>
+                        </emphasis>), Monico et al. (<emphasis role="CitationRef">
+                           <phrase>2020</phrase>
+                        </emphasis>), Denering and Spear (<emphasis role="CitationRef">
+                           <phrase>2012</phrase>
+                        </emphasis>), Karno et al. (<emphasis role="CitationRef">
+                           <phrase>2000</phrase>
+                        </emphasis>), King et al. (<emphasis role="CitationRef">
+                           <phrase>2018</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Alcohol, Smoking, and Substance Involvement Screening Test</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Substance: All</para>
+                     <para role="SimplePara">Outcome: Frequency of use, related problems</para>
+                     <para role="SimplePara">Administration: Clinician or self-report</para>
+                     <para role="SimplePara">Duration: 10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">WHO ASSIST Working Group (<emphasis role="CitationRef">
+                           <phrase>2001</phrase>
+                        </emphasis>), Denering and Spear (<emphasis role="CitationRef">
+                           <phrase>2012</phrase>
+                        </emphasis>), Ramo et al. (<emphasis role="CitationRef">
+                           <phrase>2018</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Drug Abuse Screening Test (DAST-10)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Substances: All</para>
+                     <para role="SimplePara">Outcome: Consequences of drug use</para>
+                     <para role="SimplePara">Administration: Clinician or self-report</para>
+                     <para role="SimplePara">Duration: 10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Skinner (<emphasis role="CitationRef">
+                           <phrase>1982</phrase>
+                        </emphasis>), Thompson et al. (<emphasis role="CitationRef">
+                           <phrase>2019</phrase>
+                        </emphasis>), Tran et al. (<emphasis role="CitationRef">
+                           <phrase>2021</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Opioid Risk Tool (Webster &amp; Webster,<emphasis role="CitationRef">
+                           <phrase>2005</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Substances: Opioids</para>
+                     <para role="SimplePara">Outcome: Current and future risk of problematic opioid use for patients with prescription pain medication</para>
+                     <para role="SimplePara">Administration: Clinician</para>
+                     <para role="SimplePara">Duration: 1 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Webster and Webster (<emphasis role="CitationRef">
+                           <phrase>2005</phrase>
+                        </emphasis>), Mierisch et al. (<emphasis role="CitationRef">
+                           <phrase>2022</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">4 P’s Tool</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Substances: All</para>
+                     <para role="SimplePara">Outcome: Impact of substance use and motivation for change based on information across 4 P’s (parents, partner, present/past you)</para>
+                     <para role="SimplePara">Administration: Clinician</para>
+                     <para role="SimplePara">Duration: 10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Hostage et al. (<emphasis role="CitationRef">
+                           <phrase>2020</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para FirstParaInFormalPara">Assessment of substance use in primary care is brief, with a focus on identifying problematic use and determining appropriate referrals. The Screening, Brief Intervention, and Referral to Treatment (SBIRT) model<indexterm significance="normal">
+            <primary>Screening, Brief Intervention, and Referral to Treatment (SBIRT) model</primary>
+         </indexterm>is an evidence-based practice developed for primary care and other non-treatment settings. The SBIRT model uses standardized screening tools to assess for substance use, and provides a brief intervention (i. e., discussion and advice) and referral to treatment<indexterm significance="normal">
+            <primary>treatment</primary>
+         </indexterm> as needed. More information and resources related to the SBIRT model can be accessed on SAMHSA’s website (<emphasis role="ExternalRef">
+            <ulink url="http://www.integration.samhsa.gov/clinical-practice/sbirt">
+               <emphasis role="RefSource">www.​integration.​samhsa.​gov/​clinical-practice/​sbirt</emphasis>
+            </ulink>
+         </emphasis>). SBIRT is efficacious in reducing alcohol use among patients in primary care settings (Barbosa et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>), with mixed evidence for the efficacy with non-alcohol substance<indexterm significance="normal">
+            <primary>substance</primary>
+         </indexterm> use (Imtiaz et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). Evidence suggests that effectiveness increases with the availability of direct within-system or “warm handoff” treatment referral services (French et al., <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Hospital-based applications of the SBIRT model, particularly for opioid use disorder, are feasible and effective for assisting patients in transitioning to longer-term SUD treatment (Tran et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>) (Table <emphasis role="InternalRef">
+            <phrase>15.1</phrase>
+         </emphasis> for SBIRT screening tools).</para>
+      <para role="Para FirstParaInFormalPara">CMH settings, such as community or private mental health clinics, Veterans Affairs<indexterm significance="normal">
+            <primary>Affairs</primary>
+         </indexterm>, and university counseling centers, are a portal of entry for screening and either (a) integration of SUD treatment into ongoing care or (b) referral to specialized SUD treatment. Just over 20 million adults are diagnosed with an SUD and co-occurring mental health conditions, of which ~40% receive care in a CMH setting (Substance Abuse and Mental Health Services Administration (SAMHSA), <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Moreover, 35 million adults receive outpatient mental health treatment, highlighting the window of opportunity to screen for SUDs. Despite this need, there is a dearth of research on prevalence and methods of screening within CMH settings. Among existing studies (<emphasis>n</emphasis> = 8) on SUD screening in these settings, the majority screened for substance use with a self-report form at intake, with only one study<indexterm significance="normal">
+            <primary>study</primary>
+         </indexterm>reporting the use of a clinician-administered interview (Woodward et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). The scant literature highlights the need for increased<indexterm significance="normal">
+            <primary>increased</primary>
+         </indexterm> reporting on the degree and method of CMH substance use screening, treatment referrals, and outcomes.</para>
+      <para role="Para FirstParaInFormalPara">
+         Harm reduction programs<indexterm significance="normal">
+            <primary>Harm reduction programs</primary>
+         </indexterm>, including syringe services programs, typically conduct informal assessments to gather information about health risk behaviors (e. g., drug injection practices), desire/readiness for treatment, and need for other services such as medical care and case management. The use of standardized screening measures is often not advised in these settings due to<indexterm significance="normal">
+            <primary>to</primary>
+         </indexterm> client reading level, time constraints, and desire to minimize barriers to care (especially in outreach settings). A mixture of open-ended and close-ended questions can be used effectively to guide client care decisions. Yet familiarity with standardized screening tools may help staff identify pertinent questions, and when suitable, may be utilized to gauge clients’ interest in and need for additional support. A treatment readiness questionnaire such as the Circumstances, Motivation, Readiness, and Suitability Scale (CMRS; De Leon &amp; Jainchill, <emphasis role="CitationRef">
+            <phrase>1986</phrase>
+         </emphasis>) or a briefer measure such as a contemplation<indexterm significance="normal">
+            <primary>contemplation</primary>
+         </indexterm>ladder for alcohol or drug use (e. g., Hogue et al.,<emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>) can help determine<indexterm significance="normal">
+            <primary>determine</primary>
+         </indexterm> the client’s interest in reducing their substance use and desire for treatment.</para>
+   </sect2>
+   <sect2 id="ch0017s0002s02" role="Heading">
+      <title>Diagnosis</title>
+      SUD<indexterm significance="normal">
+         <primary>SUD</primary>
+      </indexterm>
+      <para>Diagnostic and Statistical Manual of Mental Disorders<phrase>2022</phrase>
+         <phrase>15.2</phrase>Table 15.2</para>
+      or<indexterm significance="normal">
+         <primary>or</primary>
+      </indexterm>
+      diagnosis<indexterm significance="normal">
+         <primary>diagnosis</primary>
+      </indexterm>
+      <para role="SimplePara">Standardized diagnostic<indexterm significance="normal">
+            <primary>diagnostic</primary>
+         </indexterm> interviews</para>
+      <table id="ch0017s0002ta02">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Tool</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Description</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">References</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Structured Clinical Interview for DSM-5 (SCID-5)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Style: Semi-structured interview</para>
+                     <para role="SimplePara">Outcome: Lifetime and past 12-month DSM-5 SUDs and co-occurring psychiatric diagnoses</para>
+                     <para role="SimplePara">Duration: 45–120 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">First et al. (<emphasis role="CitationRef">
+                           <phrase>2016</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Mini International Neuropsychiatric Interview (MINI 7.0.2)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Style: Structured interview</para>
+                     <para role="SimplePara">Outcome: Lifetime and past 12-month DSM-5 SUDs and co-occurring psychiatric diagnoses</para>
+                     <para role="SimplePara">Duration: 20–40 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Sheehan et al. (<emphasis role="CitationRef">
+                           <phrase>1998</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">The Diagnostic Interview Schedule for DSM-5 (DIS-5)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Style: Fully structured interview</para>
+                     <para role="SimplePara">Outcome: Lifetime and past 12-month DSM-5 SUDs and co-occurring psychiatric diagnoses</para>
+                     <para role="SimplePara">Duration: 90–120 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Robins et al. (<emphasis role="CitationRef">
+                           <phrase>1981</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">The Composite International Diagnostic Interview Substance Abuse Module (SAM) (CIDI)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Stye: Fully structured interview</para>
+                     <para role="SimplePara">Outcome: Lifetime and current SUDs; provides a severity score by calculating endorsed criteria within and across substances</para>
+                     <para role="SimplePara">Duration: 30–45 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Kessler and Ustun (<emphasis role="CitationRef">
+                           <phrase>2004</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Psychiatric Research Interview for Substance and Mental Disorders (PRISM-5)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Style: Semi-structured interview</para>
+                     <para role="SimplePara">Outcome: Distinguishes primary DSM-5 diagnoses from substance-induced disorders. For a PRISM-5 substance-induced diagnosis, a primary episode must be ruled out and the symptoms must exceed the expected effects of intoxication or withdrawal</para>
+                     <para role="SimplePara">Duration: 60–120 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Hasin (<emphasis role="CitationRef">
+                           <phrase>1996</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para">The <emphasis>International Classification of Diseases, Eleventh Revision</emphasis> (ICD-11; 2018) is considered the international standard diagnostic classification of SUDs for general epidemiological and health management purposes. SUDs in the ICD-11 are coded as a pattern of harmful use or substance dependence, similar to<indexterm significance="normal">
+            <primary>to</primary>
+         </indexterm>previous editions of the DSM. The ICD-11 can be accessed online (<emphasis role="ExternalRef">
+            <ulink url="https://icd.who.int/en">
+               <emphasis role="RefSource">https://​icd.​who.​int/​en</emphasis>
+            </ulink>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0017s0002s03" role="Heading">
+      <title>Dimensional Assessment</title>
+      approach<indexterm significance="normal">
+         <primary>approach</primary>
+      </indexterm>
+      <para>
+         <phrase>2020</phrase>
+         <phrase>1993</phrase>
+         <phrase>15.3</phrase>Table 15.3</para>
+      <para role="SimplePara">Example dimensional<indexterm significance="normal">
+            <primary>dimensional</primary>
+         </indexterm>and symptom-based assessment tools</para>
+      <table id="ch0017s0002ta03">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Tool</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Description</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">References</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">Frequency and quantity</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">The Timeline Followback (TLFB)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: Semi-structured clinical interview; calendar method</para>
+                     <para role="SimplePara">Outcome: Retrospective estimates of substance use frequency and quantity over a specified time interval</para>
+                     <para role="SimplePara">Duration: 10–30 min, depending on length of interval assessed</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Fals-Stewart et al. (<emphasis role="CitationRef">
+                           <phrase>2000</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Form 90D</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: Semi-structured interview; calendar method</para>
+                     <para role="SimplePara">Outcome: Lifetime and past 90-day substance use; initiation of use and frequency/intensity of use over time; history of psychosocial and environmental variables (e. g., treatment services received, incarceration)</para>
+                     <para role="SimplePara">Duration: 45 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Westerberg et al. (<emphasis role="CitationRef">
+                           <phrase>1998</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">Impairment</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Addiction Severity Index (ASI)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: Self-report or clinician-administered survey</para>
+                     <para role="SimplePara">Outcome: History and present drug and alcohol use frequency, medical status, employment status, family history, legal status, psychiatric status, and family and social relationships</para>
+                     <para role="SimplePara">Duration: 50–60 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Mc Lellan et al. (<emphasis role="CitationRef">
+                           <phrase>1992</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Short Inventory of Problems—Alcohol &amp; Drugs (SIP-AD)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 10-item self-report inventory</para>
+                     <para role="SimplePara">Outcome: Adverse consequences related to alcohol and drug use across physical, social, intrapersonal, impulsive, and interpersonal domains</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Hagman et al. (<emphasis role="CitationRef">
+                           <phrase>2009</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">Craving</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Cocaine Craving Questionnaire—Brief</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 10-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Five domains of cocaine craving</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Sussner et al. (<emphasis role="CitationRef">
+                           <phrase>2006</phrase>
+                        </emphasis>), Tiffany et al. (<emphasis role="CitationRef">
+                           <phrase>1993</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Heroin Craving Questionnaire—Short Form-14</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 14-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Five domains of heroin craving</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Heinz et al. (<emphasis role="CitationRef">
+                           <phrase>2006</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Marijuana Craving Questionnaire—Short Form</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 12-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Four domains of marijuana craving</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Heishman et al. (<emphasis role="CitationRef">
+                           <phrase>2009</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Penn Alcohol Craving Scale</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 5-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Frequency, intensity, and duration of craving, the ability to resist drinking, and overall caving for alcohol for the previous week</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Flannery et al. (<emphasis role="CitationRef">
+                           <phrase>1999</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Questionnaire on Smoking Urges—Brief (Cox et al.,<emphasis role="CitationRef">
+                           <phrase>2001</phrase>
+                        </emphasis>; Tiffany &amp; Drobes, 1991)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 10-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Desire to smoke, intention to smoke, and perceived reward from smoking</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Cox et al. (<emphasis role="CitationRef">
+                           <phrase>2001</phrase>
+                        </emphasis>), Tiffany and Droebs (<emphasis role="CitationRef">
+                           <phrase>1991</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">Withdrawal</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Amphetamine Cessation Symptom Assessment</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 16-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Amphetamine withdrawal symptom and severity</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Mc Gregor et al. (<emphasis role="CitationRef">
+                           <phrase>2008</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Benzodiazepine Withdrawal Symptom Questionnaire</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 20-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Benzodiazepine withdrawal symptoms</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tyrer et al. (<emphasis role="CitationRef">
+                           <phrase>1990</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Cocaine Selective Severity Assessment</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 18-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Symptoms of early cocaine withdrawal</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Kampman et al. (<emphasis role="CitationRef">
+                           <phrase>1998</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Clinical Institute Withdrawal Assessment of Alcohol Scale, Revised</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 10-item self-report survey</para>
+                     <para role="SimplePara">Outcome: Alcohol withdrawal symptom severity</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Sullivan et al. (<emphasis role="CitationRef">
+                           <phrase>1989</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Clinical Opiate Withdrawal Scale</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Tool: 11-item clinician administered survey</para>
+                     <para role="SimplePara">Outcome: Opiate withdrawal symptom severity</para>
+                     <para role="SimplePara">Duration: 5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Blevins et al. (<emphasis role="CitationRef">
+                           <phrase>2017</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para FirstParaInFormalPara">Attention to the diagnostic symptoms can provide a more nuanced clinical picture and distinguish<indexterm significance="normal">
+            <primary>distinguish</primary>
+         </indexterm>treatment needs for clients who meet the criteria for the same diagnosis. Consider two clients with DSM-5-TR mild cannabis use disorder. Client A endorses using cannabis over longer periods of time than intended and spending a great deal of time using cannabis; they cite increased cannabis use in response to<indexterm significance="normal">
+            <primary>to</primary>
+         </indexterm>boredom following the loss of their job. Client B endorses cannabis craving, a persistent desire, and unsuccessful efforts to control use, and continued use despite knowledge that cannabis exacerbates their anxiety. Based on these differential symptom presentations, a brief motivational intervention may be sufficient for Client A, whereas Client B may benefit from an<indexterm significance="normal">
+            <primary>an</primary>
+         </indexterm> additional assessment for an anxiety disorder and a more intensive cognitive-behavioral treatment.</para>
+      <para role="Para FirstParaInFormalPara">The frequency<indexterm significance="normal">
+            <primary>frequency</primary>
+         </indexterm>, quantity, and associated impairment in emotional, social, and occupational functioning are informative for treatment planning and tracking progress. Substance use frequency and quantity are generally more sensitive indicators of treatment response compared to dichotomous abstinence outcomes. Psychosocial functioning (e. g., quality of life) and impairment (e. g., substance-related problems) are also important components of a dimensional assessment.</para>
+      <para role="Para FirstParaInFormalPara">
+         Addiction phenotypes<indexterm significance="normal">
+            <primary>Addiction phenotypes</primary>
+         </indexterm> are a rapidly evolving area of assessment and include three primary mechanisms of SUD: “reward” (reward/incentive salience), “relief” (negative emotionality), and “loss of control” (executive functioning/cognitive control) (Hebden et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>; Votaw et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). The addiction phenotype characterization of clients with SUD holds promise for identifying “subgroups” to aid in precision medicine treatment development (Keyser-Marcus et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>). Yet, this field of research is in its nascent stage and there is limited research to establish the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> utility of these phenotype assessments for treatment referral and planning. Nonetheless, there are two assessment packages available: the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> Addictions Neuroclinical Assessments (ANA; Kwako et al., <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>) and the National Institute on Drug Abuse (NIDA) Phenotyping Assessment Battery (PhAB; Keyser-Marcus et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>) that contain a combination of self-report, behavioral, and neuroclinical tools with preliminary feasibility. These batteries are time-intensive and have primarily been developed for research settings. Thus, these novel assessment approaches<indexterm significance="normal">
+            <primary>approaches</primary>
+         </indexterm>require ongoing research to establish clinical utility.</para>
+      <para role="Para FirstParaInFormalPara">In line with a harm reduction<indexterm significance="normal">
+            <primary>reduction</primary>
+         </indexterm> approach to SUD treatment is a consideration of the client’s goals for treatment beyond abstinence (Paquette et al., <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Consider an individual in treatment for a cannabis use disorder whose goal is to eliminate cannabis use but continue to drink alcohol after treatment. An assessment of the client’s cannabis use, the ways in which alcohol use impacts their cannabis use, and related impairment will aid in guiding treatment decisions. Treatment goals will also guide the outcomes assessment. Dichotomous indicators of abstinence may mischaracterize the effect of treatment among clients who aim to achieve abstinence from one substance but not others, or to reduce substance use rather than abstain.</para>
+   </sect2>
+</sect1>

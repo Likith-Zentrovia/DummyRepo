@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0013s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0013s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0013s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>13</chapternumber>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>11. Dissociative Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Diagnostic Information</title>
+   <para>
+      <phrase>2023</phrase>
+      <phrase>2016</phrase>
+      <phrase>2023</phrase>
+      <phrase>11.2</phrase>Table 11.2</para>
+   diagnostic assessment<indexterm significance="normal">
+      <primary>diagnostic assessment</primary>
+   </indexterm>
+   <para role="SimplePara">Selected assessment measures<indexterm significance="normal">
+         <primary>measures</primary>
+      </indexterm>to assess dissociation in adults</para>
+   <table id="ch0013s0002ta02">
+      <title/>
+      <tgroup cols="3">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <colspec colname="c3" colnum="3"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Type</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Measure</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Features</para>
+               </entry>
+            </row>
+            <row>
+               <entry morerows="2">
+                  <para role="SimplePara">
+                     <emphasis role="strong">Semi-structured Clinical Interview</emphasis>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Structured Clinical Interview for DSM-IV Dissociative Disorders-Revised (SCID-D)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: adolescents and adults</para>
+                  <para role="SimplePara">Administration time: 90–120 min</para>
+                  <para role="SimplePara">Items: 272 across 5 domains that yield individual and overall scores</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Dissociative Disorders Interview Schedule DSM-V Version (DDIS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time: 30–45 min</para>
+                  <para role="SimplePara">Items: 132 items in yes/no format; 16 sections that yield scores</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Loewenstein Office Mental Status Exam for Dissociation</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: adults and adolescents</para>
+                  <para role="SimplePara">Administration time: 30–45 min</para>
+                  <para role="SimplePara">Items: 11 domains</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry nameend="c3" namest="c1">
+                  <para role="SimplePara">
+                     <emphasis role="strong">Self-Report Measures</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry morerows="5">
+                  <para role="SimplePara">
+                     <emphasis>Screening Measures</emphasis>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Dissociative Experiences Scale-II (DES-II)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time: 5 min</para>
+                  <para role="SimplePara">Items: 28, focuses on problematic and normal dissociative experiences</para>
+                  <para role="SimplePara">Validity scale: No, but a separate validity scale was developed</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Cambridge Depersonalization Scale (CDS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time: 5 min</para>
+                  <para role="SimplePara">Items: 29 focusing solely on depersonalization in the past 6 months</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Somatoform Dissociation Questionnaire-20 (SDQ-20)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 16+</para>
+                  <para role="SimplePara">Administration time: 5 min</para>
+                  <para role="SimplePara">Items: 2 versions with either 5 or 20 items specific to somatoform manifestations of dissociation</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Dissociative Symptoms Scale (DSS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: adults and adolescents</para>
+                  <para role="SimplePara">Administration time: 5 min</para>
+                  <para role="SimplePara">Items: 20 or 8-item version</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Peritraumatic Dissociative Experiences Questionnaire (PDEQ)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time: 5 min</para>
+                  <para role="SimplePara">Items: 10 focusing on peritraumatic depersonalization and derealization</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">State Scale of Dissociation (self-report version; SSD)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time: 5 min</para>
+                  <para role="SimplePara">Items: 56</para>
+                  <para role="SimplePara">Validity scale: Yes</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis>Broadband Self-Reports</emphasis>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Minnesota Multiphasic Personality Inventory-2 (MMPI-2)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time: 60–90 min</para>
+                  <para role="SimplePara">Items: 567</para>
+                  <para role="SimplePara">Validity scale: Yes. Additionally, Brand and Chasson (<emphasis role="CitationRef">
+                        <phrase>2015</phrase>
+                     </emphasis>) developed a taxon to differentiate feigned and genuine DID</para>
+               </entry>
+            </row>
+            <row>
+               <entry morerows="1">
+                  <para role="SimplePara">
+                     <emphasis>Broad Trauma Self-Reports</emphasis>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Trauma Symptom Inventory-2 (TSI-2)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18–88</para>
+                  <para role="SimplePara">Administration time: 20 min</para>
+                  <para role="SimplePara">Items: 136, 10 items specific to dissociation</para>
+                  <para role="SimplePara">Validity scale: Yes</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Detailed Assessment of Posttraumatic Stress (DAPS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18–91</para>
+                  <para role="SimplePara">Administration time: 20 min</para>
+                  <para role="SimplePara">Items: 104, specific scale for trauma-specific dissociation</para>
+                  <para role="SimplePara">Validity scale: Yes</para>
+               </entry>
+            </row>
+            <row>
+               <entry morerows="2">
+                  <para role="SimplePara">
+                     <emphasis>Multiscale/Multi-symptom Dissociation Measures</emphasis>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Multidimensional Inventory of Dissociation (MID)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time:</para>
+                  <para role="SimplePara">Items: 218 (a 60-item version is also available)</para>
+                  <para role="SimplePara">Validity scale: 5 validity scales</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Multiscale Dissociation Inventory (MDI)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time: 10–15 min</para>
+                  <para role="SimplePara">Items: 30</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Self-Report Version of the Dissociative Disorders Interview Schedule DSM-V</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: 18+</para>
+                  <para role="SimplePara">Administration time: 30–45 min</para>
+                  <para role="SimplePara">Items: 132 items in yes/no format; 16 sections; each yields a score</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry morerows="1">
+                  <para role="SimplePara">
+                     <emphasis role="strong">Performance-Based Measures</emphasis>
+                  </para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Rorschach</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: adults, adolescents, children 5+</para>
+                  <para role="SimplePara">Administration time: approximately 60 min</para>
+                  <para role="SimplePara">Items: 10 cards</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Thematic Apperception Test</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Age range: adults and adolescents</para>
+                  <para role="SimplePara">Administration time: approximately 30–60 min</para>
+                  <para role="SimplePara">Items: Assessor determines number of stimuli, typically 8–10 if using SCORS</para>
+                  <para role="SimplePara">Validity scale: No</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="Para">Routine assessment of dissociation begins with a thorough clinical interview. Semi-structured interviews provide clinicians with important information, while allowing for flexibility, and are important in gaining an understanding of the symptom profile<indexterm significance="normal">
+         <primary>profile</primary>
+      </indexterm> for diagnostic clarity. Individuals who have a DD frequently utilize dissociative strategies when recalling distressing information, which may lead to an underreporting of experiences, particularly in the early stages of treatment. It is imperative that clinicians mindfully evaluate how deeply to delve into a client’s trauma history while in the beginning stages of forming a working relationship. This consideration is particularly important for those with a DD, who are likely to need more time to establish an alliance than other clinical groups (Cronin et al., <emphasis role="CitationRef">
+         <phrase>2014</phrase>
+      </emphasis>). One cannot rule out dissociative symptoms or a DD presentation after a single diagnostic session. It can sometimes take years for clients to be willing to discuss their internal experiences in sufficient detail to effectively diagnose a DD, or for the client to become sufficiently aware of their symptoms to accurately report them. Behavioral indicators and the way in which individuals respond to certain questions may be an early indicator of dissociative symptoms (Brand, <emphasis role="CitationRef">
+         <phrase>2023</phrase>
+      </emphasis>; Loewenstein, <emphasis role="CitationRef">
+         <phrase>1991</phrase>
+      </emphasis>).<link linkend="ch0013s0002fg02">11.2</link>not<link linkend="ch0013s0002fg03">11.3</link>
+   </para>
+   information<indexterm significance="normal">
+      <primary>information</primary>
+   </indexterm>
+   illustration<indexterm significance="normal">
+      <primary>illustration</primary>
+   </indexterm>
+   <figure float="0" id="ch0013s0002fg02" role="Figure">
+      <title>
+         <emphasis role="CaptionNumber">Fig. 11.2</emphasis>Procedures to assess dissociation<indexterm significance="normal">
+            <primary>dissociation</primary>
+         </indexterm>
+      </title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0013f05.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+   <figure float="0" id="ch0013s0002fg03" role="Figure">
+      <title>
+         <emphasis role="CaptionNumber">Fig. 11.3</emphasis>Cascade of procedures to assess dissociation<indexterm significance="normal">
+            <primary>dissociation</primary>
+         </indexterm>
+      </title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0013f03.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+   <sect2 id="ch0013s0002s01" role="Heading">
+      <title>Interviews for Dissociative Symptoms</title>
+      <para role="Para">Two formal semi-structured interviews exist for DDs: the Structured Clinical Interview for DSM-IV Dissociative Disorders<indexterm significance="normal">
+            <primary>Disorders</primary>
+         </indexterm> (SCID-D), and the Dissociative Disorders Interview Schedule (DDIS; Ross, <emphasis role="CitationRef">
+            <phrase>n. d.</phrase>
+         </emphasis>). Loewenstein<indexterm significance="normal">
+            <primary>Loewenstein</primary>
+         </indexterm> (<emphasis role="CitationRef">
+            <phrase>1991</phrase>
+         </emphasis>) also offered a less formal clinical examination: the Office Mental Status Exam for Dissociation (OMSE)<indexterm significance="normal">
+            <primary>Office Mental Status Exam for Dissociation (OMSE)</primary>
+         </indexterm>. These interviews assess the following symptom domains: <emphasis>memory disruption</emphasis>, including blackouts, time loss, fragmentary recall of life history, disremembered behaviors, fugues, and discovery of unexplained possessions; <emphasis>depersonalization and derealization</emphasis>; <emphasis>usual bodily experiences</emphasis>, including somatoform symptoms, analgesia, and negative hallucinations (the ability to ignore or block out sensory information, such as taste or smell); <emphasis>identity confusion and alteration</emphasis>, including passive influence, hearing voices, changes in relationships, fluctuations in skills, habits or knowledge; and <emphasis>trauma and PTSD symptoms</emphasis>.</para>
+      <para role="Para">The SCID-D<indexterm significance="normal">
+            <primary>SCID-D</primary>
+         </indexterm>
+         is<indexterm significance="normal">
+            <primary>is</primary>
+         </indexterm> widely considered the “gold standard” for assessment and differential diagnosis of DDs due to its demonstrated ability to distinguish DDs from other disorders (Brand, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>; Mychailyszyn et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>). This 277-question interview assesses five symptom domains: amnesia, depersonalization, derealization, identity confusion, and identity alteration (see Table <emphasis role="InternalRef">
+            <phrase>11.1</phrase>
+         </emphasis> for examples). The clinician may then select two additional clinical areas for further inquiry, including rapid mood changes, depersonalization, identity confusion, different names/person/childlike parts, internal dialogues, age regression and flashbacks, or feeling of possession. With each question, the client is asked to provide detailed examples of symptoms endorsed, as well as the frequency at which they experience these symptoms and any functional impairment. This interview requires training because it relies on clinical judgment to determine whether a response is consistent with dissociation. It provides a greater level of detail in comparison to the DDIS, which focuses solely on the client’s report of yes or no in regard to symptoms. The SCID-D-R<indexterm significance="normal">
+            <primary>SCID-D-R</primary>
+         </indexterm> has excellent interrater reliability and test–retest reliability and can distinguish DID from feigned dissociation and schizophrenia.<phrase>1991</phrase>
+         <phrase>11.3</phrase>Table 11.3</para>
+      Loewenstein’s<indexterm significance="normal">
+         <primary>Loewenstein’s</primary>
+      </indexterm>
+      OMSE<indexterm significance="normal">
+         <primary>OMSE</primary>
+      </indexterm>
+      <para role="SimplePara">Office mental status interview<indexterm significance="normal">
+            <primary>interview</primary>
+         </indexterm> for assessing dissociation</para>
+      <table id="ch0013s0002ta03">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Domain</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Example questions</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Blackout/time loss</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you have difficulties remembering events in your life?</para>
+                     <para role="SimplePara">Do you have blank spells when not under the influence of substances?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Disremembered behavior</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you have moments where you are uncertain if you did something or if it was a dream?</para>
+                     <para role="SimplePara">Do people talk about things you did that you have no memory of?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Fugues</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you ever travel somewhere without remembering the journey or purpose of the trip?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Unexplained possessions</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you find possessions (e. g., clothes, groceries, books) that you do not remember buying? Are any of these items unusual for you?</para>
+                     <para role="SimplePara">Do you experience confusion about purchases on your bank statement?</para>
+                     <para role="SimplePara">Do you find creations, such as writing or art, that you are certain you completed but you have no recollection of producing?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Changes in relationships</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you notice people becoming angry or happy with you for reasons you cannot explain?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Fluctuations in skill/habits/knowledge</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you notice significant changes in your ability to complete tasks, with one day being easy and the next very difficult?</para>
+                     <para role="SimplePara">Do your routines or preferences (e. g., food, music) seem to shift?</para>
+                     <para role="SimplePara">Do you notice changes in what hand you use to do things or your writing style/penmanship?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Fragmentary recall of life history</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you have difficulty recalling certain periods of your life?</para>
+                     <para role="SimplePara">How much do you remember of your childhood? Is it difficult to remember?</para>
+                     <para role="SimplePara">Are there important events, such as the birth of a child or work promotion, that you do not remember?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Intrusion/overlap/interference (passive influence)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you notice thoughts or emotions that do not seem to be yours? Do you have difficulty controlling them when they are present?</para>
+                     <para role="SimplePara">Do you have urges to engage in behaviors that are not usual for you?</para>
+                     <para role="SimplePara">Do you hear conversations in your mind that seem as if it is two different people?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Negative hallucinations</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Can you make aspects of your environment, such as people or objects, disappear?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Analgesia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Can you dull or ignore physical pain with ease? Does this happen all the time or just sometimes?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Depersonalization/derealization</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Do you ever see yourself engaging in behavior, but it’s like you are watching from a distance or the ceiling?</para>
+                     <para role="SimplePara">Do you ever feel that parts of your body or thoughts are unreal?</para>
+                     <para role="SimplePara">Do you notice the world is foggy or that locations you have been to before appear strange?</para>
+                     <para role="SimplePara">Do you ever experience confusion when looking in the mirror?</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="SimplePara">
+         <emphasis>Note.</emphasis> Selected examples adapted from “Dissociative Disorders: An Overview of Assessment, Phenomenology and Treatment,” by B. L. Brand and R. J. Loewenstein, 2010, <emphasis>Psychiatric Times</emphasis>, <emphasis>24,</emphasis> p. 64</para>
+      <para role="Para FirstParaInFormalPara">When interviewing<indexterm significance="normal">
+            <primary>interviewing</primary>
+         </indexterm> for dissociation, it is imperative to reinforce the client’s autonomy. Brand (<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>) recommends that the clinician explicitly remind clients they control their responses and may take breaks or discontinue the interview if needed. Until an alliance is formed, with triggers and coping strategies known, clinicians should assist clients in using containment and grounding strategies if they begin to dissociate, get overly detailed about trauma, or become distressed. Grounding focuses on bringing the client’s attention back to the present moment, with a focus on reducing dissociation. Examples include asking the individual to look around while describing five things in the room, using movement to help them feel their body such as pushing their feet into the ground, or orienting to the present moment (e. g., asking the city they are in or the current date).</para>
+      <para role="Para">Although the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> therapeutic relationship is always important in assessment and treatment, building rapport and an alliance is even more critical among dissociative traumatized individuals who have a history of being harmed by others (Brand, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>; International Society for the Study of Dissociation et al., <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>). Clients often assume any interpersonal difficulty is their fault and is evidence of their bad/wrong/brokenness, further reinforcing the shame cycle. It is critical to note that these experiences can be activated during the interview process and behavioral indicators of shame may be difficult to detect. The interactive complexities between shame and dissociation can be important diagnostically, yet also create difficulties in obtaining an accurate picture of a client’s<indexterm significance="normal">
+            <primary>client’s</primary>
+         </indexterm>current symptoms.</para>
+      <para role="Para FirstParaInFormalPara">It is important<indexterm significance="normal">
+            <primary>important</primary>
+         </indexterm> the clinician carefully track both interview content and process for signs of possible dissociation. Clients with a DD often have moments of incoherent, noncohesive, or even contradictory elements in their narrative (Steinberg, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Brand (<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>) described a variety of dissociative phenomena including short memory lapses, trance states, and subtle or, more rarely, florid behavioral changes. For example, dissociative clients may lose their train of thought more than is typical, frequently ask the clinician to repeat questions, or have little or no memory of what was discussed during a prior or earlier part of a meeting. Subtle<indexterm significance="normal">
+            <primary>Subtle</primary>
+         </indexterm>or significant behavioral changes may also be evident, including eye movements (e. g., unusual amounts of eye rolling, rapid blinking, eye closure, blurred/blinded vision), mannerisms such as repeatedly covering their eyes, and changes in posture (e. g. shifting from upright into a “collapsed” or even curled up, child-like position), facial expressions, voice, speech,and<indexterm significance="normal">
+            <primary>and</primary>
+         </indexterm>affect (Brand, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>; Loewenstein, <emphasis role="CitationRef">
+            <phrase>1991</phrase>
+         </emphasis>).</para>
+      <para role="Para FirstParaInFormalPara">A hallmark<indexterm significance="normal">
+            <primary>hallmark</primary>
+         </indexterm>of some DDs is memory disruption that cannot be explained by a medical condition or substance use. These disturbances include gaps in autobiographical memory, time loss or blackouts, fugues, disremembered behaviors, and unexplained possessions. This fragmentary recall may be described as missing “chunks of time” or memories being “really fuzzy.” The individual may know of experiences that are normally remembered because others have told them stories or shown them photographs, but they do not actually remember participating in the event, including even important events (e. g., their wedding, the birth of their child), or a large gap such as their entire middle school years (Brand,<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Such memory gaps usually occur in the remote past as well as in adulthood for complex dissociation. These blank spells extend beyond normal forgetfulness and are often distressing. Jennie, a woman living with DID, remarked, “I have such a bad memory. I look at the clock and see that 2 hours have passed and I have no idea what I’ve been<indexterm significance="normal">
+            <primary>been</primary>
+         </indexterm>doing! I think as hard as I can, trying to remember, but nothing is there—it is like a black hole.”</para>
+      <para role="Para">Individuals with DDs may report discovering evidence that they have engaged in an activity for which they have no memory. For example, they may find writings or drawings that they do not recall producing. Others may discover clothing they must have purchased, or that possessions are gone and they have no recollection of getting rid of the items. Family and friends may also remark that they have said or done something for which they have no memory. Paul, a man living with DID, explained, “My wife and I often quarrel because she says I have promised to do something, but I really do not remember discussing it. Sometimes I even find things I must have written around the house, but I swear, I can’t remember writing it.” Others will describe marks or injuries on their body with no memory of how they obtained them. In some<indexterm significance="normal">
+            <primary>some</primary>
+         </indexterm> severe cases, the person may experience fugue states, finding themselves in a location with no memory of traveling or the purpose of the trip. These disremembered behaviors, discussions, and unexplained possessions are not a one-time occurrence but most often are part of a behavioral pattern that suggests the person suffers from a range<indexterm significance="normal">
+            <primary>range</primary>
+         </indexterm> of dissociative symptoms.</para>
+      <para role="Para FirstParaInFormalPara">
+         Depersonalization and derealization<indexterm significance="normal">
+            <primary>Depersonalization and derealization</primary>
+         </indexterm> are altered perceptual experiences wherein the individual feels disconnected from themselves (“<emphasis>I’m</emphasis> not here”) or the world (“I’m not <emphasis>here</emphasis>”). Depersonalization and derealization often occur during or after trauma, yet for those with DDs, they frequently recur in times of stress. Derealization may be described as seeing through a “fog,” or living in a “daze” or “dream.” Depersonalization may be described as feeling “outside oneself” or “floating above” one’s body, watching things happen as if it were happening to another person, or feeling inhuman (e. g., “like a robot”). Lisa, a woman diagnosed with depersonalization disorder, stated, “I’m almost never in my body. I just kind of float out and hover above it, just watching everything happen like it is a movie. It is happening to me, but not<indexterm significance="normal">
+            <primary>not</primary>
+         </indexterm> happening to me.”</para>
+      <para role="Para FirstParaInFormalPara">People with DDs often experience somatoform symptoms<indexterm significance="normal">
+            <primary>symptoms</primary>
+         </indexterm>that cannot be medically explained, such as nonepileptic seizures, unexplained sensations or pains (e. g., pain in genitals), numbness, sudden paralysis, and shifting acuity in eyesight (Loewenstein,<emphasis role="CitationRef">
+            <phrase>1991</phrase>
+         </emphasis>). Some people report the ability to block out physical or emotional pain. Unlike those with borderline personality disorder, who tend to self-harm to stop numbness or depersonalization because they find it intolerable, individuals with DDs more frequently use self-harm to <emphasis>invoke</emphasis> analgesia or depersonalization because they prefer to be dissociated than feel emotions or their bodies (Brand, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). As such, an understanding of the functions of self-directed violence can be informative. Finally, it is not uncommon for people with DDs to report an aptitude for blocking<indexterm significance="normal">
+            <primary>blocking</primary>
+         </indexterm> out people, objects, or sounds in their environment.</para>
+      <para role="Para FirstParaInFormalPara">Individuals with DDs frequently report a sense of confusion<indexterm significance="normal">
+            <primary>confusion</primary>
+         </indexterm> about their identity, likes and dislikes, and skills or abilities. Contrary to dramatic media portrayals of DDs, most people with DID seek to hide symptoms of identity confusion or alteration, and their shifts in identity tend to be subtly expressed (Brand, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>).</para>
+      <para role="Para">
+         <emphasis>Passive influence</emphasis>occurs in the presence of distinct self-states when one or more overlap to influence the person’s thoughts, feelings, or behaviors. Both individuals with DID and those with the similar form of OSDD, who experience fragmented self-states without amnesia between them, report passive influence phenomena. This experience can be felt as a “war inside,” with conflicting opinions or demands about what to say, think, or do (e. g., arguing with one’s self for hours about what to wear or eat). Some people describe feeling like a “puppet,” with someone or something else inside them forcing them to be silent, to say things they do not wish to say, or to show emotions for no reason. As a result, it can appear as if the individual demonstrates rapid mood changes. Additionally, many people with DID report feeling suddenly much younger than their actual age (e. g., a middle-aged woman suddenly experiences herself as a very young child). Some people will look in the mirror and see someone other than themselves (e. g., of a different age, gender, or ethnicity). Others may call them by different names yet seem to know them. These experiences can be quite unsettling and frightening to admit or discuss.</para>
+      <para role="Para">
+         Fluctuations<indexterm significance="normal">
+            <primary>Fluctuations</primary>
+         </indexterm>in skills, habits, or knowledge are common among more severe DDs. For example, they may produce skillful art or be able to operate a machine one day but have no ability to do so the next. Some clients will report suddenly not being able to drive. Others may describe baffling changes in handedness or preferences for food, music, or friends. Additionally, many people with severe DDs describe significant changes in handwriting that cannot be explained by fatigue (e. g., writing changes size, style, or developmental level).</para>
+      <para role="Para">Finally, auditory hallucinations of voices or conversations are common among those with complex DDs, typically beginning in childhood. These voices may sound like people from the client’s past, or be childlike, harsh/denigrating, or protective and comforting.Dorahy<indexterm significance="normal">
+            <primary>Dorahy</primary>
+         </indexterm> et al. (<emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>) compared voice hearing among clients with DID and schizophrenia. Unlike those living with schizophrenia, clients with DID often report hearing multiple voices in conversation at the same time. Dorahy<indexterm significance="normal">
+            <primary>Dorahy</primary>
+         </indexterm>et al. (<emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>) also found that people with DID hear voices at a younger age, multiple voices that may comment on activities or converse, and child voices. Therefore, it is important not to assume a psychotic presentation when someone reports hearing voices and to ask follow-up questions<indexterm significance="normal">
+            <primary>questions</primary>
+         </indexterm> to differentiate whether they are consistent with a DD.</para>
+      <para role="Para FirstParaInFormalPara">
+         Assessing<indexterm significance="normal">
+            <primary>Assessing</primary>
+         </indexterm>trauma history is important regardless of presentation. The vast majority of individuals living with DDs are survivors of childhood maltreatment and meet criteria for PTSD (Dalenberg et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>, <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). Intrusive images, flashbacks, nightmares, hypervigilance, and avoidance behaviors are common. Self-injurious behaviors are prevalent among those with complex DD, ranging from 24% to 77.5% (Foote et al., <emphasis role="CitationRef">
+            <phrase>2008</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0013s0002s02" role="Heading">
+      <title>Self-Report Measures</title>
+      <para role="Para">
+         Self-report measures<indexterm significance="normal">
+            <primary>Self-report measures</primary>
+         </indexterm> can be useful in screening symptoms for diagnostic clarification, as well as tracking progress in therapy. However, it is critical to note that highly dissociative individuals may under-endorse symptoms for a variety of reasons (see below). The following measures have solid evidence for reliability and validity.</para>
+      <para role="Para FirstParaInFormalPara">
+         Because<indexterm significance="normal">
+            <primary>Because</primary>
+         </indexterm> trauma creates a variety of negative outcomes, including dissociation, measures that assess a breadth of symptoms can be helpful. Both the Trauma Symptom Inventory-2 (TSI-2)<indexterm significance="normal">
+            <primary>Trauma Symptom Inventory-2 (TSI-2)</primary>
+         </indexterm> (Briere, <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>) and Detailed Assessment of Posttraumatic Stress (DAPS)<indexterm significance="normal">
+            <primary>and Detailed Assessment of Posttraumatic Stress (DAPS)</primary>
+         </indexterm> (Briere, <emphasis role="CitationRef">
+            <phrase>2001</phrase>
+         </emphasis>) assess a variety of posttraumatic symptoms, including dissociation. Although scales on these measures may indicate the presence of dissociation, they do not provide detailed information about<indexterm significance="normal">
+            <primary>about</primary>
+         </indexterm>the specific symptoms experienced (e. g., amnesia), so are considered to be screens for dissociation, rather than diagnostic of DDs.</para>
+      <para role="Para FirstParaInFormalPara">Several common<indexterm significance="normal">
+            <primary>common</primary>
+         </indexterm> dissociation measures primarily focus on a single score that is suggestive of the presence of dissociation. Similar to the broad trauma measures, the measures that yield a single score do not indicate which specific category of dissociative symptoms are present. However, these measures are valuable because they are quick to administer and score. High scores indicate the need for further exploration. The most common tool is the Dissociative Experiences Scale (DES)<indexterm significance="normal">
+            <primary>Dissociative Experiences Scale (DES)</primary>
+         </indexterm> (Bernstein &amp; Putnam, <emphasis role="CitationRef">
+            <phrase>1986</phrase>
+         </emphasis>). The DES-II is a 28-item measure that assesses the frequency of dissociative experiences through daily<indexterm significance="normal">
+            <primary>daily</primary>
+         </indexterm> life. Scores over 30 are considered high in dissociation, with an average score of 48 for those diagnosed with DID. Other helpful screeners include<indexterm significance="normal">
+            <primary>include</primary>
+         </indexterm>the Somatoform Dissociation Questionnaire (SDQ)<indexterm significance="normal">
+            <primary>Somatoform Dissociation Questionnaire (SDQ)</primary>
+         </indexterm> (Nijenhuis et al., <emphasis role="CitationRef">
+            <phrase>1996</phrase>
+         </emphasis>) and the Cambridge Depersonalization Scale (CDS) (Sierra &amp; Berrios, <emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>).</para>
+      <para role="Para FirstParaInFormalPara">When a dissociation score is found to be close to<indexterm significance="normal">
+            <primary>to</primary>
+         </indexterm> or higher than the cutoff on a screening<indexterm significance="normal">
+            <primary>screening</primary>
+         </indexterm>or global trauma measure, further assessment for a DD is indicated, preferably with one of the following more detailed self-report measures as well as an interview for DDs. The Multiscale Dissociation Inventory (MDI)<indexterm significance="normal">
+            <primary>Multiscale Dissociation Inventory (MDI)</primary>
+         </indexterm> (Briere, <emphasis role="CitationRef">
+            <phrase>2002</phrase>
+         </emphasis>) is a self-report scale that assesses five different dissociative symptoms. The MDI does not have validity scales, so assessors must be aware that under- or over-reporting is not detected by the MDI. The Multidimensional Inventory of Dissociation (MID)<indexterm significance="normal">
+            <primary>Multidimensional Inventory of Dissociation (MID)</primary>
+         </indexterm> (Dell, <emphasis role="CitationRef">
+            <phrase>2006b</phrase>
+         </emphasis>) is a 218-item self-report measure that provides a wealth of information about types of severe dissociation. The MID has several validity<indexterm significance="normal">
+            <primary>validity</primary>
+         </indexterm>scales and scales to assess for features of borderline personality disorder, but assessors are cautioned that the MID does not use a set time frame for experiencing symptoms. If concerning items are endorsed, it is important to determine if the symptoms are current and evaluate items related to exaggerating symptoms for attention. Finally, the DDIS (Ross, <emphasis role="CitationRef">
+            <phrase>n. d.</phrase>
+         </emphasis>) has been<indexterm significance="normal">
+            <primary>been</primary>
+         </indexterm> expanded to include<indexterm significance="normal">
+            <primary>include</primary>
+         </indexterm> a self-report version.</para>
+   </sect2>
+   <sect2 id="ch0013s0002s03" role="Heading">
+      <title>Performance-Based Measures</title>
+      <para role="Para">
+         Performance-based measures<indexterm significance="normal">
+            <primary>Performance-based measures</primary>
+         </indexterm> such as the Rorschach (Exner &amp; Erdberg, <emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>) and Thematic Apperception Test (TAT; Murray, <emphasis role="CitationRef">
+            <phrase>1943</phrase>
+         </emphasis>) can help identify DDs and differentiate them from other disorders by allowing the client to express important internal experiences without discussing them directly (Brand et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>). Statistically significant differences exist on the Rorschach between those with DDs and those without, or those living with borderline personality disorder, or schizophrenia (see Brand et al., <emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>). Further, clients with dissociation may respond with themes of disconnection, trauma, and interpersonal isolation, as well as have dissociative reactions when providing<indexterm significance="normal">
+            <primary>providing</primary>
+         </indexterm> responses to the TAT (Pica et al., <emphasis role="CitationRef">
+            <phrase>2001</phrase>
+         </emphasis>)</para>
+   </sect2>
+</sect1>

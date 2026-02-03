@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0001" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0018s0009</risprev>
+         <riscurrent>sect1.9781071643624.ch0018s0001</riscurrent>
+         <risnext>sect1.9781071643624.ch0018s0002</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>16. Personality Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Description of the Disorders</title>
+   <para role="Para">Key characteristics<indexterm significance="normal">
+         <primary>characteristics</primary>
+      </indexterm> of personality disorders (PDs)<indexterm significance="normal">
+         <primary>personality disorders (PDs)</primary>
+      </indexterm> are maladaptive patterns of thoughts, feelings, perceptions, and/or behaviors that are broad, enduring, and dysfunctional. Personality patterns of PDs are wide-ranging and apply across nearly all contexts of a person’s life. These personality patterns have onsets that can be traced back to at least adolescence or early adulthood. Finally, PDs are characterized by dysfunctional personality patterns that are inflexible and extreme variants of personality characteristics found in the general population.</para>
+   <para role="Para">Estimates from community samples indicate that between 9 and 14% of adults in the USA would meet diagnostic criteria<indexterm significance="normal">
+         <primary>criteria</primary>
+      </indexterm> for at least one specific PD (Eaton &amp; Greene, <emphasis role="CitationRef">
+         <phrase>2018</phrase>
+      </emphasis>). However, some have argued these estimates may be underestimated as individuals with PDs are not always aware of the impact their behavior has on other people and may be unable to identify the presence of their own maladaptive traits (Huprich et al., <emphasis role="CitationRef">
+         <phrase>2011</phrase>
+      </emphasis>). Prevalence rates of PDs are generally higher in high-income countries compared with low- and middle-income countries (Winsper et al., <emphasis role="CitationRef">
+         <phrase>2020</phrase>
+      </emphasis>). This may be attributable to variations in behavioral norms across countries (e. g., individualistic versus collectivist societies) or cultural differences that impact the<indexterm significance="normal">
+         <primary>the</primary>
+      </indexterm> validity of diagnostic traits and categories.</para>
+   <sect2 id="ch0018s0001s01" role="Heading">
+      <title>Categorical Model of Personality Disorder</title>
+      <para>
+         <phrase>2013</phrase>
+         <phrase>2020</phrase>
+         <phrase>16.1</phrase>Table 16.1</para>
+      personality<indexterm significance="normal">
+         <primary>personality</primary>
+      </indexterm>
+      are<indexterm significance="normal">
+         <primary>are</primary>
+      </indexterm>
+      <para role="SimplePara">Categorical and dimensional<indexterm significance="normal">
+            <primary>dimensional</primary>
+         </indexterm>descriptions of personality disorders</para>
+      <table id="ch0018s0001ta01">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Defining characteristics</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Summary of AMPD functioning and traits</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">Cluster A</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Paranoid</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Distrust and suspiciousness; others’ motives are interpreted as malevolent</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">–</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Schizoid</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Detachment and disinterest in social relationships; restricted range of emotional expression</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">–</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Schizotypal</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Acute discomfort in close relationships, cognitive/perceptual distortions, and behavioral eccentricities</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis>Criterion A:</emphasis> confused boundaries between self and others; distorted self-concept; emotional expression not congruent with context or internal experience; unrealistic or incoherent goals; unclear internal standards; difficulty understanding impact of own behaviors; misinterpretations of others’ motivations and behaviors; impairment developing close relationships, due to mistrust and anxiety</para>
+                     <para role="SimplePara">
+                        <emphasis>Criterion B:</emphasis> cognitive and perceptual dysregulation, unusual beliefs and experiences, eccentricity, restricted affectivity, withdrawal, suspiciousness</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">Cluster B</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Antisocial</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Disregard for and violation of the rights of others that begins in childhood/early adolescence</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis>Criterion A:</emphasis> egocentricity, absence of prosocial standards; failure to conform to lawful behavior; lack of concern for others; lack of remorse; exploitative; uses deceit, coercion, dominance, and intimidation to fill interpersonal needs</para>
+                     <para role="SimplePara">
+                        <emphasis>Criterion B (6 of 7):</emphasis> manipulativeness, callousness, deceitfulness, hostility, risk-taking, impulsivity, irresponsibility</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Borderline</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Instability in personal relationships, self-image, and affects, and marked impulsivity</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis>Criterion A:</emphasis> impoverished, poorly developed, or unstable self-image; chronic feelings of emptiness; dissociative states; unstable goals, aspirations, values, or career plans; difficulties recognizing feelings and needs of others; biased toward negative attributes or vulnerabilities; intense, unstable, and conflicted close relationships, mistrust, neediness, and anxious preoccupation with real or imagined abandonment; relationships viewed in extremes of idealization and devaluation</para>
+                     <para role="SimplePara">
+                        <emphasis>Criterion B (4 of 7):</emphasis> requires impulsivity, risk-taking, or hostility; emotional lability, anxiousness, separation insecurity, depressivity</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Histrionic</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Excessive emotionality and attention seeking</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">–</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Narcissistic</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Grandiosity, need for admiration, and lack of empathy</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis>Criterion A:</emphasis> excessively refers to others for self-definition and self-esteem; exaggerated self-appraisal may be inflated or deflated, or vacillate; emotion regulation mirrors fluctuation in self-esteem; goal-setting based on getting approval; personal standards unreasonably high to see oneself as exceptional, or too low based on a sense of entitlement; unaware of motivations; impaired ability to recognize/identify feelings and needs of others; excessively attuned to others’ reactions; over-/underestimate of own effect on others; relationships largely superficial and exist to regulate self-esteem; mutuality constrained by little interest in others’ experience <emphasis>Criterion B (2 of 2):</emphasis> grandiosity,<superscript>a</superscript> attention-seeking<superscript>a</superscript>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">Cluster C</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Avoidant</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis>Criterion A:</emphasis> low self-esteem, views self as socially inept, personally unappealing, or inferior; excessive feelings of shame; unrealistic standards for behavior, reluctance to pursue goals, take personal risk, and engage in new activities; preoccupation with, and sensitivity to criticism or rejection; distorted inference of other’s perspective as negative; reluctance to get involved unless certain of being liked; diminished mutuality due to fear of being shamed or ridiculed</para>
+                     <para role="SimplePara">
+                        <emphasis>Criterion B (3 of 4):</emphasis> anxiousness,<superscript>a</superscript> withdrawal, anhedonia, intimacy avoidance</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Dependent</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Submissive and clinging behavior related to an excessive need to be taken care of</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">–</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Obsessive compulsive</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Preoccupation with orderliness, perfectionism, and control</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis>Criterion A:</emphasis> sense of self predominately from work/productivity; constricted experience/expression of strong emotions; difficulty completing tasks and realizing goals, due to rigid and unreasonably high and inflexible internal standards of behavior; overly conscientious and moralistic; difficulty understanding and appreciating ideas, feelings, or behaviors of others; relationships secondary to work and productivity; rigidity and stubbornness negatively affect relationships</para>
+                     <para role="SimplePara">
+                        <emphasis>Criterion B:</emphasis> rigid perfectionism,<superscript>a</superscript> perseveration, intimacy avoidance, restricted affectivity</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="SimplePara">
+         <superscript>a</superscript> Required for diagnosis</para>
+      <para role="Para">
+         Categorical<indexterm significance="normal">
+            <primary>Categorical</primary>
+         </indexterm>approaches to the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> classification of PDs have provided many benefits, including ease of communication and descriptions among clinicians and aiding the development of treatments for PDs. However, current categorical classification systems have serious limitations and threats to validity due to the high comorbidity between PDs and high heterogeneity within PDs. Individuals can be diagnosed with multiple PDs which provides evidence that PDs as defined in categorical models may be due to underlying maladaptive personality facets rather than distinct syndromes (Widiger et al., <emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>). Multiple PD diagnoses are also very stigmatizing. Additionally, due to the way diagnostic criteria currently exist in DSM-5-TR Section II, two individuals can be diagnosed with the same PD and share few to no symptoms<indexterm significance="normal">
+            <primary>symptoms</primary>
+         </indexterm> in common.</para>
+   </sect2>
+   <sect2 id="ch0018s0001s02" role="Heading">
+      <title>Dimensional Models of Personality Disorder</title>
+      <sect3 id="ch0018s0001s02s01" role="Heading">
+         <title>Alternative Model of Personality Disorder</title>
+         <para role="Para">The AMPD<indexterm significance="normal">
+               <primary>AMPD</primary>
+            </indexterm> contained in Section III of DSM-5-TR is built on the premise that PDs are not categorical but rather<indexterm significance="normal">
+               <primary>rather</primary>
+            </indexterm>dimensional constructs, as supported by decades of research. Dimensional views of PDs are connected both to scientific evidence and utility (Bender, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>; Tyrer et al., <emphasis role="CitationRef">
+               <phrase>2015</phrase>
+            </emphasis>). The AMPD requires both impairments in personality functioning (Criterion A) and a<indexterm significance="normal">
+               <primary>a</primary>
+            </indexterm> manifestation of pathological personality traits (Criterion B) in order to diagnose personality disorder. Criterion A is operationalized by the Levels of Personality Functioning Scale (LPFS)<indexterm significance="normal">
+               <primary>Levels of Personality Functioning Scale (LPFS)</primary>
+            </indexterm> which assesses four dimensions of impaired personality functioning to differentiate five levels of impairment, ranging from little or no impairment (0) to extreme impairment (4). The LPFS results in a single score that covers the four areas of core pathology in all PDs. Two dimensions are in the area of self-functioning (identity and self-direction) and two are in the area of interpersonal functioning (empathy and intimacy). To meet the requirements of AMPD Criterion A, a moderate<indexterm significance="normal">
+               <primary>moderate</primary>
+            </indexterm>or greater level of impairment (level of 2 or higher) in personality functioning is necessary to diagnose a PD. Personality functioning appears to be a better predictor for psychosocial functioning than DSM-IV PDs (Buer Christensen et al., <emphasis role="CitationRef">
+               <phrase>2020</phrase>
+            </emphasis>; Morey et al., <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>) and is a better predictor for dropout in psychotherapy for PDs than the DSM-IV categories (Busmann et al., <emphasis role="CitationRef">
+               <phrase>2019</phrase>
+            </emphasis>).<phrase>16.2</phrase>
+            <phrase>2016</phrase>Table 16.2</para>
+         requires<indexterm significance="normal">
+            <primary>requires</primary>
+         </indexterm>
+         five-factor model of personality (FFM)<indexterm significance="normal">
+            <primary>five-factor model of personality (FFM)</primary>
+         </indexterm>
+         openness<indexterm significance="normal">
+            <primary>openness</primary>
+         </indexterm>
+         <para role="SimplePara">Description of AMPD and FFM domains<indexterm significance="normal">
+               <primary>domains</primary>
+            </indexterm>
+         </para>
+         <table id="ch0018s0001ta02">
+            <title/>
+            <tgroup cols="4">
+               <colspec colname="c1" colnum="1"/>
+               <colspec colname="c2" colnum="2"/>
+               <colspec colname="c3" colnum="3"/>
+               <colspec colname="c4" colnum="4"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">AMPD domain</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">FFM domain</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">HiTOP domain</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Description</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Negative affectivity</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Neuroticism</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Internalizing</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Frequent and intense experiences of high levels of a wide range of negative emotions and behavioral and interpersonal manifestations</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Detachment</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">(Low) extraversion</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Detachment</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Avoidance of socioemotional experience, including withdrawal from interpersonal interactions and restricted affective experience/expression</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Antagonism</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">(Low) agreeableness</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Antagonistic externalizing</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Behaviors that put individual at odds with others people, encompassing lack of awareness of others’ needs and feelings and a readiness to use others in the service of self-enhancement</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Disinhibition</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">(Low) conscientiousness</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Disinhibited externalizing</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Orientation toward immediate gratification, leading to impulsive behavior driven by current thoughts, feelings, and external stimuli, without regard for past learning or consideration of future consequences</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Psychoticism</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Openness to experience</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Thought disorder</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Exhibiting a wide range of culturally incongruent odd, eccentric, or unusual behaviors and cognitions</para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <para role="Para">The maladaptive traits of the AMPD can be measured using the Personality Inventory for DSM-5-TR (PID-5) self-report or informant versions. One limitation of the AMPD is that it does not specify how to determine clinical significance of traits or facets. DSM-5-TR merely states “if a trait is elevated—that is,formal<indexterm significance="normal">
+               <primary>formal</primary>
+            </indexterm>psychometric testing and/or interview data support the clinical judgment of elevation—then it is considered as contributing to meeting Criterion B” (American Psychiatric Association, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>). It has been suggested that clinicians use established PID-5 norms to compute standard scores and define “high scores” with a conventional cut-off (e. g., 65 or 70 T) with either PID-5 self-report or informant forms.</para>
+         <para role="Para">While the AMPD uses<indexterm significance="normal">
+               <primary>uses</primary>
+            </indexterm>a primarily dimensional approach, it allows for the classification of six specific PDs: antisocial, avoidant, borderline, narcissistic, obsessive-compulsive, and schizotypal. To give the specification of each personality disorder, a number of maladaptive traits specific to each disorder are required. The traits characterizing these six PDs in the AMPD are detailed in Table <emphasis role="InternalRef">
+               <phrase>16.1</phrase>
+            </emphasis>. Beyond the six specific PD classifications defined in the AMPD, the diagnosis of personality disorder-trait specified (PD-TS) may be given when a PD is considered present but the criteria for a specific disorder are not met. This category allows for diagnoses based on specific<indexterm significance="normal">
+               <primary>specific</primary>
+            </indexterm>impairments in personality functioning and enables clinicians to clearly describe what maladaptive personality traits make up the individual’s PD, an aspirational improvement from previously given<indexterm significance="normal">
+               <primary>given</primary>
+            </indexterm> PD-Not Otherwise Specified diagnoses in the DSM categorical system.</para>
+      </sect3>
+      <sect3 id="ch0018s0001s02s02" role="Heading">
+         <title>International Classification of Diseases, 11th Edition</title>
+         <para role="Para">The International Classification of Diseases, 11th edition (ICD-11)<indexterm significance="normal">
+               <primary>International Classification of Diseases, 11th edition (ICD-11)</primary>
+            </indexterm> has moved away from the categorical classification of PDs to a dimensional classification system somewhat similar to DSM-5-TR AMPD. Most notably, the ICD-11 merged all distinct PDs into one diagnostic category: personality disorder, with the ability to code for the severity of the PD. The ICD-11 system consists of two required steps to make a PD diagnosis and two additional steps to provide further description of the individual’s personality disturbance. The first step consists of assessment<indexterm significance="normal">
+               <primary>assessment</primary>
+            </indexterm> whether the individual’s difficulties meet the general requirements for a PD diagnosis. Similar to criterion A of the AMPD, disturbances in both self and interpersonal functioning must be both present and enduring (defined as lasting a minimum of two years) across<indexterm significance="normal">
+               <primary>across</primary>
+            </indexterm>a range of personal and social situations and not limited to single contexts. ICD-11 defines self-dysfunction as persistent difficulties in maintaining a stable sense of identity, a pervasive sense of impoverished or highly over-valued self-worth, inaccuracies in self-perception, or challenges in self-direction and decision-making. Interpersonal dysfunction is defined as persistent difficulties in making and sustaining close relationships or in the ability to understand other people’s perspectives. Features of both self- and interpersonal dysfunction manifest in maladaptive patterns of cognition, emotional experience and expression, and behavior. Additionally, the individual’s developmental context must be considered (e. g., a certain degree of unstable identity is normative among adolescents).</para>
+         <para role="Para">The second<indexterm significance="normal">
+               <primary>second</primary>
+            </indexterm>
+            necessary<indexterm significance="normal">
+               <primary>necessary</primary>
+            </indexterm> step needed to make a PD diagnosis in ICD-11 is an assessment of the severity of the difficulties experienced. Areas examined are the degree and pervasiveness of disturbance in the person’s relationships and their sense of self, the intensity and breadth of the emotional, cognitive, and behavioral manifestations of the person’s disturbance, the extent to which these patterns and problems cause distress or psychosocial impairment, and the level of risk of harm to self and others. These difficulties are then holistically rated as mild, moderate, or severe difficulties.</para>
+         <para role="Para">The third step, which is not required to make a PD diagnosis in ICD-11, involves further assessment of the person’s personality trait domains to more comprehensively describe an individual’s personality disturbance. ICD-11 describes five trait domain specifiers that are continuous with normal<indexterm significance="normal">
+               <primary>normal</primary>
+            </indexterm> personality characteristics, consistent with the FFM: negative affectivity, detachment, dissociality, disinhibition<indexterm significance="normal">
+               <primary>disinhibition</primary>
+            </indexterm>, and anankastia. Negative affectivity, detachment, and disinhibition are largely the same as described in the AMPD, whereas dissociality aligns with disinhibition as described in the AMPD. People high in this trait may demonstrate a sense of entitlement, expecting others to admire them and wish to be at the center of other people’s attention, dramatically expressing their dissatisfaction if others do not respond in the way they desire. Dissociality may lead to a disregard of the importance of others and the person may have a relentless focus on their own needs, desires, and comfort. Anankastia is described as a very clear and detailed personal sense of perfection and imperfection that extends beyond the typical standards of an individual’s community. Individuals high in this trait may believe strongly that everyone should follow all rules exactly and meet all obligations.</para>
+         <para role="Para">A final optional step<indexterm significance="normal">
+               <primary>step</primary>
+            </indexterm> allows clinicians to apply a borderline pattern specifier, if appropriate. The<indexterm significance="normal">
+               <primary>The</primary>
+            </indexterm>diagnostic features are essentially the same as the DSM-5-TR BPD symptoms, including the nine categorical symptoms of borderline PD as well as (1) a view of the self as inadequate, bad, guilty, disgusting, and contemptible; (2) an experience of the self as profoundly different and isolated from other people; a painful sense of alienation and pervasive loneliness; and (3) proneness to rejection hypersensitivity; problems in establishing and maintaining consistent and appropriate levels of trust in interpersonal relationships; frequent misinterpretation of social<indexterm significance="normal">
+               <primary>social</primary>
+            </indexterm> signals. Unlike the trait specifiers, the borderline pattern specifier requires at least five of the nine core features of borderline PD from DSM-5-TR. This specifier was added to ICD-11 as concern was expressed by the clinical and academic community about continued access to well-established evidence-based treatments.</para>
+         <para role="Para">A final distinctive feature of the ICD-11 is the special case of diagnosis of a PD in adolescence. In line with an overall shift to a lifespan approach in ICD-11, clinicians can make a diagnosis of a PD,as<indexterm significance="normal">
+               <primary>as</primary>
+            </indexterm>
+            appropriate<indexterm significance="normal">
+               <primary>appropriate</primary>
+            </indexterm>, a change from ICD-10 which stated that it is “unlikely that the diagnosis of personality disorder will be appropriate before the age of 16 or 17 years.” This allows the opportunity for early intervention for adolescents whose behaviors may meet the requirements for a diagnosis and yet because of their young age, these behaviors may be less engrained and more open to change. However, the diagnosis of a PD in adolescence still merits caution as other diagnostic descriptions or developments<indexterm significance="normal">
+               <primary>developments</primary>
+            </indexterm> and environmental contexts may better account for exhibited behaviors.</para>
+      </sect3>
+      <sect3 id="ch0018s0001s02s03" role="Heading">
+         <title>Hierarchical Taxonomy of Psychopathology</title>
+         <para role="Para">A more recent approach to classification of psychopathology, including PDs, is the Hierarchical Taxonomy of Psychopathology (HiTOP)<indexterm significance="normal">
+               <primary>Hierarchical Taxonomy of Psychopathology (HiTOP)</primary>
+            </indexterm> framework. HiTOP conceptualizes psychopathology in terms of dimensions rather than categories to avoid problems of arbitrary boundaries<indexterm significance="normal">
+               <primary>boundaries</primary>
+            </indexterm>between disorder and normality as well as difficulties with unclear boundaries between disorders, frequent disorder co-occurrence, heterogeneity within disorders, and diagnostic instability (Kotov et al., <emphasis role="CitationRef">
+               <phrase>2017</phrase>
+            </emphasis>). HiTOP makes use of multilevel classification and therefore avoids subthreshold and “not otherwise specified” diagnoses as everyone can be characterized on a set of dimensions, even individuals with low levels of pathology. The HiTOP model starts with a general factor of psychopathology (p-factor) at the superspectra level and then breaks psychopathology down into six spectra (somatoform, internalizing, thought disorder, disinhibited externalizing, antagonistic externalizing, and detachment). These spectra (with the exception of somatoform, a currently provisional aspect of the framework) have demonstrated alignment with dimensions<indexterm significance="normal">
+               <primary>dimensions</primary>
+            </indexterm>of general personality (i. e., FFM) and personality pathology trait models (i. e., AMPD or ICD-11; Widiger et al.,<emphasis role="CitationRef">
+               <phrase>2019</phrase>
+            </emphasis>). The HiTOP spectra are further specified into subfactors (currently including sexual problems, eating pathology, fear, distress, mania, substance abuse, and antisocial behavior). Below subfactors are dimensional syndromes (e. g., DSM diagnoses)<indexterm significance="normal">
+               <primary>with</primary>
+            </indexterm>homogeneous symptom components and maladaptive traits below (e. g., anxiousness, emotional lability, hostility, identity problems, etc.). This is, in fact, a strength of the HiTOP model, as the dimensional and hierarchical model reduces diagnostic heterogeneity by regrouping related symptoms together and assigning unrelated symptoms to different components. PDs exist across the HiTOP model rather than in one cluster. For example, paranoid and schizoid PDs as defined by DSM-5-TR fall under the Thought Disorders and Detachment spectra, while borderline PD falls under Antagonistic Externalizing and Internalizing Distress subfactors. This hierarchical classification reduces extensive overlap between diagnoses and problematic within-diagnosis heterogeneity that pervades the DSM diagnostic<indexterm significance="normal">
+               <primary>diagnostic</primary>
+            </indexterm> system.</para>
+      </sect3>
+   </sect2>
+</sect1>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0006" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0004s0005</risprev>
+         <riscurrent>sect1.9781071643624.ch0004s0006</riscurrent>
+         <risnext>sect1.9781071643624.ch0004s0007</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>3. Presenting Problem, History of Presenting Problem, and Social History</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Medical History</title>
+   <para role="Para">A bidirectional relationship exists between psychological and medical disorders. Physical disease can either cause or worsen psychological symptoms (e. g., cognitive problems secondary to the effects of heart disease; anxiety in response to heart palpitations). Additionally, most DSM disorders include criteria indicating that symptoms must not result from a medical or physical health concern. As such, clinicians should routinely inquire about the client’s medical history, including whether they have a current relationship with a primary care provider, current vaccination status, recent lab/bloodwork results, past and current health concerns, relevant hospitalizations, surgeries, medical procedures, medications taken in the last year and side effects, and family history of disease.</para>
+   <para role="Para">One approach to assess medical history is to inquire about a broad range of physical health concerns with specific inquiries of those that may be directly related to the presenting problem (see Morrison,<emphasis role="CitationRef">
+         <phrase>2015</phrase>
+      </emphasis> for more information on the relationship between physical and psychological health concerns). At a minimum, clinicians should inquire about the leading causes of death in the United States, including heart disease, cancer, infectious disease (STDs, HIV, tuberculosis, hepatitis C, Lyme disease, and COVID-19), accidents, stroke and cardiopulmonary disease, chronic respiratory diseases, diabetes, and liver disease. Because they may directly impact psychological health, clinicians should also inquire about obvious physical problems, and the client’s history of weight changes, allergies, nutrition and malnutrition, injuries and pain, head trauma, sleep, appetite, sexual and reproductive history, endocrine diseases, and obstetrics history (for clients assigned female at birth). Clinicians should also consider the potential effects of long COVID (mood and cognitive). Problems in the central nervous system may also be the source of psychological concerns. As such, clinicians should inquire about past or current neurological concerns, including weakness, numbness, neuropathy (tingling sensations), headaches, vertigo and dizziness, recent falls, vision problems (blurred or double vision, blind spots, or full blindness), speech production problems, memory difficulties, or changes/loss of consciousness.</para>
+   <para role="Para">For all physical health concerns endorsed by clients, the clinician should inquire about the timeline (e. g., onset and course), treatments, adherence to treatment and treatment response, and the psychological or functional outcomes. The clinician should also consider situations when psychological problems may be secondary to medical factors, such as when the presenting problem is acute or atypical (e. g., sudden attentional problems first manifesting in adulthood), whether the client has responded as expected to mental health treatment, whether the psychological disorder or medical concern came first, and whether the psychological concerns consist of known medication side effects.</para>
+   <sect2 id="ch0004s0006s01" role="Heading">
+      <title>Family Medical and Psychiatric History</title>
+      <para role="Para">Many medical and psychiatric illnesses have a heritable component (e. g., diabetes, Huntington’s disease, Alzheimer’s disease, depression, bipolar disorder, schizophrenia, etc.). As such, clinicians should inquire about a family history<indexterm significance="normal">
+            <primary>history</primary>
+         </indexterm> of psychological, cognitive, or medical health concerns for the client’s biological relatives. Taking a developmental approach, clinicians should also consider whether a client’s primary caregivers experienced serious physical or psychological<indexterm significance="normal">
+            <primary>psychological</primary>
+         </indexterm>health concerns and note any effects the circumstances may have had on family functioning and the client’s mental health and well-being (e. g., caregiver absent from home, effects on family dynamic, assumption of adult responsibilities as a child, etc.).</para>
+   </sect2>
+   <sect2 id="ch0004s0006s02" role="Heading">
+      <title>Medications</title>
+      <para role="Para">Clinicians should obtain a full list of the client’s current medications and those taken in the last year, even if discontinued. For all medications the client is taking, the clinician should obtain information about the dose, frequency, purpose, amount of time the client has taken the medication, side effects, and whether the client takes the medication as prescribed or intended. For clients with suspected neurocognitive deficits<indexterm significance="normal">
+            <primary>deficits</primary>
+         </indexterm>or known functional difficulties, it is important to inquire about the medication’s purpose and whether they know how often they are to take it (e. g., “Why are you taking this medication and how often do you take it?). If a client cannot remember why or how frequently a specific medication is taken, the clinician should inquire about other areas of potential functional concern.<phrase>3.4</phrase>Table 3.4</para>
+      clinicians<indexterm significance="normal">
+         <primary>clinicians</primary>
+      </indexterm>
+      <para role="SimplePara">Medical history sample questions</para>
+      <table id="ch0004s0006ta04">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Area of inquiry</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Sample interview questions</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Health history</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• How would you describe your health now?</para>
+                     <para role="SimplePara">• When was your most recent physical exam? Where any of the results out of the ordinary or unexpected?</para>
+                     <para role="SimplePara">• Have you had any serious illnesses in your life? What were they? Did they result in major treatment or hospitalization?</para>
+                     <para role="SimplePara">• Have you had any surgeries, especially those that required anesthesia?</para>
+                     <para role="SimplePara">• Do you have a history of seizures, periods of high fever, or been hit in the head and lost consciousness?</para>
+                     <para role="SimplePara">• If you were assigned female sex at birth, are you currently pregnant? How many times have you been pregnant? Have you entered menopause?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Family history</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Does anyone in your family have a history of physical or psychological concerns? How did that affect you?</para>
+                     <para role="SimplePara">• Does anyone in your family have a history of suicidal or violent behaviors? How did that affect you?</para>
+                     <para role="SimplePara">• Does anyone in your family have alcohol or substance use problems? How did that affect you?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Medications</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Are you currently taking any medications (either prescription or over the counter)? What are you taking these medications for?</para>
+                     <para role="SimplePara">• Are you currently taking any vitamins, herbal supplements, food supplements, or any other alternative remedies?</para>
+                     <para role="SimplePara">• Have you experienced any side effects (or unwanted effects) to your medications? What happened? How long after the first dose did it occur?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Treatments</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• What treatment are you receiving for the condition? Was the treatment effective? What was the outcome?</para>
+                     <para role="SimplePara">• Are you up to date on your vaccines (COVID, Tdap, flu, HepA, HepB, MMR, tetanus, VAR, other)?</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+</sect1>

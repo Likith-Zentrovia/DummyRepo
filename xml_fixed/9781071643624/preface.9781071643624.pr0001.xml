@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preface id="pr0001" role="cover">
+   <prefaceinfo>
+      <risinfo>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </prefaceinfo>
+   <title>Cover</title>
+   <figure float="0" id="pr0001s0001fg01">
+      <title>Cover</title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Prefacef01.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+</preface>

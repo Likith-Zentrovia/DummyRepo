@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0006" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0014s0005</risprev>
+         <riscurrent>sect1.9781071643624.ch0014s0006</riscurrent>
+         <risnext>sect1.9781071643624.ch0014s0007</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>14</chapternumber>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>12. Somatic Symptom and Related Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Information Critical to Making a Diagnosis</title>
+   <sect2 id="ch0014s0006s01" role="Heading">
+      <title>Differential Diagnosis: Other Medical Conditions</title>
+      <para role="Para">The importance<indexterm significance="normal">
+            <primary>importance</primary>
+         </indexterm> of a differential diagnosis regarding another medical condition varies between the different types of SSRD. The FNSD<indexterm significance="normal">
+            <primary>FNSD</primary>
+         </indexterm>is the diagnostic entity that requires a thorough medical assessment and ruling out any neurological disease that might better explain the symptoms. PFAOMC requires a medical symptom or condition to be present. FD does not exclude the presence of a medical condition and often occurs along with FD as a comorbid condition (e. g., diabetes and manipulating blood sugar test results). IAD also does not exclude the presence of a medical<indexterm significance="normal">
+            <primary>medical</primary>
+         </indexterm>condition. If a medical condition is present, the health anxiety has to be clearly disproportionate to its seriousness. Regarding SSD, it is important to emphasize that just the presence of somatic symptoms either of clear or unclear etiology (e. g., irritable bowel syndrome) is not sufficient to make the diagnosis. There must be psychological symptoms (cognitions, emotions, behaviors) that go along with the somatic symptoms. Importantly, note that the presence of an established<indexterm significance="normal">
+            <primary>established</primary>
+         </indexterm> medical diagnosis does not exclude a diagnosis of an SSD.</para>
+   </sect2>
+   <sect2 id="ch0014s0006s02" role="Heading">
+      <title>Differential Diagnosis: Other Mental Disorder</title>
+      <para role="Para">Somatic symptoms<indexterm significance="normal">
+            <primary>symptoms</primary>
+         </indexterm> occur commonly in mental disorders other than SSRD, such as <emphasis>Anxiety Disorders</emphasis>(e. g., Panic Disorder, Generalized Anxiety Disorder) or Depressive Disorders<indexterm significance="normal">
+            <primary>Depressive Disorders</primary>
+         </indexterm>. Somatic symptoms in the context of Panic Disorder<indexterm significance="normal">
+            <primary>Panic Disorder</primary>
+         </indexterm> appear in acute episodes, whereas in SSD and FNSD, they are more persistent. Although patients with Panic Disorder have health anxieties, anxieties as core characteristics of IAD are more persistent. Generalized Anxiety Disorder<indexterm significance="normal">
+            <primary>Generalized Anxiety Disorder</primary>
+         </indexterm> is associated with worries about multiple aspects, and health is only one of them. Depressive Disorders are commonly accompanied by somatic symptoms; however, a Depressive Disorder is distinguished from SSRD through the cardinal symptoms of depression. Individuals with depression can excessively ruminate about health and illness. A separate diagnosis of IAD could be justified as long as these anxieties persist after remission of an episode of depression.</para>
+      <para role="Para">In individuals<indexterm significance="normal">
+            <primary>individuals</primary>
+         </indexterm>diagnosed with a serious illness, health-related anxieties can be a normal response. If the health anxiety is severe enough but only transient, an Adjustment Disorder<indexterm significance="normal">
+            <primary>Adjustment Disorder</primary>
+         </indexterm> can be diagnosed. An IAD would be only diagnosed if symptoms are severe enough, are distressing and disabling, and last for at least 6 months. Regarding the differentiation between Adjustment Disorder and PFAOMC, it is a question of the direction of the relationship between psychological factor and illness. For example, if an individual where cardiovascular symptoms of an angina always follow episodes of intensive negative emotions, PFAOMC<indexterm significance="normal">
+            <primary>PFAOMC</primary>
+         </indexterm>would be the adequate diagnosis. If a patient with a cardiovascular disease develops maladaptive anticipatory anxiety, they would be diagnosed with an Adjustment Disorder. Usually, the psychological factors and somatic illness interact in a reciprocal manner, in which case the distinction is arbitrary.</para>
+      <para role="Para">
+         Obsessive-Compulsive Disorder<indexterm significance="normal">
+            <primary>Obsessive-Compulsive Disorder</primary>
+         </indexterm>and IAD both are characterized by intrusive thoughts about having a disease and compulsive behaviors (e. g., IAD: reassurance seeking). The central differentiation is, however, that intrusive thoughts in patients with OCD focus on getting a disease<emphasis>in the future</emphasis> whereas in IAD they focus on <emphasis>having</emphasis> a disease. Moreover, people with OCD often have a variety<indexterm significance="normal">
+            <primary>variety</primary>
+         </indexterm> of intrusive thoughts, not all focused on health.</para>
+   </sect2>
+   <sect2 id="ch0014s0006s03" role="Heading">
+      <title>Differential Diagnosis: Some Specific Considerations About Factitious Disorder Versus Malingering</title>
+      <para role="Para">
+         Malingering<indexterm significance="normal">
+            <primary>Malingering</primary>
+         </indexterm> has to be differentiated from FD, mainly through the existence of obvious external rewards and more conscious motivation, although the latter can be difficult to assess. Moreover, in individuals who malinger, compared to FD (Hausteiner-Wiehle &amp; Hungerer, <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>), self-harm is usually nonexisting or only mild, symptoms are feigned (versus rather self-induced in FD), willingness to change is nonexistent or little, any comorbid disorders are rare, and results of medical or psychological examinations are usually normal.</para>
+   </sect2>
+</sect1>

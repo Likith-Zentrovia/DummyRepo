@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0010s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0010s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0010s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>8. Anxiety Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Information</title>
+   <sect2 id="ch0010s0003s01" role="Heading">
+      <title>Functional Assessment Orientation</title>
+      Functional assessment<indexterm significance="normal">
+         <primary>Functional assessment</primary>
+      </indexterm>
+      <itemizedlist role="UnorderedListMarkBullet">
+         <listitem>
+            <para role="Para">What happens when you have one of these reactions? What are your feelings, sensations, thoughts, and behaviors? What did you experience? How did you feel?</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Which physical sensations, if any, did you notice? How about a racing heart? Muscle tension? Nausea? Lightheadedness? etc.</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Did you become more alert or hypervigilant? Did you have difficulty concentrating?</para>
+         </listitem>
+      </itemizedlist>
+      typically<indexterm significance="normal">
+         <primary>typically</primary>
+      </indexterm>
+      <itemizedlist role="UnorderedListMarkBullet">
+         <listitem>
+            <para role="Para">What have you tried to do in these situations?</para>
+         </listitem>
+         <listitem>
+            <para role="Para">How do you cope in these situations? How do you avoid or manage the situations that evoke those reactions?</para>
+         </listitem>
+         <listitem>
+            <para role="Para">How has this fear/anxiety/panic affected your life? How has your life changed since these panic attacks began?</para>
+         </listitem>
+         <listitem>
+            <para role="Para">How would your life be different if you no longer had these panic attacks?</para>
+         </listitem>
+      </itemizedlist>
+      <itemizedlist role="UnorderedListMarkBullet">
+         <listitem>
+            <para role="Para">When and in what situations<indexterm significance="normal">
+                  <primary>situations</primary>
+               </indexterm> do you feel anxious or afraid? In what situations do you panic? What thoughts did you have?</para>
+         </listitem>
+         <listitem>
+            <para role="Para">When did you last have a fear reaction? What were you doing right before the fear reaction started?</para>
+         </listitem>
+         <listitem>
+            <para role="Para">During a recent bad fear reaction, what was the first thing you noticed? What was the second thing you noticed?</para>
+         </listitem>
+         <listitem>
+            <para role="Para">If you wanted to bring about a fear reaction, what could you do? What situatin could you put yourself in?</para>
+         </listitem>
+      </itemizedlist>
+      <para role="Para">For specific phobias, investigation of the fear-evoking stimuli might be needed to specify the subtype. For social anxiety disorder, additional investigation of the fear-evoking stimuli is needed to determine if the performance specifier is needed. For panic disorder, at least some of the panic attacks must be experienced as “unexpected,” without any apparent external stimulus acting as a trigger. As described above in the description of GAD, identification of antecedents of worry is usually not possible.</para>
+   </sect2>
+   <sect2 id="ch0010s0003s02" role="Heading">
+      <title>Thought Experiments as Experimental Functional Analysis</title>
+      <para role="Para">
+         Functional assessment<indexterm significance="normal">
+            <primary>Functional assessment</primary>
+         </indexterm>sometimes involves experimental procedures to discover antecedents (i. e., experimental functional analysis). For example, consider an individual with an intellectual disability who appears to have phobic reactions but is unable or unwilling to report on the objects or situations that evoke those fear responses. An experimental functional analysis might involve exposing that individual to different objects or situations and observing fear responses and avoidance behaviors. We might suspect that the individual has a dog phobia, leading us to observe the individual in the presence of various dogs, in various situations. We might then also observe the individual in the presence of other animals, such as cats or hamsters. By identifying the objects and situations to which the individual has fear responses, and those to which the individual does not, we can analyze the boundaries of the stimuli that control fear responses.</para>
+      <para role="Para">Many of the individuals that we assess for anxiety disorders are able to report on the objects or situations that evoke fear responses. We can also ask individuals to imagine different situations. Consider, for example, an individual who reports experiencing panic attacks, but some, perhaps all, of these attacks take place in the presence of other people. There is a need for a differential diagnosis between panic disorder and social anxiety disorder with panic attacks. First, we can ask the client to imagine not experiencing a panic attack while in the presence of other people who notice that the client is anxious, nervous, or uncomfortable. Then, we can ask the client to imagine being alone while the client is experiencing a panic attack. If the person reports a high level of aversion to the first situation but finds the second situation manageable, social anxiety disorder is implicated. If the person reports a high level of aversion to the second situation, but reports that the first situation is manageable, panic disorder is implicated. If the person shows a high level of aversion to both situations, both diagnoses are implicated (i. e., comorbid for social anxiety disorder and panic disorder). Most individuals can accurately report how they would react in various imagined situations, allowing the clinician to efficiently probe to understand the boundaries of the controlling stimuli.</para>
+   </sect2>
+   <sect2 id="ch0010s0003s03" role="Heading">
+      <title>Consideration of Context and the Interviewee’s Attitude Toward the Assessment</title>
+      <para role="Para">Individuals vary in their reporting of their symptoms, with some minimizing and others amplifying their anxiety and avoidance. This variation depends in part upon the context of the assessment and in part upon the individual’s prior experiences with regard to reporting behavior. In primary care settings, anxiety disorders often go undetected (Vermani et al.,<emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>) and so are often left untreated (Kroenke et al., <emphasis role="CitationRef">
+            <phrase>2007</phrase>
+         </emphasis>). People seeking help for anxiety problems are typically eager for the clinician to understand and appreciate the extent of their suffering and distress, and thus may readily describe the most problematic aspects of their experience and behavior. Alternatively, it is not unusual for individuals to feel embarrassed or ashamed about their overt and covert gross motor behaviors. Ambivalence about seeking help is common, and individuals can have limited awareness of some of their symptoms (i. e., safety behaviors, threat perceptions, etc.).</para>
+      <para role="Para">The assessment of the symptoms of anxiety disorders is complicated by the fact that the assessment process relies upon questions that can serve as controlling stimuli; questions about fear cues and triggers can evoke fear responses. For example, asking an individual if they are particularly afraid of snakes evokes mental images of snakes. Those images might lead the individual to request that the clinician stop using the “s-word” (i. e., not use the word “snake”). This observation is often relevant when working with individuals who experience severe social anxiety because the questions used in the assessment create demands on the individual. This analysis suggests that clinicians should do what they can to create a non-threatening environment, especially for individuals with social anxiety. There is some evidence that building rapport with individuals with social anxiety requires a more business-like and matter-of-fact approach, rather than an overly warm and friendly approach (Valentiner &amp; Skowronski,<emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>). Clinicians should be vigilant for fear responses during the assessment process and should use their observations about the triggers of those fear responses to inform diagnostic decisions.</para>
+      <para role="Para">Also note that verbal behavior, like other behaviors, can serve an avoidance function; anxious clients sometimes deny or minimize symptoms of distress and avoidance. For example, anxious individuals sometimes say things like “It wasn’t like I thought I was going to have a heart attack” or “I know it’s not going to hurt me.” These individuals may, in effect, be embarrassed to acknowledge the irrationality of the perceptions underlying their fear responses and avoidance behaviors. Unsolicited denials appear to be the product of motivated cognition and can belie the presence of implicit irrational beliefs that underlie fear responses.</para>
+      <para role="Para">Anxious individuals can also amplify their feelings of distress and minimize their autonomy. For example, anxious individuals sometimes say things like “I couldn’t stay in the room—I had to leave” or “I couldn’t look at it—I had to turn my head.” Such variability in anxious individuals’ awareness of and reporting of their symptoms can be viewed as reflecting ambivalence. Such comments also conflate ability and willingness. With sufficient inducements (e. g., being offered a huge sum of money to stay, being threatened with the death of a loved one, etc.) they might decide to “look at it.” In response, a clinician might respond by acknowledging the difficulty but not reinforcing the lack of agency (e. g., “It felt like you had no choice.”). This variability in presentation appears to have the functions of soliciting aid and reducing demands to confront feared stimuli or to experience fear responses.</para>
+      <para role="Para">Children and adolescents are more likely to be referred by another person (i. e., by a parent or teacher) and therefore more likely to engage in denial and minimization of symptoms, cognitive avoidance, and resistance to the assessment process. It is useful to note the nature of the referral (e. g., self-versus other-referred), make observations about the individual’s reporting behavior (e. g., over-versus under-reporting), and consider what the individual has learned about being aware of and verbally describing their anxious thoughts and feelings.</para>
+      <para role="Para">The increase in the prevalence of mental health concerns, including anxiety, over the past 20 years (Goodwin et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>) is not well understood (Foulkes &amp; Andrews, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). This increase is likely related to the social processes, the consequences of reporting, and the cultural meaning of symptoms (Haslam, <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). Interviewers should appreciate the intersubjectivity of the social process that we call the clinical interview and consider whether they are inadvertently reinforcing behaviors that maintain fear responses and avoidance.</para>
+   </sect2>
+</sect1>

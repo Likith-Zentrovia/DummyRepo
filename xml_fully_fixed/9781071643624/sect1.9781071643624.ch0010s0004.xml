@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0004" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0010s0003</risprev>
+         <riscurrent>sect1.9781071643624.ch0010s0004</riscurrent>
+         <risnext>sect1.9781071643624.ch0010s0005</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>8. Anxiety Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   <sect2 id="ch0010s0004s01" role="Heading">
+      <title>Semi-Structured Interviews</title>
+      <para>
+         <phrase>8.1</phrase>Table 8.1</para>
+      <para role="SimplePara">Semi-structured interview protocols<indexterm significance="normal">
+            <primary>protocols</primary>
+         </indexterm>
+      </para>
+      <table id="ch0010s0004ta01">
+         <title/>
+         <tgroup cols="4">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <colspec colname="c4" colnum="4"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Interview</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Anxiety disorders assessed</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Typical length of interview</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Price (<emphasis>at the time of writing)</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Structured Clinical Interview for DSM-5 Disorders, Clinician Version (SCID-5-CV)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Panic disorder</para>
+                     <para role="SimplePara">– Agoraphobia</para>
+                     <para role="SimplePara">– Social anxiety disorder</para>
+                     <para role="SimplePara">– Generalized anxiety disorder</para>
+                     <para role="SimplePara">– Anxiety disorder due to another medical condition</para>
+                     <para role="SimplePara">– Specific phobia<superscript>a</superscript>
+                     </para>
+                     <para role="SimplePara">– Separation anxiety disorder<superscript>a</superscript>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">30 min to 2 h</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">$84.00 for a paperback copy (discounts for APA members)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Diagnostic interview for anxiety, mood, and OCD and related neuropsychiatric disorders (DIAMOND)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Social anxiety disorder</para>
+                     <para role="SimplePara">– Panic disorder</para>
+                     <para role="SimplePara">– Agoraphobia</para>
+                     <para role="SimplePara">– Generalized anxiety disorder</para>
+                     <para role="SimplePara">– Specific phobia</para>
+                     <para role="SimplePara">– Separation anxiety disorder</para>
+                     <para role="SimplePara">– Selective mutism<superscript>b</superscript>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">30–90 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Free to download from Hartford Health Care</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Anxiety Disorder Interview Schedule for DSM-5 (ADIS-5)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Panic disorder</para>
+                     <para role="SimplePara">– Social anxiety disorder</para>
+                     <para role="SimplePara">– Generalized anxiety disorder</para>
+                     <para role="SimplePara">– Agoraphobia</para>
+                     <para role="SimplePara">– Separation anxiety disorder</para>
+                     <para role="SimplePara">– Specific phobia</para>
+                     <para role="SimplePara">– Selective mutism<superscript>a</superscript>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">2–4 h</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">$110.00</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Mini International Neuropsychiatric Interview for DSM-5 (MINI-7)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Panic disorder</para>
+                     <para role="SimplePara">– Agoraphobia</para>
+                     <para role="SimplePara">– Social anxiety disorder</para>
+                     <para role="SimplePara">– Generalized anxiety disorder</para>
+                     <para role="SimplePara">– Specific phobia<superscript>b</superscript>
+                     </para>
+                     <para role="SimplePara">– Separation anxiety disorder<superscript>b</superscript>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">15 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Free post license agreement with Dr. Sheehan</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="SimplePara">
+         <superscript>a</superscript>Indicates the disorder is only screened for and does not assess for an official diagnosis</para>
+      <para role="SimplePara">
+         <superscript>b</superscript>Indicates the disorder is only assessed in child and adolescent versions of the interview</para>
+      <para role="Para">The Structured Clinical Interview for DSM-5 Disorders, Clinician Version (<emphasis>SCID-5-CV</emphasis>; First et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>) is a semi-structured clinical interview assessing for major diagnoses from the DSM-5. Anxiety disorders included in the SCID-5 include panic disorder, agoraphobia, social anxiety disorder, and GAD. The SCID-5 also screens for specific phobia and separation anxiety disorder, but further interviewing would be required to make a diagnosis of these disorders. The SCID-5 is an adaptive interview and can take between 30 min and 2 h depending on the number of symptoms the interviewee endorses. The SCID-5 has been found to have good clinical validity and satisfactory interrater reliability for anxiety disorders (Osório et al., <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>).</para>
+      <para role="Para">The Diagnostic Interview for Anxiety, Mood, and OCD and Related Neuropsychiatric Disorders (<emphasis>DIAMOND</emphasis>) is a semi-structured clinical interview that assesses for anxiety, mood, somatic, obsessive-compulsive, trauma-related, feeding and eating, substance-related, and schizophrenia spectrum disorders (Tolin et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). The anxiety disorder portion of the DIAMOND assesses for social anxiety disorder, panic disorder, agoraphobia, GAD, specific phobia, and separation anxiety disorder. The interview usually takes between 30 and 90 min. The DIAMOND has an optional self-report screening measure that can direct the clinician to which diagnoses are most relevant to the interviewee. The DIAMOND has been found to have very good to excellent interrater and test-retest reliability, and convergent validity with regard to other measures for anxiety disorders (Tolin et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>).</para>
+      <para role="Para">The Diagnostic Interview for Anxiety, Mood, and OCD and Related Neuropsychiatric Disorders: Child and Adolescent Version (<emphasis>DIAMOND-KID</emphasis>) is an adapted version of the DIAMOND<indexterm significance="normal">
+            <primary>DIAMOND</primary>
+         </indexterm> for clients between the ages of 6 and 18 (Tolin et al., <emphasis role="CitationRef">
+            <phrase>2023a</phrase>
+         </emphasis>). The DIAMOND-KID assesses for all the anxiety disorders included in the adult version along with selective mutism. The interrater reliability for GAD using the DIAMOND-KID was found to be questionable but was good to very good for social anxiety disorder and specific phobia (Tolin et al., <emphasis role="CitationRef">
+            <phrase>2023b</phrase>
+         </emphasis>). The test-retest reliability for anxiety disorders was found to be very good to excellent along with showing good convergent validity (Tolin et al., <emphasis role="CitationRef">
+            <phrase>2023b</phrase>
+         </emphasis>).</para>
+      <para role="Para">The Anxiety Disorder Interview Schedule for DSM-5 (<emphasis>ADIS-5</emphasis>) is a semi-structured clinical interview designed to diagnose current anxiety, mood, obsessive-compulsive, trauma, and related disorders based on DSM-5 criteria for the disorders (Brown &amp; Barlow, <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). The ADIS-5 is designed to evaluate an individual for anxiety disorder but includes other disorders that may have similar presentations to assess for differential diagnosis. The ADIS-5 also includes a dimensional assessment of features and questions to prompt a functional analysis of most disorders. The ADIS-5 takes approximately 2 to 4 h to administer. The psychometric properties of the ADIS-5 have not been assessed, but the previous version of the measure (Anxiety Disorder Interview Schedule for DSM-IV) was found to have good to excellent interrater reliability.</para>
+      <para role="Para">The Mini International Neuropsychiatric Interview for DSM-5 (<emphasis>MINI-7</emphasis>) is a relatively short structured clinical interview assessing for the 17 most common psychiatric disorders from the DSM-III, DSM-IV, DSM-5, and ICD-10 (Sheehan et al., <emphasis role="CitationRef">
+            <phrase>1998</phrase>
+         </emphasis>). Anxiety disorders assessed by the MINI-7 include panic disorder, agoraphobia, social anxiety disorder, and GAD. The MINI-7 takes about 15 to 20 min to administer. An earlier version of the MINI was found to have excellent interrater reliability, good test-retest reliability, and good convergent validity with other lengthier clinical interviews (Sheehan et al., <emphasis role="CitationRef">
+            <phrase>1998</phrase>
+         </emphasis>). As a note, the use of the MINI-7 in clinical and research settings requires an approved license agreement with Dr. Sheehan directly.</para>
+      <para role="Para">The Mini International Neuropsychiatric Interview for Children and Adolescence (<emphasis>MINI Kid</emphasis>) assesses the 30 most common disorders or disorder subtypes in children (Sheehan et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>). The MINI Kid includes all anxiety disorders assessed by the adult version along with specific phobia and separation anxiety disorder. The MINI Kid was found to have substantial to excellent convergent validity and substantial interrater and test-retest reliability for anxiety-related disorders (Sheehan et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0010s0004s02" role="Heading">
+      <title>Self-Report Measures</title>
+      Self-report measures<indexterm significance="normal">
+         <primary>Self-report measures</primary>
+      </indexterm>
+      <para>
+         <phrase>8.2</phrase>Table 8.2</para>
+      <para role="SimplePara">Self-report measures for anxiety</para>
+      <table id="ch0010s0004ta02">
+         <title/>
+         <tgroup cols="4">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <colspec colname="c4" colnum="4"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Indications (s)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Measure</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Items</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Source</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="2">
+                     <para role="SimplePara">General anxiety symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Beck Anxiety Inventory</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">21</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Beck et al. (<emphasis role="CitationRef">
+                           <phrase>1993</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">State-Trait Anxiety Inventory</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">40</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Spielberger et al. (<emphasis role="CitationRef">
+                           <phrase>1983</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Depression, Anxiety, and Stress Scale</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">21</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Lovibond and Lovibond (<emphasis role="CitationRef">
+                           <phrase>1995</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="2">
+                     <para role="SimplePara">Social anxiety disorder</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Social Phobia and Anxiety Inventory</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">45</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Turner et al. (<emphasis role="CitationRef">
+                           <phrase>1989</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Social Interaction Anxiety Scale—Short Form</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">6</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Fergus et al. (<emphasis role="CitationRef">
+                           <phrase>2012</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Liebowitz Social Anxiety Scale—Self-report</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">24</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Liebowitz (<emphasis role="CitationRef">
+                           <phrase>1987</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="1">
+                     <para role="SimplePara">Specific phobia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Fear Survey Schedule</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">72</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Wolpe and Lang (<emphasis role="CitationRef">
+                           <phrase>1964</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Severity Measure for Specific Phobia—Adult</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">10</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Craske et al. (<emphasis role="CitationRef">
+                           <phrase>2013</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Panic disorder</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Panic Disorder Severity Scale</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">7</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Shear et al. (<emphasis role="CitationRef">
+                           <phrase>1997</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Agoraphobia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Oxford Agoraphobic Avoidance Scale</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">8</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Lambe et al. (<emphasis role="CitationRef">
+                           <phrase>2023</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="1">
+                     <para role="SimplePara">GAD</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Penn State Worry Questionnaire</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">16</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Meyer et al. (<emphasis role="CitationRef">
+                           <phrase>1990</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Generalized Anxiety Disorder (GAD-7) Questionnaire</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">7</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Williams (<emphasis role="CitationRef">
+                           <phrase>2014</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0010s0004s03" role="Heading">
+      <title>Other Assessment Tools</title>
+      <para role="Para">It is important to remember that diagnostic information obtained during interviews should be reconciled with the client’s background and history, context, behavioral observations, and data from other assessment methods, including self-report questionnaires, self-monitoring, and informants. Gathering broad background data reduces the likelihood of omitting or neglecting information that might be critical for conceptualizing and/or treating the anxiety disorder.</para>
+   </sect2>
+</sect1>

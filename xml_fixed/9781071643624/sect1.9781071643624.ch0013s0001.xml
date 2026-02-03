@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0001" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0013s0008</risprev>
+         <riscurrent>sect1.9781071643624.ch0013s0001</riscurrent>
+         <risnext>sect1.9781071643624.ch0013s0002</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>13</chapternumber>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>11. Dissociative Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Description of the Disorders</title>
+   <para role="Para">
+      Dissociative disorders (DDs)<indexterm significance="normal">
+         <primary>Dissociative disorders (DDs)</primary>
+      </indexterm>involve a disconnection from the present moment including one’s emotions, body, or surroundings, frequently in an effort to regulate internal states (e. g., emotions, overwhelming levels of physical arousal) during times of heightened stress. The development of a DD has most consistently been associated with antecedent trauma, particularly when exposure happens repeatedly in childhood (Dalenberg et al.,<emphasis role="CitationRef">
+         <phrase>2012</phrase>
+      </emphasis>, <emphasis role="CitationRef">
+         <phrase>2014</phrase>
+      </emphasis>). To further understand DDs, we begin by presenting common symptoms, followed by a discussion of the current diagnostic criteria, prevalence, and difficulties with accurate diagnosis. Further, we discuss strategies for gathering information, including interviews, psychological measures (e. g., self-report and performance-based), and behavioral observations. We conclude with factors to consider when ruling out other diagnoses with similar presentations, such as schizophrenia or borderline personality disorder.</para>
+   <sect2 id="ch0013s0001s01" role="Heading">
+      <title>Dissociation Defined</title>
+      Dissociation<indexterm significance="normal">
+         <primary>Dissociation</primary>
+      </indexterm>
+      <para>
+         <phrase>2016</phrase>
+         <phrase>2009</phrase>
+         <phrase>2023</phrase>
+         <phrase>11.1</phrase>Table 11.1</para>
+      Steinberg<indexterm significance="normal">
+         <primary>Steinberg</primary>
+      </indexterm>
+      <para role="SimplePara">
+         Steinberg<indexterm significance="normal">
+            <primary>Steinberg</primary>
+         </indexterm>’s (1994) dimensions of dissociation<indexterm significance="normal">
+            <primary>dissociation</primary>
+         </indexterm>
+      </para>
+      <table id="ch0013s0001ta01">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Symptom</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Examples</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Amnesia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Forgetting important autobiographical events (“I don’t remember my wedding”)</para>
+                     <para role="SimplePara">Gaps in memory beyond ordinary forgetfulness (“I don’t drink alcohol but found beer in my refrigerator that I must have bought”)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Depersonalization</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Experiencing parts of body as strange, unreal, or disconnected</para>
+                     <para role="SimplePara">“Watching” oneself from a distance</para>
+                     <para role="SimplePara">“I’m not real”</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Derealization</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Familiar environments are experienced as strange/unreal</para>
+                     <para role="SimplePara">“I didn’t recognize one of the friends I’ve known and seen for years”</para>
+                     <para role="SimplePara">“Things don’t look real. They look far away”</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Identity confusion</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Frequent conflicting opinion/thoughts about decisions</para>
+                     <para role="SimplePara">“I often experience a battle inside myself. No matter what type of decision I’m trying to make, it seems like I have conflicting ideas about what I want”</para>
+                     <para role="SimplePara">“I am always torn about how to dress and act. I sometimes want to look and act like a child, other times a teenager, and other times a conservative adult”</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Identity alteration</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Having self-states for specific roles (e. g., work, family)</para>
+                     <para role="SimplePara">Referring to oneself by different names or in plural or third-person pronouns</para>
+                     <para role="SimplePara">Acting in a manner that is inconsistent with chronological age (“Sometimes I suddenly find myself scared and literally hiding like a child and don’t know how to do simple things, while other times I feel smart and can give presentations at work”)</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para">The 4D model (Frewen &amp; Lanius,<emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>) conceptualizes dissociation as existing on a continuum, with common, nonpathological experiences (e. g., flow, highway hypnosis) on one end and maladaptive experiences that may indicate the presence of a DD on the other. Research supports both ideas<indexterm significance="normal">
+            <primary>ideas</primary>
+         </indexterm> and has identified a core group of pathological dissociative experiences (Bernstein &amp; Putnam, <emphasis role="CitationRef">
+            <phrase>1986</phrase>
+         </emphasis>), as well as a continuum of less problematic shifts in consciousness. Specifically, studies have found the taxon differentiates between those who have a chronic or persistent dissociative pattern that interferes with functioning, whereas a dissociative continuum is applicable to those without a DD who experience fluctuations in consciousness (see Frewen &amp; Lanius, <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>, for a review).</para>
+      <para role="Para">Although dissociative symptoms are most commonly related to trauma, research suggests they occur in a variety<indexterm significance="normal">
+            <primary>variety</primary>
+         </indexterm> of disorders such as somatic, substance use, and psychotic disorders. The most severe dissociation is found among individuals with trauma and attachment-related disorders (PTSD, borderline personality disorder) and particularly dissociative identity disorder (DID) (Lyssenko et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). Because chronic dissociation can interfere with information retention and treatment engagement (Lanius et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>), it is important to assess these symptoms regardless of treatment setting or presenting problem. Moreover, misdiagnosed and untreated DDs can result in significant consequences to the individual (i. e., functional impairment, disability, poorer physical health, likelihood of revictimization, and even death) and society (i. e., increased social services<indexterm significance="normal">
+            <primary>services</primary>
+         </indexterm>needs, hospitalization/healthcare costs) (Boyer et al., <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0013s0001s02" role="Heading">
+      <title>Dissociative Disorders</title>
+      DSM-5-TR<indexterm significance="normal">
+         <primary>DSM-5-TR</primary>
+      </indexterm>
+      <para>
+         <phrase>2022</phrase>
+         <link linkend="ch0013s0001fg01">11.1</link>
+         <phrase>2022</phrase>
+         <phrase>2022</phrase>
+         <phrase>2012</phrase>
+         <phrase>2014</phrase>
+      </para>
+      dissociative subtype of posttraumatic stress disorder (DPTSD)<indexterm significance="normal">
+         <primary>dissociative subtype of posttraumatic stress disorder (DPTSD)</primary>
+      </indexterm>
+      DPTSD<indexterm significance="normal">
+         <primary>DPTSD</primary>
+      </indexterm>
+      <figure float="0" id="ch0013s0001fg01" role="Figure">
+         <title>
+            <emphasis role="CaptionNumber">Fig. 11.1</emphasis>DSM-5-TR (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>) dissociative disorders<indexterm significance="normal">
+               <primary>disorders</primary>
+            </indexterm>
+         </title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0013f04.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+         </mediaobject>
+      </figure>
+   </sect2>
+   <sect2 id="ch0013s0001s03" role="Heading">
+      <title>Prevalence</title>
+      <para role="Para">DDs are more<indexterm significance="normal">
+            <primary>more</primary>
+         </indexterm> common than many clinicians realize. According to a summary of epidemiological research, the prevalence in clinical settings is approximately 10% (inpatient range 4.3–40.8%, outpatient range 12–34.9%), with half of those individuals suffering from DID (reviewed in Sar, <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>). Although research has shown DDs are found cross-culturally, with prevalence rates of more than 5% in a number of countries (see Dorahy et al., 2000 for a review), limited training in identification of dissociation (Leonard &amp; Tiller, <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>), and differences in conceptualization and measurement are factors that may affect the prevalence rates (Sar, <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>). Of note, much of the DD research has focused on DID because it causes the most significant disruptions in functioning. In community samples<indexterm significance="normal">
+            <primary>samples</primary>
+         </indexterm>, the prevalence rate of DID is approximately 1–3% (Dorahy et al., 2000; ISSTD et al., <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>), indicating that this most severe form of DD is about as common as bipolar disorder and obsessive-compulsive disorder, and more common than schizophrenia. White<indexterm significance="normal">
+            <primary>White</primary>
+         </indexterm> and colleagues (<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>) also found a 38.1% prevalence rate of people diagnosed with the DPTSD. Such high prevalence rates suggest that all individuals seeking psychological treatment should be routinely assessed for<indexterm significance="normal">
+            <primary>for</primary>
+         </indexterm>dissociative symptoms, particularly if there is a history of trauma.</para>
+   </sect2>
+</sect1>

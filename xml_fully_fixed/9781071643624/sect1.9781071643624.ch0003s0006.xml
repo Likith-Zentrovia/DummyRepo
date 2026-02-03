@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0006" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0003s0005</risprev>
+         <riscurrent>sect1.9781071643624.ch0003s0006</riscurrent>
+         <risnext>sect1.9781071643624.ch0003s0007</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>2. Interviewing Strategies, Empathy, and Rapport</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Advantages and Disadvantages of Diagnostic Interview Types</title>
+   <para>
+      <phrase>2.2</phrase>Table 2.2</para>
+   <para role="SimplePara">Advantages and disadvantages of diagnostic interview strategies</para>
+   <table id="ch0003s0006ta02">
+      <title/>
+      <tgroup cols="3">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <colspec colname="c3" colnum="3"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Interview method</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Advantages</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Disadvantages</para>
+               </entry>
+            </row>
+            <row>
+               <entry morerows="2">
+                  <para role="SimplePara">Unstructured</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Flexibility in approach</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Poor reliability</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Builds rapport and trust</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Inadequate coverage of diagnoses</para>
+               </entry>
+            </row>
+            <row>
+               <entry/>
+               <entry>
+                  <para role="SimplePara">Susceptibility to bias</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Structured</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Good reliability</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Hampers building rapport</para>
+               </entry>
+            </row>
+            <row>
+               <entry morerows="3"/>
+               <entry>
+                  <para role="SimplePara">More adequate coverage of diagnoses</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Rigid</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Methods for aiding in differential diagnosis</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Clients may report more symptoms early, but lessen endorsement over time due to length</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Methods for assessing impairment</para>
+               </entry>
+               <entry morerows="1"/>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Use of non-pejorative questions</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="SimplePara">Note: Semi-structured interviews have a balance of advantages and disadvantages from each method listed above</para>
+   <para role="Para">Unstructured clinical interviews<indexterm significance="normal">
+         <primary>interviews</primary>
+      </indexterm>may be more practical in a high demand clinical setting. For instance, some private payers (i. e., insurance) currently only reimburse a diagnostic clinical interview for up to 60 min, which can create significant limitations in conducting a structured clinical interview. Therefore, in these settings, an unstructured interview is more commonly used because of both time constraints and the type of referral (e. g., therapy). Typically, a client is coming to therapy for a specific reason, and the provider may want to structure their interview to identify an appropriate diagnosis. An unstructured interview may allow the provider to focus on alleviating their distress, exploring whether a particular disorder is present, and then spend some time developing a treatment plan with them, all while showing empathy and building rapport. On the downside, this approach to the clinical interview may prevent exploration of some other differential diagnoses or comorbidities. In fact, some research has suggested that practitioners may miss up to 3–4 diagnoses when using an unstructured<indexterm significance="normal">
+         <primary>unstructured</primary>
+      </indexterm> format versus a structured interview (Zimmerman &amp; Mattia, <emphasis role="CitationRef">
+         <phrase>1999</phrase>
+      </emphasis>). Without structure, bias can emerge and impact diagnosis (Garb, <emphasis role="CitationRef">
+         <phrase>2021</phrase>
+      </emphasis>; Norman &amp; Eva, <emphasis role="CitationRef">
+         <phrase>2010</phrase>
+      </emphasis>; Woodward et al., <emphasis role="CitationRef">
+         <phrase>2009</phrase>
+      </emphasis>). For instance, one may overlook an eating disorder in a man or be more likely to diagnosis a man with antisocial personality disorder when symptom presentation may better point toward borderline personality disorder.</para>
+   <para role="Para">Structured clinical interviews may be appropriate in certain situations. For example, a well-developed, more time-intensive, structured diagnostic interview would be recommended for a research protocol where reliability of diagnosis is a high priority (e. g., a randomized controlled trial; Shabani et al.,<emphasis role="CitationRef">
+         <phrase>2021</phrase>
+      </emphasis>). Psychometrically, reliability sets the upper bounds of validity (Cronbach &amp; Meehl, <emphasis role="CitationRef">
+         <phrase>1955</phrase>
+      </emphasis>). Additionally, a fully structured diagnostic interview can reduce clinician bias and error rate because all pertinent diagnoses are assessed in standardized fashion with little room for clinical judgment. The results of the interview guide the clinician through differential diagnosis considerations<indexterm significance="normal">
+         <primary>considerations</primary>
+      </indexterm>and will result in reliable, valid diagnoses. Thus, many research protocols use structured diagnostic interviews to garner confidence in diagnosis. Many of these interviews require training but can be administered by trained non-clinicians (e. g., research coordinator/assistant). As mentioned earlier, these interviews tend to be quite mechanical, leaving little room to build rapport or share empathy. As explored later in this chapter, some of these interviews can last upward to 90–120 min and they typically do not include coverage of personality disorders. Additionally, these interviews require training to administer and are often time intensive to score, though electronic means have reduced scoring time. Giving a fully structured interview may be too burdensome and time-consuming in many clinical practices but is often advisable in research designs.</para>
+   <para role="Para">Semi-structured interviews provide a balance between interview types. One needs to have clinical expertise to know when to ask appropriate follow-up questions, and the guided structure of the interview helps ensure that no major areas in psychodiagnosis are missed. At the onset, however, practitioners still need<indexterm significance="normal">
+         <primary>need</primary>
+      </indexterm> considerable training, and they must have the appropriate expertise to know how to navigate the unstructured elements of the semi-structured interview. The unstructured components of a semi-structured interview lead to some of the same disadvantages as a fully unstructured interview<indexterm significance="normal">
+         <primary>interview</primary>
+      </indexterm>, but the structured aspect helps improve diagnostic coverage and reliability.</para>
+</sect1>

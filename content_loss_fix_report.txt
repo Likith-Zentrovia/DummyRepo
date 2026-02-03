@@ -1,0 +1,293 @@
+================================================================================
+CONTENT LOSS FIX REPORT - XHTML TO XML CONVERSION
+================================================================================
+
+Generated: 2026-02-03
+Source: XHTML epub content (html.zip)
+Target: XML files (9781071643624)
+
+--------------------------------------------------------------------------------
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+
+This report documents content loss issues identified during XHTML to XML conversion
+and provides detailed information for the development team to fix the conversion code.
+
+Total Bibliography Entries Restored: 926
+Total Keywords Sections Fixed: 0
+Total Indexterm Issues Found: 18
+
+================================================================================
+ISSUE #1: BIBLIOGRAPHY/REFERENCES TRUNCATION
+================================================================================
+
+PROBLEM DESCRIPTION:
+----------------------------------------
+The XML conversion process severely truncates bibliography entries.
+Missing content includes: author names, publication years, article titles, page numbers.
+
+ROOT CAUSE ANALYSIS:
+----------------------------------------
+The conversion code appears to be extracting only partial content from the
+<div class='CitationContent'> elements in the XHTML source.
+
+XHTML SOURCE STRUCTURE:
+  <li class='Citation'>
+    <div class='CitationContent' id='CR67'>
+      Yesavage, J. A., Brink, T. L., ... (1982). Title. Journal, 17(1), 37-49.
+    </div>
+  </li>
+
+CURRENT XML OUTPUT (TRUNCATED):
+  <bibliomixed id='..bib67'>Journal of Psychiatric Research, 17https://doi.org/...</bibliomixed>
+
+EXPECTED XML OUTPUT (FULL):
+  <bibliomixed id='..bib67'>Yesavage, J. A., Brink, T. L., Rose, T. L., et al. (1982).
+    Development and validation of a geriatric depression screening scale: A preliminary report.
+    Journal of Psychiatric Research, 17(1), 37-49. https://doi.org/...</bibliomixed>
+
+RECOMMENDED CODE FIX:
+----------------------------------------
+1. When parsing <div class='CitationContent'> elements, extract ALL text content
+2. Include author names, years in parentheses, article titles
+3. Preserve italic formatting for journal names (<em> -> <emphasis>)
+4. Include volume, issue numbers, and page ranges
+
+DETAILED FIX LOG:
+----------------------------------------
+
+1. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib01
+   BEFORE: Diagnostic and statistical manual of mental disorders
+   AFTER:  American Psychiatric Association. (2000). Diagnostic and statistical manual of mental disorders (4th...
+
+2. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib02
+   BEFORE: Diagnostic and statistical manual of mental disorders
+   AFTER:  American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th...
+
+3. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib03
+   BEFORE: Diagnostic and statistical manual of mental disorders
+   AFTER:  American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th...
+
+4. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib04
+   BEFORE: Psychological Medicine, 46 PubMed
+   AFTER:  Benjet, C., Bromet, E., Karam, E. G., Kessler, R. C., McLaughlin, K. A., Ruscio, A. M., Shahly, V., ...
+
+5. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib05
+   BEFORE: Journal of Traumatic Stress, 8 PubMed
+   AFTER:  Blake, D. D., Weathers, F. W., Nagy, L. M., Kaloupek, D. G., Gusman, F. D., Charney, D. S., & Keane,...
+
+6. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib06
+   BEFORE: Journal of Traumatic Stress, 28 PubMed
+   AFTER:  Blevins, C. A., Weathers, F. W., Davis, M. T., Witte, T. K., & Domino, J. L. (2015). The posttraumat...
+
+7. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib07
+   BEFORE: Annals of Epidemiology, 16 PubMed
+   AFTER:  Boscarino, J. A. (2006). Posttraumatic stress disorder and mortality among US Army veterans 30 years...
+
+8. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib08
+   BEFORE: Psychosomatic Medicine, 70 PubMedPubMed Central
+   AFTER:  Boscarino, J. A. (2008). A prospective study of PTSD and early-age heart disease mortality among Vie...
+
+9. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib09
+   BEFORE: Psychological Assessment, 28 PubMed
+   AFTER:  Bovin, M. J., Marx, B. P., Weathers, F. W., Gallagher, M. W., Rodriguez, P., Schnurr, P. P., & Keane...
+
+10. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib10
+   BEFORE: Journal of Clinical Psychiatry, 61 PubMed
+   AFTER:  Brady, K. T., Killeen, T. K., Brewerton, T., & Lucerini, S. (2000). Comorbidity of psychiatric disor...
+
+11. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib11
+   BEFORE: Archives of General Psychiatry, 48 PubMed
+   AFTER:  Breslau, N., Davis, G. C., Andreski, P., & Peterson, E. (1991). Traumatic events and posttraumatic s...
+
+12. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib12
+   BEFORE: Journal of Consulting and Clinical Psychology, 68 PubMed
+   AFTER:  Brewin, C. R., Andrews, B., & Valentine, J. D. (2000). Meta-analysis of risk factors for posttraumat...
+
+13. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib13
+   BEFORE: Current Opinion in Psychology, 14 PubMed
+   AFTER:  Bryant, R. A. (2017). Acute stress disorder. Current Opinion in Psychology, 14, 127–131.PubMed
+
+14. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib15
+   BEFORE: Traumatology, 26
+   AFTER:  Carter, R. T. (2007). Racism and psychological and emotional injury: Recognizing and assessing race-...
+
+15. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib16
+   BEFORE: Psychological Medicine, 45 PubMed
+   AFTER:  Carter, R. T., Kirkinis, K., & Johnson, V. E. (2020). Relationships between trauma symptoms and race...
+
+16. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib17
+   BEFORE: Journal of Traumatic Stress, 24 PubMed
+   AFTER:  Clement, S., Schauman, O., Graham, T., Maggioni, F., Evans-Lacko, S., Bezborodovs, N., Morgan, C., R...
+
+17. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib18
+   BEFORE: The American Journal of Geriatric Psychiatry, 18 PubMedPubMed Central
+   AFTER:  Cloitre, M., Courtois, C. A., Charuvastra, A., Carapezza, R., Stolbach, B. C., & Green, B. L. (2011)...
+
+18. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib19
+   BEFORE: Psychological Trauma: Theory, Research, Practice, and Policy, 1
+   AFTER:  Conner, K. O., Copeland, V. C., Grote, N. K., Koeske, G., Rosen, D., Reynolds, C. F., III, & Brown, ...
+
+19. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib20
+   BEFORE: Annals of General Psychiatry, 9 PubMedPubMed Central
+   AFTER:  Courtois, C. A., & Gold, S. N. (2009). The need for inclusion of psychological trauma in the profess...
+
+20. File: sect1.9781071643624.ch0012s0008.xml
+   BibID: ch0012s0008bib21
+   BEFORE: Behavioral Neurology and Psychiatry, 24
+   AFTER:  Ditlevsen, D. N., & Elklit, A. (2010). The combined effect of gender and age on posttraumatic stress...
+
+... and 906 more fixes
+
+================================================================================
+ISSUE #2: KEYWORDS SECTION GARBLED
+================================================================================
+
+PROBLEM DESCRIPTION:
+----------------------------------------
+Keywords are concatenated with email addresses and other metadata into a single
+unstructured paragraph, losing their semantic structure.
+
+ROOT CAUSE ANALYSIS:
+----------------------------------------
+The conversion code appears to be concatenating multiple elements from the
+abstract/metadata section without proper parsing.
+
+XHTML SOURCE STRUCTURE:
+  <div class='KeywordGroup'>
+    <span class='Keyword'>Depression</span>
+    <span class='Keyword'>Dysthymia</span>
+    <span class='Keyword'>Mood</span>
+    ...
+  </div>
+
+CURRENT XML OUTPUT (GARBLED):
+  <para>lfelicia@uccs.edu Depression Dysthymia Mood Assessment Interviewing Psychopathology</para>
+
+EXPECTED XML OUTPUT (STRUCTURED):
+  <keywordset>
+    <keyword>Depression</keyword>
+    <keyword>Dysthymia</keyword>
+    <keyword>Mood</keyword>
+    <keyword>Assessment</keyword>
+    <keyword>Interviewing</keyword>
+    <keyword>Psychopathology</keyword>
+  </keywordset>
+
+RECOMMENDED CODE FIX:
+----------------------------------------
+1. Parse <div class='KeywordGroup'> separately from contact information
+2. Extract each <span class='Keyword'> element individually
+3. Generate proper <keywordset>/<keyword> structure per DTD
+4. Keep email/contact info in appropriate metadata section
+
+
+================================================================================
+ISSUE #3: INDEXTERM CONTENT NOT VISIBLE (PREVIOUSLY ADDRESSED)
+================================================================================
+
+PROBLEM DESCRIPTION:
+----------------------------------------
+Text inside <indexterm><primary>text</primary></indexterm> was not appearing
+as visible content in the XML output. The text was only stored as metadata.
+
+ROOT CAUSE ANALYSIS:
+----------------------------------------
+XHTML uses <span id='ITerm...'>visible text</span> where the text is both
+displayed AND used for indexing. The conversion placed text only inside
+the <indexterm> element, making it invisible in rendered output.
+
+XHTML SOURCE STRUCTURE:
+  <span id='ITerm1'>Anxiety disorders</span> are common...
+
+INCORRECT XML OUTPUT:
+  <indexterm><primary>Anxiety disorders</primary></indexterm> are common...
+
+CORRECT XML OUTPUT:
+  Anxiety disorders<indexterm><primary>Anxiety disorders</primary></indexterm> are common...
+
+STATUS: This issue appears to have been previously addressed in the fixed files.
+
+REMAINING INDEXTERM ISSUES FOUND:
+----------------------------------------
+  File: sect1.9781071643624.ch0006s0004.xml
+  Text: Dementia
+  Context: ...tive disorder, and mild neurocognitive disorder. “
+
+  File: sect1.9781071643624.ch0009s0001.xml
+  Text: specifier
+  Context: ...res” or “with mood-incongruent psychotic features”
+
+  File: sect1.9781071643624.ch0012s0005.xml
+  Text: status
+  Context: ...ding, education, financial resources, or veterans’
+
+  File: sect1.9781071643624.ch0014s0001.xml
+  Text: Munchausen’s Syndrome
+  Context: ...is>). The term FD is historically related to the “
+
+  File: sect1.9781071643624.ch0014s0004.xml
+  Text: consultations
+  Context: ... access to Jeff’s medical file, which confirmed 35
+
+  File: sect1.9781071643624.ch0014s0005.xml
+  Text: years
+  Context: ...y, the vast majority of victims are younger than 5
+
+  File: sect1.9781071643624.ch0014s0005.xml
+  Text: cultural concepts of distress
+  Context: ...ic symptoms are, however, prominent in so-called “
+
+  File: sect1.9781071643624.ch0015s0001.xml
+  Text: (EDs)
+  Context: ...     <para role="Para">The term “eating disorders”
+
+  File: sect1.9781071643624.ch0017s0004.xml
+  Text: symptoms
+  Context: ... with common symptoms of opioid withdrawal, James’
+
+  File: sect1.9781071643624.ch0018s0001.xml
+  Text: with
+  Context: ...s are dimensional syndromes (e. g., DSM diagnoses)
+
+================================================================================
+RECOMMENDATIONS FOR DEVELOPMENT TEAM
+================================================================================
+
+1. BIBLIOGRAPHY PARSING:
+   - Review the CitationContent parsing logic
+   - Ensure full text extraction including nested <em> tags
+   - Test with citations containing special characters (&, <, >)
+
+2. KEYWORDS HANDLING:
+   - Separate keyword extraction from contact info parsing
+   - Implement proper <keywordset> generation
+   - Validate against DTD schema
+
+3. INDEXTERM HANDLING:
+   - When converting ITerm spans, duplicate text as visible content
+   - Preserve proper spacing around indexterm elements
+
+4. TESTING:
+   - Create unit tests for each content type
+   - Compare character counts between XHTML and XML
+   - Validate all XML against DTD after conversion

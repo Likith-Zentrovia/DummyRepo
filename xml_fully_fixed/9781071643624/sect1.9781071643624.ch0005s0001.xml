@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0005s0001" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0005s0005</risprev>
+         <riscurrent>sect1.9781071643624.ch0005s0001</riscurrent>
+         <risnext>sect1.9781071643624.ch0005s0002</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>5</chapternumber>
+         <chapterid>ch0005</chapterid>
+         <chaptertitle>4. Mental Status Examination</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Mental Status Examination</title>
+   <para role="Para">The mental status examination (MSE)<indexterm significance="normal">
+         <primary>mental status examination (MSE)</primary>
+      </indexterm> is a structured assessment of the clinically relevant areas of a client’s behavioral, emotional, and cognitive functioning. By coalescing observations from these domains, the MSE paints a picture of the client at a given point in time and helps the clinician form a working hypothesis about a client’s psychiatric diagnosis/es and functioning<indexterm significance="normal">
+         <primary>functioning</primary>
+      </indexterm>. A standardized approach and focused questions allow the clinician<indexterm significance="normal">
+         <primary>clinician</primary>
+      </indexterm> to assess multiple domains<indexterm significance="normal">
+         <primary>domains</primary>
+      </indexterm>—and ascertain patterns across domains<indexterm significance="normal">
+         <primary>domains</primary>
+      </indexterm>—to best conceptualize and understand the client. Any indications of abnormality should be reported and described.</para>
+   <blockquote role="BlockQuote">
+      <para role="Para ParaOneEmphasisChild">
+         <emphasis>The client was a 69-year-old, Spanish speaking, Hispanic white man who appeared younger than his stated age. He was of average weight and dressed appropriately in tailored slacks and a button-up shirt. Intact grooming and hygiene were noted, as evidenced by neatly trimmed hair and fingernails and a closely clipped beard. He was cooperative with his examiner and translator but responded in a very concise manner to the examiner’s questions without much elaboration. Over the course of the interview, he became more forthcoming and at times tearful. He evidenced an anxious affect, sitting with his hands clenched and often averting eye contact to stare at the floor.</emphasis>
+      </para>
+   </blockquote>
+   <blockquote role="BlockQuote">
+      <para role="Para ParaOneEmphasisChild">
+         <emphasis>A 42-year-old multiracial, nonbinary (pronouns: they/them) person presented 20 minutes late to their appointment, arriving via bus with their adult daughter. A lack of grooming and hygiene was evident. Mx. Jones was disheveled; their clothes appeared unwashed and stained, and their hair appeared unwashed and unbrushed. They left their sunglasses on during the interview and would rise frequently from the chair to walk around the room and mutter incomprehensibly. They had a notable body odor of stale cigarette smoke. Mx. Jones appeared apathetic and evidenced poor insight, responding to the examiner’s questions with phrases such as “I don’t know. She brought my here,” referring to their daughter.</emphasis>
+      </para>
+   </blockquote>
+   <para role="Para">Without knowing more about each client’s symptoms or problems, these brief examples begin to illustrate the unique presentations and potential difficulties experienced by each individual. Each vignette raises different clinical hypotheses and suggests different lines of inquiry during the interview.</para>
+   <para role="Para">Although individual observations may be important to consider in isolation, remember that the MSE<indexterm significance="normal">
+         <primary>MSE</primary>
+      </indexterm> is only one component of a comprehensive examination and is most meaningful in the context of a thorough evaluation that includes a psychosocial history, review of psychiatric symptoms, and medical evaluation to inform a diagnosis and initial treatment plan (American Psychiatric Association, <emphasis role="CitationRef">
+         <phrase>2022</phrase>
+      </emphasis>).</para>
+   <para role="Para">During an intake interview<indexterm significance="normal">
+         <primary>intake interview</primary>
+      </indexterm>, the MSE offers the clinician’s initial insights into the client’s functioning and disorder severity compared to individuals from the same population or setting. In a treatment context, these impressions may evolve over time and with ongoing interactions. Progress notes containing comprehensive MSE<indexterm significance="normal">
+         <primary>MSE</primary>
+      </indexterm> snapshots track changes throughout treatment, aiding communication among healthcare providers and documenting therapeutic progress.<phrase>4.1</phrase>Table 4.1</para>
+   <para role="SimplePara">Components of the mental status exam<indexterm significance="normal">
+         <primary>exam</primary>
+      </indexterm>
+   </para>
+   <table id="ch0005s0001ta01">
+      <title/>
+      <tgroup cols="5">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <colspec colname="c3" colnum="3"/>
+         <colspec colname="c4" colnum="4"/>
+         <colspec colname="c5" colnum="5"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">General observations</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Thinking</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Emotion</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Cognition</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Factors influencing interpretation</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Arrival</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Thought processes</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Mood</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Orientation (including level of consciousness)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Reliability</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Appearance</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Thought content</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Affect</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Intellectual functioning</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Insight</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Speech and language</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Perceptions</para>
+               </entry>
+               <entry/>
+               <entry>
+                  <para role="SimplePara">Adaptive and social functioning</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Judgment</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Behavior and psychomotor activity</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Suicidal and homicidal ideation</para>
+               </entry>
+               <entry/>
+               <entry>
+                  <para role="SimplePara">Attention</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Strengths</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Attitude</para>
+               </entry>
+               <entry/>
+               <entry/>
+               <entry>
+                  <para role="SimplePara">Memory</para>
+               </entry>
+               <entry/>
+            </row>
+            <row>
+               <entry/>
+               <entry/>
+               <entry/>
+               <entry>
+                  <para role="SimplePara">Abstract reasoning</para>
+               </entry>
+               <entry/>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

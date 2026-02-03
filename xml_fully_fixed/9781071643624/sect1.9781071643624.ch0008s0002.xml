@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0008s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0008s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0008s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0008s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>8</chapternumber>
+         <chapterid>ch0008</chapterid>
+         <chaptertitle>6. Depressive Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Description of the Disorders</title>
+   <para role="Para">
+      Depressive disorders<indexterm significance="normal">
+         <primary>Depressive disorders</primary>
+      </indexterm>, as described by the <emphasis>Diagnostic and Statistical Manual of Mental Disorders</emphasis> (<emphasis>DSM-5-TR</emphasis>; American Psychiatric Association (APA), <emphasis role="CitationRef">
+         <phrase>2022</phrase>
+      </emphasis>), share symptoms that negatively impact mood (e. g., feelings of sadness), cognition (e. g., difficulty concentrating), and physical being (e. g., psychomotor agitation) and that are severe enough to cause distress or disrupt daily functioning. The <emphasis>DSM-5-TR</emphasis> categorizes depressive disorders into eight specific disorders: disruptive mood dysregulation<indexterm significance="normal">
+         <primary>dysregulation</primary>
+      </indexterm> disorder, major depressive disorder (including major depressive episode), persistent depressive disorder, premenstrual dysphoric disorder, substance/medication-induced depressive disorder, depressive disorder due to another medical condition, other specified depressive disorder, and unspecified depressive disorder (APA, <emphasis role="CitationRef">
+         <phrase>2022</phrase>
+      </emphasis>). Each is discussed next.</para>
+   <sect2 id="ch0008s0002s01" role="Heading">
+      <title>Disruptive Mood Dysregulation Disorder</title>
+      <para role="Para">
+         Disruptive Mood Dysregulation Disorder (DMDD)<indexterm significance="normal">
+            <primary>Disruptive Mood Dysregulation Disorder (DMDD)</primary>
+         </indexterm> was developed for and included in the <emphasis>DSM-5</emphasis> (APA, <emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>) as a means of improving differential diagnosis in children, as rates of misdiagnosis were high (Chilakamarri et al., <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>) and led to concerns about inappropriate or delayed access to appropriate treatment. DMDD is marked by chronic and severe irritability as evidenced by persistent anger and irritable mood interspersed with frequent behavioral outbursts. Behavioral symptoms include repeated verbal or physical outbursts, occurring approximately three times per week, which represent behaviors above and beyond what is merited by a given situation. Further, the outbursts must occur outside of typical levels of development. Associated moods are otherwise consistently irritable day-to-day and readily evident to others (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">Symptoms must occur for at least 12 months without gaps larger than 3 months in symptom presence (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Moreover, the symptoms must occur in multiple (a minimum of two) settings with at least one setting in which symptoms are severe. The onset of symptoms typically occurs before age 10, and initial diagnosis must occur between the ages of 6–18 years. Importantly, there must be no evidence of manic or hypomanic episodes, which is used to differentiate symptoms of DMDD<indexterm significance="normal">
+            <primary>DMDD</primary>
+         </indexterm> from symptoms of Bipolar I Disorder. As with other <emphasis>DSM-5</emphasis> disorders, other diagnoses including Major Depressive Disorder must not better account for the outbursts and irritable mood, and neither substance use nor physical conditions may be responsible for the behaviors associated with DMDD. Studies have reported a high comorbidity of DMDD with other behavioral disorders, including Attention-Deficit Hyperactivity Disorder (Axelson et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>) and Oppositional Defiant Disorder (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">Upwards of 5% of children from clinical samples display the primary DMDD feature of persistent irritability, and the estimated three-month prevalence rate of DMDD in a community sample ranged from 0.8% to 3.3%, with 1% meeting full criteria (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>; Copeland et al., <emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>). DMDD<indexterm significance="normal">
+            <primary>DMDD</primary>
+         </indexterm> is most frequently diagnosed in early childhood and affects preschoolers the most (Copeland et al., <emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>). Greater rates of DMDD are predicted in boys (vs. girls) and younger children (vs. adolescents) (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Notably, sociocultural factors may affect the presentation of core symptoms of DMDD (e. g., impulsivity, emotion, behavior regulation), especially in contexts impacted by severe social disruption (e. g., post-conflict zones or communities affected by systemic racism and discrimination) (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0008s0002s02" role="Heading">
+      <title>Major Depressive Disorder</title>
+      <para>
+         <phrase>2022</phrase>
+         <phrase>6.1</phrase>
+         <phrase>2022</phrase>Table 6.1</para>
+      feelings<indexterm significance="normal">
+         <primary>feelings</primary>
+      </indexterm>
+      <para role="SimplePara">DSM-5-TR symptoms of depressive disorders for differential diagnosis<indexterm significance="normal">
+            <primary>diagnosis</primary>
+         </indexterm>
+      </para>
+      <table id="ch0008s0002ta01">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Major depressive disorder</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Persistent depressive disorder (dysthymia)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Premenstrual dysphoric disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">At least five symptoms must be present and last the majority of the day for most days for at least 2 weeks:</para>
+                     <para role="SimplePara"> 1. Depressed mood</para>
+                     <para role="SimplePara"> 2. Anhedonia</para>
+                     <para role="SimplePara"> 3. Substantial weight or appetite change</para>
+                     <para role="SimplePara">4. Changes in sleep (e. g., insomnia or hypersomnia)</para>
+                     <para role="SimplePara"> 5. Observable agitation or retardation of motor movements</para>
+                     <para role="SimplePara">6. Changes in energy level (e. g., fatigue)</para>
+                     <para role="SimplePara"> 7. Experience of worthlessness or feelings of guilt</para>
+                     <para role="SimplePara"> 8. Difficulty concentrating or making decisions</para>
+                     <para role="SimplePara"> 9. Thoughts of death or suicide (ideation or attempt)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Depressed mood must be present and last a majority of the day for most days for at least 2 years, AND at least two symptoms must be present:</para>
+                     <para role="SimplePara"> 1. Appetite change (overeating or reduced appetite)</para>
+                     <para role="SimplePara">2. Changes in sleep (e. g., insomnia or hypersomnia)</para>
+                     <para role="SimplePara">3. Changes in energy level (e. g., fatigue)</para>
+                     <para role="SimplePara"> 4. Lowered self-esteem</para>
+                     <para role="SimplePara"> 5. Difficulty concentrating or making decisions</para>
+                     <para role="SimplePara"> 6. Experience of hopelessness</para>
+                     <para role="SimplePara">Major depressive disorder criteria may also be met throughout the course of PDD</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Mood changes must begin 1 week pre-menses and improve by one-week post-menses and be present for most menstrual cycles within the past year. A minimum of five symptoms must be present, including at least ONE from A and ONE from B:</para>
+                     <para role="SimplePara"> A. Mood symptoms</para>
+                     <para role="SimplePara">  1. Labile affect</para>
+                     <para role="SimplePara">  2. Anger or irritability</para>
+                     <para role="SimplePara">  3. Depressed mood or hopelessness</para>
+                     <para role="SimplePara">  4. Anxiety or tension</para>
+                     <para role="SimplePara"> B. Additional symptoms</para>
+                     <para role="SimplePara">  1. Reduced interest in activities</para>
+                     <para role="SimplePara">  2. Problems concentrating</para>
+                     <para role="SimplePara">  3. Low energy</para>
+                     <para role="SimplePara">  4. Appetite changes or food cravings</para>
+                     <para role="SimplePara">5. Changes in sleep (e. g., insomnia or hypersomnia)</para>
+                     <para role="SimplePara">  6. Feeling lack of control or being overwhelmed</para>
+                     <para role="SimplePara">7. Physical changes (e. g., bloating)</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="SimplePara">
+         <emphasis>Note</emphasis>: Adapted from the <emphasis>DSM-5-TR</emphasis> (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>)</para>
+      <para role="Para">MDD must be differentiated from normal feelings of bereavement or grief in response to loss (e. g., losing a significant other, losing physical ability following a medical condition). Symptoms associated with MDD may certainly overlap with those of grief and bereavement (e. g., changes in appetite or weight), yet MDD can only be diagnosed if an MDE is established. Given the prevalence of bereavement in late life, clinicians and researchers should take care not to misdiagnose intense grief reactions as MDD<indexterm significance="normal">
+            <primary>MDD</primary>
+         </indexterm> in older adults (Wakefield &amp; First, <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>). Thus, it is essential to approach diagnosis holistically and in consideration of personal history and relevant cultural factors (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">MDD can be classified based on severity, recurrence, presence of psychosis, and level of remission (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). <emphasis>Mild</emphasis>, <emphasis>moderate</emphasis>, or <emphasis>severe</emphasis> specifiers are assigned based on the number of symptoms present and the degree to which they impair functioning. For example, mild MDD is present if the minimum number of criteria is met, functional ability is not significantly disrupted, and impairment is small but controllable. Moderate and severe MDD are present when more symptoms are endorsed, symptoms are increasingly distressing, and impairment is significant. Recurrent episodes of MDD<indexterm significance="normal">
+            <primary>MDD</primary>
+         </indexterm> may be present if criteria are met for subsequent episodes occurring at least 2 months apart. MDD <emphasis>with psychosis</emphasis> can also occur in which someone experiences hallucinations and/or delusions in addition to symptoms of MDD. Psychosis during MDD is usually a sign of severity of the presentation. Remission status is based on the number of criteria present following diagnosis of MDD; specifically, one is in <emphasis>partial remission</emphasis> if symptoms have decreased or been absent for less than 2 months and in <emphasis>full remission</emphasis> in the event of a 2-month period of symptom absence.</para>
+      <para role="Para">
+         MDD<indexterm significance="normal">
+            <primary>MDD</primary>
+         </indexterm> can further be associated with <emphasis>mixed, melancholic,</emphasis> or <emphasis>atypical features</emphasis>; anxious distress; catatonia; peripartum occurrence (referred to as postpartum depression); mood-congruent or incongruent features; or seasonal onset (referred to as seasonal affective disorder) (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). These specifiers allow for recognition of symptoms occurring on a continuum, situational onset, and allow for more detailed assessment of the additional symptoms (e. g., anxious distress can lead to further assessment of anxiety symptoms; Sachdev et al.,<emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>).</para>
+      <para role="Para">The prevalence rates of the features identified within these specifiers vary. Hasin et al. (<emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>), for example, noted that the specifier for anxious/distressed was highest in their national sample, representing 74.6% of all those diagnosed with MDD, whereas the mixed features specifier was lower, characterizing 15.5% of those with MDD.</para>
+      <para role="Para">According to the American Psychiatric Association (<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>), the yearly prevalence of MDD is 7% and is highest among young adults and women, as typical onset occurs during puberty or adolescence. In a large US national study of MDD<indexterm significance="normal">
+            <primary>MDD</primary>
+         </indexterm>, yearly prevalence rates were found to be slightly higher at 10.4% and lifetime prevalence rates of MDD were as high as 20.6% (Hasin et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). Cross-cultural prevalence rates vary slightly. For example, a systematic review including 63 articles across 29 countries found that lifetime prevalence of MDD ranged from 2% to 21%, with lowest prevalence in Asia and the highest in Europe. They also demonstrated higher rates of MDD among females (vs. males) (Gutiérrez-Rojas et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). Within the United States, the chronicity of MDD also varies by ethnicity, such that prevalence rates were lower in African-Americans, Asian/Pacific Islander, and Hispanic groups than within white Americans (Hasin et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). Regarding the Hispanic or Latinx population, immigrants are less likely to experience depression than American-born Hispanic or Latinx individuals (Jackson-Triche et al., <emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>). However, it is important to note that symptoms of MDD may be underreported and under-detected in ethnic and racialized groups facing discrimination, and thus may be higher than what is noted in the literature (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">
+         MDD<indexterm significance="normal">
+            <primary>MDD</primary>
+         </indexterm> also differentially affects those within different settings. For example, relative to the general population, older adults living in nursing home or long-term care settings, patients in medical settings (especially those with chronic illness), and palliative care recipients are more likely to meet the criteria for MDD (Feliciano et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0008s0002s03" role="Heading">
+      <title>Persistent Depressive Disorder</title>
+      <para role="Para">
+         Persistent Depressive Disorder (PDD)<indexterm significance="normal">
+            <primary>Persistent Depressive Disorder (PDD)</primary>
+         </indexterm>, formerly known as Dysthymia<indexterm significance="normal">
+            <primary>Dysthymia</primary>
+         </indexterm>, reflects the combination of previous edition <emphasis>DSM</emphasis> disorders, including dysthymic disorder and chronic major depressive episode (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). PDD symptom criteria require at least a two-year duration of consistently low mood as well as two additional symptoms related to changes in appetite, sleep, self-esteem, ability to concentrate, energy level, or the experience of hopelessness (see Table <emphasis role="InternalRef">
+            <phrase>6.1</phrase>
+         </emphasis>). These symptoms cannot be absent for longer than 2 months throughout the depressive span, reflecting the chronicity of PDD. Further, during the period in which PDD occurs, it is possible for one to also meet the criteria for MDD (with persistent major depressive episode) (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">Like other mental disorders, the constellation of symptoms for PDD may not be the result of substances or physical or medical problems, be attributable to symptom profiles of other mental disorders (e. g., schizoaffective disorder), nor may there be evidence of manic or hypomanic episodes. The client must never have met symptom criteria for cyclothymic disorder, in which depressive and hypomanic episodes are present within a two-year period. Lastly, symptoms of PDD must cause personal distress or significantly affect one’s ability to function in important life arenas. Similar to MDD, PDD) can be qualified with specifiers, severity ratings, remission level, age of onset, and degree of presence of MDEs (e. g.,<emphasis>persistent, intermittent</emphasis>; APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">According to the APA (<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>), the annual prevalence rate of PDD is low, estimated at 0.5–1.5% of adults and with higher lifetime prevalence rates of up to 30% in the United States and Canada. However, prevalence rates vary by country and culture. A survey from the World Mental Health Organization of community-dwelling adults across) 14 countries placed the prevalence rates of PDD at about 12% (Kessler et al., <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>). In contrast,<indexterm significance="normal">
+            <primary>contrast,</primary>
+         </indexterm>Vandeleur et al. (<emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>) demonstrated a lifetime prevalence rate of PDD at 18.5% in a Swiss population-based study, with higher rates among women (22.9%) than men (12.5%). With regard to specifiers, the lifetime prevalence of PDD was estimated at 15.2% with persistent MDE; 0.4% with intermittent MDE; and 2.5% with pure dysthymia<indexterm significance="normal">
+            <primary>dysthymia</primary>
+         </indexterm> (Vandeleur et al., <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0008s0002s04" role="Heading">
+      <title>Premenstrual Dysphoric Disorder</title>
+      <para role="Para">
+         Premenstrual Dysphoric Disorder (PMDD)<indexterm significance="normal">
+            <primary>Premenstrual Dysphoric Disorder (PMDD)</primary>
+         </indexterm> became classified as an official depressive disorder with the publication of the <emphasis>DSM-5</emphasis> (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). PMDD (previously named late luteal phase dysphoric disorder) has a contentious history and was previously classified as a depressive disorder not otherwise specified given its need for more research; see Zachar and Kendler (<emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>) for a brief history and overview.</para>
+      <para role="Para">The core feature of PMDD involves changes in mood, ranging from sadness to anxiety to irritability, which begins the week before menses and gradually remits by the week following menses (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). These changes must accompany a majority of menstrual cycles within the past year. At a minimum, five total symptoms must be present during this time, including at least one of the following symptoms: labile affect, depressed mood or the experience of hopelessness, angry or irritable mood, or feeling anxious or tense. Further, the client must endorse at least one additional symptom related to reduced engagement in life areas (e. g., socializing or working), ability to concentrate, changes in sleep or appetite, physical changes (e. g., feeling bloated), changes in energy level, or the experience of losing control or feeling overwhelmed (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). See Table <emphasis role="InternalRef">
+            <phrase>6.1</phrase>
+         </emphasis> for symptom criteria.</para>
+      <para role="Para">These symptoms must result in personal distress or otherwise significantly affect the ability to complete important activities<indexterm significance="normal">
+            <primary>activities</primary>
+         </indexterm>. They must not be caused by substance use or physical/medical problems or be the result of the worsening of another disorder (e. g., MDD). Lastly, the pattern of changing mood pre-menses and remittance post-menses must be documented through at least two menstrual cycles, although provisional PMDD can be diagnosed if all other criteria are met (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">PMDD must be differentiated from a common experience by menstruating women known as premenstrual syndrome, or PMS. Although both occur pre-menses, PMS is more commonly associated with behavioral and physical changes but not the affective symptoms required by PMDD. Moreover, symptoms of PMDD tend to be more severe than PMS (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">Prevalence rates of PMDD<indexterm significance="normal">
+            <primary>PMDD</primary>
+         </indexterm>vary depending on study methodology (e. g., retrospective vs. prospective ratings), yet average rates, inclusive of multiple countries, are estimated at approximately 5% (Epperson et al.,<emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>). The incidence rate of PMDD in the United States is estimated at 2.5% (spanning 40 months), and annual prevalence rates range from 1.8% to 5.8% with higher reports from menstruating women who are nearing menopause (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). PMDD has been observed with a broad prevalence rate across countries and may be influenced by social and cultural factors such as attitudes toward menstruation<indexterm significance="normal">
+            <primary>menstruation</primary>
+         </indexterm>, amount of social support, or history of sexual abuse or domestic violence. For example, PMDD prevalence rates range between 1.2% and 6.4% in Asian countries (Banerjee et al., <emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0008s0002s05" role="Heading">
+      <title>Substance/Medication-Induced Depressive Disorder</title>
+      <para role="Para">
+         Substance/Medication-Induced Depressive Disorder<indexterm significance="normal">
+            <primary>Substance/Medication-Induced Depressive Disorder</primary>
+         </indexterm>is diagnosed if depressive symptoms develop during or within 1 month of exposure to substances or medications that caused intoxication and/or withdrawal and that are known to confer similar symptoms as depressive disorders (e. g., anhedonia, depressed mood). Further, symptoms must continue past the typical end point of the effects (e. g., withdrawal) of the substance (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Clinicians should include a specifier regarding symptom onset (e. g.,<emphasis>during intoxication</emphasis> or <emphasis>withdrawal</emphasis>) and use the diagnostic code associated with the corresponding substance and the degree of substance use disorder (e. g.,<emphasis>mild, moderate, severe</emphasis>, or <emphasis>absent</emphasis>).</para>
+      <para role="Para">Among individuals with substance use disorders, the lifetime prevalence rate of alcohol- and stimulant-induced depressive episodes was 40%, while the lifetime prevalence of substance−/medication-induced depressive disorders was 0.26% among those without a history of non-substance-induced depressive disorders<indexterm significance="normal">
+            <primary>disorders</primary>
+         </indexterm> (APA, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Longitudinal research indicates that with many substances there is a bidirectional relationship between substance use and depression, such that use of the substance(s) leads to an increased risk for depression and the converse is also true. For example, substances like cannabis may increase the risk of developing a depressive disorder among adolescents and adults, particularly in heavy users or those with chronic use patterns (Langlois et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>). Similarly, depressive disorders increase the risk for the use of substances like cannabis, perhaps as a coping strategy for managing symptoms.</para>
+      <para role="Para">Given recent legalization of cannabis in many countries, including parts of the United States and Canada, there has been increased interest in the relationship between cannabis use and onset of mood disorders<indexterm significance="normal">
+            <primary>disorders</primary>
+         </indexterm>. Prevalence rates of cannabis-induced depressive disorders are less clear as much of the research reports rates of comorbid MDD in those who use cannabis and are noted to be higher than the general population (25%) or predict risk for future depression diagnosis (MDD or bipolar disorder diagnosis) (Botsford et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>).</para>
+      <para role="Para">The risk for suicide differs depending on the type of substance used. Individuals with comorbid depressive disorders and alcohol use disorders have a higher risk of suicide attempts, whereas those with cannabis use disorders seem to have lower rates of suicide (Langlois et al.,<emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>). As such, it is crucial to address substance/medication-induced depressive disorder in individuals with alcohol and substance use disorders.</para>
+   </sect2>
+   <sect2 id="ch0008s0002s06" role="Heading">
+      <title>Depressive Disorder Due to Another Medical Condition</title>
+      <para role="Para">Depressive Disorder Due to Another Medical Condition is diagnosed in the event that a physical condition (e. g., Parkinson’s disease, hypothyroidism, traumatic brain injury) is directly responsible for depressive symptoms. This diagnosis should be qualified with specifiers (e. g., whether or not MDE is present) and accompanied by the name of the specific physiological condition present (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0008s0002s07" role="Heading">
+      <title>Other Specified Depressive Disorder and Unspecified Depressive Disorder</title>
+      <para role="Para">In earlier versions of the <emphasis>DSM</emphasis>, the Depressive Disorder Not Otherwise Specified diagnosis was given when clinicians wanted to capture depressive conditions that did not meet the full criteria for any other depressive disorder or were provisional based on limited assessment information. In the <emphasis>DSM-5</emphasis>, this category was eliminated and replaced by two options: other specified depressive disorder<indexterm significance="normal">
+            <primary>disorder</primary>
+         </indexterm> and unspecified depressive disorder. The diagnoses of Other Specified Depressive Disorder and Unspecified Depressive Disorder may be assigned when a client presents with depressive symptoms that are <emphasis>subclinical</emphasis>, that is the symptoms substantially affect functioning but full criteria for a depressive disorder are not present. The <emphasis>DSM-5</emphasis> describes three examples of conditions that would fit under this category including <emphasis>recurrent brief depression, short-duration depressive episode</emphasis>, and <emphasis>depressive episode with insufficient symptoms</emphasis>. Recurrent brief depression would refer to the presence of depressed mood and at least four of the eight additional depressive symptoms that are brief in nature (e. g., last 2–13 days) but recur over at least 1 year (i. e., 12 consecutive months). The person must experience distress or impairment in function. Short-duration depressive episode also refers to a condition in which there is a depressed mood and at least four additional symptoms; however, the symptoms and associated distress or impaired functioning only last for 4–13 days. Depressive episode with insufficient symptoms refers to a situation in which a depressed mood is present and at least one additional depressive symptom with concomitant distress or impaired function for at least 14 days. In these examples, the person would not meet the criteria for any other depressive, bipolar, or psychotic disorder during the specified timeframes.</para>
+      <para role="Para">Unspecified Depressive Disorder is assigned if the clinician opts not to include information for why the depressive symptoms and associated distress or impairment do not meet the threshold for another more specific depressive disorder. This may occur in settings in which additional information necessary to make a more specific diagnosis is lacking as in the case of an emergency room (APA,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>) or within a co-visit with a medical provider in an integrated care setting.</para>
+   </sect2>
+</sect1>

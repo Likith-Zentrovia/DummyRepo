@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0006s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0006s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0006s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0006s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>6</chapternumber>
+         <chapterid>ch0006</chapterid>
+         <chaptertitle>5. Consideration of Neuropsychological Factors in Interviewing</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Part 2: Clinical Neuropsychological Interviewing</title>
+   <sect2 id="ch0006s0002s01" role="Heading">
+      <title>Introduction</title>
+      <para role="Para">We will now turn to the second part of this chapter, which is an introduction to the complicated and nuanced process of conducting a neuropsychological assessment interview. This is a skill which begins with readings such as this but can only be learned through observation of skilled interviewers and the experience of performing multiple interviews. Readers are referred to works by other authors (Donders,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>; Lezak et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>; Strauss et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>; Suchy &amp; Miller, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>) that also serve as excellent introductions to neuropsychological interviewing.<link linkend="ch0006s0002fg02">5.2</link>
+      </para>
+      neuropsychological assessment<indexterm significance="normal">
+         <primary>neuropsychological assessment</primary>
+      </indexterm>
+      <figure float="0" id="ch0006s0002fg02" role="Figure">
+         <title>
+            <emphasis role="CaptionNumber">Fig. 5.2</emphasis>Model of neuropsychological assessment</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0006f05.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+         </mediaobject>
+      </figure>
+      <para role="Para">There are many different styles of interviewing; some clinicians vary greatly in their styles from one patient to the next, whereas others use the same approach with every patient. Some clinicians use the interview simply to query the patient’s responses on a form they have already completed. One approach is to send a detailed history form to the patient ahead of the appointment, along with a letter reminding them of the appointment and explaining what to expect in the evaluation. When the patient comes to the appointment, the interview consists of a discussion of the reason for referral, current symptoms, and then clarifying information that they provided on the form. This method has several advantages: (1) The patient can look up phone numbers, dates, and other specifics from their medical history without having to remember them during the appointment. The form also prompts them to bring in any past neuropsychological assessment reports and copies of other important records. (2) If the patient completes the form as desired, it can save considerable time on the day of the interview. (3) The form can be completed by a caregiver who may not be able to accompany the patient to the appointment. However, many patients neglect to complete the history form ahead of time, and thus no time is saved. Also, some content areas (current mental health, description of current cognitive symptoms) are best addressed during an in-person interview. As such, these areas would not be covered on this history form.</para>
+   </sect2>
+   <sect2 id="ch0006s0002s02" role="Heading">
+      <title>Reason for Referral</title>
+      <para role="Para">One of the key components, and overall goals, of all neuropsychological interviews is clarifying the reason for referral. The reason for referral generally falls into one of two categories: (1) evaluate the extent, if at all, of cognitive change related to a known neurological condition such as a stroke, head injury, brain tumor, multiple sclerosis, or a multitude of other conditions that affect cognitive functioning or (2) evaluate whether a cognitive disorder is present and, if so, what condition is most likely causing it. This differs from the first category in that the patient or referring professional does not know if a medical problem is present or not.</para>
+      <para role="Para">It can be surprisingly difficult to establish the reason for referral. Referring professionals may not express exactly what information they wish to obtain. They may not point out important information, such as the patient appearing in court in several weeks to have a guardian put in place. They may not supply information that they already know which would be useful to the neuropsychologist. For example, a case manager may refer a 48-year-old woman for evaluation of possible cognitive decline, without mentioning a history of intellectual disability or brain tumor. Patients may have no knowledge of the purpose of the evaluation, other than “My doctor/lawyer sent me here.” If the patient is impaired and without a caregiver present at the evaluation, they may not be able to surmise why they were sent to the evaluation. In cases such as this, the clinician must attempt to infer what the referral question may be.</para>
+      <para role="Para">It is best to clarify the reason for referral before the patient even comes to the appointment. This can be completed in a 5- or 10-min conversation with the referring professional ahead of time and can prevent a great deal of confusion on the day of the evaluation. Preparatory work like this ahead of time should also be done to possibly decrease the amount of time the patient needs to spend in the evaluation.</para>
+      <para role="Para">In a neuropsychological interview, the clinician should arrive at the reason for referral while also having the goal of evaluating what we know needs to be evaluated. That is, if we know certain factors should be evaluated in the context of a given reason for referral, we should evaluate those factors even if not specifically requested. For example, patients referred for dementia<indexterm significance="normal">
+            <primary>dementia</primary>
+         </indexterm> evaluations should also be screened for depressive symptoms, even though patients or referring providers may not request this. If a patient is reporting difficulties at work since a TBI, we should evaluate his or her work history before the TBI to assess if there truly has been a change. In other words, we should not just evaluate what the patient or referring provider wants to have evaluated. When we go to see a physician, we hope and assume that the physician evaluates things we have not thought of, with the goal of best practice for us.<link linkend="ch0006s0002fg03">5.3</link>
+      </para>
+      <figure float="0" id="ch0006s0002fg03" role="Figure">
+         <title>
+            <emphasis role="CaptionNumber">Fig. 5.3</emphasis>Sample letter to send to patients ahead of evaluation date</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0006f03.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+         </mediaobject>
+      </figure>
+      <para role="Para">Once the reason for referral is established, the clinician can move into asking questions most pertinent to the referral question. A useful exercise for clinicians to undergo can be to ask oneself “If I only had ten minutes to do the interview, what information would I want to get?” This can force oneself to prioritize the most important areas to cover. This often comes down to obtaining a history of the current problem at the expense of more distal information.</para>
+   </sect2>
+   <sect2 id="ch0006s0002s03" role="Heading">
+      <title>Standard Areas to Cover in a Neuropsychological Assessment Interview</title>
+      <para role="Para">There are several areas that are typically covered in a neuropsychological assessment interview. Any one of these may represent the primary problem or cause of cognitive dysfunction.</para>
+      <sect3 id="ch0006s0002s03s01" role="Heading">
+         <title>Daily Functioning</title>
+         <para role="Para">When patients report cognitive problems, the clinician should assess the effect of the symptoms on daily life. Some examples of instrumental activities of daily living (IADLs) which can be impacted by cognitive problems include one’s ability to manage finances, manage medications, drive a car or travel independently, shop for groceries, and prepare meals. Assessment of daily functioning<indexterm significance="normal">
+               <primary>daily functioning</primary>
+            </indexterm> assists in arriving at a diagnosis. For example, if the patient reports that she often forgets conversations with co-workers and it is interfering with her job, this may be a classic symptom of Alzheimer’s disease. In addition, the determination of whether a neurocognitive disorder is major or mild rests on whether the patient depends on others for completion of IADLs.</para>
+      </sect3>
+      <sect3 id="ch0006s0002s03s02" role="Heading">
+         <title>Medical History</title>
+         <para role="Para">One important area to cover is the patient’s medical history. Here, the interview in a sense serves as a substitute for having actual medical records. If the clinician can obtain medical records ahead of time, then these should be reviewed in detail to obtain a solid understanding of the patient’s medical conditions<indexterm significance="normal">
+               <primary>conditions</primary>
+            </indexterm>. If the clinician can do this ahead of time, it will decrease the amount of time spent discussing medical history in the interview. Unfortunately, in some settings, the clinician cannot obtain these records until the patient arrives at the clinic and signs release of information forms, which are then sent to medical clinics. Medical facilities vary in their responsiveness to requests for records, so a clinician may never be sure that they will be able to obtain these records. This means that the clinician must ask the patient or caregiver for their description of the medical history.</para>
+         <para role="Para">Medical records often provide information that was inaccurately reported by the patient. For example, a patient reported that after having a stroke, she was unconscious for 3 days. A review of medical records found her to be alert at the time of the stroke, with no mention of any loss of consciousness in the following days. The patient was unlikely to be lying; rather, she probably simply had a poor memory of the event or misunderstood the question asked of her. Another way medical records make a valuable contribution is that they offer documentation of when memory problems began. Patients and their caregivers often have poor recollection of when memory problems began, whereas clinicians can often find mention of memory problems in medical chart notes<indexterm significance="normal">
+               <primary>notes</primary>
+            </indexterm>. For example, notes from years ago may say something like “patient reports increasing memory problems, and word-finding difficulties are present during the interview.” Information such as this can help the neuropsychologist establish a diagnosis and prognosis for the patient.</para>
+         <para role="Para">If possible, the clinician should strive to obtain lab results. High white blood cell counts can imply an infection of some sort, which can lead to delirium. A high thyroid stimulating hormone (TSH) count can imply an underactive thyroid gland, which can reduce cognitive functioning. Other important labs to note are vitamins B<subscript>1</subscript> (thiamine) and B<subscript>12</subscript>. Patients typically are unaware of these lab values, or that they have even been drawn, so clinicians must obtain these values from medical charts.</para>
+         <para role="Para">Other medical conditions<indexterm significance="normal">
+               <primary>conditions</primary>
+            </indexterm> that can impact cognition include a known history of stroke, brain tumors, and recent surgeries. Surgeries in older adults can disrupt blood supply in the brain or can trigger a delirium that can last for days afterward, leading to cognitive deficits. When interviewing a patient, an attempt should be made to see if the onset of cognitive problems is related to parts of their medical history. For example, the patient may have started to experience cognitive problems soon after a fall. This would suggest that the patient may have experienced a traumatic brain injury that has caused cognitive changes.</para>
+         <para role="Para">A list of current medications should also be obtained from the patient. This can be facilitated by having the patient bring a list of all their medications to the appointment or viewing a list on a recent medical document (though these can certainly be inaccurate!). Tricyclic antidepressants, sedative/hypnotic medications such as benzodiazepines and barbiturates, anticholinergic drugs, antiepileptic drugs (particularly first-generation medications), proton pump inhibitors (used for reducing stomach acid), and sedating antihistamines (e. g., diphenhydramine, hydroxyzine) all are medications that can negatively impact cognitive functioning (Crowe,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>; Houston &amp; Bondi, <emphasis role="CitationRef">
+               <phrase>2006</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0006s0002s03s03" role="Heading">
+         <title>Mental Health</title>
+         <para role="Para">Every psychologist, including neuropsychologists, has the specialized training and responsibility to evaluate patients’ current mental health. Again, prior records should be reviewed if possible. Whether or not the patient’s prior history is known, the clinician can simply ask<indexterm significance="normal">
+               <primary>ask</primary>
+            </indexterm> “how has your mood been lately?” One can also ask “Do you still enjoy activities that you’ve enjoyed before?” These two questions assess two main symptoms of major depressive disorder. Questions about anxiety and symptoms of schizophrenia (hallucinations and delusions) should also be asked. Interviewing about mental health problems is covered in other chapters of this book. All patients should also be asked if they have ever seen a neuropsychologist before. If they have, those assessment results are extremely valuable in serving as a baseline to compare to current test results.</para>
+      </sect3>
+      <sect3 id="ch0006s0002s03s04" role="Heading">
+         <title>Substance Use</title>
+         Substance use<indexterm significance="normal">
+            <primary>Substance use</primary>
+         </indexterm>
+         age<indexterm significance="normal">
+            <primary>age</primary>
+         </indexterm>
+         <para>
+            <phrase>2024</phrase>
+            <phrase>5.3</phrase>
+            <phrase>2023</phrase>Table 5.3</para>
+         dementia<indexterm significance="normal">
+            <primary>dementia</primary>
+         </indexterm>
+         <para role="SimplePara">Definition of heavy and moderate alcohol use</para>
+         <table id="ch0006s0002ta03">
+            <title/>
+            <tgroup cols="3">
+               <colspec colname="c1" colnum="1"/>
+               <colspec colname="c2" colnum="2"/>
+               <colspec colname="c3" colnum="3"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Gender</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Heavy alcohol use</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Moderate alcohol use</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Men</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">5 or more drinks in a day or 15+ in a week</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Limiting use to 2 drinks a day or less</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Women</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">4 or more drinks in a day or 8+ in a week</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Limiting use to 1 drink a day or less</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Men and women</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Binge drinking 5 or more days in the past month</para>
+                     </entry>
+                     <entry/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <para role="SimplePara">
+            <emphasis>Note</emphasis>: Defined by US Department of Health and Human Services (<emphasis role="CitationRef">
+               <phrase>2023</phrase>
+            </emphasis>)</para>
+         <para role="Para">
+            Marijuana<indexterm significance="normal">
+               <primary>Marijuana</primary>
+            </indexterm> is another commonly-used substance that affects cognitive functioning. Thus, clinicians are recommended to be direct in their approach to questioning cannabis use. It is imperative that the clinician assess the current use of cannabis due to the negative impact of acute cannabis use (typically a few hours after use) on learning and memory, psychomotor abilities, attention, and working memory (Crane &amp; Wade, <emphasis role="CitationRef">
+               <phrase>2023</phrase>
+            </emphasis>). If a patient reports that they used cannabis on the day of the evaluation, their use would affect their cognitive performance. Research also posits that cognitive functioning may be affected for several days to 2 weeks after use (Dellazizzo et al., <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). However, at this time, clear evidence for long-term persistent cognitive difficulties (several days to weeks following use) has not been substantiated; therefore, the clinician may be able to schedule the testing portion of the evaluation by scheduling testing for a week or two later with the patient’s temporary abstinence of cannabis use prior to the testing appointment.</para>
+         <para role="Para">Clinicians should obtain a history of use of other substances such as cocaine, methamphetamines, LSD, and heroin, as well as misuse of prescription medications such as opioid pain medications. While the direct effects of these substances on the brain are less clear, a lifestyle marked by heavy use of these substances or addiction to them can have detrimental effects on brain functioning. Also note that younger cohorts are bringing higher rates of use of illicit drugs into later life (Segal et al.,<emphasis role="CitationRef">
+               <phrase>2018</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0006s0002s03s05" role="Heading">
+         <title>Developmental History</title>
+         <para role="Para">The patient’s developmental history<indexterm significance="normal">
+               <primary>developmental history</primary>
+            </indexterm> should be assessed, and this is more important the younger the patient. Early childhood risk factors, including problems at birth and childhood diseases, should be evaluated. Any deviation from normal development should be noted. Especially important for neuropsychological assessment, the clinician should obtain some details about the patient’s schooling<indexterm significance="normal">
+               <primary>schooling</primary>
+            </indexterm>. The quality and quantity of education should be assessed, and any difficulty in particular subjects or any history of special education should be noted. The quantity and quality of education will determine the population to whom the patient is compared when evaluating their neuropsychological test data. Thus, this piece of information, along with the patient’s age, is critical and must be a piece of information gathered from every single neuropsychological assessment patient. The clinician can inquire into this topic by asking “how far did you go in school?” It is important that the clinician converts this into a number of years of education. Neuropsychological tests are normed by years of education, not degrees completed. Thus, if a patient finished high school, this is coded as 12 years of education. If they left high school sometime during their senior year, that is coded as completing 11 years of education. The key is how many full years the patient completed.</para>
+         <para role="Para">The quality of education provided to the patient should also be assessed. Twelve years of education for someone from an impoverished environment is not equivalent to 12 years of education from a more enriched environment<indexterm significance="normal">
+               <primary>environment</primary>
+            </indexterm>. This assessment of quality of education is important because neuropsychologists must compare a patient’s test performance to performance by people of similar backgrounds. If a patient with less education is compared to a population of the same age with more education, the patient may be misdiagnosed as impaired when in fact they have no impairment.</para>
+      </sect3>
+      <sect3 id="ch0006s0002s03s06" role="Heading">
+         <title>Occupational History</title>
+         <para role="Para">
+            Occupational history<indexterm significance="normal">
+               <primary>Occupational history</primary>
+            </indexterm> should also be assessed in all patients for several reasons. This provides the clinician a sense of the baseline functioning of the individual to serve as a comparison for current functioning. Patients who have a history of short durations at any job and who are now seeking disability compensation may have personality characteristics that interfere with their ability to stay in a job for very long, and they may be seeking a way to reduce their need for employment. Also, a description of the patient’s occupation and how their cognitive problems have manifested at work can be elucidating for the clinician in arriving at diagnostic hypotheses.</para>
+      </sect3>
+      <sect3 id="ch0006s0002s03s07" role="Heading">
+         <title>Legal History</title>
+         <para role="Para">
+            Legal history<indexterm significance="normal">
+               <primary>Legal history</primary>
+            </indexterm> should be assessed, especially for patients currently involved in the legal system, to determine if there is any benefit the patient may experience from being found to have cognitive impairment. Also, the clinician should know if there is a strong probability that the assessment findings will be presented in court, and if there is a chance that the clinician will have to testify. Every report should be written as if there is a chance it will appear in court.</para>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0006s0002s04" role="Heading">
+      <title>The Interview Process</title>
+      <para role="Para">It cannot be overstated that one important purpose of the interview is to develop rapport with the patient. Rapport serves as the foundation upon which all clinical work is completed (also see Chap.<emphasis role="ExternalRef">
+            <ulink url="ch0002.xml#ch0002">
+               <emphasis role="RefSource">1</emphasis>
+            </ulink>
+         </emphasis>). If the clinician does not have rapport with the patient, then the interview may be unsuccessful in obtaining necessary information. Fortunately, most psychologists are well-skilled in establishing rapport with patients. Some things should be done at the start with a patient in order to establish rapport, and the first meeting with the patient is critical in this regard. Patients should be greeted with a smile and welcomed to the clinic. They should know that their comfort is a priority; for example, they should be informed where the restroom is, and offered a drink of water. Clinicians may wish to keep snacks on hand so patients do not feel hungry. Some clinics offer coffee and tea to patients, but other clinics avoid this in order to set firmer boundaries with patients. Efforts should be made to have frequent eye contact with the patient, and it can be helpful to share a laugh at least once. It can be helpful to clinicians to find something they have in common with a patient and to point that out to the patient. This can be a place in common where they have both lived (without discussing where the clinician currently lives), a favorite pastime, favorite restaurant, favorite sports team, or other commonality that can be discussed without crossing professional boundaries. Even though brief, this time spent leads to development of rapport, which is the basis of all clinical work.</para>
+      <para role="Para">Neuropsychologists typically use a hypothesis-testing approach when conducting an interview, and during the entire evaluation and report write-up. That is, as the patient begins to report information, the clinician should generate hypotheses to explain the patient’s difficulties. These hypotheses should be tested and either refuted or confirmed. Neuropsychologists collect all the background information, discussed above, to test hypotheses. It is also important that clinicians do not simply seek information that confirms their hypotheses. Clinicians should also seek information that would refute their hypotheses. For example, if the clinician thinks Alzheimer’s disease is the cause of the patient’s problems, the clinician should also seek evidence for other causes of cognitive dysfunction, such as delirium, a TBI, or problematic alcohol or drug use.</para>
+      <para role="Para">Neuropsychologists typically start the interview with general, open-ended questions (e. g., “so what brings you here today?) and gradually move toward specific questions (Donders,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). This method allows the examiner to observe how the patient reacts to ambiguous stimuli and how the patient structures an unclear situation. Valuable behavioral observations can be made, such as the patient’s ability to find words when communicating freely, their ability to stay on topic, ability to respond to your needs, etc. This also gives the patient the opportunity to express certain needs, problems, or concerns that are most important to them (e. g., an older adult saying “My daughter is trying to put me in a home” or “My memory is shot and I just know I’ve got Alzheimer’s disease,” or a younger adult saying “I really want to be able to go back to work” vs. “I am unable to work and I’m trying to get disability compensation”). This gives the examiner valuable insight into the patient’s thought processes. As the interview proceeds, the clinician can probe for details into relevant areas and ask about areas that have not been covered.</para>
+      <para role="Para">It is important to be flexible and responsive to the patient’s wishes for the order in which information is covered. If the patient brings up a topic that the clinician planned to address later, the clinician may wish to let the patient discuss the topic right then, instead of asking the patient to wait until later to discuss it. For example, substance use may be typically covered in the middle of an interview, but if the patient says something like “my wife thinks my memory problems are worse when I’m drinking a lot,” then the clinician may wish to take advantage of that open door and discuss substance use at that time rather than waiting until later. Similarly, if the patient says “I have a family history of Alzheimer’s disease,Alzheimer’s disease,<indexterm significance="normal">
+            <primary>Alzheimer’s disease,</primary>
+         </indexterm>” then the clinician may wish to discuss family history of neurological problems at that time rather than re-visiting the topic later.</para>
+      <para role="Para">Along the same lines, the patient may move into a different topic area before the clinician feels finished with the first topic. Here the clinician must decide if it will harm rapport if the clinician asks the patient to come back to the first topic. For example, the patient may say something like “it could be that these problems are related to the time I was knocked out in a fight, but I think that the stale air in my building is interfering with my work. Let me tell you about the building where I work…” At some level, the clinician may wish to have the patient direct the interview, especially for the goal of establishing rapport, but this need must be balanced with the need for the clinician to maintain control and obtain critical information to help the patient.</para>
+      <para role="Para">Some clinicians prefer to interview the patient without having any caregivers in the room, whereas others interview the patient and caregiver simultaneously. It is certainly important to get information from both parties, but each method has its strengths and weaknesses. If the patient is interviewed alone, it is possible that their cognitive impairments or motivations will lead them to report information that is inaccurate, and the clinician may not realize this. This can be ameliorated by interviewing a caregiver at a different time and checking for accuracy. Sometimes, for reasons of practicality, the patient and caregiver are interviewed together. Donders (<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>) points out that in this case, care must be taken to allow the patient to answer questions independently without being interrupted by the caregiver. The clinician must also show that the patient’s opinions are valued as much as, if not more than, those of the caregiver. Many clinicians make the mistake of speaking primarily to the caregiver, seeming to ignore the patient in the room. This practice, which can be disrespectful to the patient, can lead the patient to feel unimportant or untrustworthy and thus interfere with rapport. On the other hand, the patient may defer to their caregiver and make little effort to provide their own answer. Here, the clinician should also make efforts to encourage the patient to provide their own opinion on things.</para>
+      <para role="Para">The clinician must strike a balance between guiding the interview to include enough relevant detail, while also maintaining rapport with the patient. This can be challenging when patients’ answers to questions go on tangents about information that is not relevant to the evaluation. For example, a patient may give extreme detail about the job they held 20 years ago, or a patient may complain excessively about the healthcare system. The clinician must be able to interrupt in a polite fashion to move the patient toward providing information that will be more helpful for the evaluation (and thus, the patient’s needs). This can be done by gently interrupting and saying something like “I’d like to hear more about that if we have time later, but right now I wanted to ask you about something else” (and then, before allowing the patient to comment, moving on to the next question). Interrupting the patient can seem intimidating to less-experienced clinicians, but they must remember that the interruption is being done for the patient’s best interests. If a loquacious patient were permitted to talk freely about everything they desired, the evaluation may never be completed and the patient will not be served. Sometimes the very nature of the disorder the patient has (e. g., dementia) makes the patient more prone to such tangential conversation, and more prone to anger if interrupted by the examiner. The examiner must establish adequate rapport to guide the interview in this way. Sometimes it may help to warn the patient at the outset that “we have a lot to cover in a small amount of time, so I may have to interrupt you to make sure you’re able to leave on time. I apologize ahead of time if I have to do this.”</para>
+      <para role="Para">On the other hand, rather than rambling, some patients may not provide sufficient information to answer the clinician’s questions and may be resistant to providing more detail. For example, a victim of an assault or other traumatic event may prefer to avoid discussing the nature of the event that caused a head injury, and the clinician must decide whether it is worth pressing for more information at the expense of possibly sacrificing rapport. Most of the time in neuropsychological assessment, rapport with the patient is a higher priority than obtaining all the information desired in an interview. Rapport is necessary to obtain accurate test data. Background information can always be obtained from another source or at a later time.</para>
+   </sect2>
+   <sect2 id="ch0006s0002s05" role="Heading">
+      <title>Considerations When Using Interpreters for Interviews</title>
+      <para role="Para">With regard to neuropsychological assessment, the ethical standards of the American Psychological Association (American Psychological Association,<emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>) assert the importance of providing services to the patient in a language consistent with the patient’s preference and reported language proficiency. Using a language that the patient understands allows the patient to be able to make an informed decision about consenting to the assessment. Best practice consists of using an interpreter that is accredited and an interpreter that can come to the evaluation in-person versus via telephone or video services (Fujii et al., <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). On the day of the interview, the patient must give consent to using an interpreter for the assessment and confirm that they understand the interpreter that is present. The clinician then prepares with the interpreter first. Factors of consideration that are emphasized in this pre-interview discussion include, but are not limited to, reviewing and/or defining terms, reviewing the importance of relaying as exact as possible translations of the patient’s responses back to the clinician, as well as informing the interpreter that patients may have difficulty with communication. At the start of the interview, time should be spent preparing the patient for what to expect when using an interpreter in an interview. The clinician will benefit from speaking in short clear sentences and with a slower rate of speech. At times, repetition or re-explanation of questions or words will assist with the patient’s understanding of questions presented. At the end of the interview, the clinician should also provide an overall summary of the patient’s responses to allow an opportunity for the clinician to ensure that they understood the patient. Following the interview, discussion with the interpreter one-on-one is again recommended for review of the patient’s responses.</para>
+      <para role="Para">Importantly, other aspects of a patient’s culture need to be attended to in addition to the patient’s language proficiency. A helpful acronym has been developed and suggested by Fujii (<emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>) to aid in this process: ECLECTIC. The components of the acronym ECLECTIC include Education, Culture (including acculturation), Language, Economics, Communication style, factors related to a Testing situation, conceptualization of Intelligence, and Context of immigration. Further reading on these topics is recommended (Fujii, <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>).</para>
+      <para role="Para">Two common referral questions are the evaluation of traumatic brain injuries<indexterm significance="normal">
+            <primary>traumatic brain injuries</primary>
+         </indexterm> and the evaluation of possible dementia. Interviews focused on these referral questions will be discussed next.</para>
+   </sect2>
+   <sect2 id="ch0006s0002s06" role="Heading">
+      <title>Traumatic Brain Injuries</title>
+      <para role="Para">The evaluation of traumatic brain injuries (TBIs)<indexterm significance="normal">
+            <primary>traumatic brain injuries (TBIs)</primary>
+         </indexterm> in an outpatient setting has at least three goals: (1) to reconstruct a history of the event, (2) to evaluate the effects of the injury on cognition and behavior, and (3) to arrive at recommendations for the patient and their family and/or other care providers. Reconstructing a history of the event includes gauging the severity of the event, because the severity of the event plays a large role in the outcome for the patient’s life. As discussed earlier, severity of TBI is classified using specific criteria noted in Table <emphasis role="InternalRef">
+            <phrase>5.1</phrase>
+         </emphasis> and can be established in several ways. One measure used to assess severity of head injury is the Glasgow Coma Scale (Teasdale &amp; Jennett, <emphasis role="CitationRef">
+            <phrase>1974</phrase>
+         </emphasis>). The Glasgow Coma Scale is a measure of the motor, verbal, and eye-opening response of a person who has just sustained an injury to the head, and it is often assessed by emergency personnel on the scene or upon arrival of a person at the hospital. Therefore, the Glasgow Coma Scale can often be obtained from medical records. Another criterion used in defining the severity of TBI is if the patient has no memory of events following the injury, known as posttraumatic amnesia. If the patient lacks memory for events after the injury, especially for more than 24 h afterward, this injury would be classified as a moderate or severe TBI. Importantly, the patient’s actual memory of the event must be distinguished from what the patient has been told about the event. By the time the patient sees the neuropsychologist (possibly months or years after the event), the patient may have learned a great deal about what happened in the injury. They may confuse this knowledge of the event with actual memory of the event, and the clinician must take great care to differentiate between the two. This can be helped by the clinician asking the patient about the first thing they recall following the injury.</para>
+      <para role="Para">Another criterion used in defining the severity of TBI<indexterm significance="normal">
+            <primary>TBI</primary>
+         </indexterm>is the presence and length of loss of consciousness. The majority of TBIs are mild, with loss of consciousness less than 30 min or solely an experience of altered consciousness (e. g., feeling confused and dazed), and usually do not lead to permanent deficits. Of note, this does not extend to those diagnosed with mild<emphasis>complicated</emphasis>traumatic brain injury, which is classified as a mild traumatic brain injury with abnormal findings observed on neuroimaging following the injury. Recovery from a mild TBI (uncomplicated), which is used interchangeably with “concussion,” typically occurs within a few hours to days following the injury with only a few experiencing cognitive symptoms 3 months post-injury (Mc Allister,<emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>). Thus, when patients present with a history of concussion, it is likely that they have cognitively recovered from the injury depending on how much time has passed since the event. If the patient continues to experience persistent cognitive difficulties following a concussion, these difficulties are likely related to interference from other factors (e. g., psychological, somatic, substance use), and a neuropsychological evaluation can assist with identification of these other variables that may be impacting a patient’s daily functioning.</para>
+      <para role="Para">However, if patients have lost consciousness for longer than 30 min, their head injury would be more severe with potential lingering deficits. Unlike the generally fast recovery course from a concussion, a patient recovering from a moderate to severe TBI<indexterm significance="normal">
+            <primary>TBI</primary>
+         </indexterm> may take 1 year to show the most cognitive improvement after the injury, with most of the recovery taking place within 2 years (King et al., <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>). Any further improvement is often modest in comparison and variable by patient. Even with marked cognitive improvement in the first 2 years post-injury following a moderate to severe TBI, a patient may never return to their cognitive baseline prior to the injury. Therefore, patients with moderate-to-severe TBIs may have persisting cognitive deficits that impact their ability to live independently or return to work.</para>
+      <para role="Para">Along with establishing the severity of the brain injury, another priority of the clinical interview for a patient with TBI<indexterm significance="normal">
+            <primary>TBI</primary>
+         </indexterm> is to re-construct the history of the event. The neuropsychologist performs this through a combination of reviewing medical records of the event, interviewing the patient, and interviewing caregivers. Additionally, the neuropsychologist must learn the nature of the injury and the location of damage in order to assess what cognitive abilities may be affected by the injury. Head injuries can be divided into two types: open (or “penetrating”) head injuries, in which a foreign object penetrates the brain through the skull, and closed head injuries, in which the skull remains largely intact, and no foreign object enters the brain. These two types of head injuries are associated with certain neuropathological processes, and closed head injuries are associated with better outcomes than open head injuries. The neuropsychologist must also know if certain parts of the brain were affected more than other parts, in order to assess what cognitive abilities may have been affected. For example, if the left hemisphere were damaged in an injury, the neuropsychologist would know that a detailed assessment of language is in order. If the left hemisphere was largely unscathed in the injury, the neuropsychologist would need to spend less of the patient’s time evaluating language abilities. Different locations in the brain correspond to different cognitive abilities, and the neuropsychologist’s knowledge of the patient’s specific injury should be combined with knowledge of neuroanatomy to surmise what cognitive abilities may have been affected and thus which should be evaluated.</para>
+      <para role="Para">Another large area to consider in the interview with a person with TBI is the changes that have occurred in functioning since the injury event. It is important to compare one’s functioning after the injury event to their functioning before the event. Oftentimes, the clinician will find that problems that have been present since the injury were actually present before the injury and thus are likely not to be an effect of the injury. For example, a patient may have difficulty maintaining employment since an injury, but this may represent baseline functioning. Additional standard components of any diagnostic interview when assessing patients with TBI<indexterm significance="normal">
+            <primary>TBI</primary>
+         </indexterm> are medical history, occupational or academic functioning, substance use, psychiatric functioning, social functioning, etc. The clinician should assess for <emphasis>changes</emphasis>in these domains. Hence, clinicians should inquire how these areas were before the injury in addition to how they have been since the injury. Lastly, attention should also be given to potential treatments provided to the patient since the time of injury (e. g., rehabilitation services, medications, etc.).</para>
+      <para role="Para">This was an introduction to conducting an interview with patients with a history of TBI.TBIs<indexterm significance="normal">
+            <primary>TBIs</primary>
+         </indexterm> are similar to other clinical situations in which the patient has a known history of something that can cause brain damage. Other situations like this are a history of stroke, Parkinson’s disease, brain tumors (adult and pediatric), and pediatric problems such as genetic malformations or fetal alcohol syndrome. With these conditions, the clinician is charged with evaluating the effects of this known condition on cognitive and behavioral functioning. Common elements to the interview for these conditions are that the clinician must assess functioning both before and after the neurological event (with the exception, of course, of problems present since birth), and that the clinician should seek information both from the patient and collateral informants.</para>
+   </sect2>
+   <sect2 id="ch0006s0002s07" role="Heading">
+      <title>Dementia/Neurocognitive Disorder</title>
+      <para role="Para">The discussion will now turn to evaluation of problems in which a neurological condition is only suspected, rather than known. In these situations, a neurological condition may or may not be present. The neuropsychologist first must determine whether cognitive dysfunction is present. If it is present, only then does the neuropsychologist need to link the current problems to underlying brain dysfunction<indexterm significance="normal">
+            <primary>dysfunction</primary>
+         </indexterm>. The most common example of this situation is the evaluation of suspected dementia. Another example is the evaluation of suspected neurodevelopmental disorders in children. For neurodevelopmental disorders, it may be impossible to arrive at an etiology of deficits, but the patient can still be helped by the evaluation. Our understanding of neurocognitive disorders, however, is advanced enough that clinicians can usually establish with reasonable certainty an underlying cause of cognitive deficits.</para>
+      <para role="Para">Interviews should be conducted with both the patient and a collateral source of information. However, when the patient is clearly cognitively impaired, or uncooperative, the neuropsychologist can obtain this information solely from the caregiver. Either way, the areas of information discussed below should be obtained from both sources to the extent possible.</para>
+      <para role="Para">Interviews with patients suspected of having dementia should start with assessing the patient’s knowledge of the reason for referral, as outlined before. The interview should also include discussion of specific cognitive difficulties the patient or their caregiver has noticed. This should start by asking the patient what sort of problems they have been experiencing. Clinicians should probe for examples of cognitive difficulties, which can be very informative. The caregiver may provide a response such as “well, for example, yesterday he asked me five times if I’ve paid the electric bill.” If the caregiver is unable to explain what difficulties the patient is having, or to generate examples, one helpful way to elucidate this information is to ask “Let’s say you had to leave town for a few days. Would you feel safe leaving your loved one at home alone?” This often can lead the caregiver to give specific examples of the patient’s difficulties. For example, this may lead the caregiver to say “No, there’s no way I could leave him home alone. He would forget to turn the stove off and to take his medications!” If the patient or caregiver cannot independently generate examples of everyday problems, then the neuropsychologist can offer examples to see if the patient shows these problems. Examples of everyday manifestations of cognitive problems can be gleaned from the Everyday Cognition Scale by Farias et al. (<emphasis role="CitationRef">
+            <phrase>2008</phrase>
+         </emphasis>).</para>
+      <para role="Para">The main cognitive area to inquire into during the evaluation of dementia is memory functioning. The hallmark of Alzheimer’s disease<indexterm significance="normal">
+            <primary>Alzheimer’s disease</primary>
+         </indexterm>is impaired ability to remember new information after a time delay. This can manifest in everyday life as forgetting conversations, repeating statements, misplacing items, or forgetting one’s intentions while driving or entering a room. The clinician should inquire with the patient and caregiver whether the patient has displayed symptoms such as these. If the patient seems to have difficulty learning new information (e. g., what the plans are for the upcoming weekend) but seems to retain the small amount that is learned, this could suggest another process such as Parkinson’s disease.</para>
+      <para role="Para">Another cognitive area to explore is language functioning; for example, how well does the patient understand what is spoken to them? Does the patient have trouble thinking of the right word to say in conversations, or have difficulty speaking in general? If difficulty is reported in these areas, it could be due to a process involving the left frontotemporal area, such as primary progressive aphasia or vascular damage to this area, and may be independent of Alzheimer’s disease. Another area to cover is executive functioning, which is defined in many ways. Some everyday skills that can be categorized as executive functioning include appropriate social behavior (e. g., inhibiting oneself from offensive behaviors), initiating appropriate activity during one’s day (e. g., preparing healthy meals, keeping up with bills), and planning ability (e. g., structuring a day’s errands in an efficient manner, planning a holiday meal). Impairments in these abilities may reflect damage to the frontal lobes, caused by frontotemporal dementia, vascular damage to this area, or advanced stages of Alzheimer’s disease<indexterm significance="normal">
+            <primary>Alzheimer’s disease</primary>
+         </indexterm>. For example, one patient with frontotemporal dementia began a new behavior of shoplifting small items like cookies and candy bars, and became hostile to a security guard when caught. Sometimes patients can report that their skills in general are fine but that everything they do takes longer than it used to. This slowness of processing can be extremely disabling and can be frustrating and embarrassing when trying to engage in conversation with others. Slowed processing speed can be due to disorders of the basal ganglia, such as Parkinson’s disease or progressive supranuclear palsy, or strokes in specific locations.</para>
+      <para role="Para">There are several elements of the history of the presenting problem that should be assessed in patients suspected of having dementia. The history of onset of symptoms is essential information. How long have the problems been present? If they have developed gradually over a year or more, the symptoms may be due to Alzheimer’s disease (AD)<indexterm significance="normal">
+            <primary>Alzheimer’s disease (AD)</primary>
+         </indexterm>. Sometimes symptoms of AD are present for months or years but not prominent until some crisis occurs. The “crisis” could be a family vacation, death in the family, medical situation, or other situation outside of normal functioning in which the patient was pushed beyond their capabilities. Often, the patient or family cannot pin down a specific time that symptoms began. Vascular dementia, on the other hand, tends to begin with a specific event such as a stroke or myocardial infarction. Patients with vascular dementia tend to have vascular diseases in their medical history, such as hypertension, diabetes, or atrial fibrillation, but these diseases can be present in patients with other types of dementia. course<phrase>5.4</phrase>
+         <phrase>2023</phrase>Table 5.4</para>
+      <para role="SimplePara">Overview of different onset and course of symptoms with corresponding potential etiologies</para>
+      <table id="ch0006s0002ta04">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Cognitive or behavioral symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Potential etiology</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Cognitive fluctuations (“comes and goes”)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Delirium, Lewy bodies</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Gradual or insidious decline</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Alzheimer’s disease, frontotemporal degeneration, Lewy bodies, Parkinson’s disease</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Stepwise decline</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Vascular disease</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Sudden onset of change</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Vascular disease (i. e., stroke event), traumatic brain injury (TBI), delirium</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Recurrent vivid visual hallucinations</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Lewy bodies</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Early symptoms include personality/behavior change</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Frontotemporal degeneration</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Early symptoms include language changes</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Primary progressive aphasia, possible Alzheimer’s disease</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">REM sleep behavior disruption</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">– Lewy bodies, Parkinson’s disease</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para">Neuropsychologists are often requested to evaluate whether an older adult is experiencing symptoms of depression or dementia, or both. It is important to know that depression and dementia frequently co-occur, particularly in the early stages of dementia (Segal et al.,<emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). During the interview, several factors can help to differentiate between depression and dementia. Older adults with depressive symptoms are often aware of memory problems, or even exaggerate problems that may not even be present. Patients with dementia, on the other hand, are often unaware of their cognitive difficulties. Another obvious but important thing to assess is current and past history of depressive symptoms. This can help elucidate whether current depressive symptoms are contributing to cognitive impairment.</para>
+      <para role="Para">The clinician should ensure that the interview is ended appropriately. Donders (<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>) points out that it is often useful to summarize the main concerns noted in the interview, assess for correctness with the patient, and then ask the patient if there are any other questions or concerns the patient would like to add before proceeding with the evaluation. One benefit to this is that the patient may mention something that the clinician may have neglected to inquire into. Clinicians should also expect that there will be questions they forgot to ask, and these questions can be asked later in the evaluation, or even over the phone on a later date.</para>
+   </sect2>
+</sect1>

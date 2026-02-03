@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0021s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0021s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0021s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0021s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>21</chapternumber>
+         <chapterid>ch0021</chapterid>
+         <chaptertitle>18. Interviewing Children</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Differences Between Adults and Children</title>
+   <para role="Para">
+      Children<indexterm significance="normal">
+         <primary>Children</primary>
+      </indexterm> are in the midst of intense cognitive and emotional development, which has implications for what might be considered a mental health concern at any given time point. Development can vary widely between children and across contexts. Thus, awareness of developmental processes and contextual expectations is of great importance when conducting diagnostic interviews with children.</para>
+   <para role="Para">Additionally, symptoms of mental health disorders may be different in children compared to adults. While many symptom criteria in the <emphasis>Diagnostic and Statistical Manual of Mental Disorders</emphasis>, fifth edition, text revision (DSM-5-TR; American Psychiatric Association, <emphasis role="CitationRef">
+         <phrase>2022</phrase>
+      </emphasis>) are often the same in children and adults, interviewers must be aware of slight differences within categories when considering a diagnosis. For example, many diagnoses have shorter duration criteria for children than adults (e. g., a diagnosis of persistent depressive disorder in children requires the presence of symptoms<indexterm significance="normal">
+         <primary>symptoms</primary>
+      </indexterm> for 1 year, compared to 2 years in adults). Similarly, symptom presentation may also be different in children than adults. As noted in the DSM-5-TR, depressive disorders in children may be characterized more by irritability than sadness. Therefore, a firm grasp on DSM-5-TR criteria relevant to children is important for accurate diagnosis.<link linkend="ch0021s0002fg01">18.1</link>
+   </para>
+   For<indexterm significance="normal">
+      <primary>For</primary>
+   </indexterm>
+   <figure float="0" id="ch0021s0002fg01" role="Figure">
+      <title>
+         <emphasis role="CaptionNumber">Fig. 18.1</emphasis>Pre-interview informational handout for children. Note: This example of a pre-interview informational handout might be provided to younger children to read independently or review with their caregivers or clinician during the intake appointment</title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0021f01.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+   <para role="Para">Finally, there are important<indexterm significance="normal">
+         <primary>important</primary>
+      </indexterm> developmental considerations regarding the procedures for interviewing a child, including adjusting for children’s shorter attention spans, their typical fatigue and boredom during extended discussion, and resultant activity levels. When working with children, it is important to plan frequent breaks and to utilize methods to maintain the child’s attention, focus, and motivation. This may include creating a visual schedule that lists what will be covered during the interview or the schedule of the visit. To increase motivation, clinicians can employ the use of stickers or other reinforcers. These reinforcers can be rewards unto themselves or used to earn rewards at the end of the interview, such as a small prize from a prize box or other incentive. Such strategies are especially helpful for children demonstrating inattention, irritability, or oppositional behavior.</para>
+   <para role="Para">To address oppositional<indexterm significance="normal">
+         <primary>oppositional</primary>
+      </indexterm>behavior, interviewers may need to utilize a higher rate of reinforcement or complete the interview over multiple visits that are shorter in duration. In cases where children are especially challenging or resistant to answering questions, it is of utmost importance for clinicians to establish strong rapport and maintain this rapport throughout. Such children may benefit from less structure or play time with the clinician to build initial rapport. Children should also be told explicitly that they may ask to use the restroom or take a break as necessary. For children who are more active, allow them to stand and walk around the room while the clinician asks questions or toss a soft ball back and forth with the child, if this aids them in better paying attention to the interview.</para>
+   <para role="Para">For especially young children<indexterm significance="normal">
+         <primary>children</primary>
+      </indexterm>, or children who present with symptoms of separation anxiety, they may have trouble separating from their caregivers for an interview. This can be a challenging situation, but a clinician may utilize reinforcers to increase compliance and encourage the child to separate briefly. If a child cannot separate from the caregiver without significant distress, it may be better to allow the caregiver to remain in the room and use strategies to maintain the child’s focus on the<indexterm significance="normal">
+         <primary>the</primary>
+      </indexterm>clinician (e. g., have caregiver wear headphones, etc.).</para>
+</sect1>

@@ -1,0 +1,7 @@
+
+Dtgen.exe Parser Error:
+While parsing file D:\validation\RittenHouse\V1.1\rittredef.mod:
+Tag minimization declarations are mandatory when OMITTAG is enabled.
+O or - entries must be added to the DEGREE element declaration
+(err:599  line:219  pos:7708)
+Compile failed - rc=32

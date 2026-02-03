@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0023s0008" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0023s0007</risprev>
+         <riscurrent>sect1.9781071643624.ch0023s0008</riscurrent>
+         <risnext>sect1.9781071643624.ch0023s0009</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>23</chapternumber>
+         <chapterid>ch0023</chapterid>
+         <chaptertitle>20. Interviewing in Health, Medical, and Integrated Care Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Dos and Don’ts</title>
+   collaborative<indexterm significance="normal">
+      <primary>collaborative</primary>
+   </indexterm>
+   <para>
+      <phrase>20.3</phrase>Table 20.3</para>
+   <para role="SimplePara">Dos and don’ts: A brief guide<indexterm significance="normal">
+         <primary>guide</primary>
+      </indexterm>
+   </para>
+   <table id="ch0023s0008ta03">
+      <title/>
+      <tgroup cols="4">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <colspec colname="c3" colnum="3"/>
+         <colspec colname="c4" colnum="4"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Considerations for the dos</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Do not</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Considerations for the do nots</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Introduce yourself, your role, and scope of practice within the setting, and the type/purpose of the evaluation</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">This is an opportunity for the individual to ask follow-up questions, especially regarding the limits of confidentiality, privacy, and mandated reporter status</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t deliver information or diagnostic feedback outside of your scope and competency</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Abide by ethical guidelines and codes of conduct both within psychological practice and those within the health care setting, i. e., delivery of CPR is expected of psychologists in hospital settings</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Utilize a comprehensive interview as an opportunity for assessment and intervention</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">This may be an individual’s first and only encounter with a mental health professional and may serve a way to facilitate their willingness to engage in the future</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t underestimate the value of the initial interview as a useful intervention</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">This allows the individual to experience validation and an opportunity to express and verbalize concerns that they may not have already shared</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Use standardized screeners/diagnostic tools and be mindful of the individual’s engagement level</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Awareness of the individual’s fatigue and sensory limitations, i. e., hearing aids, glasses, lighting, privacy screens, large-print materials</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t make a diagnosis based on limited or incomplete information</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">There may be a feeling of urgency in healthcare settings; however, it is crucial that all data and information be gathered to form an accurate diagnosis and treatment plan</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Evaluate and rule out other potential diagnoses and comorbidities</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Many individuals have more than one mental health disorder and medical condition, and each needs to be addressed</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t neglect the possibility that medical conditions could be contributing to psychiatric symptoms</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Obstructive sleep apnea, thyroid conditions, and diabetes have similar and overlapping symptomologies with mental health diagnoses</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Involve other disciplines and team members</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Seek input from colleagues, other disciplines, and/or second opinions</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t isolate yourself in the diagnostic process</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Utilize a chart review and consultation</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Consider cultural, social, and individual factors</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Ethically, this is considered evidence-based practice</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t allow personal biases and stereotypes to muddy your assessment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">If there are any personal challenges that may interfere and can potentially cause harm, know when and how to refer out. Give yourself time to further reflect and engage with the challenge</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Incorporate the individual’s strengths to promote resilience and autonomy</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Strengths can underscore an individual’s ability to overcome challenges in the past and/or be utilized during treatment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t dismiss the individual’s own description of their symptoms and experiences</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Allowing the individual to describe symptoms in their own terms and past experiences with treatments can aid in tailoring the treatment plan and diagnostic clarification</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Be aware of the individual’s modesty concerns by taking into consideration their state of dress/undress</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">If you notice the individual is wearing a hospital gown, or may be in an awkward position, seek out the help of available staff to accommodate their need</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t assume what does/does not make the individual comfortable or uncomfortable</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Asking demonstrates conscientiousness and can build rapport</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Provide feedback to the referral source and individual/healthcare agent in a timely manner</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">It can be valuable to thank your referral source, too!</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t neglect a follow-up</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Failing to review important points or concerns can lead to missed information and unresolved issues</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Provide additional referrals or specialty consults to refine diagnostic impressions</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">For example, in the case of poor sleep, rule out sleep apnea</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t place or request referrals without reviewing the chart to see what has been done already</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">This helps streamline the care the individual can get and provides a moment to remind them or explore why past referrals were not responded to</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

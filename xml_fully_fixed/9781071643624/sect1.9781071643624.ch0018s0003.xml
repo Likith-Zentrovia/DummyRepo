@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0018s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0018s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0018s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>16. Personality Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   dimensional<indexterm significance="normal">
+      <primary>dimensional</primary>
+   </indexterm>
+   <para>
+      <phrase>16.3</phrase>Table 16.3</para>
+   <para role="SimplePara">Commonly used personality disorder assessments<indexterm significance="normal">
+         <primary>assessments</primary>
+      </indexterm>
+   </para>
+   <table id="ch0018s0003ta03">
+      <title/>
+      <tgroup cols="2">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <tbody>
+            <row>
+               <entry/>
+               <entry>
+                  <para role="SimplePara">Brief description</para>
+               </entry>
+            </row>
+            <row>
+               <entry nameend="c2" namest="c1">
+                  <para role="SimplePara">Interview</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">SCID-5-PD</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">DSM-5 PD criteria, identical to DSM-IV PD criteria</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">SCID-IV-PD</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">DSM-IV personality disorder criteria</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">SCID-5-AMPD</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Personality pathology described in the AMPD</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">IPDE</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">personality functioning domains corresponding with ICD-10 and DSM-5</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">STIPO-R</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Psychodynamic-focused personality functioning</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">PDI-IV</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">DSM PDs along across nine themes</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">DIB-R</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Relevant aspects of borderline PD</para>
+               </entry>
+            </row>
+            <row>
+               <entry nameend="c2" namest="c1">
+                  <para role="SimplePara">Self-report</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">PAI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Includes subscales for antisocial and borderline personality disorders</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">LPFS</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Impairment related to AMPD maladaptive traits along self and interpersonal domains</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">PID-5</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Maladaptive personality traits as described by the DSM-5 AMPD</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">EPA</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess psychopathy and antisocial personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">FFSI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess schizotypal personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">FFAvA</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess avoidant personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">FFBI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess borderline personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">FFDI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess dependent personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">FFOCI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess obsessive-compulsive personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">FFHI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess histrionic personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">FFNI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess narcissistic personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">FFZI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Applies FFM traits to assess schizoid personality disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">HiTOP-DAT</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Battery of assessments that correspond to HiTOP spectra</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">HiTOP-SR</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Official measure of HiTOP spectra</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">SASPD</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Impairment related to ICD-11 maladaptive traits along self and interpersonal domains</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">PiCD</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Maladaptive personality traits from ICD-11</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">PDS-ICD-11</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Personality disorder severity from ICD-11</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">PID5 BF+</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Integrated assessment of DSM-5-AMPD and ICD-11 maladaptive personality traits</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">SNAP</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Adaptive and maladaptive personality traits related to personality pathology</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">OMNI</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Adaptive and Maladaptive personality traits and DSM-IV personality disorder scales</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">OMNI-IV</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">DSM-IV personality disorder scales</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">PDQ-4+</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Screener for the presence or absence of DSM-IV personality disorders</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">MCMI-IV</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Measures clinical features or traits of maladaptive personality</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">MAPP</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self and informant report of DSM-IV personality disorder features and personality traits</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">CAT-PD</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Adaptively presents items relevant to endorsed personality pathology</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <sect2 id="ch0018s0003s01" role="Heading">
+      <title>DSM-Section II Personality Disorders</title>
+      <para role="Para">As noted above, categorical personality disorders are commonly assessed via clinical interviews and self-reports. The Structured Clinical Interview for DSM-5 Personality Disorders (SCID-5-PD)<indexterm significance="normal">
+            <primary>Structured Clinical Interview for DSM-5 Personality Disorders (SCID-5-PD)</primary>
+         </indexterm> is a widely used clinical interview, directly assessing each DSM-IV and<indexterm significance="normal">
+            <primary>and</primary>
+         </indexterm> DSM-5 Section II Personality Disorder symptoms. The SCID-5-PD consists of two components: a self-report and a clinical interview. First, clients endorse items that directly represent DSM Criteria A Personality Disorders. Subsequently, the clinician conducts a clinical semi-structured interview based on the client’s symptom endorsements to determine if the diagnostic criteria have been met. The SCID-IV-PD and SCID-5-PD serve as effective instruments for evaluating symptoms of personality disorders and can provide supporting evidence for a personality disorder diagnosis.</para>
+      <para role="Para">Other clinical interviews such as the International Personality Disorder Examination (IPDE; Loranger,<emphasis role="CitationRef">
+            <phrase>1999</phrase>
+         </emphasis>) focus on six broad functioning domains relevant to personality disorder assessment: work (i. e., employment functioning), self (i. e., stability of self-image), interpersonal relationships<indexterm significance="normal">
+            <primary>relationships</primary>
+         </indexterm>(i. e., interpersonal functioning), affect (i. e., emotional or affective experience), reality testing (i. e., personal beliefs), and impulse control (i. e., impulsivity). The IPDE questionnaire and interview reflect collaborative efforts between the World Health Organization ICD-10 and the National Institute of Health with the American Psychiatric Association’s DSM-IV by corresponding with both nosologies. The Structured Interview of Personality Organization—Revised (STIPO-R; Clarkin et al.,<emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>) is a brief psychodynamic measure that dimensionally assesses personality functioning or personality organizations along five domains. The five domains<indexterm significance="normal">
+            <primary>domains</primary>
+         </indexterm>describe identity (i. e., the experiences of a consistent self-image), object relations (i. e., interpersonal relationships), defenses (i. e., defensiveness strategies), aggression (i. e., aggression directed at the self or others), and moral values (i. e., capacity for guilt and practicing norms in interpersonal relationships). The domains are rated along two broad personality organizational dimensions: Normal, Neurotic (levels 1 or 2), and borderline (low, middle, or high). Finally, the Personality Disorder Inventory for DSM-IV (PDI-IV; Widiger &amp; Samuel,<emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>) assesses<indexterm significance="normal">
+            <primary>assesses</primary>
+         </indexterm> the ten DSM-IV personality disorders. The PDI-IV is further organized along several thematic content areas, such as attitudes toward self, attitudes toward others, comfort with others, friendships, and relationships, conflict, work and leisure functioning, consideration of social norms, mood, and appearance and perception.</para>
+      <para role="Para">Some clinical interview instruments target specific categorical personality disorders such as the Revised Diagnostic Interview for Borderlines (DIB-R; Zanarini et al.,<emphasis role="CitationRef">
+            <phrase>1989</phrase>
+         </emphasis>). The DIB-R<indexterm significance="normal">
+            <primary>DIB-R</primary>
+         </indexterm> is a semi-structured clinical interview specifically designed to assess borderline personality disorder across four areas: affect, cognition, interpersonal relationships, and impulse action patterns (Zanarini et al., <emphasis role="CitationRef">
+            <phrase>1989</phrase>
+         </emphasis>). While not primarily used for a clinical diagnosis, the DIB-R is useful for evaluating specific features of borderline personality disorder and examining their longitudinal stability over time (Tragesser et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>).</para>
+      <para role="Para">There are a variety<indexterm significance="normal">
+            <primary>variety</primary>
+         </indexterm> of self-report measures of personality disorder. For example, the Personality Diagnostic Questionnaire 4+ (PDQ-4+; Hyler, <emphasis role="CitationRef">
+            <phrase>1994</phrase>
+         </emphasis>) is a commonly<indexterm significance="normal">
+            <primary>commonly</primary>
+         </indexterm> used screening instrument to directly identify the presence or absence of the ten DSM personality disorders. The Personality Assessment Inventory (PAI; Morey, <emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>) includes the scales borderline and antisocial features but does not provide comprehensive coverage of personality pathology. Other personality disorder self-report measures assess DSM PD criteria with adaptive and maladaptive personality traits along with assessments of impairment; however, these are separate from the AMPD. For example, the Schedule for Nonadaptive and Adaptive Personality (SNAP; Clark, <emphasis role="CitationRef">
+            <phrase>1993</phrase>
+         </emphasis>) is a self and informant report of adaptive personality traits or characteristics related to personality pathology, which includes 15 primary traits across three higher-ordered domains: Negative Temperament, Positive Temperament, and Disinhibition. Trait profiles have been shown to<indexterm significance="normal">
+            <primary>to</primary>
+         </indexterm> capture DSM-5-TR personality disorders including avoidant, borderline, obsessive-compulsive, and schizotypal (Wilt et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>). Next, the OMNI Personality Inventory (OMNI; Loranger, <emphasis role="CitationRef">
+            <phrase>2001</phrase>
+         </emphasis>) is a self-report assessment of adaptive and maladaptive personality traits but subscales can be organized to identify the 10 DSM-IV personality disorders and five personality disorder scales (e. g., agreeableness, conscientiousness, extraversion, narcissism, neuroticism, openness, and sensation seeking). The abbreviated version, the OMNI Personality Disorder Inventory (OMNI-IV; Loranger,<emphasis role="CitationRef">
+            <phrase>2001</phrase>
+         </emphasis>) only assesses for DSM-IV personality disorders. The Millon Clinical Multiaxial Inventory (MCMI-IV)<indexterm significance="normal">
+            <primary>Millon Clinical Multiaxial Inventory (MCMI-IV)</primary>
+         </indexterm> is a self-report assessment that evaluates adaptive and maladaptive personality features and psychopathology. It operates under the theoretical framework that personality disorders are evolutionarily based adaptations or maladaptations (Millon et al., <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>). The MCMI-IV includes 15 personality-related subscales to measure clinical personality disorder features and ten psychopathology subscales across three general patterns: typical<indexterm significance="normal">
+            <primary>typical</primary>
+         </indexterm> functioning, abnormal traits, and disordered.</para>
+      <para role="Para">Finally, the Multi-source Assessment of Personality Pathology (MAPP; Oltmanns &amp; Turkheimer,<emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>) formerly known<indexterm significance="normal">
+            <primary>known</primary>
+         </indexterm> as the Peer Nomination Inventory is a self and informant report measure of DSM-IV personality features and personality traits. Informant reports are a key component of this assessment as individuals with a personality disorder may experience impairment in describing themselves or may avoid endorsing behaviors or personality traits that are less socially desirable (Oltmanns &amp; Turkheimer, <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0018s0003s02" role="Heading">
+      <title>DSM-Section III Alternative Model of Personality Disorders</title>
+      <para role="Para">The Alternative Model of Personality Disorders (AMPD)<indexterm significance="normal">
+            <primary>Alternative Model of Personality Disorders (AMPD)</primary>
+         </indexterm> includes instruments to evaluate maladaptive personality traits (Criteria B) and personality functioning (Criteria A). For example, the SCID-5-AMPD (Bender et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>; Skodol et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>) is a clinical interview designed<indexterm significance="normal">
+            <primary>designed</primary>
+         </indexterm>to evaluate Criteria A and B of the AMPD, along with the six personality disorders retained from DSM-5 Section II Personality Disorders (i. e., antisocial, borderline, narcissistic, schizotypal, avoidant, and obsessive-compulsive PDs). The SCID-5-AMPD can be useful in assessing maladaptive personality traits and severity with a dimensional lens that bypasses the pitfalls of the categorical model.</para>
+      <para role="Para">The AMPD also can be assessed through<indexterm significance="normal">
+            <primary>through</primary>
+         </indexterm> self-report measures. For example, the Levels of Personality Functioning Scale (LPFS; Morey et al., <emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>) measures Criteria A of the AMPD which is the degree of impairment in interpersonal (intimacy and empathy) and intrapersonal (identity, self-direction) domains. Additionally, the Personality Inventory for DSM-5 (PID-5; Krueger et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>) is a widely used self-report of the AMPD maladaptive personality trait domains (i. e., negative affectivity, detachment, psychoticism, antagonism, and disinhibition), closely related to the Five Factor Model broad domains. Both self-report instruments of the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> AMPD can be used concurrently to screen<indexterm significance="normal">
+            <primary>screen</primary>
+         </indexterm>for PD pathology.</para>
+   </sect2>
+   <sect2 id="ch0018s0003s03" role="Heading">
+      <title>Five-Factor Model of Personality Disorders</title>
+      <para role="Para">The Five-Factor Model (FFM)<indexterm significance="normal">
+            <primary>Five-Factor Model (FFM)</primary>
+         </indexterm> is a widely accepted framework for understanding general personality traits, defining five broad domains and 30 facets along a bipolar dimension. Researchers advocating for a dimensional structure of personality disorders recognize that extreme representations of adaptive personality traits, either high or low, may be understood as maladaptive personality trait variants (Widiger et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>). Studies have demonstrated that the FFM can capture symptoms outlined in both the DSM-5 and DSM-IV Personality Disorders. This recognition led to the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> development of the Five-Factor Model of Personality Disorders (FFMPD), primarily assessed via self-report measures. FFMPD scales aim to assess DSM-5 Section II Personality disorders through<indexterm significance="normal">
+            <primary>through</primary>
+         </indexterm> the lens of the Five-Factor Model. Several FFMPD scales have been developed for personality disorders (Bagby &amp; Widiger, <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>) with the exception of paranoid personality disorder. The FFMPD scales can be useful in clinical contexts for assessing maladaptive personality traits relevant to<indexterm significance="normal">
+            <primary>to</primary>
+         </indexterm> each of the DSM-5-TR Section II Personality Disorders.</para>
+   </sect2>
+   <sect2 id="ch0018s0003s04" role="Heading">
+      <title>Comprehensive Assessment of Traits Relevant to Personality Disorder Model</title>
+      <para role="Para">The Computerized Adaptive Test of Personality Disorder (CAT-PD; Simms et al.,<emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>), also known as the Comprehensive Assessment of Traits Relevant to Personality Disorders Model<indexterm significance="normal">
+            <primary>Comprehensive Assessment of Traits Relevant to Personality Disorders Model</primary>
+         </indexterm> (Ringwald et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>), represents an early initiative toward adopting a dimensional model of personality disorders. The CAT-PD instrument aims to comprehensively assess personality traits relevant<indexterm significance="normal">
+            <primary>relevant</primary>
+         </indexterm>to personality pathology from a large pool of test items. The CAT-PD model conceptualizes five personality domains: Negative Emotionality, Positive Emotionality, Antagonism, Disconstraint, and Oddity. The presentation of items is dependent upon the client’s responses to items that measure traits relevant to personality pathology. Efficiency stands out as the primary strength of CAT-PD. Additionally, the CAT-PD offers a static test form, serving as a<indexterm significance="normal">
+            <primary>a</primary>
+         </indexterm>
+         standard<indexterm significance="normal">
+            <primary>standard</primary>
+         </indexterm> self-report measure.</para>
+   </sect2>
+   <sect2 id="ch0018s0003s05" role="Heading">
+      <title>Hierarchical Taxonomy of Psychopathology</title>
+      <para role="Para">Relevant to personality<indexterm significance="normal">
+            <primary>personality</primary>
+         </indexterm>pathology, HiTOP conceptualizes Spectra (e. g., Internalizing, Thought Disorder, Disinhibited Externalizing, Antagonistic Externalizing, Detachment, and Somatoform) related to maladaptive personality trait variants, and psychopathologies included in<indexterm significance="normal">
+            <primary>in</primary>
+         </indexterm> the DSM-5-TR. The HiTOP Digital Assessment and Tracker (HiTOP-DAT) is a freely available battery of self-report instruments that assess HiTOP<emphasis>-consistent</emphasis> constructs (<emphasis role="ExternalRef">
+            <ulink url="https://www.hitop-system.org/clinical-tools">
+               <emphasis role="RefSource">https://​www.​hitop-system.​org/​clinical-tools</emphasis>
+            </ulink>
+         </emphasis>), which<indexterm significance="normal">
+            <primary>which</primary>
+         </indexterm>can be used freely, and includes a manual and online training materials. This collection of instruments can be useful in identifying maladaptive personality traits as they relate to personality disorders and other psychiatric disorders, through a dimensional lens. The HiTOP-DAT was developed to be an interim step in HiTOP assessment to fill the gap until HiTOP-specific measures could be developed. A preliminary HiTOP-Self Report<indexterm significance="normal">
+            <primary>Report</primary>
+         </indexterm> is now available for research use (<emphasis role="ExternalRef">
+            <ulink url="https://www.3plab.org/hitop">
+               <emphasis role="RefSource">https://​www.​3plab.​org/​hitop</emphasis>
+            </ulink>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0018s0003s06" role="Heading">
+      <title>International Classification of Diseases-11 Personality Disorders</title>
+      <para role="Para">The International Classification of Diseases-11 (ICD-11; World Health Organization,<emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>) Personality<indexterm significance="normal">
+            <primary>Personality</primary>
+         </indexterm>
+         Disorder<indexterm significance="normal">
+            <primary>Disorder</primary>
+         </indexterm>model proposes a dimensional model, departing from the previous ICD categorical approach. Comparatively, this is one step ahead of the DSM model, since the AMPD was placed in Section III Emerging Measures and Models. Nevertheless, the AMPD and ICD-11 personality disorders are closely aligned, sharing several components such as a focus on general dysfunction and maladaptive personality traits. Unlike the DSM-AMPD, no structured clinical interviews assess the ICD-11 PD (Pan &amp; Wang, <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>) but several self-report forms have been developed.</para>
+      <para role="Para">The ICD-11 PD model<indexterm significance="normal">
+            <primary>model</primary>
+         </indexterm>measures general severity across self and interpersonal functioning domains, measured by the Standardized Assessment of Severity of Personality Disorder (SASPD; Olajide et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). Additionally, the Personality Inventory for ICD-11 (PiCD; Oltmanns &amp; Widiger, <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>) measures maladaptive personality traits across five domains—negative affectivity, detachment, dissocial, disinhibition, and anankastic. Similar to the AMPD, there are several self-report measures to assess maladaptive personality traits and functioning, including the ICD-11 Personality<indexterm significance="normal">
+            <primary>Personality</primary>
+         </indexterm>Disorder Severity Scale (PDS-ICD-11; Bach &amp; Mulder, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>), a brief measure of personality disorder severity, or the Personality Inventory for DSM-5 Brief Form Plus (PID5 BF+; Bach &amp; Mulder,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>), which assesses maladaptive<indexterm significance="normal">
+            <primary>maladaptive</primary>
+         </indexterm> personality traits from both the AMPD and ICD-11 models.</para>
+   </sect2>
+</sect1>

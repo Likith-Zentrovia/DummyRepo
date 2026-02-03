@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0019s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0019s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0019s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>19</chapternumber>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>17. Schizophrenia and Other Psychotic Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   <para role="Para">Additional assessments<indexterm significance="normal">
+         <primary>assessments</primary>
+      </indexterm>may be helpful in gaining a full understanding of the clinical presentation of an individual believed to have schizophrenia. For example, we have noted the prevalence of cognitive and functional impairment among individuals with schizophrenia. A thorough clinical evaluation would likely include some neuropsychological testing and assessment of social and occupational functioning. There are several reliable self-report and family/clinician administered psychosocial functioning assessment measures available (see Mausbach et al., <emphasis role="CitationRef">
+         <phrase>2009</phrase>
+      </emphasis> for a review). Assessments of substance use, trauma history, and mood symptoms can also be critical to making (or ruling out) a diagnosis of schizophrenia and can inform treatment not just of psychosis but of the range of problems that commonly co-occur with<indexterm significance="normal">
+         <primary>with</primary>
+      </indexterm> schizophrenia.</para>
+   <sect2 id="ch0019s0003s01" role="Heading">
+      <title>Standardized Interview Formats</title>
+      <para role="Para">There are several<indexterm significance="normal">
+            <primary>several</primary>
+         </indexterm>symptom rating scales available to measure the severity of symptoms. Familiarity with one or more of these scales can aid the newer interviewer with understanding and recognizing some of the characteristic symptoms of schizophrenia, particularly negative symptoms which are generally more difficult to assess. These measures were specifically designed to enhance the reliability with which these symptoms could be rated. They include training protocols or manuals and provide comprehensive behavioral descriptors for each symptom. We briefly describe some of the most commonly used scales.</para>
+      <para role="Para">The Brief Psychiatric Rating Scale (BPRS; Overall &amp; Gorham,<emphasis role="CitationRef">
+            <phrase>1962</phrase>
+         </emphasis>) is one of the oldest and most established clinician-rated scales and continues to be widely used. It contains 18 items that cover a range of psychiatric symptoms typically observed in hospitalized<indexterm significance="normal">
+            <primary>hospitalized</primary>
+         </indexterm> patients, each of which is rated on a 7-point scale<indexterm significance="normal">
+            <primary>scale</primary>
+         </indexterm>ranging from “not present” to “extremely severe.” The symptoms covered by this scale not only correspond with positive and negative domains of schizophrenia but also include coverage of anxiety and depressive symptoms. The UCLA Clinical Research Center for Schizophrenia and Psychiatric Rehabilitation has developed an expanded 24 item BPRS that is manualized and includes items to evaluate additional psychiatric symptoms (e. g., suicidal ideation, mania), more detailed behavioral anchors, and additional probe questions to elicit symptom reporting (Ventura et al.,<emphasis role="CitationRef">
+            <phrase>1993</phrase>
+         </emphasis>). The BPRS has consistently demonstrated good psychometric properties, is widely used, and is considered a “gold standard” in treatment research for schizophrenia.</para>
+      <para role="Para">The Positive and Negative Syndrome Scale (PANSS; Kay et al.,<emphasis role="CitationRef">
+            <phrase>1987</phrase>
+         </emphasis>) was developed to be a relatively brief<indexterm significance="normal">
+            <primary>brief</primary>
+         </indexterm>yet comprehensive assessment of symptoms of schizophrenia. It consists of 30 items that are adapted from the BPRS and other psychopathology measures. Each item is carefully defined and includes detailed behavioral anchors relevant to the symptom in question. Items can be summed<indexterm significance="normal">
+            <primary>summed</primary>
+         </indexterm>to represent positive, negative, and general psychopathology scales. An accompanying structured clinical interview is available to facilitate reliable assessment and rating of symptoms (Opler et al., <emphasis role="CitationRef">
+            <phrase>1992</phrase>
+         </emphasis>).</para>
+      <para role="Para">Negative symptoms<indexterm significance="normal">
+            <primary>symptoms</primary>
+         </indexterm>can be challenging to assess and distinguish from depressed mood, secondary effects of positive symptoms (e. g., social isolation due to paranoid delusions), medication side effects, cognitive impairment, and medical disorders with similar presentations. Two negative symptom assessment measures have greatly improved the reliability with which these symptoms can be evaluated and both measures include training manuals and/or videos that can assist the newer interviewer with evaluating these symptoms.</para>
+      <para role="Para">The Clinical Assessment Interview for Negative Symptoms (CAINS; Kring et al.,<emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>) is a 13-item scale with two subscales tapping impairment in emotional expression (4 items) and motivation/pleasure (9 items). Each item<indexterm significance="normal">
+            <primary>item</primary>
+         </indexterm>is rated on a 0–4 point scale with higher scores reflecting<indexterm significance="normal">
+            <primary>reflecting</primary>
+         </indexterm> greater impairments. Items include additional interview probes and comprehensive behavioral anchors. An interview guide and online training videos are also available from the authors.</para>
+      <para role="Para">The Brief Negative Symptoms Scale (BNSS; Kirkpatrick et al.,<emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>) contains 13 items that share a similar factor structure as the CAINS tapping deficits in emotional expression, motivation, and pleasure. Each BNSS item is rated on 0 (absent) to 6 (severe) point scale and include semi-structured interview prompts and behavioral anchors. The BNSS has good reliability and strong evidence for validity (concurrent, predictive, and convergent/discriminant). Training<indexterm significance="normal">
+            <primary>Training</primary>
+         </indexterm> materials include a manual, interview guide and training videos and are available from the authors.</para>
+   </sect2>
+</sect1>

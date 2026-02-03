@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0011s0001" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0011s0009</risprev>
+         <riscurrent>sect1.9781071643624.ch0011s0001</riscurrent>
+         <risnext>sect1.9781071643624.ch0011s0002</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>11</chapternumber>
+         <chapterid>ch0011</chapterid>
+         <chaptertitle>9. Obsessive-Compulsive and Related Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Description of the Disorders</title>
+   <sect2 id="ch0011s0001s01" role="Heading">
+      <title>Obsessive-Compulsive Disorder</title>
+      (OCD)<indexterm significance="normal">
+         <primary>(OCD)</primary>
+      </indexterm>
+      <para>
+         <phrase>2022</phrase>
+         <phrase>2010</phrase>
+         <phrase>2010</phrase>
+         <phrase>9.1</phrase>Table 9.1</para>
+      domains<indexterm significance="normal">
+         <primary>domains</primary>
+      </indexterm>
+      contamination<indexterm significance="normal">
+         <primary>contamination</primary>
+      </indexterm>
+      dimensions<indexterm significance="normal">
+         <primary>dimensions</primary>
+      </indexterm>
+      diagnosis<indexterm significance="normal">
+         <primary>diagnosis</primary>
+      </indexterm>
+      <para role="SimplePara">Features of OCD dimensions<indexterm significance="normal">
+            <primary>dimensions</primary>
+         </indexterm>
+      </para>
+      <table id="ch0011s0001ta01">
+         <title/>
+         <tgroup cols="4">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <colspec colname="c4" colnum="4"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">OCD dimension</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Situational trigger</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Obsessions</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Compulsions</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="2">
+                     <para role="SimplePara">Contamination</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Touching a doorknob to close a door</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“I’m going to get sick from the germs on the doorknob”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Wash hands</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Seeing a family member’s pencil touch the patient’s desk</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“I could get sick from touching my desk”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clean desk</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Cooking grilled chicken for family members</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“My family members could become ill from my cooking”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Follow rigid routine when cooking</para>
+                     <para role="SimplePara">Ask family members for reassurance when cooking</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="2">
+                     <para role="SimplePara">Unacceptable/taboo thoughts</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Talking with a female coworker</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“I inappropriately touched my female coworker”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Seek reassurance from friend at work</para>
+                     <para role="SimplePara">Mentally review the encounter with the female coworker</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Watching a TV show where the characters frequently swear</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“I’m going to go to hell for watching this show”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Excessively pray at night to ask God for forgiveness for watching the show</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Eating at a restaurant</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“I might stab the family at the next table with a knife”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Ask the waiter to take the knives off the table</para>
+                     <para role="SimplePara">Sit at the far end of the table away from the family</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="2">
+                     <para role="SimplePara">Responsibility for harm</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Perceiving a “bump” while driving</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“I ran someone over with my car”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Return to the intersection to check no one is hurt</para>
+                     <para role="SimplePara">Call police to check no reports were made</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Answering a coworker’s question</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“If I do not provide perfectly accurate information, they may make a mistake and cause the company to go bankrupt”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Provide an excessively detailed response to ensure nothing is left out</para>
+                     <para role="SimplePara">Repeat information to ensure understanding</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Leaving the house</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“What if a fire [or flood or burglary] happens?”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Double-check stove [or faucet, or locks]</para>
+                     <para role="SimplePara">Repeatedly seek reassurance from roommate</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="2">
+                     <para role="SimplePara">Symmetry/just right-ness</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Seeing a crooked picture on a wall</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“I will feel extreme discomfort if that picture is not straight”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Straighten the picture</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Writing a sentence for a school paper</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“This sentence does not feel right”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Rewrite sentence until it feels “just right”</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Folding clothes</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“The shirt I just folded looks worse than the last shirt I folded”</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Fold the shirt until it is “perfect”</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para FirstParaInFormalPara">Contamination OCD<indexterm significance="normal">
+            <primary>OCD</primary>
+         </indexterm> fears involve intrusive thoughts about being contaminated due to touching, or being close to, certain objects, people, or situations, such as doorknobs, individuals with varied illnesses, and bathrooms. Approximately, 46% of patients with OCD have contamination fears that are often associated with becoming sick or spreading germs to others (Markarian et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>). Contamination fears can also lead to feelings of disgust and beliefs that they may never feel clean. Another common concern is cross-contamination, a phenomenon in which contaminants spread or transfer from the initial contaminated object (e. g., spoon) to additional objects (e. g., bowl, plate). Individuals with contamination OCD<indexterm significance="normal">
+            <primary>OCD</primary>
+         </indexterm>engage in excessive cleaning/washing rituals, including washing hands, showering, and sanitizing, which can lead to skin irritation or bleeding. Additionally, avoidance of contaminated triggers is common, as is the use of barriers (e. g., paper towels) when handling contaminated objects. Patients may engage in ritualized washing habits, in which they clean their body or objects for a certain amount of time or number of sets until they feel the contaminated area is clean. Reassurance-seeking (e. g., asking if an area is clean) and accommodation (e. g., mother helping child with OCD clean a contaminated area) are also common. Finally, these symptoms can lead to economic burden, as patients may buy excessive amounts of cleaning material or discard benign objects that are perceived as contaminated.</para>
+      <para role="Para FirstParaInFormalPara">Also referred to as “harm OCD” or “responsibility OCD,” this domain of OCD is characterized by an inflated sense of personal responsibility for harm to oneself or others. Specific harm/responsibility<indexterm significance="normal">
+            <primary>harm/responsibility</primary>
+         </indexterm>obsessions include fears of harming oneself or others due to carelessness (e. g., hitting a pedestrian due to being inattentive, providing incorrect information to someone that leads to negative outcomes), fears of harming oneself or others by acting on an unwanted impulse (e. g., pushing a family member in front of a car, stabbing a pet), or fears of being responsible for an untoward event (e. g., fire, burglary, house flood, divorce, death).</para>
+      <para role="Para">Common compulsions associated with harm/responsibility OCD include checking and reassurance-seeking. These compulsions are typically related to the content of the obsessions. For instance, a patient who fears they have run someone over with their car may return to a particular intersection repeatedly to check that no one there is injured or dead. A patient who fears being responsible for a house fire or house flood may repeatedly check that their stoves are turned off, appliances unplugged, and faucets tightly shut. Reassurance-seeking compulsions include repeatedly calling or texting a significant other to confirm their safety, or asking a family member for reassurance that the patient has not harmed someone. Compulsions do not necessarily have to be directly or logically related to the content of the obsessions, however. For example, a patient may develop a ritual (e. g., mentally reciting a phrase, tapping in a specific manner) that decreases<indexterm significance="normal">
+            <primary>decreases</primary>
+         </indexterm>their perceived likelihood of a bad event happening. Also common are avoidance behaviors, such as avoiding handling potentially dangerous objects (e. g., sharp objects, vehicles, machinery), avoiding contact with people or living things that could be harmed, or avoiding talking to or writing to others out of fears of communicating incorrect information.</para>
+      <para role="Para">Symptoms of harm/responsibility OCD<indexterm significance="normal">
+            <primary>OCD</primary>
+         </indexterm> can intersect with those of other OCD presentations. For example, a patient who also has contamination OCD may fear that they will harm others by spreading germs or contaminants; a patient with unacceptable thoughts/taboo OCD may fear that they will act on an aggressive impulse to harm a loved one; or a patient with scrupulosity OCD may feel the need to confess a perceived misdeed in painstaking detail to prevent their family members from going to Hell.</para>
+      <para role="Para FirstParaInFormalPara">Within the unacceptable/taboo subtype, individuals often report distress due to intrusive thoughts or images related to sex/sexuality, scrupulosity (i. e., immoral thoughts), or sexual violence<indexterm significance="normal">
+            <primary>violence</primary>
+         </indexterm>. These thoughts are ego-dystonic (i. e., are inconsistent with the individual’s perception of their personality or values), which contribute to feelings of significant distress, stigma, or shame. This differs from ego-syntonic thoughts that feel consistent with the individual’s personality, values, feelings, and self-view. For instance, individuals with obsessive-compulsive personality disorder or eating disorders (i. e., anorexia nervosa) are more likely to experience ego-syntonic thoughts. Awareness of this discrepancy between ego-syntonic and ego-dystonic thoughts is critical when working with individuals with unacceptable/taboo OCD thoughts, who may carry<indexterm significance="normal">
+            <primary>carry</primary>
+         </indexterm> stigma or shame due to having received negative feedback from peers or clinicians who mistook their intrusive thoughts for true intention or desire to act on those thoughts. The sections below describe the most common categories of unacceptable/taboo thoughts.</para>
+      <para role="Para FirstParaInFormalPara">Individuals who experience sexually themed obsessions report fears of having a desire to engage in sex or intimate actions with children, family members, or strangers in the community. These intrusive thoughts or images lead to compulsions, including excessive reassurance-seeking or confessing, engaging in self-reassurance/mental rituals (i. e., justifying, reviewing situations that occurred), neutralizing (i. e., canceling out thoughts), and checking for arousal within their body. One of the most common compulsions for this subtype is avoidance. For instance, an individual may<indexterm significance="normal">
+            <primary>may</primary>
+         </indexterm>avoid certain locations where children are frequently present (i. e., parks, swimming pools, schools) or physical touch with family members or friends (i. e., hugging, handshakes). An individual may also avoid having sexual contact with their partner or hugging a family member, which may result in feelings of confusion or tension in interpersonal relationships.</para>
+      <para role="Para">Another aspect of this subtype is the fear of being sexually attracted to someone that is not in line with the person’s beliefs about their sexuality. For example, a male who identifies as heterosexual may experience intrusive sexual thoughts or images about other men, resulting in fears of being gay. In addition, a female who identifies as bisexual may experience intrusive thoughts that they are “lying” to themselves and others, leading to uncertainty about whether they are interested in both women and men, despite acknowledging that they are attracted to both genders.</para>
+      <para role="Para FirstParaInFormalPara">This obsessive-compulsive dimension<indexterm significance="normal">
+            <primary>dimension</primary>
+         </indexterm>consists of fears about committing sacrilege/blasphemy, fears about not going to heaven or an afterlife, fears about not truly being a “believer” or having faith, or fears about sinning because of having sexually intrusive thoughts. These concerns are highly distressing and surpass what is typical for their peers within the same religious denomination. As a result of these intrusive thoughts, compulsions are typically centered around excessive involvement in—or avoidance of—behaviors associated with their religion. Common compulsions include excessively praying, frequently attending church, excessively reading scriptures or spreading the gospel to others, seeking reassurance (e. g., consulting with church leaders about salvation or whether they are moral or a “good person,” asking family members excessive questions, engaging in repeated baptisms), and avoiding satanic content (e. g., sections of the bible mentioning Satan, the numbers “666,” movies/media showcasing the devil). Avoiding religious practices as a result of intrusive thoughts can lead to strong feelings of sadness or loss of connection within one’s desired community.</para>
+      <para role="Para FirstParaInFormalPara">Violent intrusive thoughts<indexterm significance="normal">
+            <primary>thoughts</primary>
+         </indexterm>or obsessions are often related to an unwanted fear of harming another person, such as sexually assaulting a child or adult, experiencing unwanted thoughts of dead corpses, thoughts related to stabbing or shooting someone, or intrusive images/thoughts of wanting to hurt themselves (i. e., gun, knifes, rope, shower curtain). As a result of these intrusive thoughts or images, individuals will often engage in avoidance so that the feared outcome does not occur. For example, they may avoid kitchens due to knives, avoid the home of a friend who has guns, or avoid areas at stores that have household appliances. Furthermore, these obsessions can lead to compulsions of confessing, reassurance-seeking, and mental rituals (e. g., mentally reviewing situations or interactions to ensure they did no harm).</para>
+      <para role="Para FirstParaInFormalPara">Another feature of OCD<indexterm significance="normal">
+            <primary>OCD</primary>
+         </indexterm>is concerns related to symmetry and wanting things to feel “just right.” Although individuals with this type of OCD may endorse magical thinking (e. g., “my dad will die if I do not make my bed perfectly”), which lead to feelings of anxiety, it is more common for them to experience feelings of incompleteness or discomfort that are alleviated by symmetry, ordering, repeating, or counting rituals (Vellozo et al.,<emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>). Examples of these rituals include adjusting clothes hung in the closet to be perfectly spaced apart, touching a desk repeatedly until feelings of distress are reduced, and repeating a phrase or rewriting a sentence until it feels “just right.” Patients with these symptoms may present with attenuated insight, which may explain why they are less likely to seek treatment than individuals with other dimensions of OCD (Elvish et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>). They are also more likely to have obsessive-compulsive and related (OC-related) conditions, such as tic disorders and skin picking (Mayerovitch et al., <emphasis role="CitationRef">
+            <phrase>2003</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0011s0001s02" role="Heading">
+      <title>OC-Related Disorders</title>
+      <para>Diagnostic and Statistical Manual of Mental Disorders, Fifth Editionobsessive-compulsive and related disorders<phrase>2015</phrase>
+         <phrase>9.2</phrase>Table 9.2</para>
+      <para role="SimplePara">Assessment tools for OC-related disorders</para>
+      <table id="ch0011s0001ta02">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Diagnosis</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Measure</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Rater</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="2">
+                     <para role="SimplePara">
+                        Body dysmorphic disorder (BDD)<indexterm significance="normal">
+                           <primary>Body dysmorphic disorder (BDD)</primary>
+                        </indexterm>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Body Dysmorphic Disorder Yale-Brown Obsessive-Compulsive Scale (BDD-Y-BOCS; Phillips et al.,<emphasis role="CitationRef">
+                           <phrase>1997</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clinician-rated semi-structured interview</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Appearance Anxiety Inventory (AAI; Veale et al.,<emphasis role="CitationRef">
+                           <phrase>2014</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Body Image Disturbance Questionnaire (BIDQ; Cash et al.,<emphasis role="CitationRef">
+                           <phrase>2004</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report; screening instrument</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="7">
+                     <para role="SimplePara">
+                        Hoarding disorder<indexterm significance="normal">
+                           <primary>Hoarding disorder</primary>
+                        </indexterm>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Structured Interview for Hoarding Disorder (SIHD; Nordsletten et al.,<emphasis role="CitationRef">
+                           <phrase>2013</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clinician-rated semi-structured interview</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Hoarding Rating Scale (HRS; Tolin et al.,<emphasis role="CitationRef">
+                           <phrase>2010</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clinician-rated semi-structured interview (or self-report)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Saving Inventory-Revised (SI-R; Frost et al.,<emphasis role="CitationRef">
+                           <phrase>2004</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Obsessive-Compulsive Inventory-Revised, Hoarding dimension (OCI-HD; Foa et al.,<emphasis role="CitationRef">
+                           <phrase>2002</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">UCLA Hoarding Severity Scale (UHSS; Saxena et al.,<emphasis role="CitationRef">
+                           <phrase>2015</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Hoarding Disorder-Dimensional Scale (HD-D; Le Beau et al.,<emphasis role="CitationRef">
+                           <phrase>2013</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Clutter Image Rating (CIR; Frost et al.,<emphasis role="CitationRef">
+                           <phrase>2008</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clinician-rated (or self-report)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Compulsive Acquisition Scale (CAS; Frost et al.,<emphasis role="CitationRef">
+                           <phrase>2002</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="3">
+                     <para role="SimplePara">
+                        Trichotillomania<indexterm significance="normal">
+                           <primary>Trichotillomania</primary>
+                        </indexterm>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Trichotillomania Diagnostic Interview-Revised (TDI-R; Rothbaum &amp; Ninan,<emphasis role="CitationRef">
+                           <phrase>1994</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clinician-rated semi-structured interview revised for DSM-5 criteria</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Massachusetts General Hospital—Hairpulling Scale (MGH-HS; Keuthen et al.,<emphasis role="CitationRef">
+                           <phrase>1995</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">National Institute of Mental Health—Trichotillomania Severity Scale (NIMH-TSS; Swedo et al.,<emphasis role="CitationRef">
+                           <phrase>1989</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clinician-rated semi-structured interview</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Milwaukee Inventory of Subtypes of Trichotillomania—Adult Version (MIST-A; Flessner et al.,<emphasis role="CitationRef">
+                           <phrase>2008</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="4">
+                     <para role="SimplePara">
+                        Excoriation disorder<indexterm significance="normal">
+                           <primary>Excoriation disorder</primary>
+                        </indexterm>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Repetitive Body Focused Behavior Scale-Parent Version (RBFBS; Selles et al.,<emphasis role="CitationRef">
+                           <phrase>2018</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clinician-rated semi-structured interview</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">The Skin Picking Impact Scale (SPIS; Keuthen et al.,<emphasis role="CitationRef">
+                           <phrase>2001</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Skin Picking Symptom Assessment Scale (SP-SAS; Grant et al.,<emphasis role="CitationRef">
+                           <phrase>2007</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">The Milwaukee Inventory for the Dimensions of Adult Skin Picking (MIDAS; Walther et al.,<emphasis role="CitationRef">
+                           <phrase>2009</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Self-report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Yale-Brown Obsessive-Compulsive Scale Modified for Neurotic Excoriation (NE-YBOCS; Arnold et al.,<emphasis role="CitationRef">
+                           <phrase>1999</phrase>
+                        </emphasis>)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Clinician-rated semi-structured interview</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para FirstParaInFormalPara">Individuals with BDD<indexterm significance="normal">
+            <primary>BDD</primary>
+         </indexterm> have excessive and persistent concerns related to <emphasis>perceived</emphasis> flaws in physical appearance that appear minimal or non-existent to others (Jassi &amp; Krebs, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Facial features (e. g., nose, eyes, hair) are the most common areas of preoccupation, but worries can center on physical features of any body part. Similar to OCD, those with BDD engage in repetitive behaviors, such as checking, grooming, and camouflaging, to attempt to correct or conceal the perceived flaw. Avoidance of social situations and mental rituals (e. g., comparing their physical features to others) is also common. BDD is distinct from OCD because rituals are narrowly focused on attempts to correct perceived problems in appearance and not on other obsessions/compulsions related to common OCD content themes (e. g., contamination, responsibility for harm). Patients with BDD typically have poor insight and are convinced that there is an actual flaw in their physical appearance. The DSM-5-TR includes insight as a specifier for BDD, and studies demonstrate that insight can improve with treatment (Harrison et al.,<emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). Additionally, BDD is underdiagnosed because individuals with the condition may not disclose concerns related to appearance due to embarrassment, individuals tend to seek help from dermatologists and cosmetic surgeons before seeking mental health treatment, and individuals are misdiagnosed with other psychiatric conditions (e. g., social anxiety disorder, OCD). Finally, BDD is associated with higher rates of suicide attempts, as individuals with BDD are 2.6 times more likely to engage in suicide attempts compared to those without BDD (Angelakis et al.,<emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>).</para>
+      <para role="Para FirstParaInFormalPara">
+         Hoarding disorder<indexterm significance="normal">
+            <primary>Hoarding disorder</primary>
+         </indexterm> is characterized by persistent difficulty with discarding or parting with possessions regardless of their actual value. This difficulty is due to a perceived need to hold on to these items and distress related to discarding them. This causes the individual to accumulate possessions to the point that the resulting clutter renders living spaces no longer usable for their intended purpose. To meet DSM-5-TR criteria for hoarding disorder, this accumulation of possessions must cause clinically significant distress or functional impairment<indexterm significance="normal">
+            <primary>impairment</primary>
+         </indexterm>, not be attributable to another medical condition, and not be better explained by another mental disorder. The DSM-5-TR notes that an individual with hoarding disorder may have uncluttered living spaces <emphasis>only with</emphasis>intervention from third parties (e. g., family members, cleaners, authorities). The patient’s level of insight is indicated with one of the following specifiers: with good or fair insight, poor insight, or absent or delusional insight.</para>
+      <para role="Para">If a clinician notes the presence of hoarding behaviors, a thorough assessment of symptoms is necessary to differentiate between hoarding disorder, normative collecting, and potential differential diagnoses. In contrast to hoarding, collecting is a widespread, normative behavior characterized by focused, organized, and pleasurable acquisition of a specific category of items, and is rarely associated with social or occupational impairment. Hoarding behaviors can be the consequence of other psychological<indexterm significance="normal">
+            <primary>psychological</primary>
+         </indexterm>or medical conditions, in which case hoarding disorder should not be diagnosed. For example, if a patient hoards items due to fears that something bad will happen if they discard them (e. g., throwing away a gift will place bad luck on the gift giver; throwing away an old memento will cause the patient to lose a part of their identity), but does not hoard items for other reasons, then a diagnosis of OCD is more appropriate. Clinicians are reminded, however, that a patient can concurrently have both hoarding disorder and a comorbid diagnosis independent of one another.</para>
+      <para role="Para">The most comprehensive assessment for hoarding disorder is the Structured Interview for Hoarding Disorder (Nordsletten et al.,<emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>)—a semi-structured, clinician-administered interview that evaluates all six DSM-5-TR criteria for hoarding disorder. This assessment also includes risk assessment associated with hoarding behaviors (e. g., fire hazards, unhygienic conditions) and questions to facilitate differential diagnoses (e. g., autism spectrum disorder, OCD). Ideally, assessment should include direct observation of the individual’s living spaces and information gathered<indexterm significance="normal">
+            <primary>gathered</primary>
+         </indexterm>from collateral sources (e. g., family members), as patients with hoarding disorder often have low insight into their condition. If it is not possible to directly observe the individual’s living spaces, a standardized tool such as the Clutter Image Rating (Frost et al.,<emphasis role="CitationRef">
+            <phrase>2008</phrase>
+         </emphasis>) can be used. It is also important that assessment includes a thorough evaluation of medical history and psychopathology to rule out other potential causes.</para>
+      <para role="Para FirstParaInFormalPara">Trichotillomania (TTM; also referred to as hair-pulling disorder) involves recurrent pulling of one’s hair that leads<indexterm significance="normal">
+            <primary>leads</primary>
+         </indexterm> to noticeable hair loss, accompanied by repeated, unsuccessful attempts to stop pulling<indexterm significance="normal">
+            <primary>pulling</primary>
+         </indexterm>. Common pulling sites include the scalp, eyebrows, and eyelashes, and most individuals report pulling from more than one area. Many individuals with TTM experience a building sense of tension near the hair-pulling site prior to pulling, followed by a decrease in tension after the pulling episode, which becomes reinforcing. TTM is also associated with significant impairment in social, academic, and occupational domains (Woods et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>). Additionally, environmental variables, such as sensory stimulation (e. g., touching hair), emotional states (e. g., anxiety, boredom), and thoughts (e. g., “I can’t control my hair pulling”), are linked to pulling episodes. Studies have identified “focused” and “automatic” pulling as the two subtypes of hair pulling (Duke et al.,<emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>). Focused pulling includes purposeful hair pulling that is triggered by an intense urge, thought, or emotion, while automatic pulling involves a lack of awareness of the pulling episode, typically during sedentary activities, such as watching television or driving. Although hair pulling can occur in other disorders, such as OCD<indexterm significance="normal">
+            <primary>OCD</primary>
+         </indexterm> and BDD, clinicians can differentiate the diagnoses by examining the reason for pulling. For instance, individuals with TTM pull hair in response to an ego-syntonic urge or desire to pull, while a hair-pulling ritual in those with OCD may occur in response to distressing ego-dystonic thoughts. Further, pulling hair with intent to fix a perceived flaw in appearance that is not noticeable to others is more closely aligned with a diagnosis of BDD than TTM.</para>
+      <para role="Para FirstParaInFormalPara">
+         Excoriation disorder<indexterm significance="normal">
+            <primary>Excoriation disorder</primary>
+         </indexterm>, otherwise known as skin picking disorder or dermatillomania, is the act of repetitive picking at healthy areas of skin that causes injury (i. e., bleeding, scarring, scabbing). To receive a diagnosis of excoriation disorder, an individual must cause injury or skin lesions to otherwise heathy skin by the act of picking. An individual must also experience feelings<indexterm significance="normal">
+            <primary>feelings</primary>
+         </indexterm> of distress or impairment in their daily functioning. Skin picking often begins during childhood and early adolescence and continues into adulthood. Common skin-picking areas include the face, arms, and hands. Typically, individuals pick with their fingernails; however, tweezers, pins, or other tools can also be used to remove skin. Skin picking is often provoked by emotional, situational, perceptual, tactile, and environmental triggers. For example, an individual may experience an urge to pick due to a situational trigger, such as driving or watching television. Additionally, individuals may experience an urge to pick due to a tactile trigger, such as sensing imperfections on the skin. Emotional triggers, such as feelings of anxiety, sadness, or anger, can also increase the likelihood of skin picking. Individuals will often describe feelings<indexterm significance="normal">
+            <primary>feelings</primary>
+         </indexterm> of adrenaline, decreased pain, and being in a “trancelike state” during a picking episode. However, following the skin-picking episode, they often report feelings of guilt, shame, embarrassment, and loss of control. This may result in urges to pick again, thus creating a cycle of skin picking.</para>
+      <para role="Para">Within excoriation disorder, the two frequent skin-picking subtypes that have emerged include emotional/reward pickers and functional pickers. Emotional/reward skin pickers are defined as individuals who endorse strong and frequent urges to pick, experience negative emotions before picking, engage in automatic picking, and report little control over picking behaviors. Functional pickers demonstrate milder symptoms of skin-picking behaviors, have less intense urges to pick, and report less distress/impairment related to skin picking.</para>
+   </sect2>
+</sect1>
