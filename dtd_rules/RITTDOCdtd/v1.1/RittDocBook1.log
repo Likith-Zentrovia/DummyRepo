@@ -1,0 +1,177 @@
+Log filename: "D:\validation\RittenHouse_05-10-05\V1.1\RittDocBook1.log"
+Document type compile date: Tue Jan 23 17:13:36 2007
+Version "Arbortext Editor with Styler 5.2 February 6, 2006"   Build MPL-2037
+Platform: Windows NT 5.0
+
+Host: comp658   Login: Administrator
+
+Catalog path: "C:\Program Files\Arbortext\Editor\doctypes;"
+
+
+Update (.ptd file written) or Validate (.ptd file not written): Update
+XML or SGML Application: XML
+Force Compile: Yes
+Top level element: book
+Public ID: (not specified)
+DTD Path: "D:\validation\RittenHouse_05-10-05\V1.1\RittDocBook.dtd"
+PTD Path: "D:\validation\RittenHouse_05-10-05\V1.1\RittDocBook.ptd"
+ATI Tag Path: "C:\Program Files\Arbortext\Editor\lib\dtgen\atitag.cf"
+Message File Path: (not specified)
+SGML Declaration Path: (not specified) using "C:\Program Files\Arbortext\Editor\entities\ati-gxml.dcl"
+
+Entity Name: %rittredeclmeta
+Public Identifier: "(none)"
+System Identifier: rittredeclmeta.mod
+Resolved Path: "D:\validation\RittenHouse_05-10-05\V1.1\rittredeclmeta.mod"
+Catalog File: (unknown)
+
+Entity Name: %rittexclusions
+Public Identifier: "(none)"
+System Identifier: rittexclusions.mod
+Resolved Path: "D:\validation\RittenHouse_05-10-05\V1.1\rittexclusions.mod"
+Catalog File: (unknown)
+
+Entity Name: %rittredef
+Public Identifier: "(none)"
+System Identifier: rittredef.mod
+Resolved Path: "D:\validation\RittenHouse_05-10-05\V1.1\rittredef.mod"
+Catalog File: (unknown)
+
+Entity Name: %dbnotn
+Public Identifier: "(none)"
+System Identifier: dbnotnx.mod
+Resolved Path: "D:\validation\RittenHouse_05-10-05\V1.1\dbnotnx.mod"
+Catalog File: (unknown)
+
+Entity Name: %dbcent
+Public Identifier: "(none)"
+System Identifier: dbcentx.mod
+Resolved Path: "D:\validation\RittenHouse_05-10-05\V1.1\dbcentx.mod"
+Catalog File: (unknown)
+
+Entity Name: %ISOamsa
+Public Identifier: "ISO 8879:1986//ENTITIES Added Math Symbols: Arrow Relations//EN//XML"
+System Identifier: ent/iso-amsa.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-amsa.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOamsb
+Public Identifier: "ISO 8879:1986//ENTITIES Added Math Symbols: Binary Operators//EN//XML"
+System Identifier: ent/iso-amsb.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-amsb.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOamsc
+Public Identifier: "ISO 8879:1986//ENTITIES Added Math Symbols: Delimiters//EN//XML"
+System Identifier: ent/iso-amsc.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-amsc.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOamsn
+Public Identifier: "ISO 8879:1986//ENTITIES Added Math Symbols: Negated Relations//EN//XML"
+System Identifier: ent/iso-amsn.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-amsn.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOamso
+Public Identifier: "ISO 8879:1986//ENTITIES Added Math Symbols: Ordinary//EN//XML"
+System Identifier: ent/iso-amso.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-amso.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOamsr
+Public Identifier: "ISO 8879:1986//ENTITIES Added Math Symbols: Relations//EN//XML"
+System Identifier: ent/iso-amsr.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-amsr.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISObox
+Public Identifier: "ISO 8879:1986//ENTITIES Box and Line Drawing//EN//XML"
+System Identifier: ent/iso-box.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-box.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOcyr1
+Public Identifier: "ISO 8879:1986//ENTITIES Russian Cyrillic//EN//XML"
+System Identifier: ent/iso-cyr1.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-cyr1.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOcyr2
+Public Identifier: "ISO 8879:1986//ENTITIES Non-Russian Cyrillic//EN//XML"
+System Identifier: ent/iso-cyr2.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-cyr2.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOdia
+Public Identifier: "ISO 8879:1986//ENTITIES Diacritical Marks//EN//XML"
+System Identifier: ent/iso-dia.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-dia.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOgrk1
+Public Identifier: "ISO 8879:1986//ENTITIES Greek Letters//EN//XML"
+System Identifier: ent/iso-grk1.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-grk1.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOgrk2
+Public Identifier: "ISO 8879:1986//ENTITIES Monotoniko Greek//EN//XML"
+System Identifier: ent/iso-grk2.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-grk2.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOgrk3
+Public Identifier: "ISO 8879:1986//ENTITIES Greek Symbols//EN//XML"
+System Identifier: ent/iso-grk3.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-grk3.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOgrk4
+Public Identifier: "ISO 8879:1986//ENTITIES Alternative Greek Symbols//EN//XML"
+System Identifier: ent/iso-grk4.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-grk4.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOlat1
+Public Identifier: "ISO 8879:1986//ENTITIES Added Latin 1//EN//XML"
+System Identifier: ent/iso-lat1.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-lat1.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOlat2
+Public Identifier: "ISO 8879:1986//ENTITIES Added Latin 2//EN//XML"
+System Identifier: ent/iso-lat2.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-lat2.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOnum
+Public Identifier: "ISO 8879:1986//ENTITIES Numeric and Special Graphic//EN//XML"
+System Identifier: ent/iso-num.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-num.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOpub
+Public Identifier: "ISO 8879:1986//ENTITIES Publishing//EN//XML"
+System Identifier: ent/iso-pub.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-pub.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %ISOtech
+Public Identifier: "ISO 8879:1986//ENTITIES General Technical//EN//XML"
+System Identifier: ent/iso-tech.ent
+Resolved Path: "C:\Program Files\Arbortext\Editor\entities\iso-tech.ent"
+Catalog File: "C:\Program Files\Arbortext\Editor\doctypes\catalog"
+
+Entity Name: %dbpool
+Public Identifier: "(none)"
+System Identifier: dbpoolx.mod
+Resolved Path: "D:\validation\RittenHouse_05-10-05\V1.1\dbpoolx.mod"
+Catalog File: (unknown)
+
+Entity Name: %rdbpool
+Public Identifier: "(none)"
+System Identifier: rittredecl.mod
+Resolved Path: "D:\validation\RittenHouse_05-10-05\V1.1\rittredecl.mod"
+Catalog File: (unknown)
+

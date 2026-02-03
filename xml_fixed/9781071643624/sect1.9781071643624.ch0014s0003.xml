@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0014s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0014s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0014s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>14</chapternumber>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>12. Somatic Symptom and Related Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   <sect2 id="ch0014s0003s01" role="Heading">
+      <title>Tools for the Formal Assessment of SSRD in Adults</title>
+      <sect3 id="ch0014s0003s01s01" role="Heading">
+         <title>Clinical Interviews</title>
+         <para role="Para">The <emphasis>Diagnostic Interview for Anxiety, Mood, and OCD and Related Neuropsychiatric Disorders</emphasis> (<emphasis>DIAMOND</emphasis>) is one<indexterm significance="normal">
+               <primary>one</primary>
+            </indexterm> of the best validated structured interviews (Tolin et al., <emphasis role="CitationRef">
+               <phrase>2018</phrase>
+            </emphasis>) to assess current (not lifespan) SSD and IAD. In addition to determining whether an individual meets the diagnostic criteria, clinicians have the opportunity to rate the severity of the disorder on a scale from 1 (normal) to 7 (extreme) based on their clinical judgment of the patient’s current level of distress. Interrater and test-retest reliability across all diagnoses were rated very good to excellent, and evidence for convergent validity was established for almost all diagnoses (Tolin et al., <emphasis role="CitationRef">
+               <phrase>2018</phrase>
+            </emphasis>). The DIAMOND<indexterm significance="normal">
+               <primary>DIAMOND</primary>
+            </indexterm> is accessible for free.</para>
+         <para role="Para">The <emphasis>Structured Clinical Interview for DSM-5 Disorders</emphasis> (<emphasis>SCID-5</emphasis>) is a semi-structured interview and exists in different versions. The clinical version (SCID-5-CV) only screens for SSD and IAD (First et al., <emphasis role="CitationRef">
+               <phrase>2016</phrase>
+            </emphasis>). The most<indexterm significance="normal">
+               <primary>most</primary>
+            </indexterm> comprehensive version of the SCID-5 is the research version, SCID-5-RV (First et al., <emphasis role="CitationRef">
+               <phrase>2015</phrase>
+            </emphasis>), which includes a section on current SSD and IAD. Similar to the DIAMOND<indexterm significance="normal">
+               <primary>DIAMOND</primary>
+            </indexterm>, the questions of the SCID-5 operationalize the diagnostic criteria of the disorder in DSM-5. The clinician has to choose between whether a symptom is absent/subthreshold or the threshold is met. So far, psychometric data are provided for the clinical version of the SCID-5 regarding validity, sensitivity and specificity, interrater reliability, as well as test-retest reliability (Osorio et al., <emphasis role="CitationRef">
+               <phrase>2019</phrase>
+            </emphasis>).</para>
+         <para role="Para">Another semi-structured interview that was specifically designed to evaluate emotional and related disorders and claims to be more circumscribed compared to the SCID and DIAMOND is the <emphasis>Anxiety and Related Disorders Interview Schedule for DSM-5</emphasis> (<emphasis>ADIS-5</emphasis>) by Brown and Barlow (<emphasis role="CitationRef">
+               <phrase>2014</phrase>
+            </emphasis>). The ADIS-5 allows differential diagnoses between all anxiety and related disorders and includes a section on current as well as lifetime SSD and IAD. The clinician provides a clinical severity rating on a 9-point severity scale to distinguish between clinical and<indexterm significance="normal">
+               <primary>and</primary>
+            </indexterm>subclinical diagnoses. The lifetime version of the ADIS-5 (ADIS-5L) is designed to capture past (lifetime) diagnoses. So far, psychometric data has not been available for the ADIS-5, but just for its predecessor, the ADIS-IV. unstructured clinical interviews<link linkend="ch0014s0001fg01">12.1</link>
+            <link linkend="ch0014s0001fg02">12.2</link>
+            <phrase>12.1</phrase>Table 12.1</para>
+         medical<indexterm significance="normal">
+            <primary>medical</primary>
+         </indexterm>
+         <para role="SimplePara">Topics that should<indexterm significance="normal">
+               <primary>should</primary>
+            </indexterm> be addressed in an unstructured interview for SSRD</para>
+         <table id="ch0014s0003ta01">
+            <title/>
+            <tgroup cols="1">
+               <colspec colname="c1" colnum="1"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">Reason for seeking psychotherapy:</emphasis> Did you get referred? If yes, why? Why did you decide to seek psychotherapy right now?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">Exploration of the somatic symptoms and of the impact of symptoms on and interference with patient’s life:</emphasis> Family/partnership? Job? Social life? Other areas?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">How does your social environment react to and deal with your symptoms?:</emphasis> Family/partner? Workplace? Friends? Health care? Other areas?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">What have you done so far to cope with your somatic symptoms?:</emphasis> Which medical/pharmacological treatments? How successful? Do you take medication because of your symptoms? If yes, which ones? How often and which dosage?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">Do you have any medical conditions or problems with your mental health? If yes, which ones?</emphasis>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">I am sure you have already thought a lot about your symptoms. Do you have any ideas of how your symptoms could be explained or what has caused them?</emphasis>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">Personal history/biography and how is your life currently?:</emphasis> Partnership? Family? Job/training? Financial situation? Social network? Resources and positive activities? Other areas? Stressful life events during the past year that could be related to the onset of your symptoms?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">What are your hopes and expectations about seeking help from a psychologist?:</emphasis> What do you think how psychotherapy could help you?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">
+                           <emphasis role="strong">Are you ok with me contacting your primary care provider (or other medical specialists and healthcare providers who are involved in the treatment of the patient’s symptoms?):</emphasis> Gain patients’ consent to contact other healthcare provider(s)</para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </sect3>
+      <sect3 id="ch0014s0003s01s02" role="Heading">
+         <title>Self-Report and Clinician-Rated Scales to Assess Symptoms of SSRD and Associated Features</title>
+         <para>
+            <phrase>12.2</phrase>Table 12.2</para>
+         <para role="SimplePara">
+            Self-report<indexterm significance="normal">
+               <primary>Self-report</primary>
+            </indexterm>and clinician-rated measures to assess symptoms and associated features of SSRD</para>
+         <table id="ch0014s0003ta02">
+            <title/>
+            <tgroup cols="5">
+               <colspec colname="c1" colnum="1"/>
+               <colspec colname="c2" colnum="2"/>
+               <colspec colname="c3" colnum="3"/>
+               <colspec colname="c4" colnum="4"/>
+               <colspec colname="c5" colnum="5"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Type of SSRD or FSS</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Measure</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara"># of items</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Information</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Source</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry nameend="c5" namest="c1">
+                        <para role="SimplePara">
+                           <emphasis role="strong">Self-report and clinician-rated measures to assess symptoms of SSRD and FSS</emphasis>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Somatic symptom disorder (SSD)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Somatic Symptom Disorder-B Criteria Scale (SSD-12)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">12</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Cognitive, affective behavioral features of DSM-5 SSD</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Toussaint et al. (<emphasis role="CitationRef">
+                              <phrase>2017</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry/>
+                     <entry>
+                        <para role="SimplePara">Patient Health Questionnaire-15</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">15</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Severity of somatic symptoms</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Kroenke et al. (<emphasis role="CitationRef">
+                              <phrase>2002</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Irritable bowel syndrome (IBS)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Visual Analogue Scale for IBS (VAS-IBS)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">9</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Symptom severity and well-being in IBS</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Bengtsson et al. (<emphasis role="CitationRef">
+                              <phrase>2007</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Chronic fatigue syndrome</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Chalder Fatigue Scale</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">14</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Severity of physical and mental fatigue</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Chalder et al. (<emphasis role="CitationRef">
+                              <phrase>1993</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Fibromyalgia (FMS)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Symptom Severity Scale<superscript>a</superscript>
+                        </para>
+                        <para role="SimplePara">Widespread Pain Index<superscript>a</superscript>
+                        </para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">22</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">FMS symptom severity</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Wolfe et al. (<emphasis role="CitationRef">
+                              <phrase>2010</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="2">
+                        <para role="SimplePara">Illness anxiety disorder</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Whitely Index-6</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">6</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Severity of health anxiety</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Asmundson et al. (<emphasis role="CitationRef">
+                              <phrase>2008</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Illness Anxiety Scales (IAS)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">29</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Severity of health anxiety</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Kellner (<emphasis role="CitationRef">
+                              <phrase>1986</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Short Health Anxiety Inventory (SHAI)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">18</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Severity of health anxiety</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Salkovskis et al. (<emphasis role="CitationRef">
+                              <phrase>2002</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="2">
+                        <para role="SimplePara">Functional neurological symptom disorder, e. g., motor symptoms</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Functional Mobility Scale (FMS)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">3</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Level of mobility</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Graham et al. (<emphasis role="CitationRef">
+                              <phrase>2004</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">10-m walk test<superscript>a</superscript>
+                        </para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">1</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Ability to stand and walk at least 10 m with some aid if needed</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Rossier and Wade (<emphasis role="CitationRef">
+                              <phrase>2001</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Simplified Functional Movement Disorders Rating Scale (S-FMDRS)<superscript>a</superscript>
+                        </para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">18</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Information on severity, phenomenology, anatomical distribution, duration, and functional impact of abnormal movement</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Nielsen et al. (<emphasis role="CitationRef">
+                              <phrase>2017</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Psychological factors affecting other medical conditions (PFAOMC)</para>
+                     </entry>
+                     <entry nameend="c5" namest="c2">
+                        <para role="SimplePara">No measure available to assess PFAOMC comprehensively. Specific measures that assess factors described in Fig.<emphasis role="InternalRef">
+                              <link linkend="ch0014s0001fg02">12.2</link>
+                           </emphasis> are recommended to be administered, for example, to assess anxiety, stress, and depression in clinical samples with the Depression Anxiety Stress Scales-21 (Lovibond &amp; Lovibond, <emphasis role="CitationRef">
+                              <phrase>1995</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Factitious disorder (FD)</para>
+                     </entry>
+                     <entry nameend="c5" namest="c2">
+                        <para role="SimplePara">No self-report or clinician-rated measures available</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry nameend="c5" namest="c1">
+                        <para role="SimplePara">
+                           <emphasis role="strong">Self-report and clinician-rated measures to assess features associated with SSRD and FSS</emphasis>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="1">
+                        <para role="SimplePara">Fear avoidance/kinesiophobia</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Tampa Scale of Kinesiophobia (TSK)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">17</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Fear of movement and re-injury</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Kori et al. (<emphasis role="CitationRef">
+                              <phrase>1990</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Fear-Avoidance Beliefs Questionnaire (FABQ)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">16</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Fear avoidance about work and physical activity</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Waddell et al. (<emphasis role="CitationRef">
+                              <phrase>1993</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Other illness behaviors</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Scale for the Assessment of Illness Behavior (SAIB)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">26</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Illness behaviors: diagnosis verification, expression of symptoms, medication, illness consequences, scanning</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Rief et al. (<emphasis role="CitationRef">
+                              <phrase>2003</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Symptom catastrophizing</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Pain Catastrophizing Scale (PCS)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">13</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Rumination, magnification, helplessness</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Sullivan et al. (<emphasis role="CitationRef">
+                              <phrase>1995</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="1">
+                        <para role="SimplePara">Symptom perceptions</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Brief illness Perception Questionnaire (B-IPQ)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">9</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Symptom perceptions (e. g., consequences, personal control, understanding, etc.)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Broadbent et al. (<emphasis role="CitationRef">
+                              <phrase>2006</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Patients’ Endorsement of the Biopsychosocial Model of Chronic Pain Scale</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">11</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Patients’ conceptualization of their symptom</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Kleinstäuber et al. (<emphasis role="CitationRef">
+                              <phrase>2024</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="2">
+                        <para role="SimplePara">Symptom coping</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Pain Self-Efficacy Questionnaire (PSEQ)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">10</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Self-efficacy beliefs</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Nicholas (<emphasis role="CitationRef">
+                              <phrase>2007</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Multidimensional Health Locus of Control (MHCL) Scales</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">18</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Health-related locus of control</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Wallston et al. (<emphasis role="CitationRef">
+                              <phrase>1978</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Pain Stages Of Change Questionnaire (PSOCQ)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">30</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Readiness to adopt a symptom self-management approach</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Kerns et al. (<emphasis role="CitationRef">
+                              <phrase>1997</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Healthcare utilization</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Client Service Receipt Inventory</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">12</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Different dimensions of healthcare utilization/costs</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Beecham et al. (<emphasis role="CitationRef">
+                              <phrase>1997</phrase>
+                           </emphasis>), Sleed et al. (<emphasis role="CitationRef">
+                              <phrase>2005</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Health-related quality of life</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">12-Item Short-Form Health Survey (SF-12)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">12</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Eight domains of health-related quality of life</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Ware et al. (<emphasis role="CitationRef">
+                              <phrase>1996</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Disability</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Pain Disability Index (PDI)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">8</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Symptom-related disability in eight domains of everyday life functioning</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Tait et al. (<emphasis role="CitationRef">
+                              <phrase>1990</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <para role="SimplePara">
+            <emphasis>Note</emphasis>. DSM-5 = Diagnostic and Statistical Manual of Mental Disorders, fifth Edition, FSS = Functional Somatic Syndrome, SSRD = Somatic Symptom and Related Disorders</para>
+         <para role="SimplePara">
+            <superscript>a</superscript> Clinician-rated scale</para>
+      </sect3>
+      <sect3 id="ch0014s0003s01s03" role="Heading">
+         <title>Prospective Assessment Tools/Symptom Diaries</title>
+         tools<indexterm significance="normal">
+            <primary>tools</primary>
+         </indexterm>
+         <para>
+            <link linkend="ch0014s0003fg03">12.3</link>
+            <phrase>2023</phrase>
+            <phrase>2001</phrase>
+         </para>
+         <figure float="0" id="ch0014s0003fg03" role="Figure">
+            <title>
+               <emphasis role="CaptionNumber">Fig. 12.3</emphasis>Symptom diary. <emphasis>Note.</emphasis> Example of a<indexterm significance="normal">
+                  <primary>a</primary>
+               </indexterm>diary to assess persistent somatic symptoms</title>
+            <mediaobject>
+               <imageobject>
+                  <imagedata fileref="Ch0014f03.jpg" scalefit="1" width="100%"/>
+               </imageobject>
+            </mediaobject>
+         </figure>
+      </sect3>
+      <sect3 id="ch0014s0003s01s04" role="Heading">
+         <title>Tools to Document Informants’ Observations</title>
+         <para role="Para">There are not many tools available that help with documenting the informants’ observations. Vlaeyen et al. (<emphasis role="CitationRef">
+               <phrase>1990</phrase>
+            </emphasis>) developed the Checklist for Interpersonal Pain Behavior (CHIP)<indexterm significance="normal">
+               <primary>Checklist for Interpersonal Pain Behavior (CHIP)</primary>
+            </indexterm> specifically for patients with pain symptoms, which covers six domains of problematic symptom-related behaviors: distorted mobility, verbal complaints, nonverbal complaints, nervousness, depression, and<indexterm significance="normal">
+               <primary>and</primary>
+            </indexterm> day sleeping. Scales like the CHIP can be easily adjusted to other somatic symptoms.</para>
+      </sect3>
+      <sect3 id="ch0014s0003s01s05" role="Heading">
+         <title>Behavioral Observation Tools</title>
+         <para role="Para">Avoidance behavior (e. g., avoiding certain movements because of the fear of inducing pain) is a very common illness behavior across different types of SSRD that needs special attention in the diagnostic process because it can turn into a subtle yet highly automated behavior. Observational methods can help clinicians to identify and characterize avoidance behavior. The Photograph Series of Daily Activities (PHODA)<indexterm significance="normal">
+               <primary>Photograph Series of Daily Activities (PHODA)</primary>
+            </indexterm> is a popular tool to observe pain-related avoidance<indexterm significance="normal">
+               <primary>avoidance</primary>
+            </indexterm> behaviors (Oliveira et al., <emphasis role="CitationRef">
+               <phrase>2018</phrase>
+            </emphasis>).</para>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0014s0003s02" role="Heading">
+      <title>Tools for the Formal Assessment of SSRD in Children and Adolescents</title>
+      <para role="Para">
+         Formal assessment<indexterm significance="normal">
+            <primary>Formal assessment</primary>
+         </indexterm>tools to support the diagnosis of an SSRD in children and adolescents are very limited and were mostly developed to assess pain. According to the PedIMMPACT (Mc Grath et al.,<emphasis role="CitationRef">
+            <phrase>2008</phrase>
+         </emphasis>) recommendations, traditional self-report tools to rate pain intensity can be used for children who are 8 years of age or older. Unidimensional measures such as visual analogue scales, numerical rating scales, or verbal rating scales (Lalloo &amp; Stinson, <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>) are available. For children who are in pre-school age (5–7 years), graphic rating scales, e. g., Pieces of Hurt Tool (Hester,<emphasis role="CitationRef">
+            <phrase>1979</phrase>
+         </emphasis>), should be applied. Observational/behavioral scales are suggested for children who are 5 years of age or younger. There are several scales validated for children who are aged between 0 and 5 years, e. g., COMFORTneo (van Dijk et al.,<emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>). Besides pain intensity, children and their caregivers’ perspectives on the pain-related<indexterm significance="normal">
+            <primary>pain-related</primary>
+         </indexterm>disability (e. g., Bath Adolescent Pain Questionnaire for adolescents aged between 13 and 18 years; Eccleston et al.,<emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>) and health-related quality of life (e. g., Paediatric Quality of Life; Varni et al.,<emphasis role="CitationRef">
+            <phrase>1999</phrase>
+         </emphasis>) should be considered.</para>
+   </sect2>
+</sect1>

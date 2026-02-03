@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0008s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0008s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0008s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0008s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>8</chapternumber>
+         <chapterid>ch0008</chapterid>
+         <chaptertitle>6. Depressive Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Information</title>
+   <para role="Para">Gathering information for the assessment of depressive disorders is most often a dynamic process that involves integrating data from both informal and formal assessment methods. Given the range of available methods for assessing depressive disorders, it is crucial to consider the context of assessment (e. g., primary care, inpatient clinical settings, research), purpose of assessment (i. e., screening, diagnosis, treatment planning), and social and cultural contexts when selecting how to gather information. Although informal assessment methods are the most used strategy for gathering information in a clinical setting, mental health practitioners often integrate screening measures and clinical interviews in gathering data on depressive disorders.</para>
+   <sect2 id="ch0008s0003s01" role="Heading">
+      <title>Screening Measures</title>
+      <para role="Para">Standardized screening measures<indexterm significance="normal">
+            <primary>screening measures</primary>
+         </indexterm> are validated, approachable, and cost-effective tools for identifying those who may be at risk of developing a depressive disorder. These measures are often brief and require a limited amount of training to administer, making them ideal for use in primary care and other general health and social service settings. In fact, given the high prevalence of depressive disorders in the general population, it is now recommended that screening for depressive disorders should occur for all adults (including pregnant and postpartum persons, and older adults) in primary care settings and mental health intakes (US Preventive Services Task Force, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Generally, screening measures use self-report or informant-report to assess presenting symptoms and their associated frequency, severity, and duration with the intention of identifying individuals who may need further assessment using structured, semi-structured, or unstructured interview methods.</para>
+      <para role="Para">The most common screening measures<indexterm significance="normal">
+            <primary>screening measures</primary>
+         </indexterm>for depressive disorders are self-report measures. Typically, an individual is asked to indicate the presence and severity of specific symptoms over an identified period of time (e. g., over the last 2 weeks). The inventory is then scored by a clinician, and the individual’s score on the instrument reflects the severity of the disorder. The Nine-Item Patient Health Questionnaire (PHQ-9; Spitzer et al.,<emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>) and Two-Item Patient Health Questionnaire (PHQ-2; Arroll et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>) are among the most used and validated screening instruments for depressive disorders in the general adult population (Maurer et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). These assessments take approximately 1–5 min to complete and score, are openly available in multiple languages, and show high sensitivity and specificity (Kroenke et al., <emphasis role="CitationRef">
+            <phrase>2001</phrase>
+         </emphasis>). Other commonly used self-report screening measures of depressive symptoms across the lifespan include: The Beck Depression Inventory-II (BDI-II; Beck et al., <emphasis role="CitationRef">
+            <phrase>1996</phrase>
+         </emphasis>), the Center for Epidemiological Studies-Depression Scale (CES-D; Radloff, <emphasis role="CitationRef">
+            <phrase>1977</phrase>
+         </emphasis>), EQ-5D (The EuroQol Group, <emphasis role="CitationRef">
+            <phrase>1990</phrase>
+         </emphasis>), the Quick Inventory of Depressive Symptomatology—Self-Report (QIDS-SR; Rush et al., <emphasis role="CitationRef">
+            <phrase>2003</phrase>
+         </emphasis>), and the Inventory of Depression and Anxiety Symptoms, expanded version (IDAS-II; Watson et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>).</para>
+      <para role="Para">Some self-report measures have been designed for use with specific populations, such as the Geriatric Depression Scale (GDS; Yesavage et al.,<emphasis role="CitationRef">
+            <phrase>1982</phrase>
+         </emphasis>) and the Beck Depression Inventory—Primary Care (BDI-PC; Beck et al., <emphasis role="CitationRef">
+            <phrase>1997</phrase>
+         </emphasis>). These inventories are thought to be more valid for use with older adults and medical patients respectively, due to a decreased emphasis on items related to somatic symptoms which tend to be more frequently endorsed in these populations.</para>
+      <para role="Para">Clinician-administered screening measures<indexterm significance="normal">
+            <primary>screening measures</primary>
+         </indexterm> are also common in research settings, although they are less common in clinical settings due to time restrictions. These instruments include: The Hamilton Rating Scale for Depression (HRSD; Hamilton, <emphasis role="CitationRef">
+            <phrase>1967</phrase>
+         </emphasis>), the Montgomery Asberg Depression Rating Scale (MADRS; Montgomery &amp; Asberg, <emphasis role="CitationRef">
+            <phrase>1979</phrase>
+         </emphasis>), and the Inventory of Depressive Symptomatology—Clinician-rated (IDS-CR; Rush et al., <emphasis role="CitationRef">
+            <phrase>1996</phrase>
+         </emphasis>). Often considered the “gold standard” in clinician-administered screening measures, the 21-item version of the HRSD takes approximately 20–30 min to administer and has been well validated with good internal consistency (Cronbach’s alpha = 0.81 and 0.88) (Carmody et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>). The MADRS is an excellent alternative to the HRSD as it is briefer (10 items, 20 min to administer), reported to be more sensitive to tracking clinical change in symptoms, is unifactorial, and has higher internal consistency ratings and inter-rater reliability (&gt;0.90; Montgomery &amp; Asberg, <emphasis role="CitationRef">
+            <phrase>1979</phrase>
+         </emphasis>).</para>
+      <para role="Para">There are also clinician-report and informant-report screening measures that are designed for use in individuals with cognitive impairment. Importantly, depression is more prevalent in the early stages of cognitive impairment, typically when the individual still maintains insight or awareness of their cognitive decline and symptoms (e. g., forgetting, losing track of conversations) and is often detected<indexterm significance="normal">
+            <primary>detected</primary>
+         </indexterm> using the typical screening measures reported above. However, depression may still be present in later stages, although often more difficult to detect. Thus, the Cornell Scale for Depression in Dementia (CSDD; Alexopoulos et al., <emphasis role="CitationRef">
+            <phrase>1988</phrase>
+         </emphasis>) may be completed by a clinician in conjunction with another person with sufficient knowledge of the identified patient (e. g., administered directly to a caregiver, or significant other). During the CSDD, 19 items are evaluated on a 3-point rating scale, with higher scores being indicative of higher severity of depression. The CSDD has adequate inter-rater reliability (kappa = 0.67), good internal consistency (coefficient alpha = 0.84), and concurrent validity with the HRSD (Alexopoulos et al.,<emphasis role="CitationRef">
+            <phrase>1988</phrase>
+         </emphasis>).<phrase>6.2</phrase>Table 6.2</para>
+      Screening measures<indexterm significance="normal">
+         <primary>Screening measures</primary>
+      </indexterm>
+      <para role="SimplePara">Comparison of self-report screening measures<indexterm significance="normal">
+            <primary>measures</primary>
+         </indexterm>
+      </para>
+      <table id="ch0008s0003ta02">
+         <title/>
+         <tgroup cols="6">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <colspec colname="c4" colnum="4"/>
+            <colspec colname="c5" colnum="5"/>
+            <colspec colname="c6" colnum="6"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Measure</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Time frame assessed</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Symptoms covered</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Format of questions</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Time to administer</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Validated for ages</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">1. PHQ-9</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Every 2 weeks</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Maps onto the major criteria of the DSM-5, MDD diagnostic criteria</para>
+                     <para role="SimplePara">Includes item on suicidal ideation</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">4-point scale with “0” indicating not at all and “3” indicating nearly every day</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">2–5 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">12+ years</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">2. PHQ-2</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Every 2 weeks</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Depressed mood and anhedonia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Same scale as PHQ-9</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">&lt;2 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">12+ years</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">3. BDI-II</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Every 2 weeks</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Less core symptoms of depressive disorder: Cognitive, somatic-affective, mood, social, sleep, and appetite symptoms, and suicidal ideation</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Scaled questions with a “0” indicating absence of the symptom and a “3” indicating the most severe expression of that symptom</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">5–10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">13–80 years</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">4. BDI-PC</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Every 2 weeks</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Sadness, pessimism, past failure, anhedonia, self-dislike, self-criticism, suicidal ideation</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">4-point scale (same scale as BDI-II)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">&lt;10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">13–80 years</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">5. CES-D</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Weekly</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Emphasis on affective symptoms. Includes item on suicidal ideation</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">4-point scale, indicating how frequently an individual has felt symptoms during the past week</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">&lt;10 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">18+ years</para>
+                     <para role="SimplePara">(CES-DC available for ages 6–23 years)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">6. EQ-5D</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Daily</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Health-related quality of life. Captures anxiety and depressive symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Measures severity levels across health domains on a 5-point scale, with “1” indicating no problem and “5” indicating extreme problems</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">2–5 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">18 + years</para>
+                     <para role="SimplePara">(EQ-5D-Y available for ages 8–15 years)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">7 QIDS-SR</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Weekly</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Maps onto major criteria of DSM-5, including suicidal ideation</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Items answered on a 3-point scale, 27 possible points total. “1–5” indicates no depression and “21–27” indicates very severe depression</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">5–7 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">18 + years</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">8. IDAS-II</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Every 2 weeks</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Measures symptoms of depressive disorders and other mental health disorders in DSM-5</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Items answered on a 5-point scale, where “1” indicates not at all and “5” indicates extremely</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">10–20 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">16–80 years</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">9. GDS (long form)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Weekly</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Depressive symptoms. Does not assess for suicidality</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“Yes/no” format</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">10–20 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">60+ years</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">10. GDS (short form)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Weekly</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Depressive symptoms. Does not assess for suicidality</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">“Yes/no” format</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">5–7 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">60+ years</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0008s0003s02" role="Heading">
+      <title>Clinical Interviews</title>
+      <para role="Para">In clinical settings, unstructured clinical interviews are the most frequently used strategy for gathering information on depressive disorders. During an unstructured clinical interview, the clinician or mental health practitioner asks the individual open-ended questions regarding their current mood, specific symptoms, and frequency and intensity of these symptoms. These interviews also allow an exploration of family, medical, and psychiatric history, as well as relevant social and cultural considerations in a way that is unique to the individual. Although rich in the information they gather, informal clinical interviewing strategies are unstandardized, and may be less reliable and comprehensive in their ability to recognize and assess comorbid conditions. For this reason, many clinicians use a mix of formal assessment (i. e., screening measures) and interviewing techniques to gather data on depressive symptoms.</para>
+      <para role="Para">For diagnostic and research purposes, semi-structured and structured interviews are excellent tools to assist in confirming the presence of a depressive disorder. These interviews are administered by trained interviewers and serve as reliable and valid tools that allow for a more thorough evaluation and diagnosis of disorders compared to unstructured interviews. In a semi-structured interview, the interviewer is provided with a specific list of questions to be covered as well as the flexibility to ask follow-up questions to gain a complete picture of the individual and seek any clarification necessary for diagnosis. The most commonly used semi-structured interview for depressive disorders in English-speaking adults is the Structured Clinical Interview for DSM-5 (SCID-5; First et al.,<emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). The SCID-5 takes between 30 and 120 minutes to administer, includes modules for multiple diagnoses within the <emphasis>DSM-5</emphasis>, and shows moderate to high interrater reliability. There is also an abbreviated version, which takes 30 min to administer (Quick Structured Clinical Interview for DSM-5, QuickSCID-5; First et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>) and a version for research purposes (The Structured Clinical Interview for DSM-5, Research Version (DSM-5-RV, First et al., <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>). For children and children and adolescents (6–18 years old), the most used semi-structured diagnostic interview is the Schedule for Affective Disorders and Schizophrenia (SADS; Kaufman &amp; Schweder, <emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>). In older adults (60+ years), the MINI International Neuropsychiatric Interview (MINI; Sheehan et al., <emphasis role="CitationRef">
+            <phrase>1998</phrase>
+         </emphasis>) is commonly used.</para>
+      <para role="Para">Structured interviews contain a set number of questions to be asked in a set order. Because of their format, these types<indexterm significance="normal">
+            <primary>types</primary>
+         </indexterm> of interview tools provide a standardized process for gathering information, which can improve consistency in service delivery, reliability in diagnosis, and provide a means for tracking clinical outcomes/change indicators (Segal &amp; Williams, <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). In addition, structured interviews decrease the need for extensive training of interviewers. However, some of these interviews are time-consuming and may not be practical in clinical settings. Once a depressive disorder diagnosis is confirmed, a clinician-administered measure such as the HRSD (Hamilton, <emphasis role="CitationRef">
+            <phrase>1967</phrase>
+         </emphasis>) may be more useful for tracking outcomes (Joiner et al., <emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>). The other disadvantage to fully structured interviews is a lack of flexibility in questioning. If a question is not fully answered or explained well, the interviewer is not allowed to deviate from the prescribed set of questions as it would lead to a decrease in reliability and validity of the norms. The most commonly used structured and semi-structured interviews are discussed in more detail in Chap. <emphasis role="ExternalRef">
+            <ulink url="ch0003.xml#ch0003">
+               <emphasis role="RefSource">2</emphasis>
+            </ulink>
+         </emphasis> of this volume.</para>
+      <para role="Para">Importantly, gathering information on depressive disorders<indexterm significance="normal">
+            <primary>depressive disorders</primary>
+         </indexterm>is not limited to research and diagnostic purposes, and depressive symptoms should be assessed throughout treatment to monitor maintenance and change over time. To do this, clinicians can use a severity measure or have the client use a data sheet to self-monitor depressive symptoms (e. g., daily mood log) or engagement in pleasurable events (e. g., weekly activity log). Because self-report is subjective, can be biased, or otherwise inaccurate (relies on memory and adequate perceptions of events), direct observation of the client may also be useful in tracking outcomes. These observations can occur within a session by the clinician (e. g., observation of a person’s grooming, hygiene, psychomotor activity) or out of session by a significant other (e. g., collateral data). Regardless of the method chosen, tracking outcomes can provide evidence as to accurate diagnosis of the condition, provide information for treatment planning, and allow for evaluation of treatment effectiveness.</para>
+   </sect2>
+</sect1>

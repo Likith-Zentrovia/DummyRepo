@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0004s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0004s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0004s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>3. Presenting Problem, History of Presenting Problem, and Social History</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Referral Question and Presenting Problem</title>
+   <para role="Para">The first stage of the interview is to explore the presenting problem (sometimes called the chief complaint), which involves clarifying the referral question and understanding the client’s reason for seeking an evaluation. At this stage, the clinician should focus on the present effects of the problem. The client’s biopsychosocial history will be collected later in the evaluation process.</para>
+   <sect2 id="ch0004s0002s01" role="Heading">
+      <title>The Referral Question and Secret Questions</title>
+      <para>
+         <phrase>3.1</phrase>
+         <phrase>2020</phrase>Table 3.1</para>
+      <para role="SimplePara">Referral question themes and presenting problem sample interview questions</para>
+      <table id="ch0004s0002ta01">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Referral question themes</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Examples of common referral questions</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Diagnostic clarity</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Is the client or referring provider seeking assessment or treatment for a specific diagnosis?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Treatment planning</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• If the client meets criteria for [diagnosis x], what are the best practices for treatment?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Vulnerabilities</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• What are the client’s subjective or objective deficits?</para>
+                     <para role="SimplePara">• How do vulnerabilities explain the client’s difficulties meeting goals and fulfilling expectations?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Strengths</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• What are the clients’ strengths?</para>
+                     <para role="SimplePara">• What aspects of the client would be helpful in managing the problem?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Contributing factors and outcomes of the problem</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• How did this problem arise? Where did it come from?</para>
+                     <para role="SimplePara">• Under what conditions does the problem improve or get worse?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis role="strong">Area of inquiry</emphasis>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis role="strong">Sample interview questions</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Referral and secret questions</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• What is going on that led you to make this appointment? Why seek help now?</para>
+                     <para role="SimplePara">• What are your goals for our meeting today?</para>
+                     <para role="SimplePara">• What do you hope to hear when this evaluation is all done?</para>
+                     <para role="SimplePara">• What is the thing you are most afraid you will hear when I give you the results of this assessment?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Presenting problem: General symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• What symptoms cause you the most difficulty?</para>
+                     <para role="SimplePara">• Is there one issue or symptom that is the worst for you?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Presenting problem: Physical/somatic symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• What physical symptoms currently cause you trouble (even if you think they may not be related to the presenting concern), for example, pain, cardiovascular, or gastrointestinal problems?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Presenting problem: Vegetative symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Do you have difficulties with sleep, appetite or weight changes, tiredness or excessive energy, or your libido or interest in sexual activity?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Presenting problem: Cognitive symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Do you have difficulties with your thinking ability, such as with concentration, attention, memory, or ability to engage in complex tasks?</para>
+                     <para role="SimplePara">• What have other people said about your memory or ability to focus?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Presenting problem: Other psychological symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• What is your mood like on a typical day? Does it remain stable or fluctuate?</para>
+                     <para role="SimplePara">• Do you have other concerns with your emotions or mood that you have not yet shared?</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Presenting problem: Functional symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• What difficulties has this problem caused for you (at work, socially, in relationships, self-care, etc.)?</para>
+                     <para role="SimplePara">• How much discomfort do your symptoms cause you?</para>
+                     <para role="SimplePara">• In what ways do your mental health symptoms make it harder for you to care for yourself? (e. g., hygiene, grooming, dressing, eating, housework, living independently, etc.)?</para>
+                     <para role="SimplePara">• Do you have any difficulty completing complex day-to-day tasks, such as grocery shopping, driving, or paying the bills?</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para">Clients sometimes come to an interview having already explored their symptoms or problems. They likely have guesses about their symptoms or underlying reasons for seeking an assessment<indexterm significance="normal">
+            <primary>assessment</primary>
+         </indexterm>, though they may not tell the clinician directly (i. e., “secret questions”). Common secret question themes include reassurance seeking, hope that a diagnosis will (or will not) be given, fear of the future, concerns about expectations and role changes, and guilt, shame, or loss. Exploring the client’s secret questions also allows the clinician to address the possibility that a client may be disappointed by the evaluation outcomes (e. g., receiving a diagnosis when they hoped results would indicate nothing was wrong). When exploring the client’s secret questions, the clinician should use empathy and clinical skills to acknowledge client concerns, educate, and prime clients for potential outcomes. This approach validates the client’s experiences and helps alleviate fears that the clinician will not truly understand the situation. Knowing the client’s secret questions could facilitate person-centered recommendations that may be better received than general recommendations (see Nelson,<emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis> for more information on clients’ secret questions). In addition to client’s secret questions, clinicians should be aware that clients may present themselves in a way that confirms their beliefs about the problem. The clinician should listen for cues that the client has researched symptoms and behaviors. Asking directly about what the client thinks is the cause of their problems and if they have any diagnoses in mind can help uncover these types of secret questions.</para>
+      <para role="Para">The clinical interview often starts with a simple question, “What brings you here today?” If a clinician does not inquire further, they may miss important information and neglect to interview in a manner that gets at the root of the referral question. The clinician should avoid social questions, such as “How are you today” or “How was your week,” which may lead clients to provide vague generalizations about their well-being. Some targeted questions that could help clarify the referral question include, “What is going on that led you to make this appointment,” “What made you seek the evaluation at this time,” “What are your goals for our meeting today,” and “When this evaluation is done, what do you hope to learn?” The clinician could also adapt the various referral questions from Table<emphasis role="InternalRef">
+            <phrase>3.1</phrase>
+         </emphasis>to learn more about the client’s motivations for seeking treatment (e. g., “What services are you hoping to access through this evaluation,” “Do you think other things could be contributing to the problem”).</para>
+   </sect2>
+</sect1>

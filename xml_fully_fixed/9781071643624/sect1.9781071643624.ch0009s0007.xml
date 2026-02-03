@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0009s0007" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0009s0006</risprev>
+         <riscurrent>sect1.9781071643624.ch0009s0007</riscurrent>
+         <risnext>sect1.9781071643624.ch0009s0008</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>9</chapternumber>
+         <chapterid>ch0009</chapterid>
+         <chaptertitle>7. Bipolar Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Dos and Don’ts</title>
+   <table id="ch0009s0007ta03">
+      <title>Table 3</title>
+      <tgroup cols="2">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do:</para>
+                  <para role="SimplePara"> • Inform the patient about the nature and purpose of the assessment process and allow them to ask questions</para>
+                  <para role="SimplePara"> • Use validated, standardized assessment tools such as semi-structured or structured interviews</para>
+                  <para role="SimplePara"> • Follow-up on a positive bipolar disorder results from a screening measure with a more thorough assessment interview</para>
+                  <para role="SimplePara"> • Incorporate feedback from additional sources such as the patient’s family or other providers when available</para>
+                  <para role="SimplePara"> • Screen for comorbid disorders, such as anxiety and substance use disorders</para>
+                  <para role="SimplePara"> • Conduct a thorough safety assessment to assess for suicidality and risk of harm to others</para>
+                  <para role="SimplePara"> • Screen for hypomania and mania among individuals presenting with depressive symptoms, even if they don’t initially mention any periods of elevated mood</para>
+                  <para role="SimplePara"> • Consider the patient’s social and cultural background as it may relate to the manifestation of their symptoms and the ways they describe their illness</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t:</para>
+                  <para role="SimplePara"> • Administer an assessment measure that you have not been properly trained in</para>
+                  <para role="SimplePara"> • Obtain information from additional sources without verifying whether you need the patient’s informed consent</para>
+                  <para role="SimplePara"> • Rely exclusively on screening measures to make diagnostic decisions</para>
+                  <para role="SimplePara"> • Provide a diagnosis of depression without confirming that the patient has no history of manic or hypomanic symptoms</para>
+                  <para role="SimplePara"> • Assume that a patient has not experienced hypomania or mania just because they do not describe their symptoms as being problematic</para>
+                  <para role="SimplePara"> • Over-pathologize behaviors and beliefs that may be normative within a patient’s culture, or mischaracterize symptoms based on cultural differences in the manifestation of psychopathology</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

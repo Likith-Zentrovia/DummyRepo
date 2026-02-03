@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0010s0008" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0010s0007</risprev>
+         <riscurrent>sect1.9781071643624.ch0010s0008</riscurrent>
+         <risnext>sect1.9781071643624.ch0010s0009</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>10</chapternumber>
+         <chapterid>ch0010</chapterid>
+         <chaptertitle>8. Anxiety Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Dos and Don’ts</title>
+   <para>
+      <phrase>8.3</phrase>Table 8.3</para>
+   <para role="SimplePara">Dos and don’ts</para>
+   <table id="ch0010s0008ta03">
+      <title/>
+      <tgroup cols="2">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Dos</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’ts</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do gather broad background information</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t focus on the presenting problem to the exclusion of potentially helpful contextual information</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do rely upon a semi-structured clinical interview to aid with differential diagnosis and determination of each diagnostic criteria</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t foreclose on a diagnosis or an explanation for the client’s presenting problem</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do identify the cues (controlling stimuli) and fear response (e. g., fear, anxiety, panic, sensations, etc.), and critically evaluate the terms that the client uses</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t accept clients’ use of terms uncritically</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do get concrete examples</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t accept clients’ summary characterizations or reports of what usually or generally happens</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do use in vivo or thought experiments to explore the boundaries of the controlling stimulus</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t assume that the presence of a stimulus before a fear response guarantees it as a controlling stimulus unless its presence always evokes a fear response</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do adopt a professional demeanor, refraining from judgment about the rationality of client’s behaviors</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t assume that being warm and friendly will put socially anxious clients at ease</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do view the client’s behavior during the interview dispassionately</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t respond to client panic or anxiety by panicking or becoming anxious</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do make use of information from third parties (e. g., informants, referral sources, etc.)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t rely only on the client’s report when other data are available</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do look for opportunities to affirm the client’s agency</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t reinforce the client’s conflation of ability with willingness</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do allow for under- and over-reporting; consider the client’s attitude toward the assessment, including the impacts of the referral context and the client’s history with regard to expressing need and seeking help</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t reinforce the client’s distortion (minimization, exaggeration) of their symptoms</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do present the diagnosis as a frame of potential value</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Don’t reify the disorders</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

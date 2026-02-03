@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0009s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0009s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0009s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0009s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>9</chapternumber>
+         <chapterid>ch0009</chapterid>
+         <chaptertitle>7. Bipolar Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   <para>
+      <phrase>1999</phrase>
+      <phrase>7.2</phrase>Table 7.2</para>
+   <para role="SimplePara">Formal assessment measures for bipolar disorders<indexterm significance="normal">
+         <primary>bipolar disorders</primary>
+      </indexterm>
+   </para>
+   <table id="ch0009s0003ta02">
+      <title/>
+      <tgroup cols="4">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <colspec colname="c3" colnum="3"/>
+         <colspec colname="c4" colnum="4"/>
+         <tbody>
+            <row>
+               <entry/>
+               <entry>
+                  <para role="SimplePara">Semi-structured interviews</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Structured interviews</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Screening tools</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Pros</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Standardized, structured set of questions</para>
+                  <para role="SimplePara">• Allows for flexibility in administration and the use of clinical judgment in assessment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Fully standardized interview</para>
+                  <para role="SimplePara">• Can be administered with relatively little training and does not require clinical judgment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Quick to complete</para>
+                  <para role="SimplePara">• Standardized questions</para>
+                  <para role="SimplePara">• Can be administered without training or can be completed by the patient</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Cons</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Can be time-consuming to administer</para>
+                  <para role="SimplePara">• Interviewer needs significant training</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Can be time-consuming to administer</para>
+                  <para role="SimplePara">• May not accurately capture symptoms among patients with poor insight</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Requires a follow-up diagnostic interview to confirm findings</para>
+                  <para role="SimplePara">• May not accurately capture symptoms among patients with poor insight</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Examples</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Schedule for Affective Disorders and Schizophrenia (SADS)</para>
+                  <para role="SimplePara">• Structured Clinical Interview for DSM-5 (SCID)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Composite International Diagnostic Interview Version 3.0 (CIDI)</para>
+                  <para role="SimplePara">• Mini International Neuropsychiatric Interview (MINI)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• CIDI screening scale for bipolar disorder (CIDI-SC, BPD)</para>
+                  <para role="SimplePara">• Mood Disorder Questionnaire (MDQ)</para>
+                  <para role="SimplePara">• Hypomania Checklist (HCL-32)</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <sect2 id="ch0009s0003s01" role="Heading">
+      <title>Semi-Structured Interviews</title>
+      <para role="Para">The administration of a semi-structured interview by a trained mental health professional is considered the gold standard of diagnostic assessment. Semi-structured interviews, as their name suggests, include a standardized<indexterm significance="normal">
+            <primary>standardized</primary>
+         </indexterm>, structured set of questions assessing the symptoms of psychological disorders, but provide flexibility such that the interviewer can “stray from the script” and ask clarifying questions or request examples as needed to determine whether diagnostic criteria are fully met. The structure of these interviews is designed to streamline the assessment process while also ensuring that all relevant information is gathered. For instance, if a patient denies any history of low mood, the interviewer may be able to “skip out” of the more comprehensive depression module; if a patient endorses manic symptoms, the interviewer may be prompted to ask more detailed questions regarding<indexterm significance="normal">
+            <primary>regarding</primary>
+         </indexterm> the extent of impairment and the duration of recent episodes. The semi-structured interviews discussed in this chapter include the Schedule for Affective Disorders and Schizophrenia (SADS) and the Structured Clinical Interview for DSM-5 (SCID).</para>
+      <para role="Para">The SADS (Endicott &amp; Spitzer,<emphasis role="CitationRef">
+            <phrase>1978</phrase>
+         </emphasis>) was designed to assess for the presence of psychiatric disorders based on the Research Diagnostic Criteria (RDC)<indexterm significance="normal">
+            <primary>Research Diagnostic Criteria (RDC)</primary>
+         </indexterm>, a standardized diagnostic system with clear inclusion and exclusion criteria that predated DSM-III (Rogers et al., <emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>; Spitzer et al., <emphasis role="CitationRef">
+            <phrase>1978</phrase>
+         </emphasis>). The SADS is available in three versions; its standard form assesses for current and lifetime symptoms in separate sections, while the SADS-L (lifetime) probes for current and lifetime symptoms concurrently, and the SADS-C (change) assesses for change in patient functioning since the previous assessment (Endicott &amp; Spitzer, <emphasis role="CitationRef">
+            <phrase>1978</phrase>
+         </emphasis>). The SADS is divided into disorder-specific modules that assess for the presence, severity, and duration of symptoms necessary to reach a diagnosis, in addition to modules that gather medical, social, and treatment histories. Test-retest reliability between experienced psychiatrists using the SADS-L was 0.83 for manic episodes, 0.72 for hypomanic episodes, and 1.0 for major depressive episodes (Simpson et al., <emphasis role="CitationRef">
+            <phrase>2002</phrase>
+         </emphasis>). The SADS has demonstrated strong reliability and validity in a review of 21 studies and is particularly sensitive in identifying mood disorder diagnoses (Rogers et al., <emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>). Research on the SADS has lagged over the past two decades, however.</para>
+      <para role="Para">The SCID was initially developed as a standardized tool to diagnose mental disorders based on DSM-III criteria (Spitzer et al.,<emphasis role="CitationRef">
+            <phrase>1992</phrase>
+         </emphasis>). It therefore has undergone multiple iterations as new versions of the DSM have been released and is currently updated to reflect the criteria of DSM-5—but a version incorporating the DSM-5-TR has not yet been published. The SCID for DSM-5 is available in both a researcher and clinician version (First et al., <emphasis role="CitationRef">
+            <phrase>2015a</phrase>
+         </emphasis>, <emphasis role="CitationRef">
+            <phrase>2015b</phrase>
+         </emphasis>); the researcher version provides the most comprehensive assessment of disorders and specifiers, while the clinician version is abbreviated to focus on the most common diagnoses encountered in clinical settings. The SCID also offers an electronic version, NetSCID-5, that can be accessed through any internet-connected device and allows for data to be stored in HIPAA-compliant databases and downloaded to statistical software programs<indexterm significance="normal">
+            <primary>programs</primary>
+         </indexterm>. A validation study demonstrated that using this computerized version decreased the number of errors in interview administration as compared to those completing the paper version of the SCID (Brodey et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). The interview is divided into disorder-specific modules that utilize a decision-tree format to determine if the patient meets DSM criteria for a given condition. In addition to assessing the range of mental disorders, the SCID gathers information regarding medical, social, and treatment history. Depending on the version used, diagnostic complexity, and the patient’s reporting style, the SCID is estimated to take between 30 and 180 min to administer.</para>
+      <para role="Para">The SCID for DSM-5 Clinical Version shows strong psychometric properties. This validated tool was found to have strong specificity for bipolar disorder (95% for bipolar I, 100% for bipolar II, and 89%–96% for any bipolar disorder) with a sensitivity between 0.90 and 1.00 and high test-retest validity (1.00) (Osório et al.,<emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>; Shabani et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>) indicating high levels of agreement between interviewers. However, reliability data are hard to obtain within community samples given the low base rate of bipolar disorder in the general population (Williams et al., <emphasis role="CitationRef">
+            <phrase>1992</phrase>
+         </emphasis>). It is important to note that diagnostic reliability is higher when the patient’s presentation is more severe, such as mania with psychotic features, as opposed to more subtle hypomanic symptoms (Akiskal &amp; Benazzi, <emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>; Dunner &amp; Tay, <emphasis role="CitationRef">
+            <phrase>1993</phrase>
+         </emphasis>; First &amp; Gibbon, <emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>). SCID reliability was not found to vary based on the clinical training background of the interviewer (e. g., psychiatrist vs. social worker; First &amp; Gibbon,<emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0009s0003s02" role="Heading">
+      <title>Structured Interviews</title>
+      <para role="Para">
+         Structured interviews<indexterm significance="normal">
+            <primary>Structured interviews</primary>
+         </indexterm> comprise a fully standardized set of close-ended questions that do not require the clinical judgment of the interviewer to determine whether additional probes or examples are necessary. They can be administered by non-specialists and allow for direct comparisons across patients. While often used in large epidemiological research studies<indexterm significance="normal">
+            <primary>studies</primary>
+         </indexterm>, these tools can also have value within clinical settings by providing relatively straightforward, comprehensive, and standardized diagnostic assessments.</para>
+      <para role="Para">The Composite International Diagnostic Interview Version 3.0 (CIDI; Kessler &amp; Ustun,<emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>) is a fully structured interview developed by the World Health Organization (WHO) to determine psychiatric diagnoses based on DSM-IV-TR and International Classification of Diseases criteria (ICD-10; World Health Organization, <emphasis role="CitationRef">
+            <phrase>1993</phrase>
+         </emphasis>). The CIDI has not yet been updated to reflect changes in the DSM-5. Individuals from clinical and non-clinical backgrounds alike can be trained in administering the CIDI through computerized<indexterm significance="normal">
+            <primary>computerized</primary>
+         </indexterm> or in-person trainings (Kessler &amp; Ustun, <emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>). The CIDI contains 41 sections assessing a range of psychiatric disorders as well as physical comorbidities, suicidality, overall functioning and distress, and socio-demographic information. The interview is available in paper and computerized formats, takes approximately 2 h to complete<indexterm significance="normal">
+            <primary>complete</primary>
+         </indexterm>, and utilizes algorithms to determine diagnoses. An earlier review of the test-retest reliability of the CIDI demonstrated relatively low agreement rates (bipolar I; 0.61, bipolar II, 0.59; Wittchen, <emphasis role="CitationRef">
+            <phrase>1994</phrase>
+         </emphasis>), but a subsequent examination found that the concordance of bipolar I diagnoses obtained by the CIDI as compared to the SCID was relatively high (0.88; Kessler et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>). Differentiating between bipolar II and subthreshold bipolar disorder proved more problematic due to inconsistencies in disorder criteria between measures, but reliability was high when lumping these outcomes together (0.88; Kessler et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>).</para>
+      <para role="Para">The Mini International Neuropsychiatric Interview (MINI; Hergueta et al.,<emphasis role="CitationRef">
+            <phrase>1998</phrase>
+         </emphasis>; Lecrubier et al., <emphasis role="CitationRef">
+            <phrase>1997</phrase>
+         </emphasis>), as its name suggests, was developed as a shorter alternative to existing structured diagnostic interviews. The MINI bears many similarities to the CIDI in its use of screening questions, decision trees, and algorithms to determine diagnoses. It was intended to be a brief, inexpensive measure<indexterm significance="normal">
+            <primary>measure</primary>
+         </indexterm> with high sensitivity and specificity that can be easily administered by clinicians or non-clinicians after 2–3 h of training. The MINI assesses for current diagnoses of 18 disorders as well as suicidality and takes approximately 15 min to complete. The MINI has shown good sensitivity and specificity in the diagnosis of bipolar disorder (Rodrigues et al., <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>). The measure has shown fair concordance in diagnosing manic episodes with both the CIDI (0.65) and the SCID (0.67), and rates are notably higher in detecting major depressive episodes (CIDI: 0.73, SCID: 0.84; Lecrubier et al., <emphasis role="CitationRef">
+            <phrase>1997</phrase>
+         </emphasis>; Sheehan et al., <emphasis role="CitationRef">
+            <phrase>1997</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0009s0003s03" role="Heading">
+      <title>Screening Measures</title>
+      <para role="Para">In time-constrained situations, it may be indicated to utilize a screening measure, a very brief assessment of symptoms<indexterm significance="normal">
+            <primary>symptoms</primary>
+         </indexterm> administered by the clinician or completed by the patient in questionnaire format. These tools are convenient—for instance, the patient could complete a screening questionnaire<indexterm significance="normal">
+            <primary>questionnaire</primary>
+         </indexterm> while in the waiting room prior to their appointment—and can detect whether more thorough assessment is needed. Screening measures can help to prevent inappropriate depression diagnoses and subsequent antidepressant prescriptions among those who may in reality meet the criteria for a bipolar disorder (Phelps &amp; Ghaemi, <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>). It must be emphasized that screening tools are never intended to determine diagnoses<indexterm significance="normal">
+            <primary>diagnoses</primary>
+         </indexterm> in the absence of additional assessment.</para>
+      <para role="Para">The creators of the CIDI have developed a brief, interviewer-administered screening for bipolar disorders made up of 12 questions derived from the larger interview (CIDI screening scale for bipolar disorder, CIDI-SC, BPD; Kessler et al.,<emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>, <emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>). This screening tool was found to have high sensitivity, identifying between 67% and 96% of true cases of bipolar disorder, and high positive predictive validity, such that 31–52% of those who screened positive met the criteria for bipolar disorder<indexterm significance="normal">
+            <primary>disorder</primary>
+         </indexterm> (Kessler et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>). Similarly strong results were replicated in a subsequent follow-up study, demonstrating excellent concordance between the CIDI screener and SCID in determining bipolar diagnoses (Kessler et al., <emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>).</para>
+      <para role="Para">The Mood Disorder Questionnaire (MDQ; Hirschfeld et al.,<emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>) is a self-report screening tool for bipolar disorders. It contains 13 items assessing for DSM-IV manic and hypomanic episodes, followed by additional items assessing for co-occurrence of symptoms as well as level of impairment. The MDQ takes approximately 5 min to complete and has demonstrated acceptable<indexterm significance="normal">
+            <primary>acceptable</primary>
+         </indexterm> test-retest reliability (Hirschfeld et al., <emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>). The sensitivity of the MDQ has demonstrated high sensitivity (80%) and sensitivity (70%) (Wang et al., <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>). Some variability, ranging from detecting 28% of cases in a community sample to 90% of those with bipolar I in a clinical sample, is seen with this measure depending on the setting. Indeed, the measure has generally proven stronger in detecting bipolar I disorder as compared to bipolar II, and performs better in clinical as opposed to community samples (Miller et al., <emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>, <emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>; Hirschfeld et al., <emphasis role="CitationRef">
+            <phrase>2003</phrase>
+         </emphasis>). However, some concerns remain<indexterm significance="normal">
+            <primary>remain</primary>
+         </indexterm> about using the MDQ for bipolar screening as research has shown that symptoms captured by the questionnaire are more related to general distress or psychopathology rather than hypomania or mania (Mundy et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>).</para>
+      <para role="Para">The Hypomania Checklist (HCL-32; Angst et al.,<emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>) was developed as a tool to better screen for bipolar II disorder, particularly among those with major depression, given previous research demonstrating the difficulty of detecting hypomanic symptoms during diagnostic assessment<indexterm significance="normal">
+            <primary>assessment</primary>
+         </indexterm>. The primary 32 items assess behaviors, emotions, and thoughts implicated in hypomania; the scale also collects information regarding the duration of symptoms and others’ reactions to the patient’s behaviors. The psychometric properties of the HCL-32 have been evaluated in over 20 international studies, and the measure has demonstrated high sensitivity in detecting bipolar diagnoses (estimated at 82%) (Meyer et al., <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>; Wang et al., <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>) with moderate specificity at 57% (Wang et al., <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>). Sensitivity is particularly high among those with preexisting diagnoses of major depression (Meyer et al., <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). The measure has also shown good internal consistency and comparability across cultures<indexterm significance="normal">
+            <primary>cultures</primary>
+         </indexterm>, although test-retest reliability rates have demonstrated discrepancies between studies (Meyer et al., <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). Both the MDQ and HCL-32 are available in many languages, possibly lessening equity concerns in comparison to other screening tools (Youngstrom et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). In individuals diagnosed with major depressive disorder and being treated with antidepressants, a validated instrument such as the MDQ or HCL-32 should be used to assess for mania/hypomania (US Department of Veterans Affairs, US Department of Defense, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>).</para>
+      <para role="Para">An updated version of the HCL-32 was recently developed to assess hypomanic symptoms in individuals with a major depressive disorder<indexterm significance="normal">
+            <primary>disorder</primary>
+         </indexterm> diagnosis: the HCL-33 (Feng et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). The HCL-33 also includes a version for external rating (HCL-33-EA) to be used by close family members or friends of the patient. It has been found that the HCL-33-EA is more sensitive at differentiating bipolar from major depressive disorder, but the HCL-33 has a higher specificity (Wang et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>).</para>
+      <para role="Para">Multiple other screening measures exist, including the General Behavior Inventory (GBI; Depue et al.,<emphasis role="CitationRef">
+            <phrase>1981</phrase>
+         </emphasis>) and the Bipolar Spectrum Diagnostic Scale (BSDS; Ghaemi et al., <emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>) as well as a variety of tools intended to measure the severity of bipolar symptoms (see Miller et al., <emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>). It is important to ensure that the measure being used has strong psychometric properties<indexterm significance="normal">
+            <primary>properties</primary>
+         </indexterm>, including internal consistency and test-retest reliability, as well as good sensitivity in identifying individuals with the disorder and specificity in detecting those who do not have the disorder. The low overall base rates of bipolar disorder within the population are thought to contribute to the variable effectiveness of screening tools in accurately identifying those who do, and do not, meet diagnostic criteria; as such, these tools may be more accurate when employed within clinical versus community samples. These weaknesses again emphasize that screening tools for bipolar disorder are not considered robust enough to be used in isolation when forming a diagnosis (Mitchell, <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>).</para>
+      <para role="Para">The use of fully structured interviews and/or screening measures has pros and cons. Benefits of these tools include their entirely standardized procedure, the ability for non-clinicians to be trained<indexterm significance="normal">
+            <primary>trained</primary>
+         </indexterm> in administration and scoring, and often their shorter administration times. However, with the exception of the HCL-33-EA, they rely entirely on the patient’s self-report in determining diagnoses which can negatively impact validity, particularly among patients with poorer insight into their functioning. In the case of screening measures, additional assessment will be needed if it is indicated that a patient may meet diagnostic criteria. It is important to consider these tradeoffs when determining the proper assessment measure, or combination of measures, to use within a given context.</para>
+   </sect2>
+</sect1>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0006s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.</risprev>
+         <riscurrent>sect1.9781071643624.ch0006s0004</riscurrent>
+         <risnext>sect1.9781071643624.ch0006s0001</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>6</chapternumber>
+         <chapterid>ch0006</chapterid>
+         <chaptertitle>5. Consideration of Neuropsychological Factors in Interviewing</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>5. Consideration of Neuropsychological Factors in Interviewing</title>
+   <para>D. L. Segal<emphasis role="CollaboratorDesignation"> (ed.)</emphasis>
+      <emphasis role="BookTitle">Diagnostic Interviewing</emphasis>
+      <ulink url="https://doi.org/10.1007/978-1-0716-4362-4_5">https://doi. org/10.1007/978-1-0716-4362-4_5</ulink>
+      <emphasis role="AuthorName">Brian Yochim</emphasis>
+      <superscript>1 <emphasis>ContactOf Author 1</emphasis>
+      </superscript> and <emphasis role="AuthorName">Stephanie Potts</emphasis>
+      <superscript>2</superscript>(1)(2)Brian Yochim Email:</para>
+   <keywordset>
+      <keyword>Clinical interviewing</keyword>
+      <keyword>Intake interview</keyword>
+      <keyword>Diagnosis</keyword>
+      <keyword>Assessment</keyword>
+      <keyword>Mental health</keyword>
+   </keywordset>
+   <para role="Para">The goal of this chapter is to accomplish two purposes: (1) to provide an introduction to neuropsychological factors of which to be aware when conducting clinical and diagnostic interviews and (2) to give an introduction to the art and science of conducting neuropsychological assessment interviews. The chapter serves as an overview of how cognitive or brain dysfunction can manifest in a diagnostic interview and also provides an introduction to neuropsychological interviewing for general clinical psychology students or students focusing on clinical neuropsychology. The chapter focuses on neuropsychological assessment with adults.</para>
+   <para role="Para">Before proceeding<indexterm significance="normal">
+         <primary>proceeding</primary>
+      </indexterm>, it may be helpful to cover some terminology. As of this writing, there are several terms used to describe the cognitive disorders that may be of concern to patients and clinicians: mild cognitive impairment, dementia, major neurocognitive disorder, and mild neurocognitive disorder. “<indexterm significance="normal">
+         <primary>Dementia</primary>
+      </indexterm>” is a long-used term that refers to impairment in memory and one or more other cognitive domains, which is severe enough to interfere with one’s ability to perform instrumental activities of daily living (IADLs),<indexterm significance="normal">
+         <primary>instrumental activities of daily living (IADLs),</primary>
+      </indexterm>such as managing money, medications, or transportation. The term “dementia” in itself only refers to this syndrome, and there are many underlying causes of this, with the most common being Alzheimer’s disease. “Dementia” and “Alzheimer’s disease” are often used interchangeably, which can be misleading, and patients often receive conflicting explanations of these terms. The term “mild cognitive impairment” refers to a decline in memory or other cognitive abilities that is not yet severe enough to interfere with IADLs. It is usually associated with Alzheimer’s disease, but it can be caused by other conditions as well. Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision<phrase>2022</phrase>
+      <link linkend="ch0006s0004fg01">5.1</link>
+   </para>
+   Alzheimer’s disease<indexterm significance="normal">
+      <primary>Alzheimer’s disease</primary>
+   </indexterm>
+   <figure float="0" id="ch0006s0004fg01" role="Figure">
+      <title>
+         <emphasis role="CaptionNumber">Fig. 5.1</emphasis>Conceptualization of the terms major or mild neurocognitive disorder, dementia, and mild cognitive impairment (MCI), and their underlying causes</title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0006f04.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+</sect1>

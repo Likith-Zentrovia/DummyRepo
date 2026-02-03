@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0001" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0014s0009</risprev>
+         <riscurrent>sect1.9781071643624.ch0014s0001</riscurrent>
+         <risnext>sect1.9781071643624.ch0014s0002</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>14</chapternumber>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>12. Somatic Symptom and Related Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Description of the Disorders</title>
+   <para role="Para">The group<indexterm significance="normal">
+         <primary>group</primary>
+      </indexterm> of Somatic Symptom and Related Disorders (SSRD) is a heterogeneous group of different<indexterm significance="normal">
+         <primary>different</primary>
+      </indexterm>mental disorders. This diagnostic group has undergone significant modifications over the past decade. The Somatoform Disorders in the fourth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) (American Psychiatric Association, <emphasis role="CitationRef">
+         <phrase>2000</phrase>
+      </emphasis>) were replaced by the renamed and reconceptualized group of SSRD in the fifth revision of the DSM (DSM-5) (American Psychiatric Association, <emphasis role="CitationRef">
+         <phrase>2013</phrase>
+      </emphasis>). <emphasis>Somatic Symptom Disorder</emphasis> (SSD) replaced the previous diagnostic entities of Somatization Disorder, Undifferentiated Somatoform Disorders, and Pain Disorder in the DSM-IV. <emphasis>Functional Neurological Symptom Disorder</emphasis> (<emphasis>FNSD</emphasis>) represents the equivalent to the former Conversion Disorder, as does <emphasis>Illness Anxiety Disorder</emphasis> (<emphasis>IAD</emphasis>) to the former Hypochondriasis. <emphasis>Psychological Factors Affecting Other Medical Conditions</emphasis> (<emphasis>PFAOMC</emphasis>) and <emphasis>Factitious Disorder</emphasis> (<emphasis>FD</emphasis>) were not included in the former group of Somatoform Disorders in the DSM-IV but in other chapters. By introducing the SSRD, the requirement<indexterm significance="normal">
+         <primary>requirement</primary>
+      </indexterm> of distinguishing between medically unexplained and explained physical symptoms was abolished and the focus was shifted to symptom-related psychological distress. In this sense, the DSM-5 makes an impactful step in counteracting body-mind dualism by including psychological features as classification criteria and conceptualizing somatic symptoms in terms of a biopsychosocial model. In the following, the features of each SSRD are described in detail. Note these disorders were not revised in the text revision of the DSM-5, the DSM-5-TR (American Psychiatric Association, <emphasis role="CitationRef">
+         <phrase>2022</phrase>
+      </emphasis>).</para>
+   <sect2 id="ch0014s0001s01" role="Heading">
+      <title>Somatic Symptom Disorder (SSD)</title>
+      psychological<indexterm significance="normal">
+         <primary>psychological</primary>
+      </indexterm>
+      heterogeneous<indexterm significance="normal">
+         <primary>heterogeneous</primary>
+      </indexterm>
+      <itemizedlist role="UnorderedListMarkDash">
+         <listitem>
+            <para role="Para">Persistent distressing somatic symptoms of a monosymptomatic or polysymptomatic nature that are either not better explained or not sufficiently better explained by another medical condition.</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Persistent somatic symptoms that are caused by a known biomedical condition (e. g., fear of recurrence in successfully treated individuals with cancer who have side effects from the medical treatment).</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Persistent pain that is more or less medically explained.</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Illness anxieties that occur<emphasis>in addition to</emphasis> persistent distressing somatic symptoms.</para>
+         </listitem>
+      </itemizedlist>
+      <para role="Para">Individuals with common functional somatic syndromes (FSS)<indexterm significance="normal">
+            <primary>functional somatic syndromes (FSS)</primary>
+         </indexterm>, defined as “well-recognized clusters of bodily symptoms that are common in medical practice and cause considerable disability” (Henningsen et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>; p. 12), often present with psychological features that meet the criteria of an SSD. The three most common and best investigated FSS<indexterm significance="normal">
+            <primary>FSS</primary>
+         </indexterm> are Irritable Bowel Syndrome (IBS)<indexterm significance="normal">
+            <primary>Irritable Bowel Syndrome (IBS)</primary>
+         </indexterm> (Lacy et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>), Chronic Fatigue Syndrome (CFS) or Systemic Exertion Intolerance Disease (SEID) (Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome, <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>), and Fibromyalgia (FMS) (World Health Organization, <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0014s0001s02" role="Heading">
+      <title>Illness Anxiety Disorder (IAD)</title>
+      <para role="Para">The central feature of IAD<indexterm significance="normal">
+            <primary>IAD</primary>
+         </indexterm> is intense fear about the possibility of having or developing a serious illness. The DSM-5-TR criteria of IAD (American Psychiatric Association, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>) emphasize the <emphasis>absence</emphasis>of somatic symptoms. The focus is on worrying and typical illness behaviors (e. g., frequent visits to physicians to seek reassurance about a feared illness). Individuals who predominantly experience somatic symptoms and who present with anxieties about their symptoms and behaviors that aim at symptom relief are classified with SSD. A substantial subgroup of individuals with IAD avoids physicians due to intense anxiety about receiving a confirmation<indexterm significance="normal">
+            <primary>confirmation</primary>
+         </indexterm> of a diagnosis they fear (Scarella et al., <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0014s0001s03" role="Heading">
+      <title>Functional Neurological Symptom Disorder (FNSD)</title>
+      FNSD<indexterm significance="normal">
+         <primary>FNSD</primary>
+      </indexterm>
+      <para>
+         <phrase>2022</phrase>
+         <link linkend="ch0014s0001fg01">12.1</link>
+         <phrase>2018</phrase>
+         <phrase>2018</phrase>
+      </para>
+      not<indexterm significance="normal">
+         <primary>not</primary>
+      </indexterm>
+      Hoover sign<indexterm significance="normal">
+         <primary>Hoover sign</primary>
+      </indexterm>
+      against<indexterm significance="normal">
+         <primary>against</primary>
+      </indexterm>
+      <figure float="0" id="ch0014s0001fg01" role="Figure">
+         <title>
+            <emphasis role="CaptionNumber">Fig. 12.1</emphasis>Symptoms of Functional Neurological Symptom Disorder. <emphasis>Note.</emphasis> The phenomenology<indexterm significance="normal">
+               <primary>phenomenology</primary>
+            </indexterm>and symptoms of Functional Neurological Symptom Disorder are various and can be classified within four categories: motor symptoms, speech symptoms, symptoms with sensory manifestation, and paroxysmal symptoms including seizures (Espay et al., <emphasis role="CitationRef">
+               <phrase>2018</phrase>
+            </emphasis>). (Reprinted with permission)</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0014f04.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+         </mediaobject>
+      </figure>
+   </sect2>
+   <sect2 id="ch0014s0001s04" role="Heading">
+      <title>Psychological Factors Affecting Other Medical Conditions (PFAOMC)</title>
+      PFAOMC<indexterm significance="normal">
+         <primary>PFAOMC</primary>
+      </indexterm>
+      <para>
+         <phrase>2022</phrase>
+         <link linkend="ch0014s0001fg02">12.2</link>
+         <phrase>2007</phrase>
+      </para>
+      <figure float="0" id="ch0014s0001fg02" role="Figure">
+         <title>
+            <emphasis role="CaptionNumber">Fig. 12.2</emphasis>Examples of psychological factors classified as PFAOMC. <emphasis>Note.</emphasis>
+            Selection<indexterm significance="normal">
+               <primary>Selection</primary>
+            </indexterm> of psychological factors that have been demonstrated to affect medical conditions, in the sense of the DSM-5 diagnosis Psychological Factors Affecting Other Medical Conditions (PFAOMC). (Reprinted with permission)</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0014f05.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+         </mediaobject>
+      </figure>
+   </sect2>
+   <sect2 id="ch0014s0001s05" role="Heading">
+      <title>Factitious Disorder (FD)</title>
+      <para role="Para">A diagnosis of FD<indexterm significance="normal">
+            <primary>FD</primary>
+         </indexterm> is made when individuals intentionally feign or produce either somatic or psychological symptoms, although there is no obvious external incentive (American Psychiatric Association, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). The term FD is historically related to the “<indexterm significance="normal">
+            <primary>Munchausen’s Syndrome</primary>
+         </indexterm>” which is a more severe form of chronic fabrication of symptoms (American Psychiatric Association, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>; Hausteiner-Wiehle &amp; Hungerer, <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). The DSM-5-TR differentiates between FD Imposed on Self and FD Imposed on Another (or “by Proxy”). FD Imposed on Another is an ethically and legally complex disorder, in which the perpetrator’s behavior<indexterm significance="normal">
+            <primary>behavior</primary>
+         </indexterm>might represent criminal behavior. A more modern form of FD is indicated as “by internet” or “by Google,” when stories of illness are disseminated on the internet. Methods that individuals who are diagnosed with FD apply to feign or produce symptoms vary. Examples are false or exaggerated reports of symptoms, exacerbating existing disease (e. g., interfering with wound healing), psychiatric symptoms through use of psychoactive substances<indexterm significance="normal">
+            <primary>substances</primary>
+         </indexterm>, manipulating laboratory test, or induced bleeding.</para>
+   </sect2>
+</sect1>

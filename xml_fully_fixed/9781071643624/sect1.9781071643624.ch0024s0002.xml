@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0024s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0024s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0024s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0024s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>24</chapternumber>
+         <chapterid>ch0024</chapterid>
+         <chaptertitle>21. Interviewing Individuals at Risk for Suicide</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Interviewing Individuals at Risk for Suicide</title>
+   <sect2 id="ch0024s0002s01" role="Heading">
+      <title>Description of the Problem</title>
+      <para role="Para">
+         Suicide<indexterm significance="normal">
+            <primary>Suicide</primary>
+         </indexterm> is a public health concern<indexterm significance="normal">
+            <primary>concern</primary>
+         </indexterm> in the United States and abroad. The National Center for Health Statistics in the United States estimates that 49,449 individuals died by suicide in the United States in 2022, a three percent rise from the prior year (Curtin &amp; Garnett, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). The twenty-first century has seen a rise in suicide rates in the United States. In the year 2000, population-level suicide rates were estimated to be 10.4 deaths for every 100,000 individuals; this rate has risen to 14.3 deaths for every 100,000 in 2022 (National Institute of Mental Health, <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>). While there were brief declines in the suicide rate between 2019 and 2020, the overall rates have rebounded and are now on the rise again, highlighting the clear need for evidence-based assessments and interventions.</para>
+      <para role="Para">Even greater than suicide deaths are the number of individuals who report experiencing serious thoughts of suicide. Upwards of 13 million adults in the United States report having had serious thoughts of suicide in the last year, and 1.6 million adults report attempting suicide in the last year (Substance Abuse and Mental Health Services Administration,<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). The rise in the incidence<indexterm significance="normal">
+            <primary>incidence</primary>
+         </indexterm> of suicidal thoughts<indexterm significance="normal">
+            <primary>suicidal thoughts</primary>
+         </indexterm>and behaviors has been linked to numerous social and economic risk factors such as a lack of access to mental health resources and financial strain (U. S. Department of Health and Human Services (HHS),<emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>). In more recent years, research has demonstrated that suicidality disproportionately affects marginalized groups. For example, research has demonstrated that non-Hispanic American Indian and Alaskan Native persons are disproportionately represented in suicide statistics, with an estimated rate of 22.1 deaths for every 100,000 individuals (Stone et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Suicide rates have also significantly increased in Black youth, rising by 19.2% from 2018 to 2021 (Stone et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Additionally, LGBTQ+ youth are at four times greater risk of attempting suicide than their same-aged peers (The Trevor Project, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). When working with<indexterm significance="normal">
+            <primary>with</primary>
+         </indexterm> individuals at risk for suicide, clinicians must be sensitive to the diverse risk factors that may influence an individual’s suicidal thoughts<indexterm significance="normal">
+            <primary>suicidal thoughts</primary>
+         </indexterm> and behavior, a point that will be further discussed in this chapter.</para>
+      <para role="Para">While we cannot predict with any certainty whether an individual will die by suicide, an adept clinician can evaluate various risk factors and warning signs for suicidal risk (Tucker et al.,<emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>) along with protective factors during the interview process that can lead to an overall clinical formulation of relative risk. Moreover, the formulation of risk can be further supplemented by considerations of relative stability<indexterm significance="normal">
+            <primary>stability</primary>
+         </indexterm> that can directly inform considerations of “clear and imminent” danger that potentially triggers more restrictive care (Jobes, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). The interview for suicidal risk can take many different forms depending upon the needs of the clinician and patient. There have been several attempts at routinized assessment over the years (e. g. Berman &amp; Silverman,<emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>; Chu et al., <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>; Shea, <emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>; Silverman &amp; Berman, <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>), each taking a systematic approach that includes assessment of one’s history of suicidal behavior, plans or intended method of suicide, access to lethal means, one’s experience of suicidal desire and intent, and other clinical risk factors (e. g., hopelessness, stressful life events). Bottom line, the ultimate goal of the assessment is to create a suicide risk formulation. Clearly, people who are suicidal are not identical; the formulation of relative risk is thus not an exercise in prediction as much as it reflects a level of clinical concern that can inform intervention (Berman &amp; Silverman,<emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>).</para>
+      <para role="Para">To create the basis for sound clinical judgment related to suicide risk, clinicians must be aware of the best practices for assessing suicide, and receive adequate training. Moreover, it is important that clinicians develop “usual and customary practices” in advance for working with individuals at risk (Jobes,<emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). Working with patients who are suicidal may be anxiety-provoking for clinicians without such training and expertise. In fact, such clinical practice may actually be unethical and could further put the patient at risk (Jobes &amp; Barnett, <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>; Sommers-Flanagan &amp; Sommers-Flanagan, <emphasis role="CitationRef">
+            <phrase>1995</phrase>
+         </emphasis>). The current chapter is thus a guide, offering concise and specific recommendations for interviewing individuals at risk for suicide, emphasizing the integrative use of evidence-based tools and semi-structured assessment approaches.</para>
+   </sect2>
+   <sect2 id="ch0024s0002s02" role="Heading">
+      <title>Procedures for Gathering Information</title>
+      <para role="Para">The process of gathering information from individuals at risk for suicide will vary greatly depending on the setting, amount of time allotted, and the clinician’s skill and preferences. In general, it is preferred that a combination of structured assessment tools and semi-structured or unstructured approaches be used when conducting an interview. The clinical interview<indexterm significance="normal">
+            <primary>clinical interview</primary>
+         </indexterm> should answer basic questions related to the patient’s history and current experiences with suicidal thoughts<indexterm significance="normal">
+            <primary>suicidal thoughts</primary>
+         </indexterm>, feelings, and behaviors. The following section highlights important domains for assessment. In addition to unstructured or semi-structured interviewing, clinicians should consider incorporating actuarial assessments (both self-report and clinician-administered) to aid in collecting further information. These instruments can meaningfully supplement the clinician’s interview and also add valuable documentation that reduces exposure to malpractice liability if there is an adverse outcome (Jobes &amp; Barnett, <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>).</para>
+      <sect3 id="ch0024s0002s02s01" role="Heading">
+         <title>Clinical Interview</title>
+         <para role="Para">The clinical interview<indexterm significance="normal">
+               <primary>clinical interview</primary>
+            </indexterm>can be unstructured, semi-structured, or structured, depending on the needs of the clinician, patient, and resource or time limitations. Unstructured or semi-structured approaches allow for a greater degree of flexibility. Structured approaches may have the advantage of providing specific questions and prompts for the clinician to follow and may have greater reliability and validity. However, structured interviews have less flexibility, which could mean that important aspects of suicide risk remain unexplored. Regardless of the approach, it is important to ensure that a number of evidence-based risk and protective factors are assessed during the interview. These domains have been previously discussed by scholars, and are further adapted and outlined in detail below (e. g., Berman &amp; Silverman,<emphasis role="CitationRef">
+               <phrase>2014</phrase>
+            </emphasis>; Bryan &amp; Rudd, <emphasis role="CitationRef">
+               <phrase>2006</phrase>
+            </emphasis>; Chu et al., <emphasis role="CitationRef">
+               <phrase>2015</phrase>
+            </emphasis>; Fowler, <emphasis role="CitationRef">
+               <phrase>2012</phrase>
+            </emphasis>; Silverman &amp; Berman, <emphasis role="CitationRef">
+               <phrase>2014</phrase>
+            </emphasis>).<phrase>21.1</phrase>Table 21.1</para>
+         Within<indexterm significance="normal">
+            <primary>Within</primary>
+         </indexterm>
+         <itemizedlist mark="none" role="none">
+            <listitem role="ListItem">
+               <para role="Para">
+                  <emphasis>
+                     <emphasis role="strong">Suicidal Thinking</emphasis>
+                  </emphasis>: The patient’s current experience of suicidal ideation and thoughts, including frequency, intensity, and duration.</para>
+            </listitem>
+            <listitem role="ListItem">
+               <para role="Para">
+                  <emphasis>
+                     <emphasis role="strong">Suicide Planning</emphasis>
+                  </emphasis>: The patient’s stated plans for suicide. This may include time, place, method, and access to means. Increased specificity of plans may indicate increased risk.</para>
+            </listitem>
+            <listitem role="ListItem">
+               <para role="Para">
+                  <emphasis>
+                     <emphasis role="strong">Suicide Preparation</emphasis>
+                  </emphasis>: Any steps the patient has already taken to prepare for suicide; This may include actions such as giving away belongings or accessing lethal means.</para>
+            </listitem>
+            <listitem role="ListItem">
+               <para role="Para">
+                  <emphasis>
+                     <emphasis role="strong">History of Behavior</emphasis>
+                  </emphasis>: The patient’s<indexterm significance="normal">
+                     <primary>patient’s</primary>
+                  </indexterm> history of suicidal behaviors including time since occurrence, the frequency and context around previous behavior, and the lethality and method of any previous attempts or aborted attempts. Significantly greater risk is associated with anyone who has two or more suicide attempts.</para>
+            </listitem>
+            <listitem role="ListItem">
+               <para role="Para">
+                  <emphasis>
+                     <emphasis role="strong">Precipitating Stressors</emphasis>
+                  </emphasis>: Any recent precipitating factors such as significant losses (e. g., loss of a loved one, financial loss, loss of a relationship, or loss of identity), health problems, or relationship problems.</para>
+            </listitem>
+            <listitem role="ListItem">
+               <para role="Para">
+                  <emphasis>
+                     <emphasis role="strong">Other Symptoms</emphasis>
+                  </emphasis>: Any symptoms<indexterm significance="normal">
+                     <primary>symptoms</primary>
+                  </indexterm>related to psychiatric diagnoses (depression, bipolar disorder, anxiety, schizophrenia, substance use disorder, etc.) and symptoms such as sadness, anhedonia, anxiety, fatigue, hopelessness, impulsivity, or a lack of self-control.</para>
+            </listitem>
+            <listitem role="ListItem">
+               <para role="Para">
+                  <emphasis>
+                     <emphasis role="strong">Protective Factors</emphasis>
+                  </emphasis>: Factors that may be protective against suicidal thoughts and behavior, such as the presence of social support, coping skills, reasons for living, religion or a sense of meaning in life, and active<indexterm significance="normal">
+                     <primary>active</primary>
+                  </indexterm> participation in treatment.</para>
+            </listitem>
+         </itemizedlist>
+         <para role="SimplePara">Questions to guide assessment in risk factor domains<indexterm significance="normal">
+               <primary>domains</primary>
+            </indexterm>
+         </para>
+         <table id="ch0024s0002ta01">
+            <title/>
+            <tgroup cols="2">
+               <colspec colname="c1" colnum="1"/>
+               <colspec colname="c2" colnum="2"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Domain of assessment</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Example questions to ask</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Suicidal Thinking</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">•  Do you have thoughts of killing yourself or wanting to die?</para>
+                        <para role="SimplePara">•  Do you have thoughts that others would be better off if you were dead?</para>
+                        <para role="SimplePara">•  How often are you having these thoughts?</para>
+                        <para role="SimplePara">•  How long do the thoughts last?</para>
+                        <para role="SimplePara">•  Do you feel you can control these thoughts?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Suicide Planning</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">•  Do you have a plan for suicide?</para>
+                        <para role="SimplePara">•  Do you have a specific time or location for when and where you will kill yourself?</para>
+                        <para role="SimplePara">•  Do you have a method(s) for how you will kill yourself?</para>
+                        <para role="SimplePara">•  Do you have access to this/these method(s)?</para>
+                        <para role="SimplePara">•  Do you know how to use these means?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Suicide Preparation</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">•  Have you taken any steps to prepare for suicide?</para>
+                        <para role="SimplePara">•  Have you acquired lethal means?</para>
+                        <para role="SimplePara">•  Have you written a suicide note?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">History of Behavior</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">•  Have you ever attempted suicide before?</para>
+                        <para role="SimplePara">•  How many times have you attempted suicide?</para>
+                        <para role="SimplePara">•  Can you tell me about the most recent attempt?</para>
+                        <para role="SimplePara">•  What method(s) did you use?</para>
+                        <para role="SimplePara">•  What led up to the attempt?</para>
+                        <para role="SimplePara">•  Have you ever had a plan to attempt suicide that was interrupted or stopped?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Precipitating Stressors</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">•  Have you experienced any major losses recently (financial, loss of a loved one, loss of identity, or relationship)?</para>
+                        <para role="SimplePara">•  Have you been experiencing any acute or chronic health problems?</para>
+                        <para role="SimplePara">•  Have you been experiencing any relationship problems?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Other Symptoms</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">•  Have you been diagnosed with any psychiatric disorders?</para>
+                        <para role="SimplePara">•  Are you experiencing any depressive symptoms (anhedonia, depression, fatigue, trouble sleeping, sadness)?</para>
+                        <para role="SimplePara">•  Do you use any substances?</para>
+                        <para role="SimplePara">•  Do you feel hopeless?</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Protective Factors</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">•  Do you feel supported by friends or family members?</para>
+                        <para role="SimplePara">•  How do you cope during difficult moments?</para>
+                        <para role="SimplePara">•  What keeps you alive (reasons for living)?</para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </sect3>
+      <sect3 id="ch0024s0002s02s02" role="Heading">
+         <title>Integration of Actuarial Assessment Measures</title>
+         measures<indexterm significance="normal">
+            <primary>measures</primary>
+         </indexterm>
+         suicidal thoughts<indexterm significance="normal">
+            <primary>suicidal thoughts</primary>
+         </indexterm>
+         <para>
+            <phrase>2006</phrase>
+            <phrase>21.2</phrase>Table 21.2</para>
+         <para role="SimplePara">Featured suicide assessment instruments<indexterm significance="normal">
+               <primary>instruments</primary>
+            </indexterm>
+         </para>
+         <table id="ch0024s0002ta02">
+            <title/>
+            <tgroup cols="5">
+               <colspec colname="c1" colnum="1"/>
+               <colspec colname="c2" colnum="2"/>
+               <colspec colname="c3" colnum="3"/>
+               <colspec colname="c4" colnum="4"/>
+               <colspec colname="c5" colnum="5"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Measure</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Items</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Type</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Population</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Reference</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Asking Suicide-Screening Questions (ASQ)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">4–5 yes/no items assessing suicidal thoughts and history of suicidality</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Brief; structured clinical interview</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Youth and adults</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Horowitz et al. (<emphasis role="CitationRef">
+                              <phrase>2012</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Columbia Suicide Severity Rating Scale (C-SSRS)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">4 Construct Categories: Severity of ideation, intensity of ideation, behavior, and lethality</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Semi-structured clinical interview</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Youth and adults</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Posner et al. (<emphasis role="CitationRef">
+                              <phrase>2011</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Beck Scale for Suicidal Ideation (BSSI)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">19 items; assessing active and passive suicidal desire, suicide preparation</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Patient self-report</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Adults</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Beck et al. (<emphasis role="CitationRef">
+                              <phrase>1979</phrase>
+                           </emphasis>, <emphasis role="CitationRef">
+                              <phrase>1988</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Patient Health Questionnaire (PHQ-9)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">9 items; assessing DSM depressive symptoms</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Patient self-report</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Youth and adults</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Kroenke et al. (<emphasis role="CitationRef">
+                              <phrase>2001</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <para role="SimplePara">Self-Injurious Thoughts and Behaviors Interview (SITBI)</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">169 items OR 72 item short form; assesses presence, frequency, and characteristics of self-injurious thoughts and behavior</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Structured clinical interview</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Youth and adults</para>
+                     </entry>
+                     <entry>
+                        <para role="SimplePara">Nock et al. (<emphasis role="CitationRef">
+                              <phrase>2007</phrase>
+                           </emphasis>)</para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </sect3>
+      <sect3 id="ch0024s0002s02s03" role="Heading">
+         <title>Advantages and Disadvantages of Assessment Measures</title>
+         <para role="Para">Of the instruments<indexterm significance="normal">
+               <primary>instruments</primary>
+            </indexterm> listed in Table <emphasis role="InternalRef">
+               <phrase>21.2</phrase>
+            </emphasis>, the ASQ<indexterm significance="normal">
+               <primary>ASQ</primary>
+            </indexterm> and C-SSRS are noteworthy as they are both non-proprietary (readily available online) and are relatively easy to use (Jobes, <emphasis role="CitationRef">
+               <phrase>2023</phrase>
+            </emphasis>). The ASQ is a brief screening tool that can provide clinicians with a rapid identification of a patient’s possible risk of suicidal ideation and behaviors. The ASQ was originally developed for use with pediatric patients but has since been normed with adults and has been translated into many languages (Horowitz et al., <emphasis role="CitationRef">
+               <phrase>2020</phrase>
+            </emphasis>). While its brevity is an advantage, it does not delve deeply into more questions about suicide planning or preparation. The National Institute of Mental Health offers a “toolkit” for using the ASQ at the following link: <emphasis role="ExternalRef">
+               <ulink url="https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials">
+                  <emphasis role="RefSource">https://​www.​nimh.​nih.​gov/​research/​research-conducted-at-nimh/​asq-toolkit-materials</emphasis>
+               </ulink>
+            </emphasis>.</para>
+         <para role="Para">Andreotti et al. (<emphasis role="CitationRef">
+               <phrase>2020</phrase>
+            </emphasis>) have<indexterm significance="normal">
+               <primary>have</primary>
+            </indexterm>noted that the C-SSRS<indexterm significance="normal">
+               <primary>C-SSRS</primary>
+            </indexterm> and BSSI<indexterm significance="normal">
+               <primary>BSSI</primary>
+            </indexterm> are often mentioned in the clinical research literature and both have sound psychometric support for their use. As probably the most widely used tool, the C-SSRS has multiple versions, including one designed for tracking between visits<indexterm significance="normal">
+               <primary>visits</primary>
+            </indexterm>, one assessing lifetime suicidal thoughts<indexterm significance="normal">
+               <primary>suicidal thoughts</primary>
+            </indexterm> and behavior in addition to recent symptoms, and a brief screener (Posner et al., <emphasis role="CitationRef">
+               <phrase>2011</phrase>
+            </emphasis>). The C-SSRS can either be a clinician- or self-administered measure. The clinician-administered version has the advantage of allowing for qualitative responses. The BSSI has the advantage of being quicker and easier to administer given that it relies on patient self-report and more objective, numerical responses. However, as noted, the C-SSRS is free and accessible (<emphasis role="ExternalRef">
+               <ulink url="https://cssrs.columbia.edu/">
+                  <emphasis role="RefSource">https://​cssrs.​columbia.​edu/​</emphasis>
+               </ulink>
+            </emphasis>) whereas the BSSI is a proprietary measure that must be purchased, an option that may not be accessible to all clinicians or institutions. The BSSI is often used in clinical trials of patients who are suicidal as the “gold standard” tool for suicidal ideation.</para>
+         <para role="Para">The remaining assessment instruments that we are highlighting—the PHQ-9<indexterm significance="normal">
+               <primary>PHQ-9</primary>
+            </indexterm> and SITBI<indexterm significance="normal">
+               <primary>SITBI</primary>
+            </indexterm>—are somewhat less cited within the<indexterm significance="normal">
+               <primary>the</primary>
+            </indexterm> literature but still have the ability to provide useful information to supplement clinical interview assessment data. The PHQ-9 (a depression screening measure) is widely used in the field in part because it is non-proprietary and there are data for its value to identify potential suicidal risk (Simon et al., <emphasis role="CitationRef">
+               <phrase>2016</phrase>
+            </emphasis>). However, the PHQ-9 has the disadvantage of only including one conflated question (i. e., “Thoughts that you would be better off dead, or of hurting yourself”) related to suicide. Importantly, other research has shown that the PHQ-9<indexterm significance="normal">
+               <primary>PHQ-9</primary>
+            </indexterm> can miss patients who are suicidal, fundamentally undermining its value as a suicide assessment (Mournet et al., <emphasis role="CitationRef">
+               <phrase>2021</phrase>
+            </emphasis>).</para>
+         <para role="Para">The SITBI is the longest of the highlighted instruments, assessing a wide array of risk variables and characteristics related to self-injurious thoughts and behavior. While the SITBI<indexterm significance="normal">
+               <primary>SITBI</primary>
+            </indexterm> has the advantage of providing a wealth of information related to suicidal thoughts<indexterm significance="normal">
+               <primary>suicidal thoughts</primary>
+            </indexterm> and behaviors, it leaves less room for flexibility in assessment and<indexterm significance="normal">
+               <primary>and</primary>
+            </indexterm> may have more utility within clinical research.</para>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0024s0002s03" role="Heading">
+      <title>Recommendations for Formal Assessment</title>
+      <para role="Para">It is well understood that suicide risk assessments are anxiety-inducing for clinicians (Roush et al.,<emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>; Wingate et al., <emphasis role="CitationRef">
+            <phrase>2004</phrase>
+         </emphasis>). Therefore, during these encounters, it is important for clinicians to remain calm and adopt a balanced approach—avoiding over- or under-estimating a patient’s suicidality based on a single consideration. By its nature, a case formulation approach considers and integrates the full range of assessment data to conceptualize a patient’s relative risk and stability. Research has established that a clinician’s confidence in conducting suicide risk assessments is enhanced through access to trainings, even those that are brief (Wakai et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). Given that a clinician’s comfort level is correlated to their consistent use of evidence-based practices (Roush et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>), training resources can offer vital guidance to performing effective assessments that can meaningfully enhance suicide prevention practices.</para>
+      <para role="Para">Many professional organizations offer their guidelines<indexterm significance="normal">
+            <primary>guidelines</primary>
+         </indexterm> and general recommendations for accurately assessing suicidal risk in clinical populations, such as the American Psychological Association (APA; Knapp, <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>) and the American Psychiatric Association (ApA; Jacobs et al., <emphasis role="CitationRef">
+            <phrase>2003</phrase>
+         </emphasis>). As these resources highlight, there is no single instrument that is superior in screening for suicidal risk (Saab et al., <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>), both in terms of sensitivity (i. e., reliably detecting truly at-risk individuals) and specificity (i. e., consistently identifying no-risk individuals). Instead, as Bernert and colleagues suggest, procedures must be standardized to ensure that the core competencies of suicide risk screening are being met across settings and professionals (Bernert et al.,<emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>).</para>
+      <para role="Para">Such competencies<indexterm significance="normal">
+            <primary>competencies</primary>
+         </indexterm>include discussions of an individual’s suicidality experience (e. g., establishing their presenting problem, risk and protective factors, degree of intent, history of behavior, and any preparation), symptom management (e. g., safety planning, lethal means restriction, treatments, and strategies), and other important considerations (e. g., ethical and legal, such as confidentiality and proper documentation). These competencies can be ensured by using the aforementioned assessment tools along with self-report structured and semi-structured interviewing which can also be meaningfully supplemented by collateral information (i. e., with the patient’s permission, obtaining information from family and close friends).</para>
+      <para role="Para">First and foremost, formal assessments for suicidality must rely on validated procedures in the given setting and population clinicians work within. A suicide risk assessment must be adapted for its immediate context. The assessment process is going to differ between virtual and in-person settings, emergency departments and outpatient practices, and research and community settings. Regardless of the environment, formal assessments must be consistent in their acceptability, feasibility, and adherence to best practices.</para>
+      <para role="Para">Until recently, standard practice has been in-person assessments. However, since the COVID-19 pandemic<indexterm significance="normal">
+            <primary>COVID-19 pandemic</primary>
+         </indexterm>, telemedicine has skyrocketed and revolutionized the mental health field. While in-person assessments may be more suitable for patients with comorbid and complex conditions (e. g., substance use, violence; Shore &amp; Lu,<emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>), virtual platforms and telehealth-care provide undeniable conveniences such as timely assessment and safety planning, cost-effectiveness, increased continuity of care, and may be more considerate of patient preferences. It is recommended that while conducting virtual suicide risk assessments, clinicians should establish (1) the current location of the patient, (2) a plan for reconnecting if technology fails, (3) emergency contact information, (4) an assessment of their immediate lethal means access, and (5) a discussion of privacy requirements and confidentiality limits (for more information refer to: <emphasis role="ExternalRef">
+            <ulink url="https://theactionalliance.org/resource/covid-guidance-screening-suicide-risk-during-telehealth-visits">
+               <emphasis role="RefSource">https://​theactionallianc​e.​org/​resource/​covid-guidance-screening-suicide-risk-during-telehealth-visits</emphasis>
+            </ulink>
+         </emphasis>).</para>
+      <para role="Para">The procedures outlined previously can be used to help identify individuals who are open to directly expressing their suicidality risk. The reality is that not all individuals who experience suicidality directly communicate or endorse suicidal intent, with some even actively concealing their experiences (Podlogar &amp; Joiner,<emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). In such cases, there can be indirect communications and behaviors that may suggest potential suicidal risk. Such communications<indexterm significance="normal">
+            <primary>communications</primary>
+         </indexterm>can be conscious or may be unconscious but nevertheless provide indications that may reflect intention and increased risk therein (e. g., preparatory behaviors, help-rejecting, and hopelessness). This underscores the importance of listening to what the patient overtly says but what also may be inferred through certain behaviors or vague comments. For example, a provider should pay close attention and follow-up when a patient off-handedly says “what’s the point?” or “things just never work out for me” or “I just need the pain to end!”</para>
+      <para role="Para">The importance of an empathic approach<indexterm significance="normal">
+            <primary>empathic approach</primary>
+         </indexterm> to assessing suicidal risk cannot be over-stated. Indeed, the “<indexterm significance="normal">
+            <primary>Aeschi Approach</primary>
+         </indexterm>” in the 2000s was a movement that focused on the merits of an empathic and non-judgmental approach to forming alliances with patients who were suicidal (Michel &amp; Jobes, <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>). The Aeschi movement was decidedly not a “medical model” approach to suicide, emphasizing a patient-centered and narrative approach that was featured in ten international conferences and an edited book. By adopting an empathetic approach, clinicians can thus create an optimal and validating relationship that is free from judgment and stigma.</para>
+      <para role="Para">Despite professional guidance, increased scrutiny, and updated guidelines<indexterm significance="normal">
+            <primary>guidelines</primary>
+         </indexterm> (such as the APA’s lengthy 2020 guide), recent studies underscore the issue of patient nondisclosure or concealment within formal assessment practices. For example<indexterm significance="normal">
+            <primary>example</primary>
+         </indexterm>, Hallford et al.’ (<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>) meta-analysis showed that in comparison to family and friends, participants were much less inclined to disclose their suicidal risk to healthcare professionals. A recent qualitative study recruiting individuals who had previously attempted suicide highlighted various reasons behind suicidality concealment such as fear of stigma, involuntary treatment, and invasion of privacy (Sheehan et al., <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>). To combat nondisclosure<indexterm significance="normal">
+            <primary>nondisclosure</primary>
+         </indexterm>, Podlogar and Joiner (<emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>) recommend that clinicians prioritize a patient-centered approach, which should immediately foster hope and provide validation. Patients should be encouraged to share their experiences in their own words and be active collaborators in their treatment planning and intervention outcomes. A supportive clinician-patient alliance is key to accurate suicide screening and treatment (Knapp, <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>).</para>
+      <para role="Para">An important goal of<indexterm significance="normal">
+            <primary>goal of</primary>
+         </indexterm> suicide risk assessments is to help better inform and guide clinical case management and treatment planning such that suicidal suffering can be decreased and patients become more stable and able to manage any suicidal thoughts or feelings (Jobes, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Clinicians should be mindful that the assessment of suicidal risk provides valuable information for effective treatment planning that better informs safety planning and stabilization as well as setting the stage for effective suicide-focused treatment (Jobes &amp; Barnett, <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>). Formal assessments should not be a one-time occurrence, but rather a continued and evolving assessment process in which individuals are provided an opportunity to fine-tune their responses concurrent to their self-exploration within the course of clinical treatment.</para>
+   </sect2>
+</sect1>

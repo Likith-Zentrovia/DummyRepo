@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0006" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0019s0005</risprev>
+         <riscurrent>sect1.9781071643624.ch0019s0006</riscurrent>
+         <risnext>sect1.9781071643624.ch0019s0007</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>19</chapternumber>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>17. Schizophrenia and Other Psychotic Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Information Critical to Make a Diagnosis</title>
+   <para role="Para">According to DSM-5-TR, a diagnosis of schizophrenia is based on fulfilling three basic criteria reflecting the presence<indexterm significance="normal">
+         <primary>presence</primary>
+      </indexterm>of characteristic symptoms, social/occupational dysfunction, and the duration of illness as well as by ruling out other conditions that can account for psychotic symptoms (American Psychiatric Association, <emphasis role="CitationRef">
+         <phrase>2022</phrase>
+      </emphasis>).</para>
+   <sect2 id="ch0019s0006s01" role="Heading">
+      <title>Criterion A: Characteristic Symptoms</title>
+      <para role="Para">Two or more<indexterm significance="normal">
+            <primary>more</primary>
+         </indexterm> of the following five symptoms must be present: delusions, hallucinations, disorganized speech, disorganized behavior, and negative symptoms. Examples of characteristic positive symptoms are included in the case illustrations above. Disorganized speech and behavior and negative symptoms are evaluated based on behavioral observation. Table <emphasis role="InternalRef">
+            <phrase>17.3</phrase>
+         </emphasis> shows some sample descriptions of these symptoms taken from select items of the rating scales described above. In addition to determining the presence of these symptoms, the interviewer must also determine that symptoms must have been present for the majority of time for at least a month. In the case that symptoms remit with appropriate treatment within a month, this criterion can still be met if it is judged<indexterm significance="normal">
+            <primary>judged</primary>
+         </indexterm> that symptoms<indexterm significance="normal">
+            <primary>symptoms</primary>
+         </indexterm>would persist without treatment.</para>
+   </sect2>
+   <sect2 id="ch0019s0006s02" role="Heading">
+      <title>Criterion B: Social/Occupational Dysfunction</title>
+      <para role="Para">There also must<indexterm significance="normal">
+            <primary>must</primary>
+         </indexterm> be evidence of a marked decrease in functioning for a substantial portion of time since the onset of disorder. Individuals with schizophrenia often experience high rates of unemployment and significant impairments in occupational functioning and can experience substantial limitations in social and instrumental functional activities. Often this information can be gathered in an overview section of educational and work history. The interviewer should be listening for any difficulties the interviewee had with schooling, maintaining a job, or periods of unemployment. For individuals who are employed, it is useful to identify if there is a discrepancy between educational attainment or training and current occupation. For example, an individual who is originally trained as a computer<indexterm significance="normal">
+            <primary>computer</primary>
+         </indexterm> programmer but is currently only working 20 h/week in an unskilled labor position is likely<indexterm significance="normal">
+            <primary>likely</primary>
+         </indexterm>“underemployed.” In this case, further inquiry may reveal that after the onset of symptoms, full-time employment in a demanding technical field became too stressful and unmanageable. Functioning in other domains such as social, self-care, and related instrumental activities of daily living should also be assessed to determine if this criterion is fulfilled. Although some of this information may be gathered through interview, obtaining information through observation and from additional sources (family members, medical record) can also be very helpful. Comparing the person’s educational or occupational attainment with their parents or unaffected siblings can also be informative in determining if there is a decline in functioning.</para>
+      <para role="Para">The decline in functioning<indexterm significance="normal">
+            <primary>functioning</primary>
+         </indexterm> must be presumed to be a consequence of schizophrenia symptoms to satisfy the impairment criterion. Therefore, two caveats are warranted related to evaluating this criterion. First, in the case of social and occupational<indexterm significance="normal">
+            <primary>occupational</primary>
+         </indexterm> functioning, it is important to differentiate between limited opportunities for socializing and work and actual impairment. In certain settings, other socioeconomic factors such as poverty, high unemployment, or crime may limit the access to work and social activities, and this should be taken into account when determining whether an individual meets the criterion for<indexterm significance="normal">
+            <primary>for</primary>
+         </indexterm>functional disability. Second, when evaluating younger individuals, it is useful to consider whether there has been a failure to achieve expected levels of functioning in these domains (e. g., was the individual unable to complete school) and these should be considered<indexterm significance="normal">
+            <primary>considered</primary>
+         </indexterm> when evaluating this criterion.</para>
+   </sect2>
+   <sect2 id="ch0019s0006s03" role="Heading">
+      <title>Criterion C: Duration</title>
+      <para role="Para">There must be<indexterm significance="normal">
+            <primary>be</primary>
+         </indexterm>evidence that some form of impairment or disturbance has persisted for 6 months with at least 1 month of active phase symptoms (i. e., Criterion A). The DSM-5-TR does not specify a sequence to the duration of symptoms. That is, individuals can experience difficulties for several months leading up to the emergence of active phase symptoms<indexterm significance="normal">
+            <primary>symptoms</primary>
+         </indexterm> or, alternatively, experience an acute episode followed by residual symptoms over the course of several months. Obtaining collateral information from family members can be particularly helpful when evaluating this criterion, particularly for individuals presenting for mental health<indexterm significance="normal">
+            <primary>health</primary>
+         </indexterm> treatment for the first time.</para>
+   </sect2>
+   <sect2 id="ch0019s0006s04" role="Heading">
+      <title>Rule Outs and Differential Diagnosis</title>
+      <para role="Para">Psychotic symptoms are not exclusive to schizophrenia and therefore one must rule out other conditions that might account for these symptoms. These conditions include mood disorders with psychotic features, schizoaffective disorder, substance-related disorders, post-traumatic stress disorder (PTSD), general medical conditions, and obsessive-compulsive disorder OCD.</para>
+      <para role="Para">
+         <emphasis>Depressive and bipolar related disorders.</emphasis> To make a diagnosis of schizophrenia, the active phase<indexterm significance="normal">
+            <primary>phase</primary>
+         </indexterm> symptoms must not be accompanied by a mood<indexterm significance="normal">
+            <primary>mood</primary>
+         </indexterm>episode (manic or depressive), or if a mood episode is present, it can only have minimal duration relative to active phase psychotic symptoms. In interview, this<indexterm significance="normal">
+            <primary>this</primary>
+         </indexterm>determination can be diagnostically challenging for several reasons. First, behavioral symptoms associated with depression can resemble the negative symptoms of schizophrenia. Second, the psychomotor agitation and flight of ideas associated with mania can in some cases be mistaken for thought disorder or behavioral disorganization. Third, epidemiological data indicated that up to one-fifth of those diagnosed with a major depressive episode seem to have also experienced some degree of psychotic or<indexterm significance="normal">
+            <primary>or</primary>
+         </indexterm> psychotic-like symptoms. In the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm>case where the interviewee endorses both mood and psychotic symptoms, the interviewer must determine a time course for these symptoms. In the interview, it is often helpful to focus on a specific episode and/or psychiatric admission. This approach allows the interviewer to anchor questions to a specific time frame and thus increase the accuracy and reliability of responses. In some cases, it may be clear that the person only experienced delusional symptoms, for<indexterm significance="normal">
+            <primary>for</primary>
+         </indexterm> example, when clearly in a manic episode, or experienced auditory hallucinations only during a depressive episode. In these cases, a mood disorder with psychotic features diagnosis would be given. The<indexterm significance="normal">
+            <primary>The</primary>
+         </indexterm>following vignette demonstrates an example of how an interviewer might differentiate between a mood disorder with psychotic<indexterm significance="normal">
+            <primary>psychotic</primary>
+         </indexterm> features and schizophrenia in an individual who has endorsed symptoms of depression:</para>
+      <para role="Para">Clinician: Have you ever heard voices that other people could not hear?</para>
+      <para role="Para">Interviewee: Yes.</para>
+      <para role="Para">C: Tell me a little bit more about that.</para>
+      <para role="Para">I: Well, when I’m depressed, I hear this voice, it sounds a little bit like my father but I know it’s not him. It says things like “You’re no good anyway.” “You’ve never been any good.” “You should die.” When I hear it I just don’t even want to get out of bed.</para>
+      <para role="Para">C: Is it always just one voice?</para>
+      <para role="Para">I: Yes, just one.</para>
+      <para role="Para">C: Have you ever heard it at a time<indexterm significance="normal">
+            <primary>time</primary>
+         </indexterm>when you were not feeling depressed?</para>
+      <para role="Para">I: No.</para>
+      <para role="Para">C: So, let me make sure I have this straight, you sometimes hear a voice criticizing you when you are depressed and you only hear it when you are depressed. You never hear it when your mood is okay. Is that right?</para>
+      <para role="Para">I: That’s right.</para>
+      <para role="Para">
+         <emphasis>Schizoaffective disorder.</emphasis> For individuals where both psychotic symptoms and mood symptoms<indexterm significance="normal">
+            <primary>symptoms</primary>
+         </indexterm> are prominent, a diagnosis of schizoaffective disorder may be warranted. The DSM-5-TR criteria for schizoaffective disorder specify that both mood episode (depressed, manic, or mixed) and active phase psychotic<indexterm significance="normal">
+            <primary>psychotic</primary>
+         </indexterm> symptoms must occur concurrently. In addition, while mood symptoms must be present for a predominant portion of the duration of disorder there must also be at least a 2-week period where hallucinations or delusions occur in the absence of a mood episode.</para>
+      <para role="Para">
+         Schizoaffective disorder<indexterm significance="normal">
+            <primary>Schizoaffective disorder</primary>
+         </indexterm> is less common than schizophrenia, and determining the time course and sequence of these symptoms is challenging within a single interview session. Gathering historical clinical data from<indexterm significance="normal">
+            <primary>from</primary>
+         </indexterm>mental health providers, the medical record, or family members can help in this determination. Often people may need to be followed over time to fully clarify their diagnoses. Indeed, a 2-year longitudinal study of stability of DSM-IV diagnosis in first-episode psychotic patients found that when a diagnosis was changed at a follow-up interview, the most common new diagnosis given was schizoaffective disorder, suggesting that a longer time period is needed to determine the presence<indexterm significance="normal">
+            <primary>presence</primary>
+         </indexterm>of affective<indexterm significance="normal">
+            <primary>affective</primary>
+         </indexterm>symptoms (Salvatore et al., <emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>).</para>
+      <para role="Para">
+         <emphasis>Substance-related disorders.</emphasis> There is a high prevalence of substance use disorders (SUD) among people<indexterm significance="normal">
+            <primary>people</primary>
+         </indexterm> with schizophrenia (Blanchard et al., <emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>), and SUDs have a profoundly negative impact on course of illness, outcomes, and other quality of life indicators (Bennett et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). Substance use and withdrawal can also induce psychotic experiences. Of note, cannabis use is associated with an increased risk of developing psychosis (see Hasan et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis> for review), a dose-response relationship between risk of psychosis and amount and potency of cannabis used (Marconi et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). It is plausible that there is a shared vulnerability, in that early and heavy cannabis use is more likely in individuals who are vulnerable to psychosis. With the increased access to cannabis resulting from decriminalization and legalization, interviewers<indexterm significance="normal">
+            <primary>interviewers</primary>
+         </indexterm> may see an increase in individuals<indexterm significance="normal">
+            <primary>individuals</primary>
+         </indexterm>with psychosis with a history of cannabis use and should assess for this use accordingly.</para>
+      <para role="Para">Therefore, in making a diagnosis of schizophrenia, it is critical to determine that the reported symptoms are not accounted for by substance use or withdrawal. In the case that the interviewee has an identified substance use problem, there are several tacks the interviewer can take to differentiate psychotic symptoms associated with schizophrenia as opposed to substance use. A first approach is to identify a period of time when the interviewee was not using drugs and assess if psychotic symptoms were present. This may be an extended period of sobriety or a period when they may have been in a restricted<indexterm significance="normal">
+            <primary>restricted</primary>
+         </indexterm>environment such as an inpatient psychiatric unit without access to illicit substances. When such a period is not present, cases of extended substance use overlapping with psychotic symptoms will require the interviewer to make some clinical judgments. A qualitative evaluation of psychotic symptoms may be informative. For example, are the symptoms characteristic of the drug of abuse (e. g., paranoia during excessive cocaine use,hallucinations<indexterm significance="normal">
+            <primary>hallucinations</primary>
+         </indexterm>during alcohol withdrawal) or are they notably bizarre or unusual? Another approach is to evaluate the longitudinal course of psychotic symptoms and substance use. Did psychotic symptoms precede the initiation of substance use? Do psychotic symptoms wax and wane with substance use or seem to follow an independent trajectory? Conversely, are there periods of increased psychotic symptoms in the absence of substantial<indexterm significance="normal">
+            <primary>substantial</primary>
+         </indexterm> increase or decrease in substance use?</para>
+      <para role="Para">
+         <emphasis>General medical conditions.</emphasis> Ideally, a diagnostic interview should be preceded by a careful physical<indexterm significance="normal">
+            <primary>physical</primary>
+         </indexterm> examination and laboratory tests to rule out medical conditions that may account for psychotic symptoms, such as endocrine, metabolic, and autoimmune disorders left untreated, or temporal lobe epilepsy. This is particularly relevant when a patient is presenting with psychotic symptoms for the first time and/or the age of onset and time<indexterm significance="normal">
+            <primary>time</primary>
+         </indexterm>course of symptoms is atypical for schizophrenia.</para>
+      <para role="Para">
+         <emphasis>Post-traumatic stress disorder (PTSD)</emphasis>. Although not a specific exclusion criterion for schizophrenia<indexterm significance="normal">
+            <primary>schizophrenia</primary>
+         </indexterm>, interviewers should be aware that the symptoms and behavioral concomitants of PTSD and schizophrenia can overlap (see Chap. <emphasis role="ExternalRef">
+            <ulink url="ch0010.xml#ch0010">
+               <emphasis role="RefSource">8</emphasis>
+            </ulink>
+         </emphasis> of this volume for additional information about diagnostic interviewing for PTSD). For example, trauma-related flashbacks associated with PTSD may be experienced and described as hallucinations and must be carefully assessed. Behaviorally, individuals with either diagnosis may be described as paranoid and isolate themselves from others. Whether this represents an avoidance symptom of PTSD or “true” paranoia can usually be ascertained through careful interview. Complicating<indexterm significance="normal">
+            <primary>Complicating</primary>
+         </indexterm>this further, many individuals with schizophrenia have experienced traumatic life events and may in fact meet diagnostic criteria for both disorders (e. g., Mueser et al.,<emphasis role="CitationRef">
+            <phrase>1998</phrase>
+         </emphasis>) or they may have delusional beliefs about traumatic events that did not actually occur. The following<indexterm significance="normal">
+            <primary>following</primary>
+         </indexterm>vignette illustrates an interviewer’s attempt to determine whether a voice heard by the interviewee is related to PTSD or schizophrenia.</para>
+      <para role="Para">Clinician: When you hear the voice, what kinds of things does it say?</para>
+      <para role="Para">Interviewee: He says I’m rotten and damaged and no good to anybody. And he says he’s going to hurt me.</para>
+      <para role="Para">C: Is it the voice of someone you know?</para>
+      <para role="Para">I: I don’t think so. It reminds me of when my uncle abused me as a child. He used to say things like that to me.</para>
+      <para role="Para">C: Is it your uncle’s voice that you are hearing?</para>
+      <para role="Para">I: No. It’s definitely not his voice. I would know his voice anywhere. It’s someone else’s voice. I don’t know who.</para>
+      <para role="Para">C: Sometimes when people have memories<indexterm significance="normal">
+            <primary>memories</primary>
+         </indexterm>of bad things that happened in the past, they can see it or hear it, almost like it’s happening again. Like a flashback. Is that when you hear this voice, when you have memories about the abuse that happened when you were younger?</para>
+      <para role="Para">I: Sometimes I hear it when I have<indexterm significance="normal">
+            <primary>have</primary>
+         </indexterm> those memories, but I hear it other times too.</para>
+      <para role="Para">C: When are some other times that you hear it?</para>
+      <para role="Para">I: Anytime I get stressed out. Even if I’m not thinking about what happened.</para>
+      <para role="Para">In this case, the voice does not appear to be solely related to flashbacks of childhood abuse, but is more likely related to a psychotic process that may be associated with schizophrenia and would lead the interviewer to explore whether<indexterm significance="normal">
+            <primary>whether</primary>
+         </indexterm>other symptoms of schizophrenia are present.</para>
+      <para role="Para">
+         <emphasis>Obsessive compulsive disorder</emphasis>. It is important to also consider OCD as a differential diagnosis, given<indexterm significance="normal">
+            <primary>given</primary>
+         </indexterm> that studies have found at least 30% of individuals with schizophrenia endorse obsessive compulsive symptoms and studies have found comorbidity rates of at least 12% (Swets et al., <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). Differential assessment may be necessary when interviewers need to determine whether symptoms endorsed, particularly<indexterm significance="normal">
+            <primary>particularly</primary>
+         </indexterm> thoughts or beliefs that are associated with distress, are reflective of delusional beliefs and associated behavior observed in schizophrenia or obsessions and compulsions observed in OCD. As described by Hudak and Rasmussen (<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>), factors that can be used to distinguish obsessions from delusions include level of conviction, consistency with belief system, awareness of inaccuracy and symptomatic nature, resistance, and emotional impact of obsessions/delusions. Individuals with OCD are typically not fully convinced that their obsessions are true, whereas delusional<indexterm significance="normal">
+            <primary>delusional</primary>
+         </indexterm>beliefs are typically held with full conviction. Obsessions are inherently ego-dystonic, in that they are viewed as intrusive, cause marked anxiety or distress, and lead individuals to try to reduce the distress by engaging in compulsions (i. e., resistance). On the other hand, delusional beliefs in schizophrenia are ego-syntonic, and the appearance of the thoughts themselves is not distressing, even though the content of the beliefs may lead to distress. These beliefs are typically viewed as a part of their overall<indexterm significance="normal">
+            <primary>overall</primary>
+         </indexterm>belief system. The function of behaviors observed in response to intrusive thoughts in OCD (i. e., compulsions) and those observed in response to delusional beliefs in schizophrenia can also help distinguish between the two disorders. In OCD, compulsions function to temporarily reduce distress and intrusiveness related to obsessive thoughts. Individuals with<indexterm significance="normal">
+            <primary>with</primary>
+         </indexterm> schizophrenia may engage in behaviors in response to delusional beliefs, but the function of this is not to ignore or suppress the appearance of an intrusive thought or image.</para>
+      <para role="Para">When considering level of insight, interviewers should be aware that about 4% of individuals with OCD have “absent insight/delusional beliefs” (American Psychiatric Association,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). In these cases, interviewers could also consider other symptoms that the client endorses. As discussed earlier, to meet criteria for schizophrenia, an individual would need to endorse or exhibit at least one other Criterion A symptom aside from delusions<indexterm significance="normal">
+            <primary>delusions</primary>
+         </indexterm>(i. e., hallucinations, disorganized speech<indexterm significance="normal">
+            <primary>speech</primary>
+         </indexterm>, grossly disorganized or catatonic behavior, or negative symptoms).</para>
+   </sect2>
+   <sect2 id="ch0019s0006s05" role="Heading">
+      <title>Barriers to Gathering Information Critical to Make a Diagnosis</title>
+      <para role="Para">We have found that some symptoms and features specific to schizophrenia can, in some cases, complicate and impede the interview process. Here we briefly discuss some common roadblocks to gathering diagnostic information that we have observed in clinical interviews with individuals with schizophrenia and some sample strategies for overcoming them. These factors often overlap and many of the strategies can be used interchangeably.</para>
+      <para role="Para">
+         <emphasis>Poor insight.</emphasis>
+         Individuals<indexterm significance="normal">
+            <primary>Individuals</primary>
+         </indexterm> with schizophrenia may lack insight into their mental disorder, which can limit the accuracy of self-report. Although insight is a broad construct with several definitions, current conceptualizations of insight in schizophrenia include the following dimensions: awareness of the illness and symptoms, acknowledgement of and compliance<indexterm significance="normal">
+            <primary>compliance</primary>
+         </indexterm> with treatment, and ability to make accurate attributions for psychotic experiences (Amador et al., <emphasis role="CitationRef">
+            <phrase>1991</phrase>
+         </emphasis>). Lack of insight has been associated with several variables in schizophrenia populations most notably poor treatment compliance and outcome. It should be noted that insight can fluctuate over time and as such may impact the clinical presentation (i. e., wavering conviction in the veracity of a delusional belief). The interviewer should attempt<indexterm significance="normal">
+            <primary>attempt</primary>
+         </indexterm> to gage the level of conviction in psychotic symptoms as this can be informative for treatment purposes (see Table <emphasis role="InternalRef">
+            <phrase>17.3</phrase>
+         </emphasis> for example questions).</para>
+      <para role="Para">Individuals with poor insight may minimize or deny the presence of symptoms and more notably deny the existence of any functional impairment, particularly when presented with close-ended (i. e., yes or no) questions. With some strategic and more open-ended questions, the interviewer can often gather some of this information indirectly.</para>
+      <para role="Para">Clinician: You told me you were hospitalized in a psychiatric unit 2 months ago.</para>
+      <para role="Para">While you were there, what did the doctors tell you was wrong?</para>
+      <para role="Para">Interviewee: They said I had<indexterm significance="normal">
+            <primary>had</primary>
+         </indexterm>schizophrenia.</para>
+      <para role="Para">C: What did they tell you about schizophrenia?</para>
+      <para role="Para">I: That I wasn’t thinking right and that I needed to take medication for it.</para>
+      <para role="Para">C: Has the medication been helpful?</para>
+      <para role="Para">I: Yeah. It makes me calmer and my thoughts don’t get so jumbled up.</para>
+      <para role="Para">C: Not so jumbled up, How so?</para>
+      <para role="Para">I: Well before I had all these ideas and things were just really noisy in my brain. I would hear a song on the radio and hear these<indexterm significance="normal">
+            <primary>these</primary>
+         </indexterm> extra messages like I could hear all these different frequencies.</para>
+      <para role="Para">
+         <emphasis>Cognitive impairment.</emphasis> Many individuals with schizophrenia experience some degree of impairment<indexterm significance="normal">
+            <primary>impairment</primary>
+         </indexterm>across multiple cognitive domains including attention, memory, problem solving, and processing speed (Mc Cutcheon et al.,<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). While distractibility and inattention may be more pronounced in acute phases of the disorder, particularly if individuals are experiencing auditory hallucinations, general cognitive<indexterm significance="normal">
+            <primary>cognitive</primary>
+         </indexterm> impairments are relatively stable across the course of schizophrenia and often persist even after an acute episode of psychosis resolves. For some individuals, the interview may need to be tailored to accommodate these<indexterm significance="normal">
+            <primary>these</primary>
+         </indexterm> cognitive impairments. To accommodate memory difficulties, particularly when gathering information about lifetime episodes, it is helpful to reference questions to a time frame around a specific incident. For example:</para>
+      <para role="Para">Clinician: You said that you were first hospitalized when you were 19, shortly after you were discharged from the army. You said this was in Georgia. Is that correct? I want to ask you some specific questions about how you were feeling right before you went into the hospital.</para>
+      <para role="Para">Attentional difficulties also may make it necessary to take frequent breaks or divide the interview into several brief meetings rather than attempt<indexterm significance="normal">
+            <primary>attempt</primary>
+         </indexterm> to complete it in one sitting.</para>
+      <para role="Para">
+         <emphasis>Negative symptoms.</emphasis> For individuals<indexterm significance="normal">
+            <primary>individuals</primary>
+         </indexterm>with prominent negative symptoms, there is a general diminution<indexterm significance="normal">
+            <primary>diminution</primary>
+         </indexterm> in drive or motivation, social affiliation and impoverished thinking, all of which can substantially limit the amount of information garnered in the interview. Notably, these symptoms manifest themselves as limited engagement in the interview and poverty of speech (brief unelaborated responses to questions). While in and of themselves these negative symptoms are informative for the diagnosis of schizophrenia, they can substantially<indexterm significance="normal">
+            <primary>substantially</primary>
+         </indexterm>limit obtaining other necessary diagnostic information. When evaluating Criterion B with someone with prominent negative symptoms (or marked cognitive impairment), it is helpful to use specific and concrete questions. For example, ask the interviewee to describe a typical day for herself, what time does she get out of bed, and how does she spend her time (e. g., watching TV, working, participating in a day program). This is a concrete line of questioning that can generate necessary information<indexterm significance="normal">
+            <primary>information</primary>
+         </indexterm>to determine the level of functional impairment.</para>
+      <para role="Para">
+         <emphasis>Guarded and suspicious presentation.</emphasis> This is perhaps<indexterm significance="normal">
+            <primary>perhaps</primary>
+         </indexterm> one of the most challenging barriers to a diagnostic<indexterm significance="normal">
+            <primary>diagnostic</primary>
+         </indexterm> interview. The interviewer will likely notice this presentation early in the interview and can adjust their approach accordingly. The obvious challenge is to build the rapport necessary for the interviewee to engage in the interview and share the needed information. There are several reasons why an interviewee may be guarded. In addition to suspiciousness, they may be reluctant to discuss symptoms because of embarrassment, a history of negative interactions with treatment providers, or fear of being hospitalized. Making sure there is a careful description of the purpose of the interview and taking some extra time during the overview section may facilitate rapport. Emphasizing the importance of the interviewee’s perspective and the value of his information to the treatment process can help with engagement. The other strategy is to be attentive for symptom information throughout the interview. One will not always obtain all the necessary information during the psychotic module of the SCID-5. Often, even if an<indexterm significance="normal">
+            <primary>an</primary>
+         </indexterm>interviewee denies all psychotic symptoms, they may provide information during other parts of the interview that, if followed up upon, can reveal additional symptoms. In general, with<indexterm significance="normal">
+            <primary>with</primary>
+         </indexterm> a person who is guarded or suspicious, such follow-up can be accomplished by asking more open-ended questions and gently probing for more information where possible, with questions such as “Why might that be?” or “Has this ever been a problem for you?” The task is to encourage the interviewee to explain his experience.</para>
+      <para role="Para">Clinician: Has it ever seemed like people were going out of their way to give you a hard time or trying to hurt you?</para>
+      <para role="Para">Interviewee: No</para>
+      <para role="Para">C: How about at your job? You mentioned earlier you had had troubles with your boss and coworkers.</para>
+      <para role="Para">I: Well yeah…. everyone had an agenda against me and they were deceitful and corrupt.</para>
+      <para role="Para">C: Why do you think they singled you out?</para>
+      <para role="Para">In the case of an interviewee denying<indexterm significance="normal">
+            <primary>denying</primary>
+         </indexterm> all symptoms, it may be diagnostically informative to gently challenge her with other collateral information gathered from the medical record, other clinician, or family member. For example:</para>
+      <para role="Para">Clinician: So, I’ve asked you about a lot of different symptoms that people sometimes have and it sounds like none of these have been a problem for you. I understand you were hospitalized last month and are now getting treatment here at the clinic. I’m interested in hearing your take on what’s been going on.</para>
+      <para role="Para">Interviewee: Well, I was locked up by the police and then forced to go to the hospital then the judge said I have to take medication.</para>
+      <para role="Para">C: What was going on before you were locked up?</para>
+      <para role="Para">[patient goes on to describe paranoid delusion about being electronically monitored by FBI with surveillance cameras mounted in her home and surrounding community].</para>
+      <para role="Para">As a final caveat<indexterm significance="normal">
+            <primary>caveat</primary>
+         </indexterm>, it<indexterm significance="normal">
+            <primary>it</primary>
+         </indexterm>should not be assumed that one will always encounter these barriers with individuals with schizophrenia. For many individuals, particularly among stable outpatients, rapport can be established relatively quickly, and the necessary information for making a diagnosis can be obtained during the interview. Often individuals appreciate the opportunity to explain or discuss their experience with<indexterm significance="normal">
+            <primary>with</primary>
+         </indexterm>mental disorder.</para>
+   </sect2>
+</sect1>

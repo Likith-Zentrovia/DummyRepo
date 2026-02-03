@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0022s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0022s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0022s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0022s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>22</chapternumber>
+         <chapterid>ch0022</chapterid>
+         <chaptertitle>19. Interviewing Older Adults</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Information</title>
+   <para role="Para">Referral questions and procedures for engaging in the interviewing process vary depending on the setting in which the older adult is evaluated. Medical inpatient, long-term care, and medical outpatient settings often refer older patients due to observed behavioral problems (e. g., problems adhering to treatment recommendations; changes in cognition or mood) and seek a behavioral consult to diagnose a condition, suggest behavioral management strategies to the healthcare team, and provide direct services to the patient. In other cases, the mental health clinician may already be part of an integrated team such as through primary care, palliative care, or home-based care (Rasin-Waters et al.,<emphasis role="CitationRef">
+         <phrase>2018</phrase>
+      </emphasis>; Zimbroff et al., <emphasis role="CitationRef">
+         <phrase>2021</phrase>
+      </emphasis>) services wherein the conducting of clinical interviews may be part of an interdisciplinary geriatric assessment. The clinician should be mindful of safeguarding confidentiality and ensuring informed consent, among other ethical principles, when gathering information from patients, collateral informants, healthcare team members, and the medical record, as well as when reporting information. The following principles and practical guidelines for interviewing older adults are recommended to augment or modify standard interview approaches and can largely apply across settings.</para>
+   <sect2 id="ch0022s0002s01" role="Heading">
+      <title>Reduce Practical and Environmental Barriers to Assessment</title>
+      <para role="Para">A basic aim<indexterm significance="normal">
+            <primary>aim</primary>
+         </indexterm>of diagnostic interviewing is to arrive at conclusions that are maximally reliable, and valid and reflect an older adult’s typical performance. Barriers to standardized assessment, whether individual (e. g., hearing or visual impairment) or environmental (e. g., poor lighting, excess noise, or an interviewing space that cannot assure confidentiality), impede this purpose, as they are sources of extraneous variance that have the potential to skew findings. Before conducting the interview, inquiry as to difficulty with hearing or vision and available means to accommodate these (e. g., use of hearing aids or clinician speaking closer and clearly to an older adult’s “good ear,” glasses, materials in larger font size, or re-positioning of materials), as well as the clinician’s efforts to minimize environmental barriers (e. g., ensuring a quiet, private, well-lit room) will allow for more valid diagnostic conclusions.</para>
+   </sect2>
+   <sect2 id="ch0022s0002s02" role="Heading">
+      <title>Facilitate a Structured and Supportive Interaction</title>
+      <para role="Para">Since discussing personal<indexterm significance="normal">
+            <primary>personal</primary>
+         </indexterm> and emotional issues with a novel person is evocative of a type of “strange situation,” clinicians should strive to establish rapport, communicate empathy, validation, support, and adequate structure when eliciting the patient’s narrative. This also involves considering the impact of the clinician’s and patient’s sociocultural frameworks and factoring these in when making diagnoses and recommendations. Culturally competent care with older adults should not only consider various identity factors of the clinician and client, but also an awareness for the impact of implicit ageism and power dynamics related to differences in client or clinician age (Haynes et al., <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>).</para>
+      <para role="Para">The diagnostic interview begins with the informed consent of the patient, including communicating the purpose of the interview, the nature of questions that will be asked, and the persons with whom findings will be shared. Queries that encourage the description of the chronology of the problem, efforts to cope or seek remedies, and the status of the problem today should be made. Understanding the temporal<indexterm significance="normal">
+            <primary>temporal</primary>
+         </indexterm>relationships between problems (e. g., the onset and treatment of co-morbid medical and psychiatric problems) is often critical to a diagnostic understanding. Furthermore, as older adults’ histories of a problem may span years or decades, and memories for dates over long spans may be inaccurate, it is useful to rely instead on sentinel events in the history (e. g., the onset or dissolution of a partnered relationship, the birth or launching of children, loss of a significant person, onset of a medical problem) as markers. This provides structure and aligns with an experience-near narrative<indexterm significance="normal">
+            <primary>narrative</primary>
+         </indexterm> approach.</para>
+   </sect2>
+   <sect2 id="ch0022s0002s03" role="Heading">
+      <title>Encourage Collateral Informants</title>
+      <para role="Para">
+         Collateral informants<indexterm significance="normal">
+            <primary>Collateral informants</primary>
+         </indexterm> (a family member, caregiver, friend, home health aide, etc.) can provide a valuable multifaceted view of a person and their functioning and is essential in the evaluation of individuals with suspected cognitive impairment<indexterm significance="normal">
+            <primary>cognitive impairment</primary>
+         </indexterm>. In such situations, informants often provide rich information as to the patient’s premorbid history, observations of changes in the patient’s cognition, mood, and functioning, safety concerns, and efforts to seek remedies for the problem. Consent is required before discussions with an informant may occur unless the patient has already been determined to lack decision-making capacity and the informant is their legal healthcare proxy. After consent is granted to also speak to the informant, it is recommended that clinicians begin by eliciting the narrative from the patient, even if cognitive impairment<indexterm significance="normal">
+            <primary>cognitive impairment</primary>
+         </indexterm> is clearly present, as this process both safeguards the dignity of the older patient and enables a glimpse into the patient’s interpersonal environment and dynamics. The fostering of a comfortable environment for both the patient and informant is critical and can include basic approaches such as directing inquiries to the patient first, then giving the informant space to speak, and making eye contact with both parties during the discussion. At times, it may be necessary to speak to either the patient or the informant separately after conducting a joint interview.</para>
+   </sect2>
+   <sect2 id="ch0022s0002s04" role="Heading">
+      <title>Evaluate Response Biases of Older Adult Patients and Informants</title>
+      <para role="Para">Just as reporting<indexterm significance="normal">
+            <primary>reporting</primary>
+         </indexterm> biases are common in self-report measures of mood or personality, so too are they common when employing an interview method of assessment. Some older adults (or collateral informants), and particularly those who may hold perspectives that emotional problems are undesirable or stigmatizing, may under-report some psychiatric symptoms (Mackenzie &amp; Pankratz, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Cohort, cultural, and personality factors may influence differences in response style, mental health literacy, and treatment seeking in older adults (Mackenzie &amp; Pankratz, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Patient-clinician dynamics and sociocultural identities, including age, may also influence reporting. For example, with a younger clinician, an older adult may wonder about their competence or be concerned about disclosing stigmatized physical problems such as urinary incontinence. With<indexterm significance="normal">
+            <primary>With</primary>
+         </indexterm> an older clinician, there may be a perception of sameness (for both the patient and clinician) and a resultant desire to appear “fine” when faced with a same-aged peer. Some older adults may be deferential to clinicians depending on their cultural background, viewing the clinician as an expert, while others may be skeptical due to cultural and personal experiences of discrimination in healthcare or fears of ageism and therefore may be guarded (Dixon et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>).</para>
+      <para role="Para">Discrepant reporting between patients and their informants may also occur, warranting cautious evaluation of the motives and reliability of each. Common scenarios can include an older adult with cognitive impairment<indexterm significance="normal">
+            <primary>cognitive impairment</primary>
+         </indexterm>who does not recognize their decline in functional capacity, or a caregiver who minimizes the patient’s cognitive deficits but concedes that they have taken on functional activities (e. g., managing medications) previously performed independently by the patient. Strategies to address potential biases include the use of a multi-method approach, which includes both self-report and performance-based measures, close attention to evaluating discrepancies, and a focus on objective aspects of behavior (e. g., cessation of financial management in the context of possible cognitive impairment).</para>
+   </sect2>
+   <sect2 id="ch0022s0002s05" role="Heading">
+      <title>Evaluate Baseline and Change(s) in Behavior and Functioning</title>
+      <para role="Para">Assessing for changes<indexterm significance="normal">
+            <primary>changes</primary>
+         </indexterm> in behavior and functioning, which include symptoms and impairments in social or occupational functioning, is a core principle of diagnostic interviewing. Since older adults’ life contexts naturally change across the lifecycle, their “new normal” baseline may or may not be characterized as “symptom-free.” For example, as sleep architecture is known to become more fragmented across the lifecycle, and nocturia causes many to briefly awaken, limited daytime napping is common (Li et al., <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Clinicians evaluating for hypersomnia (a symptom of depression) in such individuals should do so by first evaluating the older adult’s baseline sleep pattern. Change from this baseline is a more valid indicator of a potential psychiatric diagnosis than the mere presence of a symptom. A similar approach may also be employed in evaluating functional impairment—change in a given functional ability (e. g., cooking, financial management, driving) is more salient than incapacity for an ability that was never learned<indexterm significance="normal">
+            <primary>learned</primary>
+         </indexterm> or a valued part of the patient’s functioning.</para>
+   </sect2>
+   <sect2 id="ch0022s0002s06" role="Heading">
+      <title>Use Measures Normed or Validated with Older Adults</title>
+      measures<indexterm significance="normal">
+         <primary>measures</primary>
+      </indexterm>
+      <para>
+         <phrase>2022</phrase>
+         <phrase>2014</phrase>
+         <phrase>19.3</phrase>Table 19.3</para>
+      measures<indexterm significance="normal">
+         <primary>measures</primary>
+      </indexterm>
+      <para role="SimplePara">Key measures to assess<indexterm significance="normal">
+            <primary>assess</primary>
+         </indexterm> psychiatric symptoms or neurocognitive functioning in older adults</para>
+      <table id="ch0022s0002ta03">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Dimension of screening</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Key measures</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Cutoff norms for older adults</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">
+                        <emphasis role="strong">Cognitive</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Mini-Mental State (MMSE/3 MS)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes; see Reynolds et al. (<emphasis role="CitationRef">
+                           <phrase>2015</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Montreal Cognitive Assessment (MoCA)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes; see Sachs et al. (<emphasis role="CitationRef">
+                           <phrase>2022</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">
+                        <emphasis role="strong">Mood</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis>Depression</emphasis>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Geriatric Depression Scale (GDS)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes, ≥11 (Krishnamoorthy et al.,<emphasis role="CitationRef">
+                           <phrase>2020</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Patient Health Questionnaire-9 (PHQ-9)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">No</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Beck’s Depression Inventory (BDI)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes, ≥10 (Olin et al.,<emphasis role="CitationRef">
+                           <phrase>1992</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis>Anxiety</emphasis>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Geriatric Anxiety Scale (GAS)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes, &gt;13 (long-form) and &gt; 6 (10-item short-form) (Segal et al., <emphasis role="CitationRef">
+                           <phrase>2010</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Beck’s Anxiety Inventory (BAI)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">No</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Generalized Anxiety Disorder-7 (GAD-7)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes, ≥5 (Vasiliadis et al.,<emphasis role="CitationRef">
+                           <phrase>2015</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">
+                        <emphasis role="strong">Substance use (alcohol)</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Michigan Alcoholism Screening Test-Geriatric (MAST-G)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes, ≥4/5 (Hirata et al.,<emphasis role="CitationRef">
+                           <phrase>2001</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Alcohol Use Disorders Identification Test (AUDIT)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes, ≥5 or ≥4 for AUDIT-consumption © (Aalto et al.,<emphasis role="CitationRef">
+                           <phrase>2011</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c3" namest="c1">
+                     <para role="SimplePara">
+                        <emphasis role="strong">Sleep disorders</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Pittsburgh Sleep Quality Index (PSQI)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">No (Luyster et al.,<emphasis role="CitationRef">
+                           <phrase>2015</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <para role="SimplePara">Insomnia Severity Index (ISI)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">No</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">
+                        <emphasis role="strong">Suicide and threats to safety</emphasis>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Columbia Suicide Severity Rating Scale (CSSR)</para>
+                     <para role="SimplePara">Elder Abuse Suspicion Index</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Yes (Wang et al.,<emphasis role="CitationRef">
+                           <phrase>2015</phrase>
+                        </emphasis>)</para>
+                     <para role="SimplePara">(Mai et al.,<emphasis role="CitationRef">
+                           <phrase>2021</phrase>
+                        </emphasis>)</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+</sect1>

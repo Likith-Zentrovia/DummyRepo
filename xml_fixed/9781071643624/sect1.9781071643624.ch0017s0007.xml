@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0017s0007" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0017s0006</risprev>
+         <riscurrent>sect1.9781071643624.ch0017s0007</riscurrent>
+         <risnext>sect1.9781071643624.ch0017s0008</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>17</chapternumber>
+         <chapterid>ch0017</chapterid>
+         <chaptertitle>15. Substance Use Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Dos and Don’ts</title>
+   <sect2 id="ch0017s0007s01" role="Heading">
+      <title>Dos</title>
+      <itemizedlist role="UnorderedListMarkBullet">
+         <listitem>
+            <para role="Para">Supplement a categorical diagnosis with a dimensional assessment of frequency and degree of substance use, patterns within specific drug classes, and impairment.</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Assess for co-occurring mental health symptoms.</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Consider<emphasis>how</emphasis> co-occurring symptoms may be contributing to an SUD.</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Elicit the client’s treatment goals.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0017s0007s02" role="Heading">
+      <title>Don’ts</title>
+      <itemizedlist role="UnorderedListMarkBullet">
+         <listitem>
+            <para role="Para">Use only a categorical diagnosis of substance use disorder.</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Ignore co-occurring mental health symptoms that may be a primary function of a client’s substance use.</para>
+         </listitem>
+         <listitem>
+            <para role="Para">Fail to identify the most appropriate tools<indexterm significance="normal">
+                  <primary>tools</primary>
+               </indexterm>for the specific setting, client, or diagnostic purpose.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+</sect1>

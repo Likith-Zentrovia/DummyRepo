@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0004" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0018s0003</risprev>
+         <riscurrent>sect1.9781071643624.ch0018s0004</riscurrent>
+         <risnext>sect1.9781071643624.ch0018s0005</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>18</chapternumber>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>16. Personality Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Case Illustration</title>
+   mixed<indexterm significance="normal">
+      <primary>mixed</primary>
+   </indexterm>
+   well<indexterm significance="normal">
+      <primary>well</primary>
+   </indexterm>
+   <para>
+      <phrase>16.4</phrase>Table 16.4</para>
+   lack<indexterm significance="normal">
+      <primary>lack</primary>
+   </indexterm>
+   <para role="SimplePara">Case illustration<indexterm significance="normal">
+         <primary>illustration</primary>
+      </indexterm>
+   </para>
+   <table id="ch0018s0004ta04">
+      <title/>
+      <tgroup cols="1">
+         <colspec colname="c1" colnum="1"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Borderline</para>
+                  <para role="SimplePara">• Frantic efforts to avoid real or imagined abandonment:<emphasis>Jim frequently seeks reassurance from his coworkers and supervisors, fearing rejection and abandonment in both personal and professional relationships</emphasis>
+                  </para>
+                  <para role="SimplePara">• Unstable and intense interpersonal relationships:<emphasis>Jim describes his relationships as “wonderful” or “awful” with no room for nuance. He tends to idolize his colleagues and potential partners initially but quickly turns against them at the smallest perceived slight</emphasis>
+                  </para>
+                  <para role="SimplePara">• Impulsivity in at least two areas that are potentially self-damaging:<emphasis>Jim engages in binge eating with loss of control, spending money he does not have, reckless driving, and risky sexual behaviors</emphasis>
+                  </para>
+                  <para role="SimplePara">• Inappropriate, intense anger, or difficulty controlling anger:<emphasis>Jim frequently experiences anger outbursts, including at work</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Paranoid</para>
+                  <para role="SimplePara">• Suspiciousness and mistrust of others:<emphasis>Jim exhibits a pervasive belief that his coworkers are conspiring against him and intentionally undermining him, despite no evidence this is the case</emphasis>
+                  </para>
+                  <para role="SimplePara">• Reluctance to confide in others:<emphasis>Jim is unwilling to share personal information with his colleagues due to fear this information would be used against her</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Narcissistic</para>
+                  <para role="SimplePara">• Grandiosity:<emphasis>Jim often boasts about his achievements and expects special treatment from his coworkers, considering himself superior to them</emphasis>
+                  </para>
+                  <para role="SimplePara">• Lack of empathy:<emphasis>Jim struggles to understand or acknowledge others’ feelings and perspectives</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Avoidant</para>
+                  <para role="SimplePara">• Avoidance of social or occupational activities that involve significant interpersonal contact:<emphasis>Despite his desire for connection, Jim often avoids team gatherings and social events, fearing criticism and rejection</emphasis>
+                  </para>
+                  <para role="SimplePara">• Feelings of inadequacies and hypersensitivity to negative evaluation:<emphasis>Jim is highly sensitive to perceived criticism or disapproval, which intensifies his fear of rejection and contributes to social withdrawal</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Dependent</para>
+                  <para role="SimplePara">• Difficulty making everyday decisions without excessive reassurance:<emphasis>Jim frequently seeks validation and guidance from coworkers, relying heavily on his supervisors despite having the competence to complete tasks independently</emphasis>
+                  </para>
+                  <para role="SimplePara">• Submissive or clingy behavior:<emphasis>Jim tends to defer to others in decision-making and relies on them excessively for emotional support, often feeling helpless or powerless without their assistance</emphasis>
+                  </para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

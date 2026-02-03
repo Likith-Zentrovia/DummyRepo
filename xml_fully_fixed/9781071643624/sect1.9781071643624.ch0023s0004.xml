@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0023s0004" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0023s0003</risprev>
+         <riscurrent>sect1.9781071643624.ch0023s0004</riscurrent>
+         <risnext>sect1.9781071643624.ch0023s0005</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>23</chapternumber>
+         <chapterid>ch0023</chapterid>
+         <chaptertitle>20. Interviewing in Health, Medical, and Integrated Care Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   <para role="Para">In a clinic or setting<indexterm significance="normal">
+         <primary>setting</primary>
+      </indexterm> in which holistic care is the primary approach, a <emphasis>holistic clinical interview</emphasis> aims to understand the individual as a whole, considering comprehensively in depth their psychological symptoms, physical health, social environment, cultural background, and spiritual beliefs. Holistic approaches utilize the biopsychosocial model of care and an intersectional lens more heavily than a functional interview, which will be discussed below. For example, if an older adult, first-generation immigrant female patient arrives at the clinic with sleep concerns, the clinician will assess in great length their behaviors, lifestyle, identity, trauma, immigration journey, and medical and mental health history, in conjunction with assessment of their sleep concerns and habits. Treatment goals are eventually established, with all relevant history and information gathered in mind.<phrase>20.1</phrase>Table 20.1</para>
+   an<indexterm significance="normal">
+      <primary>an</primary>
+   </indexterm>
+   <para role="SimplePara">Holistic assessment interview<indexterm significance="normal">
+         <primary>interview</primary>
+      </indexterm>functional care<phrase>20.2</phrase>Table 20.2</para>
+   <table id="ch0023s0004ta01">
+      <title/>
+      <tgroup cols="1">
+         <colspec colname="c1" colnum="1"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Introduction</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Orient patient to psychologist’s role in their health care (duration of appts ~60 to 120 min), focused on understanding all aspects of patient’s life for comprehensive care)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Limits of confidentiality</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Briefly explain the assessment process, including the use and purpose of assessment measures</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Explore the patient’s understanding of the nature and impact of symptoms and how they affect aspects of the patient’s life</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Obtain psychosocial history</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Patient’s upbringing, family dynamics, cultural background, educational experiences, significant life events, immigration journey</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">History and current financial/legal concerns</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Identity stressors</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Utilize ADDRESSING model</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Physical health and lifestyle factors</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Psychologists may refer to the medical record to identify, inquire about, and clarify medical history, current medical and health concerns, and medications managed by the healthcare team</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Inquire about sleep patterns, exercise habits, nutrition, and substance use</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Mental health treatment history</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Past diagnoses, treatment? Hospitalizations? What worked/didn’t work? Response to treatment</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Family history of mental health disorders and treatment</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Violence or trauma history?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Utilize population validated outcome measures such as PHQ-9, GAD-7, GDS, GAI, PCL-5</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Suicidal and homicidal ideation</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Utilize objective measures such as CSSRS and assess verbally</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Determine risk level and cite data to support (i. e., history of S. I./attempts, age, race, gender, protective factors, etc.)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Social supports and relationships</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Past and present social support network, quality of those relationships, sexual health history past and present</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Cultural and spiritual beliefs</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Explore the patient’s cultural background and spiritual or religious beliefs</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">The role of culture and spirituality in the patient’s life and how these beliefs may impact their coping mechanisms and resilience</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Assessment of strengths and resources</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Ask the patient about their strengths and talents to leverage in the therapeutic process</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Explore the patient’s resilience, coping skills, and past successes in overcoming challenges</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Current ADL/IADL status</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Areas of independence or dependence</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Progression of changes in status (acute, progressive/chronic)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Cognitive status/changes</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Self-reported observations of cognitive problems</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Utilize MMSE</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Collaborative goal setting and motivation for change/barriers</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Assess motivation for change and potential barriers</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Use the magic question to arrive at a goal that addresses the patient’s psychological, physical, social, cultural, and spiritual needs</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Treatment interventions/procedures</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">The psychologist summarizes key points discussed during this encounter and collaborates with the patient to develop a plan for future sessions</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Psychologists may recommend additional assessments, referrals to other healthcare professionals, or self-care strategies for the patient to implement between sessions</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="SimplePara">Functional assessment interview<indexterm significance="normal">
+         <primary>interview</primary>
+      </indexterm>
+   </para>
+   <table id="ch0023s0004ta02">
+      <title/>
+      <tgroup cols="1">
+         <colspec colname="c1" colnum="1"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Introduction</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Orient patient to clinic (duration of reoccurring appts (~30 min), problem-focused/functional nature)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Limits of confidentiality</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Briefly explain the assessment process (include the length of time (~30/45 min), the outline of questions, and measures)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Obtain demographic information</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Utilize ADDRESSING model</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Assess chief complaint</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Use a checklist (i. e., anxiety, trauma, sleep, pain, etc.)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Ask the patient to briefly describe what brings them into the clinic; administer a brief measure</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Mental health treatment history</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Past treatment? Hospitalizations? What worked/didn’t work?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Suicidal and homicidal ideation</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Utilize objective measures such as CSSRS and assess verbally</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Determine risk level and cite data to support (i. e., history of S. I./attempts, age, race, gender, protective factors, etc.)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Substance use</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">History and present use/treatment</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Physical/medical history and health habits</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Sexual health/satisfaction (even if no partner is reported), exercise, medications, cognition, head trauma, adherence to medications?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Sleep</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Determine relevance to other disorders, both M. H. (e. g., PTSD, depression) and/or medical (e. g., sleep apnea)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Difficulty falling, staying (if so, what wakes the patient up?), or waking up; # of hours currently obtaining feel sufficient? What would be optimal?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Optional Insomnia Severity Index if sleep difficulty is present</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Pain</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Location? Intensity 1–10? Constant or intermittent? Ways it’s managed? Chronic (&gt;3 months)?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Psychosocial information/stressors</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Relational status, financial/legal concerns, social support, identity stressors/identity sources of strength/resilience?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Patient’s stated goal and motivation for change/barriers</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Use the magic question to arrive at a goal; assess motivation for change and potential barriers</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">
+                     <emphasis role="strong">Treatment interventions/procedures</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Outline treatment idea/procedure based on the problem and also provide the patient with a small intervention during<emphasis>this</emphasis>session (i. e., small homework assignment, coping skill) and measurement-based care</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="Para">For example, in primary<indexterm significance="normal">
+         <primary>primary</primary>
+      </indexterm>care outpatient settings, a patient who is an older adult male may express interest in working on one specific problem, such as diminished energy. For example, the psychologist can help patients identify that sleep is an actionable target problem for diminished energy. The psychologist can introduce a short course of Cognitive Behavioral Therapy for Insomnia (CBT-I)<indexterm significance="normal">
+         <primary>Cognitive Behavioral Therapy for Insomnia (CBT-I)</primary>
+      </indexterm>. During the intake, the clinician may find that the patient has misconceived ideas about sleep and aging, such that older adults sleep less and nap more. Functionally, the clinician can underscore this as a misperception right away as their initial intake intervention and then introduce CBT-I as the mode of therapy (see Table <emphasis role="InternalRef">
+         <phrase>20.2</phrase>
+      </emphasis>). An additional example is a patient who presents at the referral of their primary care doctor for stress related to chronic pain may ultimately be introduced to CBT for Chronic Pain (CBT-CP) by the end of the interview and requested to complete an assignment before the next session that relates to<indexterm significance="normal">
+         <primary>to</primary>
+      </indexterm> the treatment.</para>
+</sect1>

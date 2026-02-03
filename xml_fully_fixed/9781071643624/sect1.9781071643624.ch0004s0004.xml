@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0004s0004" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0004s0003</risprev>
+         <riscurrent>sect1.9781071643624.ch0004s0004</riscurrent>
+         <risnext>sect1.9781071643624.ch0004s0005</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>4</chapternumber>
+         <chapterid>ch0004</chapterid>
+         <chaptertitle>3. Presenting Problem, History of Presenting Problem, and Social History</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>History of Presenting Problem</title>
+   <para>
+      <phrase>3.2</phrase>Table 3.2</para>
+   <para role="SimplePara">History of the presenting problem sample interview questions</para>
+   <table id="ch0004s0004ta02">
+      <title/>
+      <tgroup cols="2">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Area of inquiry</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Sample interview questions</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Onset</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• When did you first notice (symptom or behavior x)?</para>
+                  <para role="SimplePara">• How long has this problem been going on?</para>
+                  <para role="SimplePara">• Did this problem happen suddenly, or did it happen slowly over time?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Frequency</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• How often do you experience (symptom x)?</para>
+                  <para role="SimplePara">• How many times did you experience the problem in the last day/week/month?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Duration</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• When you experience symptom x, how long does it typically last?</para>
+                  <para role="SimplePara">• Do your symptoms fluctuate during the day or on a regular/predictable basis?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Intensity</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• On a scale of 0–10 with 0 being nothing and 10 being unbearable, how intense are your symptoms on a typical day?</para>
+                  <para role="SimplePara">• Tell me about a time when you experienced (symptom x) at its worst intensity—When it was as bad as it has ever been.</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Course</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• What was going on in your life when the problem began? How did it affect you?</para>
+                  <para role="SimplePara">• Has the problem changed over time (worse, better, stayed the same)? How has it changed?</para>
+                  <para role="SimplePara">• What makes the problem worse for you? What makes it better?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Prior treatment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• What have you already done to try and manage your symptoms, for example, prior/current mental health or medication treatments, support groups, or spiritual counseling?</para>
+                  <para role="SimplePara">• Have you been to the emergency department specifically for mental health concerns?</para>
+                  <para role="SimplePara">• Which of the previous treatments were helpful? Which were not helpful? What was it about the treatment you found most helpful or unhelpful?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Stressors and stress reactivity</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• What are the current, most pressing issues that might cause your symptoms to get worse?</para>
+                  <para role="SimplePara">• Do you have concerns with your finances, housing, school or work, social or romantic relationships?</para>
+                  <para role="SimplePara">• How difficult is it for you to manage or cope with your stress? What makes it easier or harder to cope?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Coping strategies</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• What do you already to do cope with your symptom(s)?</para>
+                  <para role="SimplePara">• What strategies do you use when you must tolerate the symptom(s) in your daily life (e. g., how do you get through the day at work or school)?</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Strengths</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Tell me about your best qualities. What are you good at?</para>
+                  <para role="SimplePara">• What is most important to you now?</para>
+                  <para role="SimplePara">• What if this issue were to vanish, how would your life look different?</para>
+                  <para role="SimplePara">• Are there moments when you feel like your “old self”? What is different in those moments compared to now?</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <sect2 id="ch0004s0004s01" role="Heading">
+      <title>Onset</title>
+      <para role="Para">Knowing the onset<indexterm significance="normal">
+            <primary>onset</primary>
+         </indexterm>of symptoms is necessary for establishing a timeline. It is also important as age of onset is a diagnostic criterion for some disorders, such as ADHD, which must have symptoms present in childhood. For some problems, clients may be able to tell the clinician precisely when the symptoms or behavior patterns began (e. g., “I started drinking when I was 17 years old”). Other symptoms or behavior patterns may be more difficult to recall precisely, and details of the onset will be vague (e. g., “I have had memory problems for years, but they happened so gradually, I couldn’t say when they began”). Though it may be difficult for a client to recall, the clinician should encourage precision about the onset of symptoms or behaviors. Follow-up questions could include inquiry about precipitating factors to help prompt recall (e. g., “What was going on in your life when the problem began”) or noteworthy dates or events (e. g., “Did you feel this way before or after your last birthday”). The clinician should also ask about whether the problem had an acute or sudden onset versus an insidious or gradual onset<indexterm significance="normal">
+            <primary>onset</primary>
+         </indexterm>(e. g., “Did this problem happen suddenly, or did it happen slowly over time”). Problems with an acute onset often occur in response to an external stressor, such as post-traumatic stress disorder, after experiencing a potentially traumatic event. Problems with a gradual onset will often be described as beginning during a specific period (e. g., childhood). When the client presents with multiple problems, the clinician should try to determine which occurred first (e. g., “Which did you notice first, the drinking or the anxiety symptoms”).</para>
+   </sect2>
+   <sect2 id="ch0004s0004s02" role="Heading">
+      <title>Severity: Frequency, Duration, and Intensity</title>
+      <para role="Para">It is sometimes difficult to establish the severity of a client’s problems because the information is subjective. What may be overwhelmingly difficult for one client may be a minor inconvenience for another<indexterm significance="normal">
+            <primary>another</primary>
+         </indexterm>. Asking questions that address the frequency, duration, and intensity of symptoms can help determine the subjective severity of symptoms for the client. The clinician may want to ask questions<indexterm significance="normal">
+            <primary>questions</primary>
+         </indexterm>about the severity of symptoms on a typical day and compare them with symptoms at the worst level to explore the range of client function. General questions, such as “How often do you experience this symptom” or “How many times did you experience the problem in the last day/week/month” can be useful for establishing frequency. General questions can also be used to inquire about duration, typically by asking how long symptoms last (e. g., when you experience [symptom x], how long does it usually last?). Exploring the duration of symptoms is important for disorders with fluctuating patterns, such as panic or mood swings<indexterm significance="normal">
+            <primary>swings</primary>
+         </indexterm>. Simple rating scales can be used to establish the level of symptom intensity (e. g., “On a scale of 0–10 with 0 being nothing and 10 being unbearable, how intense are your symptoms on a typical day,” “What about on your worst days?”).</para>
+   </sect2>
+   <sect2 id="ch0004s0004s03" role="Heading">
+      <title>Course</title>
+      <para role="Para">After discussing the onset and frequency of the presenting problem, the clinician should inquire about the course or progression of symptoms over time. Some clients may have engaged in treatment for the same or similar problems in the past. Others may have been coping with symptoms independently before seeking assessment<indexterm significance="normal">
+            <primary>assessment</primary>
+         </indexterm> or treatment. Understanding the course of the problem involves establishing whether previous episodes have occurred, exploring precipitating factors, and evaluating how the problem has changed or progressed over time. After inquiring<indexterm significance="normal">
+            <primary>inquiring</primary>
+         </indexterm>if this is the first time the client has experienced these symptoms, the clinician should ask about what was going on in the client’s life when the problem started (if precipitating factors were not covered while discussing the onset). Even if this is the first time the client has experienced the problem, exploring the course and patterns of symptom fluctuation can be useful for ruling in/out disorders (e. g., the timeline for hypomanic versus manic episodes and periods of remission).</para>
+      <para role="Para">Periods when a client does not experience symptoms or behavioral problems are just as important as when symptoms are present. Thus, the clinician should ask about periods with symptom relief or remission (e. g., “Are there periods when you do not experience the problem? How much time typically goes by between episodes?”). Understanding the trajectory of symptom change over time and factors that trigger an increase in symptoms is also necessary for diagnosis and treatment planning (e. g., “Has the problem changed over time,” “How has it changed—worse, better, stayed the same<indexterm significance="normal">
+            <primary>same</primary>
+         </indexterm>,” “What makes the problem worse for you and what makes it better?”). If a prior episode was reported, the clinician should inquire about how the client coped with the previous episode and how the current episode compares to past episodes.</para>
+   </sect2>
+   <sect2 id="ch0004s0004s04" role="Heading">
+      <title>Prior Treatment and Attempts to Solve the Problem</title>
+      <para role="Para">Assessing the history of a client’s presenting problem also involves inquiries about prior resolution efforts, including previous assessment and psychological or pharmacological treatments. The clinician should inquire about all types of past treatment, including outpatient, inpatient, and emergency department visits for psychiatric issues. The clinician can start this line of inquiry with questions<indexterm significance="normal">
+            <primary>questions</primary>
+         </indexterm>exploring the client’s efforts to address the problem, including information about the perceived helpfulness or unhelpfulness of treatment. For all prior treatment episodes endorsed by the client, the clinician should follow up with more in-depth questions about the type of treatment (e. g., psychotherapy, medication, supplements, neurostimulation, self-help groups, etc.), setting (e. g., outpatient, inpatient, emergency room), duration, and doses. Response to treatment should also be assessed, including rapport/alliance with the treating provider, perceived benefits, and side effects. When discussing response to treatment, the clinician should inquire about symptom response and functional outcomes. If a client endorses poor treatment response, the clinician should inquire about reasons, including difficulty developing rapport with the clinician or poor adherence to the treatment protocol. If the client is willing to sign a release of information, the clinician may request records from prior providers<indexterm significance="normal">
+            <primary>providers</primary>
+         </indexterm>, including previous intake reports, relevant progress notes, and treatment summaries. Understanding what worked well for the client and what did not will be useful for future treatment planning.</para>
+   </sect2>
+   <sect2 id="ch0004s0004s05" role="Heading">
+      <title>Stressors: Precipitating Factors and Outcomes of the Problem</title>
+      <para role="Para">Research has consistently highlighted the impact of adverse experiences and chronic stress on both physical and mental well-being (see Crosswell &amp; Lockwood,<emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). Stressors include conditions that may impact the frequency, duration, and intensity of the presenting problem<indexterm significance="normal">
+            <primary>problem</primary>
+         </indexterm>. They may cause or result from a client’s symptoms or behaviors. Clinicians should inquire about a client’s exposure to current and past adverse experiences and stressors that impact overall well-being. Because a person’s subjective response to a stressor, or stress reactivity, is also associated with mental health (see Rush et al., <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>), clinicians should ask whether clients feel they are coping adequately with stressors. The goal of evaluating stressors and stress reactivity is to explore factors that may directly impact or result from the presenting problem. At a minimum, clinicians should inquire about financial stressors, housing status, educational or occupational problems, interpersonal problems, social support, and strengths (e. g., “What resources do you use when faced with challenges or stressors in your life,” Are there any areas you feel that your resources are lacking, such as finances, time or social support”).</para>
+   </sect2>
+   <sect2 id="ch0004s0004s06" role="Heading">
+      <title>Strengths and Coping Strategies</title>
+      <para role="Para">Clients seek mental health services to reduce distress or address problems, which can lead the clinician to focus exclusively<indexterm significance="normal">
+            <primary>exclusively</primary>
+         </indexterm> on difficulties and the subsequent impact on functioning. Incorporating a client’s strengths, coping strategies, and examples of resilience allows the clinician to provide a holistic view of the presenting problem. Understanding a client’s strengths<indexterm significance="normal">
+            <primary>strengths</primary>
+         </indexterm> allows the clinician to build upon the client’s current foundation of adaptive behaviors, skills, and abilities. Strength-based approaches (see Hass, <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>; Rashid &amp; Ostermann, <emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>) have gained increased attention in recent years following the emergence of positive psychology (Seligman &amp; Csikszentmihalyi, <emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>).</para>
+      <para role="Para">Methods for assessing strengths vary from informal questions embedded in the clinical interview to standardized and norm-based measures (Chen et al.,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). Asking questions across several domains will provide a comprehensive picture of the client’s functioning and provide a source of person-centered treatment recommendations<indexterm significance="normal">
+            <primary>recommendations</primary>
+         </indexterm>. These domains address relationship quality with friends and family, cognitive or academic strengths, aspirations and goals, a purpose within the context of difficulty or adversity, and self-efficacy and agency or self-perceived determination (Hass, <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>).</para>
+   </sect2>
+</sect1>

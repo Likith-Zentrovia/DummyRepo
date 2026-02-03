@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0015s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0015s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0015s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0015s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>15</chapternumber>
+         <chapterid>ch0015</chapterid>
+         <chaptertitle>13. Eating Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Information</title>
+   complex<indexterm significance="normal">
+      <primary>complex</primary>
+   </indexterm>
+   <para>
+      <phrase>2021</phrase>
+      <phrase>2014</phrase>
+      <phrase>13.1</phrase>Table 13.1</para>
+   rapport<indexterm significance="normal">
+      <primary>rapport</primary>
+   </indexterm>
+   and<indexterm significance="normal">
+      <primary>and</primary>
+   </indexterm>
+   <para role="SimplePara">Dos and don’ts</para>
+   <table id="ch0015s0002ta01">
+      <title/>
+      <tgroup cols="1">
+         <colspec colname="c1" colnum="1"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Establish positive rapport. Many ED behaviors may be associated with embarrassment, guilt, shame, and/or secrecy. Moreover, treatment-seeking rates for individuals with EDs are low; thus, it is not uncommon for an ED assessment to be the first time an individual has discussed their ED thoughts and behaviors with someone</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Take a nonjudgmental stance when assessing ED symptoms. Try to use language that normalizes disordered thoughts and behaviors. For example, when asking someone to describe what they ate during a binge-eating episode, it may be helpful to ask, “What else?” (which assumes there is more food that was eaten), rather than “Anything else?” (which subtly implies that there should not be more food that was eaten). It can be helpful to reassure the person being assessed that you would not know to ask these questions about their experience if ED issues were not experienced by many people</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Work on your own internalized weight bias. Our society places value on thinness for women and leanness (muscularity) for men and any internalized bias (even unconscious bias) that you may have toward people of higher body weights could be conveyed to your client, hindering your ability to do an effective interview</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Be mindful of your facial expressions and reactions during an interview. Sometimes binge-eating episodes can be quite a bit larger than what most people would eat under similar circumstances (e. g., a full jar of peanut butter and loaf of bread) or seem un-palatable (e. g., raw hot dogs). Keeping a neutral expression and familiarizing yourself with the full range of eating behaviors can help you to avoid passing judgment. Maintaining a nonjudgmental stance, in turn, can help you get better quality information from your client, which will improve your ability to assess, diagnose, and create a strong treatment plan</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Assess associated impairment in addition to specific ED symptoms. Assessing clinical impairment (e. g., how symptoms impact one’s ability to engage in interpersonal relationships, at work or school, etc.) gives a more comprehensive description of severity. Although the <emphasis>DSM-5-TR</emphasis> provides a categorical system through which AN, BN, and BED severity can be quantified, clinical impairment should also be considered. Measures such as the Clinical Impairment Assessment (CIA; Bohn et al., <emphasis role="CitationRef">
+                        <phrase>2008</phrase>
+                     </emphasis>) or the World Health Organization Disability Assessment Schedule (WHODAS 2.0) may be informative</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Establish a timeline to describe when symptoms began and for what duration they occurred. For ED diagnoses, the presence or absence of a single symptom for a period of time can influence diagnosis (e. g., the presence or absence of ICBs influences whether a diagnosis of BN or BED is appropriate)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Get specific details of an individual’s restricting and/or binge-eating episodes. For instance, someone may be able to estimate how many cups or teaspoons of food they ate, or they may be able to provide the brand name of a food that can then be researched to provide additional information. Additionally, do not assume that binge-eating episodes must feature “junk food.” Many persons who binge eat consume “healthy foods” during their binge-eating episodes (e. g., eating an entire package of baby carrots). Consider the volume and amount of food relative to what most other people would eat in a similar situation when evaluating binge-eating episodes. Finally, consider a person’s energy balance needs when evaluating binge-eating and restricting episodes. A 6′4″ man who exercises for 2 hours/day will require more energy from food than a woman who does not exercise and is 5′0″ tall. Similarly, a woman of 5′4″ who weighs 400 pounds will require more energy to maintain her weight than a woman of 5′4″ who weighs 135 pounds. In other words, what constitutes a large amount of food will vary depending on the person’s specific energy input and output</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Be sure to ask about the context of a person’s binge-eating or restricting episodes. For example, persons who observe Ramadan practice fasting; yet, this does not preclude these periods of fasting to be considered inappropriate compensatory behavior (in addition to religious practices). Comprehensive questioning, such as clarifying if the individual is motivated to engage in this behavior in any part because of weight/shape impact, can help elucidate ED behaviors that may accompany other, day-to-day behaviors. An additional example of the importance of context might be an instance in which an individual reports binge eating on a holiday (such as Thanksgiving) or at a particular restaurant where portions are typically quite large (such as the Cheesecake Factory); as it would normative for a person to eat an objectively large amount under such circumstances, it can be helpful to consider what amount of food would be reasonable given the setting</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Do: Be patient! EDs can significantly impact a person’s insight and ability to describe their experience. Keep in mind that certain aspects of EDs, such as overvaluation of weight and shape, can be challenging to assess. Individuals may have limited insight into these symptoms or may not respond to a particular way of evaluating these concepts. For example, some individuals may not endorse loss-of-control (LOC) during their binge-eating episodes yet describe a sense of inevitability that they would consume a large amount of food; the latter fulfills the LOC criterion for binge-eating episodes and represents an alternative way to characterize LOC. Certain phrasing and descriptions of ED concepts may resonate with some individuals more so than others</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Don’t: Do not make assumptions about a person’s ED based on his or her appearance (including body weight or shape). EDs occur in persons of all ethnicities, ages, genders, and body sizes. We simply cannot know whether a person has an ED based on their appearance</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Don’t: Do not assume a person’s current ED presentation has been their primary lifetime ED presentation. For example, if a person currently meets criteria for bulimia nervosa and indicates that there was a time in which they were binge eating without engaging in ICBs, binge ED history should also be considered. Furthermore, if a person currently engages in non-purging ICBs (e. g., fasting), this does not preclude them from having a history of purging behaviors (e. g., laxative misuse)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Don’t: Do not forget to consider important factors such as gender, cultural background, and other individual differences when formulating your case conceptualization. In special populations such as athletes, for example, the same amount of exercise that would be deemed “excessive” in an average person may not be considered excessive given the demands of their sport training</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="Para">We find it useful to collaboratively develop a timeline of the ED behaviors and cognitions that begins with the person’s first eating disorder behavior until the present time. The interviewer should attempt to gather information on the temporal relationships between past eating disorder behaviors and weight fluctuations. For example, if an individual has a history of dieting, the interviewer will want to know how much weight was lost after the first attempt to diet, over what period of time the diet occurred, how much was consumed during that time, what other behaviors occurred during and after<indexterm significance="normal">
+         <primary>after</primary>
+      </indexterm> the diet ceased, and how the behaviors and thoughts affected their day-to-day functioning, social relationships, and their self-image. The interviewer will also want to<indexterm significance="normal">
+         <primary>to</primary>
+      </indexterm>obtain the client’s lowest and highest body weights for their height (excluding pregnancy) and inquire about the eating behaviors, ICBs, and physical activity patterns the person was engaging in during that time. Obtaining a full weight history is important because people often “migrate” among ED diagnoses over time (e. g., from AN to BN) without recovering. Thus, obtaining information on weight history will enable the clinician to see the “full picture” with respect to the scope and severity of the ED. Throughout the diagnostic interviewing process, the interviewer should work to remain nonjudgmental, supportive, and collaborative, while also obtaining detailed information necessary to make an accurate diagnosis and develop an effective treatment plan. Given that lay definitions of various ED behaviors<indexterm significance="normal">
+         <primary>behaviors</primary>
+      </indexterm> differ from clinical and diagnostic definitions, we encourage the clinician to err on the side of obtaining objective information and informant reports, when appropriate.</para>
+   <para role="Para">Finally, it is important that clinicians are<indexterm significance="normal">
+         <primary>are</primary>
+      </indexterm> sensitive to the physical and cognitive needs of clients with EDs. Clinics that see people with EDs should be able to accommodate a full range of body shapes and sizes. For example, there should be sufficient seat padding or extra cushions to prevent people with low body weights from bruising and bariatric-sized chairs for people with higher body weights. Keep in mind how embarrassing it would feel if you were a client who was seeking help for your eating and<indexterm significance="normal">
+         <primary>and</primary>
+      </indexterm> body-image issues, and you could not fit through the clinic front doors, or you sat down and broke a clinic chair! You will also want to be mindful of the fact that clients who are malnourished may be slow to respond to questions or be forgetful. It is important to note that malnutrition is not perfectly aligned with body weight—many clients who are severely restricting their food intake (including clients living in larger bodies) may experience cognitive effects associated with inadequate caloric intake. Thus, depending on the client’s needs, the clinician may want to break up the intake session<indexterm significance="normal">
+         <primary>session</primary>
+      </indexterm>
+      into<indexterm significance="normal">
+         <primary>into</primary>
+      </indexterm> a few shorter sessions.</para>
+</sect1>

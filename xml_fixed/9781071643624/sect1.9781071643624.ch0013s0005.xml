@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0005" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0013s0004</risprev>
+         <riscurrent>sect1.9781071643624.ch0013s0005</riscurrent>
+         <risnext>sect1.9781071643624.ch0013s0006</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>13</chapternumber>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>11. Dissociative Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Information Critical to Making a Diagnosis</title>
+   <para role="Para">Regardless of whether the criteria for a DD are met, comorbidity is typical when severe dissociative symptoms are present. Therefore, it is critical to understand what other diagnoses have a high frequency of dissociative symptoms, as well as how comorbidity can obscure the presence of a DD. For example, dissociation that did not rise to the level of a DD diagnosis is common in BPD, DPTSD, conversion disorders, complex PTSD, depressive symptoms, OCD, substance use disorders, and schizophrenia (e. g., Lyssenko et al.,<emphasis role="CitationRef">
+         <phrase>2018</phrase>
+      </emphasis>).</para>
+   <sect2 id="ch0013s0005s01" role="Heading">
+      <title>Differential Diagnosis</title>
+      <para role="Para">Making the diagnosis<indexterm significance="normal">
+            <primary>diagnosis</primary>
+         </indexterm> of a DD can be challenging for many reasons (Brand, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). First, clients rarely volunteer information about their dissociative symptoms or trauma histories, so clinicians must inquire about both. Clients with DDs are typically aware that their symptoms sound “crazy”—creating shame, confusion, and/or fear that can reduce willingness to discuss them. It is common for them to report they are “losing their minds.” Second, many severely dissociative clients attempt to hide their poor memory, so clinicians need to directly ask about amnesia, as well as be attentive to brief moments of not recalling earlier aspects of the interview. For example, if a person shows a shift in affect, the assessor can ask them what was being discussed just before the change, especially if the mood shift(s) is accompanied by behavioral signs that may indicate dissociation. Third, most clinicians have received minimal training, if any, about trauma and dissociation, so they<indexterm significance="normal">
+            <primary>they</primary>
+         </indexterm> do not know what to ask or watch for, nor how to distinguish dissociative symptoms from similar seeming symptoms (Brand, <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>).</para>
+      <para role="Para">Fourth, severely dissociative clients may be unable to accurately report some of their symptoms and elements of their life history due to amnestic gaps for childhood, adolescence, and/or adulthood. Furthermore, their ability to recall their daily activities and history can vary, sometimes even within a single assessment session, according to how dissociative they are in the moment. These individuals’ variable memory and amnestic gaps can be confounding for clinicians who are not familiar with DDs, who may mistake this for dementia, substance abuse, or malingering. These alternative hypotheses must also be considered. Assessors may need longer assessment periods before making a differential diagnosis. Fifth,dissociative<indexterm significance="normal">
+            <primary>dissociative</primary>
+         </indexterm> symptoms can easily be mistaken for symptoms of other disorders. For example, hearing voices is often mistaken for a psychotic process such as occurs in schizophrenia, although research indicates that traumatized nonpsychotic people can experience auditory hallucinations (Brand &amp; Loewenstein, <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>; Longden et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>). The shifts from flat to depressed or irritable affect, or to agitation, are often mistaken for bipolar or borderline personality disorder. While these disorders can co-occur with DDs, they are not synonymous and they can be due to an undetected DD. Sixth, skepticism about the existence and/or validity of DDs can contribute to misdiagnosis; this is an important topic worth further discussion.</para>
+      <para role="Para">
+         Skepticism<indexterm significance="normal">
+            <primary>Skepticism</primary>
+         </indexterm> and lack<indexterm significance="normal">
+            <primary>lack</primary>
+         </indexterm>of training about dissociation often co-exist. A survey of psychologists found that only 5% felt knowledgeable about DID, and 73% reported having received little or no training about DID (Mendez et al., <emphasis role="CitationRef">
+            <phrase>2000</phrase>
+         </emphasis>). Skepticism<indexterm significance="normal">
+            <primary>Skepticism</primary>
+         </indexterm> and lack of knowledge about the disorder were correlated, suggesting that more training about dissociation would be useful. Only 60.4% of US clinicians could correctly diagnose DID when presented with a vignette clearly depicting the condition (Perniciaro, <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>). The most frequent misdiagnoses were PTSD (14.3%), schizophrenia (9.9%), and major depression (6.6%). Accurate diagnoses were most often made by clinicians who had treated a DID patient and who accepted the validity of DID. Of concern, clinicians were confident in their diagnoses, regardless of their accuracy. Studies documenting a lack of training<indexterm significance="normal">
+            <primary>training</primary>
+         </indexterm> about dissociation and linking this knowledge gap with misdiagnosis of DDs have been conducted in the United States, Northern Ireland, and Australia, indicating a widespread lack of training about DDs (Dorahy et al., <emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>; Perniciaro, <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>).</para>
+      <para role="Para">The complexity of these individuals can obscure a DD (Brand,<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). DD clients typically have multiple comorbid psychological and medical disorders (International Society for the Study of Dissociation et al., <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>). Along with a mixture of dissociative symptoms, individuals with complex DDs typically experience additional difficulties including PTSD, treatment-resistant depression, substance abuse, eating disorders, somatoform symptoms, self-destructive and suicidal behavior, and personality disorder traits (e. g., Dell,<emphasis role="CitationRef">
+            <phrase>2002</phrase>
+         </emphasis>). They report higher levels of first rank symptoms than do patients with schizophrenia, with the exception of audible<indexterm significance="normal">
+            <primary>audible</primary>
+         </indexterm> thoughts and thought broadcasting (Ross et al., <emphasis role="CitationRef">
+            <phrase>1990</phrase>
+         </emphasis>). The individual may be partially conscious of some aspects of dissociation (e. g., hearing voices, thought insertion/withdrawal, “made” actions/impulses) as well as completely unaware of what they do in some states (e. g., time loss) (Dell,<emphasis role="CitationRef">
+            <phrase>2006a</phrase>
+         </emphasis>).<phrase>11.4</phrase>Table 11.4</para>
+      for<indexterm significance="normal">
+         <primary>for</primary>
+      </indexterm>
+      <para role="SimplePara">Features that typically distinguish<indexterm significance="normal">
+            <primary>distinguish</primary>
+         </indexterm>DID/OSDD from borderline personality disorder, bipolar disorder, and schizophrenia</para>
+      <table id="ch0013s0005ta04">
+         <title/>
+         <tgroup cols="5">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <colspec colname="c4" colnum="4"/>
+            <colspec colname="c5" colnum="5"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Feature</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">DID/OSDD</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Schizophrenia and psychotic disorders</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Bipolar disorder</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Borderline personality disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Trauma</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Typically report early onset, severe, chronic CT</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• CT less likely</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• CT less likely</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• CT is frequent and often less severe than DID</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Dissociative symptoms</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Typically endorse high levels with intact RT</para>
+                     <para role="SimplePara">• Often prefer to feel numb than to have strong feelings. May self-harm to <emphasis>induce</emphasis> a state of dissociation</para>
+                     <para role="SimplePara">• When dissociating, may be involved in elaborate inner world involving identities</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Endorse mildly high symptoms with poor RT</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Lower dissociation scores expected</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Moderate symptoms; significantly lower than DID with intact RT</para>
+                     <para role="SimplePara">• Not significantly different from DID on DR and DP, but significantly lower on AM, IC, IA</para>
+                     <para role="SimplePara">• Distressed by feeling numb; may self-harm to <emphasis>stop</emphasis> dissociating</para>
+                     <para role="SimplePara">• When dissociating, likely DR or DP. Do not have an inner world of complex identities</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Shifts in identity</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• May admit to transformations in identity (e. g., “Part of me is a scared child and another part is critical and yells like my abuser did”)</para>
+                     <para role="SimplePara">• Endorse past and current amnesia for many types of behaviors</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• May admit to transformations in identity but with magical or delusional beliefs (e. g., “I had to become the prophet David and then had to fight myself when I became the devil”)</para>
+                     <para role="SimplePara">• No current AM (except when recalling periods of florid psychosis)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• None</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• May experience identity changes related to polarized mood changes (e. g., “I was the loving, happy me when I was dating my boyfriend but when he left, the depressed, angry me took over”)</para>
+                     <para role="SimplePara">• Little if any significant current AM outside of drug and alcohol use</para>
+                     <para role="SimplePara">• May have less detailed recall for behavior in mood states different from current one</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Hallucinatory experiences</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Voices express conflicting opinions and values</para>
+                     <para role="SimplePara">• Hearing “thoughts that aren’t mine” or “arguing thoughts”</para>
+                     <para role="SimplePara">• Multiple conversations at the same time</para>
+                     <para role="SimplePara">• May experience brief periods of “seeing” past traumas or “seeing” identities; RT otherwise intact</para>
+                     <para role="SimplePara">• Auditory/visual hallucinations relate to high dissociation</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• May endorse voices without awareness of hallucinatory quality</para>
+                     <para role="SimplePara">• Voices are not involved in elaborate, ongoing discussions</para>
+                     <para role="SimplePara">• Voices are not typically related to past abusers and/or hurt children</para>
+                     <para role="SimplePara">• Hallucinations are due to psychotic process</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Experiences hallucinations only during episodes of psychotic mania or depression</para>
+                     <para role="SimplePara">• In psychotic depression, the voices are typically solely persecutory</para>
+                     <para role="SimplePara">• Voices not in conflict with one another</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• If experiences hallucinatory experiences, they are brief, distressing and occur during stress</para>
+                     <para role="SimplePara">• If endorses voices, they express patient’s polarized thoughts, not different values and opinions</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Affect</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Mood shifts are often rapid and frequent that occur due to internal or external events</para>
+                     <para role="SimplePara">• Typically avoid affect</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Flat and/or inappropriate affect</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Less rapid mood shifts</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Affect is significantly less modulated than in DID and shifts according to external precipitants</para>
+                     <para role="SimplePara">• Frequent emptiness and intense anger</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Ability to perceive accurately and think logically</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Perceptions are generally accurate</para>
+                     <para role="SimplePara">• Thinking is usually logical and organized despite traumatic intrusions</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Perception is not significantly less accurate than in DID</para>
+                     <para role="SimplePara">• Thinking is significantly less logical and organized than DID</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Disturbed only during mood episodes</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Perception is significantly less accurate than in DID</para>
+                     <para role="SimplePara">• Thinking is significantly less logical and organized than in DID</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Working alliance</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Can develop a working alliance although need trauma-based mistrust to be repeatedly discussed and managed</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Less capable of developing a working alliance</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Capable of developing a working alliance</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">• Often less capable of developing a working alliance due to intense emotionality and poor self-observation skills</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="SimplePara">
+         <emphasis>Notes.</emphasis> CT = Childhood trauma, RT = Reality testing, DP = Depersonalization, DR = Derealization, AM = Amnesia, IC = Identity confusion, IA = Identity alteration. OSDD = Other specified dissociative disorder. <emphasis>Note.</emphasis> Adapted from “Dissociative Disorders: An Overview of Assessment, Phenomenology and Treatment,” by B. L. Brand and R. J. Loewenstein, 2010, <emphasis>Psychiatric Times</emphasis>, <emphasis>24,</emphasis>p 8. 66–67</para>
+   </sect2>
+   <sect2 id="ch0013s0005s02" role="Heading">
+      <title>Exaggerated, Factitious, and Malingered Presentations</title>
+      <para role="Para">
+         Individuals<indexterm significance="normal">
+            <primary>Individuals</primary>
+         </indexterm>with developmental or prolonged trauma often show elevations on a wide range of clinical and validity scales due to the severity and breadth of symptoms associated with trauma (e. g., Wolf et al.,<emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>). Clinicians need to be knowledgeable and up-to-date about research that provides empirically based guidance for interpreting traumatized individuals’ performance on psychological tests and interviews, particularly in forensic and disability assessments, where there may be motivation to exaggerate symptoms. Distinguishing exaggerated from factitious, malingered, and genuine DDs is further complicated because<indexterm significance="normal">
+            <primary>because</primary>
+         </indexterm> individuals may fully fabricate their symptoms, or they may have a genuine DD yet exaggerate some of their symptoms (Brand, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). Research has shown that many validity scales that were developed to detect possible exaggeration or malingering included symptoms that are common among trauma survivors; when these individuals honestly report the wide range of symptoms they experience, their endorsement of items which were thought to be rare may elevate their scores such that they are misclassified as feigning (reviewed in Brand, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>).</para>
+      <para role="Para">
+         Research<indexterm significance="normal">
+            <primary>Research</primary>
+         </indexterm> is developing that can assist clinicians in distinguishing feigned from genuine trauma presentations, although many tests have not yet been studied with traumatized, including highly dissociative, individuals. Space constraints limit this discussion to noting that individuals with genuine DDs are at risk for being misdiagnosed, and/or misclassified as feigning, by many validity tests and interviews if the assessor is not aware of research with DDs [see Brand (<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>) for a review]. These include the Minnesota Multiphasic Personality Inventory-2<indexterm significance="normal">
+            <primary>Minnesota Multiphasic Personality Inventory-2</primary>
+         </indexterm> (Ambrose et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>; Brand &amp; Chasson, <emphasis role="CitationRef">
+            <phrase>2015</phrase>
+         </emphasis>; Brand et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>; Butcher et al., <emphasis role="CitationRef">
+            <phrase>2001</phrase>
+         </emphasis>); the PAI (Stadnik et al., <emphasis role="CitationRef">
+            <phrase>2013</phrase>
+         </emphasis>); the Structure Interview of Reported Symptoms (SIRS)<indexterm significance="normal">
+            <primary>Structure Interview of Reported Symptoms (SIRS)</primary>
+         </indexterm>, although using the Trauma Index on the SIRS/SIRS-2 greatly<indexterm significance="normal">
+            <primary>greatly</primary>
+         </indexterm> improves the utility of this test (Brand et al., <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>; Rogers et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>); and the TSI-2 (Briere, <emphasis role="CitationRef">
+            <phrase>2011</phrase>
+         </emphasis>; Palermo &amp; Brand, <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>). The Test of Memory Malingering (TOMM; Tombaugh, <emphasis role="CitationRef">
+            <phrase>2002</phrase>
+         </emphasis>; Brand et al., <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>), the Miller Forensic Assessment of Symptoms Test (Barth et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>; Finley et al., <emphasis role="CitationRef">
+            <phrase>under review</phrase>
+         </emphasis>), and the Morel Emotional Numbing Test<indexterm significance="normal">
+            <primary>Morel Emotional Numbing Test</primary>
+         </indexterm> (Finley et al., <emphasis role="CitationRef">
+            <phrase>under review</phrase>
+         </emphasis>) are<indexterm significance="normal">
+            <primary>are</primary>
+         </indexterm> symptom validity tests that have been studied in individuals with DDs (Brand et al., in press). It is notable that even clients diagnosed with DID in forensic evaluations pass the TOMM<indexterm significance="normal">
+            <primary>TOMM</primary>
+         </indexterm>, providing support to the idea that the memory problems associated with this disorder are not typically exaggerated in individuals with genuine DID. These tests show promise because they do not over-classify DD individuals as feigners, although some appear to need adjusted cutoff scores. Replication with diverse samples of highly<indexterm significance="normal">
+            <primary>highly</primary>
+         </indexterm> dissociative individuals is needed.</para>
+   </sect2>
+</sect1>

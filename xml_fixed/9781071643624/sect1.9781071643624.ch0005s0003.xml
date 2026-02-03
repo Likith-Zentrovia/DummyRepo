@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0005s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0005s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0005s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0005s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>5</chapternumber>
+         <chapterid>ch0005</chapterid>
+         <chaptertitle>4. Mental Status Examination</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Conducting the Assessment</title>
+   <sect2 id="ch0005s0003s01" role="Heading">
+      <title>Procedures for Gathering Information</title>
+      <para>
+         <phrase>2006</phrase>
+         <phrase>1977</phrase>
+         <link linkend="ch0005s0003fg01">4.1</link>
+      </para>
+      <figure float="0" id="ch0005s0003fg01" role="Figure">
+         <title>
+            <emphasis role="CaptionNumber">Fig. 4.1</emphasis>Client clock drawing examples, demonstrating varying cognitive status and ability. (<emphasis role="strong">a</emphasis>) A client response within normal limits, accurately depicting “10 min after 11.” (<emphasis role="strong">b</emphasis>) A client response with an error in hand placement (11:10), demonstrating stimulus bound behavior. (<emphasis role="strong">c</emphasis>) A client response with an error in numbering, demonstrating perseverative thinking. (<emphasis role="strong">d</emphasis>) A client response with an error in spacing of the numbers (depicting “20 min to 4”), demonstrating planning difficulties</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0005f01.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+         </mediaobject>
+      </figure>
+   </sect2>
+   <sect2 id="ch0005s0003s02" role="Heading">
+      <title>Contextual Factors</title>
+      <para role="Para">
+         <emphasis role="strong">Settings</emphasis>: The diagnostic interview in general, and the MSE in particular, may vary somewhat depending on the clinical setting, client population, and referral source. The format of the MSE will depend on both the clinician’s specialty training as well as the intended audience of the clinical documentation. For example, clinicians who work in hospital emergency department and inpatient psychiatric<indexterm significance="normal">
+            <primary>psychiatric</primary>
+         </indexterm> settings may be more familiar than their outpatient counterparts with assessing and noting thought disorders and perceptual disturbances, as they may encounter more individuals in a psychotic, manic, or severely agitated state. Clinicians in outpatient mental health clinics see the gamut of mental health conditions but often encounter individuals with a degree of stability and functional success that allows them to live in the community. Nonetheless, such clinicians will likely be aware of the importance of querying for latent symptoms of psychosis<indexterm significance="normal">
+            <primary>psychosis</primary>
+         </indexterm>, personality disorders (particularly borderline personality disorder), substance use, and suicidality. Neuropsychologists and neurologists will likely be attuned to signs of motor disturbances and cognitive impairment. Providers across many disciplines and settings (e. g., clinical psychology, psychiatry, social work, rehabilitation medicine, primary care/family medicine, neurology, private practice mental health) use some form of an MSE, although the write-up of the intake evaluation or clinical encounter may take a different form depending on setting. Most importantly, the language of the MSE should facilitate communication among the many professionals who may interact with both the clinical documentation and the client. Clinicians should ground all observations of clients in evidence from the interview<indexterm significance="normal">
+            <primary>interview</primary>
+         </indexterm>; this is critical for other readers of the MSE and may be done through statements, such as “as evidenced by…,” “with…,” “characteristic of…,” “noteworthy behaviors include…,” and the like. The clinician’s goal is to produce a meaningful description of the client, based on observable evidence from the session, which can be easily interpreted by the relevant audience for a given setting. Moreover, a clinician establishes credibility as an interviewer through the ability to cite and describe the various pieces of evidence that support the somewhat subjective nature of this assessment.</para>
+      <para role="Para">
+         <emphasis>
+            <emphasis role="strong">Telehealth considerations</emphasis>
+         </emphasis>: Telehealth<indexterm significance="normal">
+            <primary>Telehealth</primary>
+         </indexterm> was understudied and underused until the COVID-19 pandemic. Since then, it has been generally well received and widely utilized, has improved accessibility, and will continue to be an integral part of health care. While screening tools exist for remote assessment of cognition such as telephone-based instruments derived from the MoCA (Frank et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>), specific limitations related to adapting MSE to telehealth visits are important to consider.</para>
+      <para role="Para">Several of a clinician’s senses—including visual, auditory, and olfactory—commonly utilized in mental status assessment are limited in virtual settings. Creativity must be utilized to maximize the observation and assessment performed<indexterm significance="normal">
+            <primary>performed</primary>
+         </indexterm> within a telehealth setting. To assess appearance and gait, ambulatory clients might be asked to walk across the room in view of the camera. Screen sharing can be utilized by the clinician to administer questionnaires such as the PHQ-9. The client’s ability to navigate and interact with the technology used for the appointment can provide valuable information regarding their thought processes, memory, functional ability, and fine and gross motor skills. Furthermore, many elements of the MSE are preserved through telehealth appointments such as clinician’s using visual and auditory observations to assess mood, affect, thinking, memory, insight, etc.</para>
+      <para role="Para">Clinical telehealth policies should include rules regarding whether clients must be visible during sessions and where the sessions can take place (i. e., if the client or therapist is out-of-state or country for work, where licensure may be an issue). To visibly assess for safety, especially when non-suicidal self-injury is a concern, clinicians can ask the client to remain on screen with their camera on for the duration of the appointment. Knowing where the client is located is essential, should an emergency response become necessary. Clinicians should ensure clients are in a quiet, private setting to protect confidentiality. Licensing laws regarding telehealth vary by state, so it is important to adhere to state guidance.</para>
+      <para role="Para">Specific populations such as rural-dwelling individuals, some older adults, and those living below the poverty line may not have reliable access to the Internet or Internet-enabled devices, and therefore, telephone rather than video sessions may be the only option to facilitate care. Finally, as telehealth only recently became a feasible option for treatment, many evidence-based treatments (EBTs) previously found to be efficacious have yet to be evaluated for telehealth. Clinicians should be mindful of this when selecting appropriate EBTs for telehealth clients, though initial research shows comparable outcomes between telehealth and face-to-face interventions (Greenwood et al.,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">
+         <emphasis role="strong">Populations</emphasis>: Varied clinical populations benefit from adjustments to the MSE or additional special considerations, relative to the clinical setting and goals of the evaluation. For all clients, a thorough MSE includes individualized observation and person-centered interpretation. The clinician can increase inclusivity and appropriateness of MSE procedures by considering some additional, population-specific features.</para>
+      <para role="Para">
+         <emphasis>
+            <emphasis role="strong">Cultural considerations</emphasis>
+         </emphasis>: The MSE is subjective and influenced by cultural background; for instance, immigrants or those from impoverished backgrounds may lack certain knowledge (e. g., reciting recent US presidents). Non-native English speakers may use different vocabulary to convey subjective experiences. Cultural factors<indexterm significance="normal">
+            <primary>factors</primary>
+         </indexterm> like education quality and access affect cognitive assessment. Non-white racial/ethnic minorities may perform differently on standardized tests originally normed and developed in predominantly non-Hispanic white samples. Clinicians should choose assessments considering factors like age, race, education, and culture, ideally administered in the client’s native language.</para>
+      <para role="Para">With respect to culture, we emphasize the distinction between “different” and “pathological,” wherein the former is a subjective determination best contextualized by the culture of the client. This may be the case with cultural concepts of distress, such as<emphasis>ataque de nervios</emphasis>, a constellation of physical and emotional responses to a stressor endorsed by Hispanic/Latino individuals (particularly Puerto Rican, Dominican, and Cuban individuals; Lewis-Fernández &amp; López, <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). Similarly, individuals from Asian cultures may be more likely to report somatic symptoms of distress rather than emotional symptoms (Haroz et al., <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>). Clinicians can best clarify their understanding of a client’s experience by reflecting the client’s own language and choice of vocabulary back to them during the session, with an attempt to understand the client’s meaning. Tools like the Cultural Formulation Interview (Lewis-Fernández et al., <emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>) can be utilized by clinicians to better understand the client’s cultural background and current functioning.</para>
+      <para role="Para">
+         <emphasis>
+            <emphasis role="strong">Neurodevelopmental considerations</emphasis>
+         </emphasis>: When working with individuals with intellectual developmental disorder (IDD) and ASD, sensitivity is crucial due to their unique communication styles, cognitive differences, and attentional challenges. Establishing rapport with both the client and caregiver(s) is essential. Activities like drawing or completing puzzles together may facilitate rapport-building and provide insight into the individual’s typical environment. Consider thought content, emotional expression<indexterm significance="normal">
+            <primary>expression</primary>
+         </indexterm>, and psychomotor behavior within the context of a neurodevelopmental condition to avoid misclassification. For instance, someone with ASD may appear indifferent or lack expression, potentially misinterpreted as flat affect seen in schizophrenia. Ideas expressed by those with neurodevelopmental conditions may resemble delusions due to lack of evidence; thus, thorough history-taking and review with knowledgeable caregivers are crucial.</para>
+      <para role="Para">
+         <emphasis>
+            <emphasis role="strong">Aging</emphasis>
+         </emphasis>: Developmental considerations are also crucial for aging, older adult clients, as mental disorders often manifest differently with increased age. Age-appropriate assessments are essential (see Segal et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). For instance, older adults with depressive symptoms may express somatic and cognitive complaints rather than sadness, which may be challenging to differentiate from medical concerns (Fiske et al., <emphasis role="CitationRef">
+            <phrase>2009</phrase>
+         </emphasis>; Haigh et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). Historical context, such as a person’s birth cohort (e. g., the Silent Generation, Baby Boomers), can influence symptom presentation, including a reluctance to disclose emotional vulnerability. Clinicians should be aware of implicit ageist beliefs that may affect appropriate inquiry into substance use, sexual behaviors, and suicidal or homicidal thinking. It’s important to recognize that cognitive decline is just one of many potential concerns for older clients, and that many older individuals will not experience significant cognitive declines at all.</para>
+      <para role="Para">
+         <emphasis>
+            <emphasis role="strong">Medical populations</emphasis>
+         </emphasis>: Certain medical conditions may cause altered mental status or expression of psychiatric symptoms. Clinicians should therefore collect medical history whenever possible, and clinicians should ask the client about their past and current medications. Asking about medications may clue the clinician into existing medical conditions which may be contributing to abnormal presentation during the MSE or may alert the clinician to potential drug interactions. Medical populations and older adults are often prescribed multiple medications, compounding the risk for adverse reactions.</para>
+   </sect2>
+</sect1>

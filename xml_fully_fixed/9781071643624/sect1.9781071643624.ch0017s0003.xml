@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0017s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0017s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0017s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0017s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>17</chapternumber>
+         <chapterid>ch0017</chapterid>
+         <chaptertitle>15. Substance Use Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   <para role="Para">Recommendations are provided<indexterm significance="normal">
+         <primary>provided</primary>
+      </indexterm> below for additional considerations when conducting a substance use assessment, including an understanding of specific drug classes, co-occurring mental health symptoms, and the role of stigma.</para>
+   <sect2 id="ch0017s0003s01" role="Heading">
+      <title>Drug Classes</title>
+      <para role="Para">Psychoactive substances<indexterm significance="normal">
+            <primary>substances</primary>
+         </indexterm>are categorized into specific drug classes (e. g., stimulants, depressants, hallucinogens) that differ in their physiological and behavioral effects and associated risks and consequences. For example, a stimulant versus an opioid analgesic produces very different physiological and psychological effects. Cocaine use<indexterm significance="normal">
+            <primary>use</primary>
+         </indexterm> is often associated with feelings of euphoria, increased energy, alertness, and rapid speech, as well as physiological effects such as increased heart rate, temperature, and blood pressure. In contrast, heroin use tends to produce tranquility, sedation, and reduced anxiety; the physical effects may include<indexterm significance="normal">
+            <primary>include</primary>
+         </indexterm> respiratory depression, nausea, and vomiting. The risks and consequences associated with each drug also differ. Cocaine<indexterm significance="normal">
+            <primary>Cocaine</primary>
+         </indexterm> is often linked with increases in sexual risk-taking behaviors and an increased likelihood of cocaine-induced psychosis, whereas heroin is associated with intense physical withdrawal symptoms and increased risk of fatal and non-fatal overdose. It is therefore important to determine patterns of use within specific drug classes when conducting a functional assessment of substance<indexterm significance="normal">
+            <primary>substance</primary>
+         </indexterm> use to inform treatment referral and planning. For a review of drug class differences, we recommend <emphasis>A Primer of Drug Action, 15th Edition</emphasis> (Julien et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>)<emphasis>.</emphasis>
+      </para>
+   </sect2>
+   <sect2 id="ch0017s0003s02" role="Heading">
+      <title>Co-occurring Mental Health Symptoms</title>
+      <para role="Para">
+         SUDs<indexterm significance="normal">
+            <primary>SUDs</primary>
+         </indexterm> often co-occur with other mental health disorders. Among adults with SUDs, 44% have a co-occurring mental health disorder (Substance Abuse and Mental Health Services Administration (SAMHSA), <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>), most notably depression, anxiety<indexterm significance="normal">
+            <primary>anxiety</primary>
+         </indexterm>, and psychotic disorders. SUDs also often co-occur with personality disorders such as borderline and antisocial personality disorders (Parmar &amp; Kaloiya, <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). Co-occurring psychiatric diagnoses often play an influential role in the course of SUD, increasing the likelihood of early treatment termination, return to substance use, and other negative psychosocial consequences (Andersson et al., <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>; Krawczyk et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>).</para>
+      <para role="Para">Co-occurring psychiatric diagnoses can be determined with the clinician-administered interviews listed in Table<emphasis role="InternalRef">
+            <phrase>15.1</phrase>
+         </emphasis>. It is also helpful to include a dimensional approach, which will provide information about co-occurring<indexterm significance="normal">
+            <primary>co-occurring</primary>
+         </indexterm>mental health symptoms in relation to substance use irrespective of a co-occurring diagnosis. Consider a client suffering from elevated depressive symptoms; low mood or hopelessness may be a trigger for their substance use, which can then inform the use of an SUD treatment that addresses depressive symptoms (e. g., behavioral activation for SUD; Daughters et al.,<emphasis role="CitationRef">
+            <phrase>2016</phrase>
+         </emphasis>). It is helpful to assess common symptoms and underlying psychological and behavioral constructs (e. g., emotion regulation, distress tolerance, impulsivity). The reader is referred to the Science of Behavior Change Measures Repository (Science of Behavior Change, 2017) for tools to assess symptoms in the domains of self-regulation, stress reactivity and stress resilience, and interpersonal and social processes.</para>
+      <para role="Para">Prior to assessment, it is first<indexterm significance="normal">
+            <primary>first</primary>
+         </indexterm> important to ensure that the intoxication or withdrawal effects of substance use do not account for the presence of symptomatology. The PRISM-5 is a diagnostic tool developed to meet this need (Hasin et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>). It distinguishes between DSM-5 primary and substance-induced diagnoses. The substance<indexterm significance="normal">
+            <primary>substance</primary>
+         </indexterm> use modules of the PRISM-5 precede other diagnostic modules so that the interviewer is able to place other disorders appropriately in the context of one’s substance use<indexterm significance="normal">
+            <primary>use</primary>
+         </indexterm> history.</para>
+   </sect2>
+   <sect2 id="ch0017s0003s03" role="Heading">
+      <title>The Role of Stigma in Assessment</title>
+      <para role="Para">Substance use problems<indexterm significance="normal">
+            <primary>problems</primary>
+         </indexterm> are highly stigmatized, even more than other mental health problems (Barry et al., <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). People who use drugs report stigmatization when accessing medical care and drug treatment, which is related to reduced utilization of these services (Paquette et al., <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>). In the context of screening and assessment, stigma may contribute to a reluctance to disclose substance use and may lead individuals to minimize their substance-related problems. To maximize the validity of assessments, effective interviewers will emphasize building rapport, discuss substance use in a direct, nonjudgmental manner, and avoid use of potentially stigmatizing language (e. g., “addict,” “junkie,” “alcoholic”). In addition to avoiding slang and idioms, current recommendations for reducing inadvertent stigmatization include using person-first language (e. g., “person with an opioid use disorder”) and language that emphasizes the medical nature of substance use<indexterm significance="normal">
+            <primary>use</primary>
+         </indexterm>disorders (e. g., “substance use disorder” vs. “substance abuse”) (Broyles et al.,<emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>).</para>
+   </sect2>
+</sect1>

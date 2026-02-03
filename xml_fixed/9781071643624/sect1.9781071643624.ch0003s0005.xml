@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0005" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0003s0004</risprev>
+         <riscurrent>sect1.9781071643624.ch0003s0005</riscurrent>
+         <risnext>sect1.9781071643624.ch0003s0006</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>2. Interviewing Strategies, Empathy, and Rapport</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Structured and Semi-Structured Diagnostic Interviews</title>
+   <para role="Para">In fully structured diagnostic interviews, there is less flexibility than in unstructured interviews, and building rapport with the client often becomes challenging. There are not only questions that the interviewer needs to ask verbatim but also strict rules regarding the execution of the interview.Interruptions<indexterm significance="normal">
+         <primary>Interruptions</primary>
+      </indexterm>tend to be more common in these types of interviews because the interviewer needs the client to stay on task and may need to consistently redirect the client to the task at hand. In structured diagnostic interviews, the questions are designed to assess the specific criteria for mental disorders defined in the DSM or other system (e. g., the AMPD).</para>
+   <para role="Para">In semi-structured interviews, the interviewer would be expected to ask some questions verbatim and/or follow a specific order but has more freedom regarding follow-up questions. Like structured diagnostic interviews, semi-structured interviews tend to be based on a diagnostic system and meant to guide the practitioner through criteria of various mental disorders. Unlike a fully structured interview<indexterm significance="normal">
+         <primary>interview</primary>
+      </indexterm>, the practitioner may rely on their own experience and clinical judgment to ask follow-up questions, build rapport with the client as the interview is conducted, and allow the client to expand in some areas that resonate more strongly.</para>
+</sect1>

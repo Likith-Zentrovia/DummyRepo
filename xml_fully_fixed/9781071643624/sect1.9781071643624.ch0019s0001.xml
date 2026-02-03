@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0001" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0019s0009</risprev>
+         <riscurrent>sect1.9781071643624.ch0019s0001</riscurrent>
+         <risnext>sect1.9781071643624.ch0019s0002</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>19</chapternumber>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>17. Schizophrenia and Other Psychotic Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Description of the Disorder</title>
+   <para role="Para">Over the past 100 years, there has been a growing recognition of schizophrenia as a syndrome with a distinct constellation of symptoms, a variable course, and other associated features. Although there is general consensus about some aspects of this disorder, there is still a great deal to learn regarding etiology, pathophysiology, and successful treatments. In this section, we will provide a brief background of what is currently known about the prevalence, course, etiology, characteristic symptoms<indexterm significance="normal">
+         <primary>symptoms</primary>
+      </indexterm>, associated features, treatments, and outcomes of schizophrenia.</para>
+   <sect2 id="ch0019s0001s01" role="Heading">
+      <title>Prevalence, Etiology, and Course</title>
+      <para role="Para">
+         Schizophrenia<indexterm significance="normal">
+            <primary>Schizophrenia</primary>
+         </indexterm> is among the top ten leading causes of disability worldwide (World Health Organization, <emphasis role="CitationRef">
+            <phrase>2008</phrase>
+         </emphasis>). It is estimated to affect 1% of the population, although there is significant variability in incidence across studies. There is a slightly higher incidence among males than females with males also tending to have an earlier age of onset and a generally less favorable course. The typical age of onset is during adolescence or early adulthood. Genetic factors play a strong role in the etiology of schizophrenia, and a number of different genes are implicated in risk for the disorder (Zamanpoor, <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). However, no single genetic factor has consistently been identified, suggesting that multiple genes may combine or interact to give rise to this complex disorder. In addition, several environmental factors are associated with slight<indexterm significance="normal">
+            <primary>slight</primary>
+         </indexterm> but reliable increases in risk for schizophrenia. These include prenatal infection, obstetric and perinatal complications, winter/spring season of birth (Davies et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>), older paternal age (Wohl &amp; Gorwood, <emphasis role="CitationRef">
+            <phrase>2007</phrase>
+         </emphasis>), social stress and trauma (Pruessner et al., <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>), and cannabis use (Hasan et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>).</para>
+      <para role="Para">Historically,schizophrenia<indexterm significance="normal">
+            <primary>schizophrenia</primary>
+         </indexterm>was considered to be a progressive disorder with a poor and deteriorating course. However, several studies of long-term outcome in schizophrenia indicate there are several course types and outcomes. Approximately a third experience a stable or fluctuating course, about a third experience deterioration, and the remaining third experience lasting improvements. Although symptoms may be quite variable over time, the cognitive and functional deficits associated with schizophrenia frequently both predate the onset of psychotic symptoms and persist even during periods<indexterm significance="normal">
+            <primary>periods</primary>
+         </indexterm> of symptom remission (Keshavan et al., <emphasis role="CitationRef">
+            <phrase>2005</phrase>
+         </emphasis>).</para>
+   </sect2>
+   <sect2 id="ch0019s0001s02" role="Heading">
+      <title>Characteristic Symptoms and Associated Features</title>
+      <para>
+         <phrase>2022</phrase>
+         <phrase>17.1</phrase>Table 17.1</para>
+      symptoms<indexterm significance="normal">
+         <primary>symptoms</primary>
+      </indexterm>
+      <para role="SimplePara">
+         Summary<indexterm significance="normal">
+            <primary>Summary</primary>
+         </indexterm>of DSM-5-TR diagnostic features for schizophrenia</para>
+      <table id="ch0019s0001ta01">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Criterion</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Description</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">A. Characteristic symptoms (active phase)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Two or more of the following: delusions, hallucinations, negative symptoms, disorganized speech or behavior<superscript>a</superscript>
+                     </para>
+                     <para role="SimplePara">Time frame: at least 1 month (or less if successfully treated)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">B. Social/occupational dysfunction</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">One or more areas of functioning (e. g., work, interpersonal, self-care) are impaired</para>
+                     <para role="SimplePara">Time frame: significant portion of time since the onset of disorder</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">C. Duration</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Some sign of disturbance or impairment (can be less severe or fewer symptoms) precede or persist after active phase (Criterion A) for at least 6 months</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry nameend="c2" namest="c1">
+                     <para role="SimplePara">Exclusion criterion</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">D. Schizoaffective and mood disorder exclusion</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Active phase symptoms (criterion A) do not occur concurrent with mood episode, or if mood episode is present, it is brief</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">E. Substance use and general medical condition exclusion</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Symptoms or disturbances are not due to drug use or withdrawal, medication, or a medical condition</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">F. Relationship to pervasive developmental disorder (PDD)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">If there is a history of autism or PDD, a diagnosis of schizophrenia is only given if there is an active phase consisting of prominent hallucinations or delusions</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="SimplePara">Adapted from DSM-5-TR (American Psychiatric Association,<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>)</para>
+      <para role="SimplePara">
+         <superscript>a</superscript> Note: Only one symptom is necessary to fulfill this criterion if delusions are bizarre, or auditory hallucinations include two or more voices conversing with each other or a voice commenting on the individual’s behavior or thoughts</para>
+   </sect2>
+   <sect2 id="ch0019s0001s03" role="Heading">
+      <title>Positive Symptoms</title>
+      <para role="Para">
+         Hallucinations<indexterm significance="normal">
+            <primary>Hallucinations</primary>
+         </indexterm>are the most frequent type of positive symptoms and may occur in any sensory modality, but are most commonly auditory. Auditory hallucinations generally occur when the individual hears a voice or voices that are not their own. The voices sometimes tell the person what to do (i. e., command hallucinations), sometimes comment on the person’s thoughts or actions, may consist of more than one voice having a conversation with each other, or may consist only of sounds rather than voices.Hallucinations<indexterm significance="normal">
+            <primary>Hallucinations</primary>
+         </indexterm>are distinct from the person’s own thoughts and need also to be distinguished from other transient perceptual experiences (e. g., hearing one’s name called out, or the experience of voices heard when<indexterm significance="normal">
+            <primary>when</primary>
+         </indexterm>falling asleep or awakening (i. e., hypnagogic and hypnopompic hallucinations).</para>
+      <para role="Para">
+         Delusions<indexterm significance="normal">
+            <primary>Delusions</primary>
+         </indexterm>
+         are<indexterm significance="normal">
+            <primary>are</primary>
+         </indexterm>defined as “fixed beliefs that are not amenable to change in light of conflicting evidence” (American Psychiatric Association, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>). The content of delusions generally falls into one of several categories: grandiose, persecutory, delusions of reference, or delusions of having one’s thoughts or actions controlled by an outside entity. Delusions<indexterm significance="normal">
+            <primary>Delusions</primary>
+         </indexterm> are considered to be bizarre if they are clearly implausible and disconnected from typical life experiences or the cultural context of the individual’s experience, for example, the belief that one’s brain has been replaced with another person’s brain would be considered bizarre (since it is not possible at all to occur). In contrast, a non-bizarre delusion represents a false belief that could actually occur, for example, the belief that the government is spying on a person.</para>
+      <para role="Para">
+         Severe disorganization<indexterm significance="normal">
+            <primary>Severe disorganization</primary>
+         </indexterm> of thoughts or behavior is a subset of positive symptoms that have been shown to be relatively distinct from hallucinations and delusions. These refer to abnormalities in the process, structure, and form of thoughts or behaviors. In the context of a diagnostic interview, disorganization of thought is identified<indexterm significance="normal">
+            <primary>identified</primary>
+         </indexterm>in speech patterns (e. g., loose associations, tangentiality, or incoherent speech) during the interaction. Disorganization of behavior often manifests as unusual motor behaviors such as pacing, rocking, or other odd or erratic movements. Severe disorganized behavior can result in the inability to appropriately maintain activities of daily living such as personal hygiene, grooming, and dressing. For example, an individual presenting in<indexterm significance="normal">
+            <primary>in</primary>
+         </indexterm>an interview with poor hygiene and grooming or wearing clothing inconsistent with the season (e. g., winter coat and hat during the summer) may be experiencing symptoms of disorganized behavior. Catatonic symptoms are marked psychomotor disturbances (i. e., absence of movement or waxy flexibility) that can also occur in schizophrenia but is not unique to this disorder and tends to be less common than the other<indexterm significance="normal">
+            <primary>other</primary>
+         </indexterm> positive symptoms.</para>
+   </sect2>
+   <sect2 id="ch0019s0001s04" role="Heading">
+      <title>Negative Symptoms</title>
+      Negative symptoms<indexterm significance="normal">
+         <primary>Negative symptoms</primary>
+      </indexterm>
+      of<indexterm significance="normal">
+         <primary>of</primary>
+      </indexterm>
+      <para>
+         <phrase>17.2</phrase>
+         <phrase>2016</phrase>Table 17.2</para>
+      <para role="SimplePara">
+         Negative symptoms<indexterm significance="normal">
+            <primary>Negative symptoms</primary>
+         </indexterm>
+      </para>
+      <table id="ch0019s0001ta02">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Symptom</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Description</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Avolition</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Reduction in the ability to initiate or sustain goal-directed behaviors</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Anhedonia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Reduced ability to experience pleasure</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Asociality</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Lack of interest or engagement with other people</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Alogia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Diminished ability to carry out meaningful conversation</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Blunted affect</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Diminished emotional expression (facial, voice tone, etc.)</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0019s0001s05" role="Heading">
+      <title>Associated Features</title>
+      <para role="Para">In addition to positive<indexterm significance="normal">
+            <primary>positive</primary>
+         </indexterm> and negative symptoms, schizophrenia is associated with a limitations and impairments in multiple domains. Poor social, educational, and vocational functioning are quite common, as are cognitive deficits such as impairments in verbal memory, concentration, and abstract reasoning. Depressed mood, anxiety, and irritability or anger can also be present. Risk of death by suicide<indexterm significance="normal">
+            <primary>suicide</primary>
+         </indexterm> is higher among persons with schizophrenia than in the general population, and subjective quality of life is frequently poor.</para>
+   </sect2>
+   <sect2 id="ch0019s0001s06" role="Heading">
+      <title>Treatments and Outcomes</title>
+      <para role="Para">Many individuals<indexterm significance="normal">
+            <primary>individuals</primary>
+         </indexterm> with schizophrenia are prescribed antipsychotic medications<indexterm significance="normal">
+            <primary>medications</primary>
+         </indexterm>, both for acute exacerbations of positive symptoms and for preventing symptom relapses. However, some individuals with schizophrenia experience a suboptimal medication response even when adherence to medication regimens is good (Bruijnzeel et al., <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). In addition, current medications have little, if any, benefit for negative symptoms, social disability, and cognitive deficits. Effective psychosocial interventions have been developed<indexterm significance="normal">
+            <primary>developed</primary>
+         </indexterm>to ameliorate residual positive symptoms (e. g., cognitive-behavior therapy), interpersonal deficits (e. g., social skills training), functional difficulties (e. g., supported employment), and cognitive deficits (e. g., cognitive remediation). Optimal treatment for schizophrenia includes both medication and specific psychosocial interventions tailored to each individual’s stage of disorder, current clinical status, personal goals,and<indexterm significance="normal">
+            <primary>and</primary>
+         </indexterm> social needs.</para>
+   </sect2>
+   <sect2 id="ch0019s0001s07" role="Heading">
+      <title>Other Psychotic Disorders</title>
+      <para role="Para">Several other psychotic disorders<indexterm significance="normal">
+            <primary>psychotic disorders</primary>
+         </indexterm> besides schizophrenia are included in the DSM-5-TR; they<indexterm significance="normal">
+            <primary>they</primary>
+         </indexterm>share common psychotic symptoms but vary in their quantity and duration and conceptually are considered on a spectrum with schizophrenia. <emphasis>Brief psychotic disorder</emphasis> is diagnosed when psychotic symptoms are present but their duration is less than a month and they cannot be attributed to mood disorder or other psychotic disorder. Schizophreniform<indexterm significance="normal">
+            <primary>Schizophreniform</primary>
+         </indexterm> is diagnosed when criteria for schizophrenia are met but the duration is longer than a month but less than six months<emphasis>. Delusional disorder</emphasis> is diagnosed when there is a presence of one or more delusions without<indexterm significance="normal">
+            <primary>without</primary>
+         </indexterm>criteria for schizophrenia being met and without marked functional impairment. Although historically considered a personality disorder, in DSM-5-TR, <emphasis>schizotypal personality disorder</emphasis> is included as part of the schizophrenia spectrum. It differs from schizophrenia in that symptoms are subthreshold and are manifested as odd, eccentric, or peculiar behavior or thinking while not frankly psychotic. Interpersonal discomfort and difficulties with relationships are also present. While not severe, the symptoms are longstanding and<indexterm significance="normal">
+            <primary>and</primary>
+         </indexterm> stable and thus associate with personality disorder. <emphasis>Schizoaffective disorder</emphasis>includes a major mood episode concurrent with the criteria for schizophrenia, yet with psychotic symptoms also occurring outside the mood episode for at least 2 weeks (i. e., as opposed to a manic or depressive episode with psychotic symptoms). Finally, this section includes other specified and unspecified schizophrenia spectrum, other psychotic disorder, as well as substance/medication-induced psychotic disorder and psychotic<indexterm significance="normal">
+            <primary>psychotic</primary>
+         </indexterm> disorder due to medical condition diagnoses.</para>
+   </sect2>
+</sect1>

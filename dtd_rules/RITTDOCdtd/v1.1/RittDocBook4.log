@@ -1,0 +1,39 @@
+Log filename: "D:\validation\RittenHouse\V1.1\RittDocBook4.log"
+Document type compile date: Thu Jan 25 17:17:55 2007
+Version "Arbortext Editor with Styler 5.2 February 6, 2006"   Build MPL-2037
+Platform: Windows NT 5.0
+
+Host: comp658   Login: Administrator
+
+Catalog path: "C:\Program Files\Arbortext\Editor\doctypes;"
+
+
+Update (.ptd file written) or Validate (.ptd file not written): Update
+XML or SGML Application: SGML
+Force Compile: Yes
+Top level element: book
+Public ID: (not specified)
+DTD Path: "D:\validation\RittenHouse\V1.1\RittDocBook.dtd"
+PTD Path: "D:\validation\RittenHouse\V1.1\RittDocBook.ptd"
+ATI Tag Path: "C:\Program Files\Arbortext\Editor\lib\dtgen\atitag.cf"
+Message File Path: (not specified)
+SGML Declaration Path: (not specified) using "C:\Program Files\Arbortext\Editor\entities\ati-unc.dcl"
+
+Entity Name: %rittredeclmeta
+Public Identifier: "(none)"
+System Identifier: rittredeclmeta.mod
+Resolved Path: "D:\validation\RittenHouse\V1.1\rittredeclmeta.mod"
+Catalog File: (unknown)
+
+Entity Name: %rittexclusions
+Public Identifier: "(none)"
+System Identifier: rittexclusions.mod
+Resolved Path: "D:\validation\RittenHouse\V1.1\rittexclusions.mod"
+Catalog File: (unknown)
+
+Entity Name: %rittredef
+Public Identifier: "(none)"
+System Identifier: rittredef.mod
+Resolved Path: "D:\validation\RittenHouse\V1.1\rittredef.mod"
+Catalog File: (unknown)
+

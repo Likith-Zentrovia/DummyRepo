@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0012s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0012s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0012s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0012s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>12</chapternumber>
+         <chapterid>ch0012</chapterid>
+         <chaptertitle>10. Trauma and Stressor-Related Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   <sect2 id="ch0012s0003s01" role="Heading">
+      <title>Structured and Semi-structured Interviews</title>
+      <sect3 id="ch0012s0003s01s01" role="Heading">
+         <title>General Interview: The Structured Clinical Interview for DSM</title>
+         <para role="Para">The Structured Clinical Interview for the DSM (SCID) is one of the most widely used semi-structured interviews to make a diagnosis. The most recent edition is the SCID-5 (First &amp; Williams,<emphasis role="CitationRef">
+               <phrase>2016</phrase>
+            </emphasis>), which contains 12 modules that mirror the DSM-5’s organizational structure. The five different versions of the SCID-5 include the research version (RV), clinician version (CV), clinical trial (CT), personality disorders (PD), and alternative model for personality disorders (AMPD)<indexterm significance="normal">
+               <primary>alternative model for personality disorders (AMPD)</primary>
+            </indexterm>. A user’s guide also accompanies each version. The SCID-5 trauma assessment includes an assessment of ASD and PTSD with timeline difference (i. e., whether trauma occurred in the past month of evaluation or more). The SCID-5 can also be used to evaluate for trauma or stressor-related disorders that don’t meet the criteria for PTSD, ASD, or adjustment disorder. A recent study that tested the psychometric properties of the SCID-5-Clinical Version (CV) found strong validity of 1.00 sensitivity, 0.96 specificity, and 0.80 Kappa Coefficient, as well as reliability (through test-retest interrater interview,<emphasis>N</emphasis> = 139) of 0.84 Kappa Coefficient (Osório et al., <emphasis role="CitationRef">
+               <phrase>2019</phrase>
+            </emphasis>).</para>
+         <para role="Para">The time to administer the SCID depends on the client’s personal history, relevant disorder, and other potential comorbid disorders or rule-outs that emerge during an initial interview. As such, administration of the SCID-5 may take between 30 min and 2 h. The SCID uses a combination of mandatory probes with a decision tree approach. The clinician is expected to use professional judgment and skip irrelevant questions or entire sections of the SCID if criteria have not been met for specific probes. Because the administration of the SCID involves decision-making, the person administering the SCID must be trained to conduct the interview.</para>
+      </sect3>
+      <sect3 id="ch0012s0003s01s02" role="Heading">
+         <title>General Interview: The Mini-International Neuropsychiatric Interview</title>
+         <para role="Para">The Mini-International Neuropsychiatric Interview (MINI)<indexterm significance="normal">
+               <primary>Mini-International Neuropsychiatric Interview (MINI)</primary>
+            </indexterm> is a brief structured diagnostic interview for major psychiatric disorders as defined in DSM-III-R, DSM-IV, DSM-5, as well as ICD-10 (Sheehan et al., <emphasis role="CitationRef">
+               <phrase>1998</phrase>
+            </emphasis>). The MINI was designed to assess 17 of the most common psychiatric disorders, including PTSD, mania and hypomania, major depressive disorder, panic disorder, agoraphobia, social phobia, substance use disorder, and more. Specifically developed to be brief, administration of the MINI takes approximately 15 min, which is significantly shorter than the SCID (Sheehan et al., <emphasis role="CitationRef">
+               <phrase>1998</phrase>
+            </emphasis>). In addition, the MINI was designed to be used by trained interviewers rather than physicians or mental health professionals (Sheehan et al., <emphasis role="CitationRef">
+               <phrase>1998</phrase>
+            </emphasis>). There are more than 15 versions of the MINI, each addressing a different disorder and different population (e. g., adults, children, clinician-rated or patient-version). The most appropriate module for PTSD appears to be the Standard MINI, which assesses all 17 disorders.</para>
+         <para role="Para">Psychometrically, the MINI is a sound instrument and aligned with both the SCID-IV and ICD-10 for all 17 disorders. Specifically, the PTSD module shows significant sensitivity (&gt;0.70) and very good positive predictive value (&gt;0.75). Research also shows that the MINI has excellent inter-rater reliability (Interrater Kapa = 0.95) and good test-retest reliability (Test/Retest Kappa = 0.73) (Sheehan et al., <emphasis role="CitationRef">
+               <phrase>1998</phrase>
+            </emphasis>). The measure has gained popularity among researchers worldwide and has been translated into multiple languages. This measure is useful for research purposes and as a supplemental measure of a more thorough interview, for diagnostic purposes.</para>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0012s0003s02" role="Heading">
+      <title>Trauma-Related Specific Interviews</title>
+      <sect3 id="ch0012s0003s02s01" role="Heading">
+         <title>Clinician Administered PTSD Scale</title>
+         <para role="Para">The Clinician Administered PTSD Scale (CAPS)<indexterm significance="normal">
+               <primary>Clinician Administered PTSD Scale (CAPS)</primary>
+            </indexterm> is one of three measures recently updated by the Veterans Affairs (VA) National Center for PTSD so that it is aligned with DSM-5 criteria. The CAPS is considered the gold standard of PTSD structured interviews. The CAPS-5 is a 30-item questionnaire (while the prior version included 17 items) that also measures, through a single score, each symptom’s severity based on its frequency and intensity (Blake et al., <emphasis role="CitationRef">
+               <phrase>1995</phrase>
+            </emphasis>). There are currently three versions of CAPS-5: past month, worst month/past month, and past week. The clinician is expected to use their professional judgment coupled with background information provided by the client to determine which version is most appropriate.</para>
+         <para role="Para">The CAPS<indexterm significance="normal">
+               <primary>CAPS</primary>
+            </indexterm> demonstrates strong psychometric properties. It is highly reliable, with strong internal consistency for the individual subscales (<emphasis>α</emphasis> = 0.76–0.88). Joint reliability was particularly excellent among rape and motor vehicle victims (Kappa = 0.84) (Rush et al., <emphasis role="CitationRef">
+               <phrase>2008</phrase>
+            </emphasis>). The CAPS also correlated well with other PTSD self-report measures, including the Mississippi Scale (MSS) (<emphasis>r =</emphasis> 0.73), as well as with the Minnesota Multiphasic Personality Inventory PTSD Scale (MMPI-PTSD) (<emphasis>r =</emphasis> 0.74) (Rush et al., <emphasis role="CitationRef">
+               <phrase>2008</phrase>
+            </emphasis>).</para>
+         <para role="Para">A clinician interested in using the CAPS<indexterm significance="normal">
+               <primary>CAPS</primary>
+            </indexterm> should know that it takes 45–60 min to administer, which is much longer than other instruments, such as the PTSD Symptom Scale—Interview (PSS-I), which takes only 20 min. In addition, because answering the CAPS-5 interview questions can be intense, mental health professionals are expected to complete a 4.5-h training before administering the measure. Training by the Veterans Affairs’ National PTSD Center can be found on their website. Often, it is helpful to supplement the CAPS-5 with a trauma-focused assessment like the Life Events Checklist (LEC-5), which measures the frequency and intensity of the client’s exposure to a range of traumatic events (see below for a description of the LEC-5).</para>
+      </sect3>
+      <sect3 id="ch0012s0003s02s02" role="Heading">
+         <title>PTSD Symptoms Scale-Interview</title>
+         <para role="Para">The PTSD Symptoms Scale-Interview(PSS-I)<indexterm significance="normal">
+               <primary>(PSS-I)</primary>
+            </indexterm> is a semi-structured interview developed by Foa<indexterm significance="normal">
+               <primary>Foa</primary>
+            </indexterm> et al. (<emphasis role="CitationRef">
+               <phrase>1993</phrase>
+            </emphasis>) to obtain a valid and reliable diagnosis of PTSD. The PSSI-5 is updated to align with the DSM-5 (Foa et al., <emphasis role="CitationRef">
+               <phrase>2016</phrase>
+            </emphasis>). Designed as a flexible semi-structured interview, the PSSI requires familiarity with its manual and scoring process, knowledge of PTSD symptomatology, the ability to make a differential diagnosis, and sound professional judgment. During the administration of the interview, the clinician must determine which questions can be skipped. The PSSI-5 was developed to assist in diagnosing PTSD as well as provide an estimate of the severity of symptoms using a 5-point scale (from 0 = not at all to 4 = 6 or more times a week/severe). The PSSI has excellent psychometrics properties with strong internal consistency (<emphasis>α</emphasis> = 0.89), test-retest reliability (<emphasis>r</emphasis> = 0.87), high interrater reliability for the total severity score (Intraclass Correlation Coefficient = 0.98), and good interrater agreement for PTSD diagnosis (Interrater Kappa = 0.84) (Foa et al., <emphasis role="CitationRef">
+               <phrase>2016</phrase>
+            </emphasis>). A cutoff score of 23 for PTSD was determined by a Receiver Operating Characteristic (ROC) analysis.</para>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0012s0003s03" role="Heading">
+      <title>Trauma-Related Self-Report Measures</title>
+      <sect3 id="ch0012s0003s03s01" role="Heading">
+         <title>Life Events Checklist</title>
+         <para role="Para">Developed by the National Center for PTSD, the Life Events Checklist (LEC)<indexterm significance="normal">
+               <primary>Life Events Checklist (LEC)</primary>
+            </indexterm> is a 17-item self-report measure that is aligned with DSM-5 criteria (Blake et al., <emphasis role="CitationRef">
+               <phrase>1995</phrase>
+            </emphasis>). Unlike the majority of PTSD assessments that assess for most recent or current events, the LEC-5 assesses for potentially traumatic events across the lifespan. The person is asked if the event happened to them, was witnessed, was learned about from others, or if they are not sure or the event does not apply. The LEC-5 was initially intended to be used co-jointly with the CAPS. In a study by Gray et al. (<emphasis role="CitationRef">
+               <phrase>2004</phrase>
+            </emphasis>), the LEC was validated as an independent measurement for trauma events. Concerning the LEC’s reliability, the study found that all items except for one achieved a kappa above 0.50. At the same time, the test-retest correlation was exceptionally high (<emphasis>r</emphasis> = 0.82). As for validity, the study found strong convergence between the LEC and the Traumatic Life Events Questionnaire (TLEQ) scale, where only two of the nine items did not achieve a kappa of 0.40 (Gray et al., <emphasis role="CitationRef">
+               <phrase>2004</phrase>
+            </emphasis>). It is important to note that while the LEC is primarily useful for identifying traumatic events as defined by PTSD or acute stress disorder, it can also be used to assess the severity of symptoms for an adjustment disorder.</para>
+      </sect3>
+      <sect3 id="ch0012s0003s03s02" role="Heading">
+         <title>PTSD Checklist for Diagnostic and Statistical Manual of Mental Disorders</title>
+         <para role="Para">The PTSD Checklist for Diagnostic and Statistical Manual of Mental Disorders (PCL) was initially developed by Weathers et al. (1993) and later redesigned by Weathers et al. (<emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>) to align with DSM-5 criteria. It is a 20-item self-report measure used to screen for PTSD and to assess symptom severity. Respondents are asked to rate, on a scale from 0 (not at all) to 4 (extremely), how bothered they have been by each of the 20 items that correspond with DSM-5 criteria for PTSD. The two versions of the PCL-5, one for civilian and the other for military, are available in two formats, including a version with Criterion A (trauma) and one without. The PCL-5 was not developed as a standalone screening tool. It can supplement other, more structured, clinician-rated assessments and is quick and easy for clients to complete. It is also useful for monitoring symptoms over time, as the client can easily provide a self-report every few sessions.</para>
+         <para role="Para">Psychometric studies of the PCL prior to the DSM-5 version found the instrument to have high reliability and validity (Keen et al.,<emphasis role="CitationRef">
+               <phrase>2008</phrase>
+            </emphasis>). Blevins et al. (<emphasis role="CitationRef">
+               <phrase>2015</phrase>
+            </emphasis>) examined the psychometric properties of the current version and found excellent internal consistency (<emphasis>α</emphasis> = 0.94), strong test-retest reliability (<emphasis>r</emphasis> = 0.82), and good convergent and discriminant validities (<emphasis>rs =</emphasis> 0.74–0.85, and <emphasis>rs =</emphasis> 0.31–0.60, respectively). In another study, the PCL-5 similarly showed good internal consistency (<emphasis>α</emphasis> = 0.96) and test-retest reliability (<emphasis>r =</emphasis> 0.84) (Bovin et al., <emphasis role="CitationRef">
+               <phrase>2016</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0012s0003s03s03" role="Heading">
+         <title>Inventory of Complicated Grief</title>
+         <para role="Para">Developed by Prigerson et al. (<emphasis role="CitationRef">
+               <phrase>1995</phrase>
+            </emphasis>), the Inventory of Complicated Grief (ICG) is considered the most popular self-report tool to evaluate PGD. Its two main goals are to differentiate between prolonged grief and bereavement-related depression and anxiety and to predict long-term functional impairments (Prigerson et al., <emphasis role="CitationRef">
+               <phrase>1995</phrase>
+            </emphasis>). The ICG includes 19 items that assess the frequency (i. e., from never to more than once daily) of experiences associated with grief, including “preoccupation with thoughts of the deceased, searching and yearning for the deceased, disbelief about the death, crying, being stunned by the death, and not accepting the death” (Prigerson et al.,<emphasis role="CitationRef">
+               <phrase>1995</phrase>
+            </emphasis>). In addition, high ICG scores (i. e., higher than 25) were indicative of a greater likelihood to have an impairment in various aspects of life, from physical health to social functioning (Prigerson et al.,<emphasis role="CitationRef">
+               <phrase>1995</phrase>
+            </emphasis>). The psychometric properties of the ICG are strong, with high internal consistency of the 19 items (Cronbach’s <emphasis>α</emphasis> = 0.94), test-retest reliability of 0.80, and concurrent validity with other tests of <emphasis>r</emphasis> = 0.67 and <emphasis>r</emphasis> = 0.87, <emphasis>P</emphasis> &lt; 0.001.</para>
+      </sect3>
+      <sect3 id="ch0012s0003s03s04" role="Heading">
+         <title>The Texas Revised Inventory of Grief</title>
+         <para role="Para">The Texas Revised Inventory of Grief (TRIG)<indexterm significance="normal">
+               <primary>Texas Revised Inventory of Grief (TRIG)</primary>
+            </indexterm> is a widely used measurement of prolonged grief. The measurement consists of 13 first-person statements on experiences such as acceptance of the loss, crying, and intrusive thoughts. Participants must mark their experience on a five-point scale ranging from “completely false” to “completely true.” A meta-analysis of the psychometric properties of the measurement found a strong mean Cronbach’s alpha for present and past subscales (Cronbach’s <emphasis>α</emphasis> = 0.90, 0.82, respectively) (Montano et al., <emphasis role="CitationRef">
+               <phrase>2016</phrase>
+            </emphasis>).</para>
+      </sect3>
+   </sect2>
+</sect1>

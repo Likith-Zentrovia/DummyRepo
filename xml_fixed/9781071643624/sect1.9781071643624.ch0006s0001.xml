@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0006s0001" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0006s0004</risprev>
+         <riscurrent>sect1.9781071643624.ch0006s0001</riscurrent>
+         <risnext>sect1.9781071643624.ch0006s0002</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>6</chapternumber>
+         <chapterid>ch0006</chapterid>
+         <chaptertitle>5. Consideration of Neuropsychological Factors in Interviewing</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Part 1: Factors That Might Suggest to Any Psychologist That Cognitive or Brain Dysfunction May Be Occurring and the Need for a Neuropsychological Evaluation</title>
+   <sect2 id="ch0006s0001s01" role="Heading">
+      <title>Behavioral Observations</title>
+      <para role="Para">There are certain behaviors exhibited by patients that can suggest the presence of brain dysfunction and the need for further evaluation by a neuropsychologist. These observations are noted in a “Behavioral Observations” section of a report, and this section tends to be present in most mental health evaluations. The behaviors to note often overlap with what is typically included in a “Mental Status Exam,” and both labels are often used for this section of an assessment report. Chapter<emphasis role="ExternalRef">
+            <ulink url="ch0005.xml#ch0005">
+               <emphasis role="RefSource">4</emphasis>
+            </ulink>
+         </emphasis> covers elements of the mental status exam in detail, so this chapter will only provide a brief overview.</para>
+      <para role="Para">When patients frequently repeat questions or seem to forget things you have told them (e. g., where the bathroom is, what time the appointment will be over), this suggests that a neurological disorder such as Alzheimer’s disease<indexterm significance="normal">
+            <primary>Alzheimer’s disease</primary>
+         </indexterm>may possibly be present. If this disease is indeed present, the patient may not be a good historian. When patients perseverate on a topic of conversation (i. e., have difficulty changing the topic of conversation) or give tangential or circumstantial answers to questions, this also suggests that a neurocognitive disorder may be present. Patients who are quick to anger or socially inappropriate, such as asking overly personal questions of the clinician, also may be experiencing changes to their brain. These behaviors are examples of disinhibition caused by damage to the frontal lobes from a brain injury or a disease process such as a brain tumor or frontotemporal degeneration. If the patient shows a face devoid of expression (i. e., a masked face), speech that is slow and quiet (i. e., hypophonic), and delayed answers to questions, this suggests that Parkinson’s disease may be present. If the patient seems easily angered, has depressed affect, and has uncontrollable movements (choreiform movements), they may have symptoms of Huntington’s disease<indexterm significance="normal">
+            <primary>Huntington’s disease</primary>
+         </indexterm>.</para>
+      <para role="Para">Other important behavioral observations from a neuropsychological standpoint include elements of speech such as fluency, comprehension, and word-finding. Patients may report, or show, “tip of the tongue” situations in which they struggle to find the words they want to use in conversation. Problems in these areas can indicate the presence of aphasia caused by a stroke or brain injury, or the beginnings of a progressive dementia such as primary progressive aphasia.</para>
+      <para role="Para">During an interview, it is often useful to determine whether the patient is oriented to the current date, place, and situation. This can be done by asking patients to tell you the full date and assessing how well they understand the purpose of the appointment. If the patient cannot remember aspects of the current date, such as the month or year, they may have a set of symptoms indicative of neurocognitive disorders such as delirium or dementia<indexterm significance="normal">
+            <primary>dementia</primary>
+         </indexterm>.</para>
+      <para role="Para">In summary, these are all elements of a mental status exam or behavioral observations that can indicate the presence of cognitive or brain dysfunction that will affect the diagnostic interview process and subsequent treatment. If problems are notably present, the patient should be referred to a neuropsychologist and/or a neurologist for further evaluation and intervention.</para>
+   </sect2>
+   <sect2 id="ch0006s0001s02" role="Heading">
+      <title>Relevant Medical or Neurological History</title>
+      traumatic brain injury (TBI)<indexterm significance="normal">
+         <primary>traumatic brain injury (TBI)</primary>
+      </indexterm>
+      <para>
+         <phrase>5.1</phrase>
+         <phrase>5.1</phrase>Table 5.1</para>
+      <para role="SimplePara">Classification of traumatic brain injury (TBI) by severity range<indexterm significance="normal">
+            <primary>range</primary>
+         </indexterm>
+      </para>
+      <table id="ch0006s0001ta01">
+         <title/>
+         <tgroup cols="4">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <colspec colname="c4" colnum="4"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Traumatic brain injury (TBI) severity range</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Loss of consciousness (LOC)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Length of posttraumatic amnesia (PTA)</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Glasgow coma scale (GCS)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Mild TBI/concussion</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">&lt;30 min</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">&lt;24 h</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">13–15</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Moderate TBI</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">30 min to 24 h</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">1–7 days</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">9–12</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Severe TBI</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">&gt;24 h</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">&gt;7 days</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">3–8</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para">To assist with identifying behavior in the clinical interview, if the patient has a suspected moderate to severe TBI, this can affect the interview process in several ways. The patient may have a low frustration tolerance and may get easily annoyed with questions that do not seem pertinent or important to them, or that are of a personal nature. On the other hand, there may be a lack of initiative or interest and a lack of engagement in the assessment process. Both of these presentations can be related to frontal lobe damage. Patients with severe TBIs can be slow to respond and slow to generate an answer to a question. This could be related to diffuse axonal injury (DAI)<indexterm significance="normal">
+            <primary>diffuse axonal injury (DAI)</primary>
+         </indexterm>, or the stretching and other damage to axons that occurs in a TBI. Sometimes the patient may also lack awareness of the severity of their cognitive deficits, resulting in use of a more structured approach to the interview as well as a detailed interview with a caregiver to obtain relevant historical information. In addition, memory problems may be present that interfere with the patient’s ability to learn new information or to recall recent information. When assessing for TBI, if the individual is reporting a history of TBI and is presenting with persistent cognitive problems, a full neuropsychological evaluation would be helpful in determining what deficits a person may have that resulted from a TBI. Referral for neuropsychological evaluation would lead to individualized recommendations to accommodate these deficits, including but not limited to real-life compensatory strategies.</para>
+      <para role="Para">Another form of brain injury that can impact a clinical interview is a history of stroke, or cerebrovascular accident (CVA)<indexterm significance="normal">
+            <primary>cerebrovascular accident (CVA)</primary>
+         </indexterm>. The clinician may find that a patient has had symptoms of strokes that may have left the patient with lingering deficits. Chief symptoms of stroke include sudden weakness or numbness on one side of the body, sudden change in vision, sudden inability to speak or to understand others’ speech, sudden onset of severe headache pain, and, generally, any sudden change in behavior. Patients and professionals need to be aware of these symptoms and should seek treatment immediately if these symptoms are present. A clinician may see a patient who has experienced these symptoms in the last week, and the patient should be told to seek urgent or emergency treatment. Depending on the length of time since symptom onset, treatment can be given that opens up a closed artery or relieves pressure on the brain from a hemorrhaged blood vessel.</para>
+   </sect2>
+   <sect2 id="ch0006s0001s03" role="Heading">
+      <title>Impacts of Cognitive Symptoms on the Interview</title>
+      <para role="Para">If the clinician finds that a patient may have a neurocognitive disorder, or if this is known from a prior neuropsychological evaluation, then there are some ramifications for the successful completion of the interview. The patient may be a poor historian, providing inaccurate information. Sometimes patients give little behavioral indication of dementia, and the clinician assumes the patient’s report to be accurate, only to find later that much of their understanding of the patient is inaccurate. The patient’s memory problems will also interfere with recall of things that the clinician may tell the patient.Dementia<indexterm significance="normal">
+            <primary>Dementia</primary>
+         </indexterm> also often affects people’s interpersonal functioning. The patient may be less inhibited from saying offensive statements or may cross certain social boundaries, such as asking about the clinician’s personal life or commenting on their physical features. Fortunately, clinicians should be accustomed to dealing with patients with deficient interpersonal skills and should understand that these may be behavioral manifestations of underlying brain damage.</para>
+      <para role="Para">Sometimes patients may not have cognitive problems of their own, but they may be caregivers for someone with a neurocognitive disorder. In this case, the patient may not be in need of evaluation or treatment for cognitive problems per se, but they may be significantly affected by someone else’s cognitive disability. In this situation, the person who has the cognitive problems should be evaluated and treated, and the clinician should evaluate how the cognitive problems play a role in the patient’s presenting problems. Caring for someone with a cognitive disability can significantly and negatively impact a patient’s mental health (Segal et al.,<emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>), and the burden of this may be a major focus of treatment.</para>
+      <para role="Para">Many neuropsychologists come in contact with patients who have misconceptions of the nature of dementia<indexterm significance="normal">
+            <primary>dementia</primary>
+         </indexterm> stemming from interactions with other medical professionals. This may result from inaccurate information being provided by other clinicians, or from the patient misunderstanding what has been told to them. For example, one patient reported that she was told that “You don’t have Alzheimer’s disease<indexterm significance="normal">
+            <primary>Alzheimer’s disease</primary>
+         </indexterm>, but you have age-related dementia.” Those with current knowledge of neurocognitive disorders know that “age-related dementia” is a poor choice of terms, but that one cause of dementia that increases in prevalence with advanced age is Alzheimer’s disease. Patients very frequently ask for clarification on the terms “dementia” and “Alzheimer’s disease,” have typically not heard the term “neurocognitive disorder,” and usually appreciate explanation of these terms. Patients who need education about these terms should be given it by a clinician who is familiar with this area, especially since our knowledge of the causes of neurocognitive disorders is changing rapidly.</para>
+   </sect2>
+   <sect2 id="ch0006s0001s04" role="Heading">
+      <title>Referring for Neuropsychological Evaluation</title>
+      <para>
+         <phrase>5.2</phrase>Table 5.2</para>
+      <para role="SimplePara">Factors that may lead a clinician to refer a patient for neuropsychological evaluation</para>
+      <table id="ch0006s0001ta02">
+         <title/>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <tbody>
+               <row>
+                  <entry nameend="c2" namest="c1">
+                     <para role="SimplePara">Patient reports:</para>
+                     <para role="SimplePara"> • Declining memory or other cognitive ability, or change in behavior, of unknown etiology</para>
+                     <para role="SimplePara">Medical history includes any of the following, with no accompanying neuropsychological evaluation:</para>
+                     <para role="SimplePara"> • Traumatic brain injury</para>
+                     <para role="SimplePara"> • Stroke</para>
+                     <para role="SimplePara"> • Brain tumor</para>
+                     <para role="SimplePara"> • Possible cognitive effects resulting from neurological diseases such as Parkinson’s disease, Huntington’s disease, multiple sclerosis, etc.</para>
+                     <para role="SimplePara">Patient displays certain behaviors suggestive of neuropsychological dysfunction:</para>
+                     <para role="SimplePara"> • Repeating questions during interview or forgetting information given to them</para>
+                     <para role="SimplePara"> • Showing difficulty managing a medication regimen</para>
+                     <para role="SimplePara"> • Becoming easily lost when driving or traveling to an unfamiliar place</para>
+                     <para role="SimplePara"> • Poor comprehension of things said to them (if acute, patient should seek emergency evaluation for stroke)</para>
+                     <para role="SimplePara"> • Difficulty speaking (if acute, patient should seek emergency evaluation for stroke)</para>
+                     <para role="SimplePara"> • Socially inappropriate behavior that may be caused by brain changes</para>
+                     <para role="SimplePara">Patient is confused about current diagnosis or treatment for it:</para>
+                     <para role="SimplePara">• Patient’s understanding of dementia reflects outdated knowledge (e. g., “age-related dementia” vs. Alzheimer’s disease)</para>
+                     <para role="SimplePara">• Patient’s treatment regimen does not fit with their understanding of diagnosis (e. g., taking dementia medications but having the understanding that they do not have dementia)</para>
+                     <para role="SimplePara"> • Patient has seen several professionals who reportedly have not been able to arrive at a diagnosis</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="Para">The discussion so far has focused on factors that would lead a clinician to suspect cognitive dysfunction, leading to an appropriate referral. When referrals are made to a neuropsychologist, certain information should be included in order to lead to a successful arrival at an answer to the question posed by the referring provider. Any time a referral is made to a neuropsychologist, the referring provider should provide a description of the cognitive problems the patient is thought to be experiencing (for example, memory problems, getting lost while driving, difficulty comprehending instructions, etc.). Some examples of useful referral questions are: “75-year-old woman with memory concerns”; “patient was in car accident 3 years ago and has had trouble working since then; please evaluate if he has cognitive impairment from a head injury.”</para>
+   </sect2>
+</sect1>

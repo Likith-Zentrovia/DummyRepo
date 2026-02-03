@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0012s0001" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0012s0009</risprev>
+         <riscurrent>sect1.9781071643624.ch0012s0001</riscurrent>
+         <risnext>sect1.9781071643624.ch0012s0002</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>12</chapternumber>
+         <chapterid>ch0012</chapterid>
+         <chaptertitle>10. Trauma and Stressor-Related Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Description of the Disorders</title>
+   <para role="Para">We are more likely than not to be exposed to a traumatic event in our lifetime (Benjet et al.,<emphasis role="CitationRef">
+         <phrase>2016</phrase>
+      </emphasis>). From witnessing unexpected death or injury to being subjected to violence (including sexual violence), the list of clinically definable traumatic events is non-closed. Almost a third of the world population, research shows, is also likely to experience several traumatic events (Benjet et al., <emphasis role="CitationRef">
+         <phrase>2016</phrase>
+      </emphasis>). While exposure to a clinically defined trauma is probable, multiple studies suggest that only a small, yet significant, part of those exposed will be at increased risk for developing posttraumatic stress disorder (PTSD)<indexterm significance="normal">
+         <primary>posttraumatic stress disorder (PTSD)</primary>
+      </indexterm> (Schein et al., <emphasis role="CitationRef">
+         <phrase>2021</phrase>
+      </emphasis>). Moreover, those who don’t eventually meet the full diagnostic criteria for PTSD can still develop a partial, also called subsyndromal or subthreshold, presentation of PTSD. Despite not meeting the full criteria for PTSD, partial symptoms can significantly impair function and adversely affect quality of life, as it was found to be correlated with other mental health conditions, including depression<indexterm significance="normal">
+         <primary>depression</primary>
+      </indexterm>, substance use, and suicidality (Wallace et al., <emphasis role="CitationRef">
+         <phrase>2020</phrase>
+      </emphasis>). Diagnostic and Statistical Manual of Mental Disorders<phrase>2022</phrase>
+      <phrase>10.1</phrase>Table 10.1</para>
+   PTSD<indexterm significance="normal">
+      <primary>PTSD</primary>
+   </indexterm>
+   <para role="SimplePara">Comparison: diagnostic features for PTSD, Acute Stress Disorder, and adjustment disorder</para>
+   <table id="ch0012s0001ta01">
+      <title/>
+      <tgroup cols="4">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <colspec colname="c3" colnum="3"/>
+         <colspec colname="c4" colnum="4"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">PTSD</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Acute Stress Disorder</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Adjustment disorder</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Prolonged grief disorder</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">– Traumatic event (terms defined)</para>
+                  <para role="SimplePara">– Recurrent, involuntary, and intrusive distressing memories</para>
+                  <para role="SimplePara">– Recurrent distressing dreams in which the content or affect are related to the event</para>
+                  <para role="SimplePara">– Dissociative reactions in which the individual feels or acts as if the event recurring</para>
+                  <para role="SimplePara">– Intense/prolonged psychological distress at exposure to internal or external cues that resemble an aspect of the event</para>
+                  <para role="SimplePara">– Avoidance or efforts to avoid distressing memories/thoughts/feelings with the event</para>
+                  <para role="SimplePara">– Avoidance/efforts to avoid external reminders that arouse distressing memories, thoughts of the event</para>
+                  <para role="SimplePara">– Inability to remember an important aspect of the event</para>
+                  <para role="SimplePara">– Persistent and exaggerated negative beliefs or expectations about oneself, others or the world</para>
+                  <para role="SimplePara">– Persistent, distorted cognitions about the cause or consequences of the event</para>
+                  <para role="SimplePara">– Persistent negative emotional state</para>
+                  <para role="SimplePara">– Markedly diminished interest/participation in activities</para>
+                  <para role="SimplePara">– Feelings of detachment from other</para>
+                  <para role="SimplePara">– Persistent inability to experience positive emotions</para>
+                  <para role="SimplePara">– Irritable/angry behavior</para>
+                  <para role="SimplePara">– Reckless/self-destructive behavior</para>
+                  <para role="SimplePara">– Hypervigilance</para>
+                  <para role="SimplePara">– Exaggerated startle response</para>
+                  <para role="SimplePara">– Problems with concentration</para>
+                  <para role="SimplePara">– Sleep disturbance</para>
+                  <para role="SimplePara">– Duration of disturbance &gt;1 month</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">– Traumatic event (terms defined)</para>
+                  <para role="SimplePara">– Recurrent, involuntary, and intrusive distressing memories</para>
+                  <para role="SimplePara">– Recurrent distressing dreams in which the content or affect are related to the event</para>
+                  <para role="SimplePara">– Dissociative reactions in which the individual feels or acts as if the event recurring</para>
+                  <para role="SimplePara">– Intense/prolonged psychological distress at exposure to internal or external cues that resemble an aspect of the event</para>
+                  <para role="SimplePara">– Persistent inability to experience positive emotion</para>
+                  <para role="SimplePara">– An altered sense of reality of one’s surroundings or oneself</para>
+                  <para role="SimplePara">– Inability to remember an important aspect of the traumatic event</para>
+                  <para role="SimplePara">– Efforts to avoid distressing memories/thoughts/feelings closely associated with the event</para>
+                  <para role="SimplePara">– Efforts to avoid external reminders that arouse distressing memories/thoughts/feelings with the event</para>
+                  <para role="SimplePara">– Sleep disturbance</para>
+                  <para role="SimplePara">– Irritable/angry behavior</para>
+                  <para role="SimplePara">– Hypervigilance</para>
+                  <para role="SimplePara">– Problems with concentration</para>
+                  <para role="SimplePara">– Exaggerated startle response</para>
+                  <para role="SimplePara">– Duration of disturbance: 3 days to 1 month</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Stressors (terms not defined, stressor identifiable)</para>
+                  <para role="SimplePara">– Marked distress that is out of proportion to the severity or intensity of the stressor (cultural factors and external context) should be considered</para>
+                  <para role="SimplePara">– Significant impairment in social, occupational, or other important areas of functioning</para>
+                  <para role="SimplePara">– Duration: beginning of distress within 3 months of stressor’s onset</para>
+                  <para role="SimplePara">– Duration: symptoms do not persist for more than 6 months after stressor/consequences terminated</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">– The death of another person who was close to the bereaved individual</para>
+                  <para role="SimplePara">– Death occurred at least 12 months prior to evaluation</para>
+                  <para role="SimplePara">– Since the death the bereaved experiences most days persistent grief through the following, and to a clinically significant degree: intense yearning/longing for the deceased, and/or, preoccupation with thoughts or memories of the deceased</para>
+                  <para role="SimplePara">– Since the death three or more of the following symptoms occur most days, to a clinically significant degree, and for at least the past month occurred nearly daily:</para>
+                  <para role="SimplePara">1. Disruption in bereaved identity</para>
+                  <para role="SimplePara">2. Significant disbelief about the death</para>
+                  <para role="SimplePara">3. Avoidance of reminders of death</para>
+                  <para role="SimplePara">4. Intense emotional pain</para>
+                  <para role="SimplePara">5. Difficulty resuming social relationships and other interests</para>
+                  <para role="SimplePara">6. Emotional numbness</para>
+                  <para role="SimplePara">7. Feeling that life is meaningless</para>
+                  <para role="SimplePara">8. Intense loneliness</para>
+                  <para role="SimplePara">– These symptoms occurred as a result of the death</para>
+                  <para role="SimplePara">– Symptoms cause significant impairment in quality of life</para>
+                  <para role="SimplePara">– Duration and severity of bereavement reaction is clearly beyond expected social, cultural, or religious norms for the culture of the bereaved</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="SimplePara">
+      <emphasis>Note:</emphasis> Adapted from the DSM-5-TR (American Psychiatric Association, <emphasis role="CitationRef">
+         <phrase>2022</phrase>
+      </emphasis>)</para>
+   <sect2 id="ch0012s0001s01" role="Heading">
+      <title>Clinical Trauma-Related Definitions</title>
+      <sect3 id="ch0012s0001s01s01" role="Heading">
+         <title>DSM-5-TR Definition of Trauma</title>
+         <para role="Para">
+            Trauma<indexterm significance="normal">
+               <primary>Trauma</primary>
+            </indexterm> is defined as “actual or threatened death, serious injury, or sexual violence” whether experienced (1) directly, (2) observed in person, (3) learned of a violent or accidental that occurred to “a close family member or close friend,” (4) repeated exposure to aversive details (such as in the case of first responders, or domestic abuse) (DSM-5-TR, 2022). Although the word “trauma” is derived from Latin and means “physical wound,” toward the end of the nineteenth century, the definition of the term was expanded to include “mental wounds” (Lasiuk &amp; Hegadoren, <emphasis role="CitationRef">
+               <phrase>2006</phrase>
+            </emphasis>). Studies also suggest various types of traumas ranging from individual-based trauma that influences the individual and their developmental trajectory to the collective trauma that impacts a whole group, for example, hate crimes against a minority (Scott et al., <emphasis role="CitationRef">
+               <phrase>2023</phrase>
+            </emphasis>).</para>
+         <para role="Para">The clinical definition for trauma<indexterm significance="normal">
+               <primary>trauma</primary>
+            </indexterm>is broad because it encompasses a myriad of responses to one-time events (e. g., car accident); prolonged or reoccurring events (e. g., military combat or domestic violence); exposure to multiple traumas, also referred to as complex trauma (e. g., childhood abuse or community violence); and collective trauma (e. g., a community destroyed by a disaster) (Courtois &amp; Gold,<emphasis role="CitationRef">
+               <phrase>2009</phrase>
+            </emphasis>). While traumatic stress can result from either natural (e. g., tsunami, hurricane, earthquake) or human-caused events (e. g., terrorism, industrial accident, interpersonal abuse), research shows that human-caused events of betrayal or interpersonal violence are more likely to elicit severe posttraumatic reactions than natural disasters that are accidental by nature (Voigt et al.,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s02" role="Heading">
+         <title>The Definition of Stress</title>
+         <para role="Para">Although sometimes used interchangeably, stress and stressors are not synonymous: Stress results from a combination of biological, psychological, and social factors, whereas stressors are extrinsic environmental events or stimuli that can be perceived as positive or negative (Carter,<emphasis role="CitationRef">
+               <phrase>2007</phrase>
+            </emphasis>). Moreover, stress is a reaction to a stressor<indexterm significance="normal">
+               <primary>stressor</primary>
+            </indexterm>. While excessive stress is part of the entirety of trauma and stress-related disorders described in this chapter, a stressor does not necessarily amount to the clinical definition of trauma. For example, the event of divorce, while even very distressing, is not considered a traumatic event per DSM-5-TR. However, it may be a stressor in the context of Adjustment Disorder.</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s03" role="Heading">
+         <title>The Definition of Prolonged Grief</title>
+         <para role="Para">The concept of grief as an emotional<indexterm significance="normal">
+               <primary>emotional</primary>
+            </indexterm>, cognitive, and behavioral experience in response to loss has been heavily researched. From the early work of Kübler-Ross (<emphasis role="CitationRef">
+               <phrase>1975</phrase>
+            </emphasis>), who formalized and defined grief as stages (i. e., denial, anger, bargaining, depression, and acceptance), to more recent research by Prigerson et al. (<emphasis role="CitationRef">
+               <phrase>2021</phrase>
+            </emphasis>), studies have shown that grief is an intense and painful, yet natural process. With sufficient internal and external resources and support, most people cope and readjust to life while recognizing their loss. When the symptoms of grief do not decrease, interfere with daily functioning, and persist for 12 months or more in response to the death of a close person, it is considered Prolonged Grief (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s04" role="Heading">
+         <title>Posttraumatic Stress Disorder</title>
+         <para role="Para">Frequently described as embodying “the invisible wounds of war,” PTSD is one of the more prevalent yet complex mental disorders. The recent publication of the DSM-5-TR (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>) included no material changes<indexterm significance="normal">
+               <primary>changes</primary>
+            </indexterm> to PTSD as stipulated in DSM-5 (APA, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>), aside from correcting a minor grammatical error of redundancy. However, the DSM-5 criteria for PTSD were significantly different from the criteria specified in the previous edition of the <emphasis>Diagnostic and Statistical Manual of Mental Disorders</emphasis> (4th ed. APA, <emphasis role="CitationRef">
+               <phrase>2000</phrase>
+            </emphasis>; DSM-IV-TR). One major change was moving PTSD from the Anxiety Disorders chapter and placing it in a new chapter: Trauma and Stressor-Related Disorders (APA, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>). This change was warranted because while there is significant comorbidity between post-traumatic stress and anxiety, the two disorders are inherently different. While anxiety disorders can be derived intrinsically, exposure to an extrinsic traumatic event is a prerequisite for the diagnosis of PTSD. Additional changes included revision<indexterm significance="normal">
+               <primary>revision</primary>
+            </indexterm> and expansion of the trauma criterion (discussed below), adding three symptoms to the existing 17, and division of the existing avoidance cluster (Hoge et al., <emphasis role="CitationRef">
+               <phrase>2014</phrase>
+            </emphasis>).</para>
+         <para role="Para">Criterion A defines<emphasis>exposure to a traumatic event</emphasis>. Not disregarding academic calls for the elimination of Criterion A altogether in the DSM-5, the subcommittee on PTSD eventually determined that exposure was an essential component of the PTSD construct (Friedman, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>). Exposure was once defined in very general terms. With DSM-5 revisions, the definition of a traumatic event now specifically includes “sexual violence” in addition to actual or threatened death or serious injury<indexterm significance="normal">
+               <primary>injury</primary>
+            </indexterm>. DSM-IV-TR criteria included “a threat to the physical integrity of self or others.” Still, considering the significant percentage (approximately 30%) of women diagnosed with PTSD as a result of sexual violence (Kessler et al., <emphasis role="CitationRef">
+               <phrase>1995</phrase>
+            </emphasis>), the inclusion of the term “sexual violence” was warranted. The revisions to Criterion A both expanded its meaning and provided more specificity. With DSM-5, an individual no longer has to personally experience or witness the traumatic event. Subsection 3 notes that exposure to a traumatic event includes “learning that the traumatic event(s) occurred to a close family member or close friend” (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>, p. 301). However, the event must have been violent or accidental. In addition, repeated or extreme exposure to “aversive details of the violent act” as part of one’s employment or volunteer responsibilities, such as those experienced by first responders collecting human remains, crisis counselors listening to details of a traumatic event, or law enforcement working in sexual or violent crimes, are now also considered exposure. However, watching traumatic events via electronic media or TV that have no direct relation to the person watching (e. g., a family member or a close friend) is not deemed to be sufficient for meeting Criterion A, based on DSM-5-TR PTSD criteria (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). While the requirements included in subsections one through four of Criterion A are not exhaustive, they do provide structure and set expectations regarding what can be considered a traumatic event.</para>
+         <para role="Para">Criterion (Cluster) B requires the presence<indexterm significance="normal">
+               <primary>presence</primary>
+            </indexterm> of at least one <emphasis>intrusion</emphasis> symptom out of three possibilities. The three intrusive symptoms include: (1) “Recurrent, involuntary, and intrusive distressing memories of the traumatic event” (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>, p. 301), which apply only to distressing sensory recollection (e. g., specific sites, smells, touch, etc.) rather than abstract thoughts (Friedman,<emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>); (2) “Recurrent distressing<indexterm significance="normal">
+               <primary>distressing</primary>
+            </indexterm>dreams in which the content... are related to the traumatic event(s)” (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>, p. 302), which includes both trauma-related dreams<indexterm significance="normal">
+               <primary>dreams</primary>
+            </indexterm> or nightmares as well as replay of the traumatic event (Friedman, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>); (3) “Dissociative reactions (e. g. flashbacks) in which the individual feels or acts as if the traumatic event(s) were recurring” (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>, p. 302), where flashbacks are in a continuum ranging from no awareness to total awareness; (4) “Intense or prolonged psychological distress... to internal or external cues that symbolize or resemble... the traumatic event(s)” (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>, p. 302). For example, a combat veteran who experiences psychological distress (anxiety, irritation, fear) when hearing July fourth fireworks; (5) “Marked physiological reactions to internal or external cues that symbolize or resemble... the traumatic event(s)” (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>, p. 302). For example, a rape victim who was raped while walking by herself at night now experiences panic symptoms in the form of heart palpitations, sweaty palms, and tremors every time she needs to walk at night.</para>
+         <para role="Para">
+            Criterion C<indexterm significance="normal">
+               <primary>Criterion C</primary>
+            </indexterm> requires at least one <emphasis>avoidance of stimuli</emphasis> symptom associated with the traumatic event. Similar to Criterion B (intrusion), Criterion C (avoidance) has always been considered a core element of PTSD. Either (1) “Avoidance of or efforts to avoid distressing memories, thoughts or feelings about or closely associated with the traumatic event(s)” (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>, p. 302) or (2) Avoidance of external reminders, such as people, activities, places, etc. that arouse distressing experience in the form of memories, thoughts, or feelings associated with the traumatic event should be endorsed by the patient. The expression of avoidance can be through behavior, such as taking substances to lower distress around trauma-related memories, or through internal mechanisms, like dissociation, when triggered.</para>
+         <para role="Para">
+            Negative alterations<indexterm significance="normal">
+               <primary>Negative alterations</primary>
+            </indexterm>
+            <emphasis>in mood and cognition</emphasis>, as defined under Criterion D, are symptomatic of individuals with PTSD (Friedman, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>). Two or more of the following seven criteria need to be met: (1) An inability to remember<indexterm significance="normal">
+               <primary>remember</primary>
+            </indexterm> an essential element of the traumatic event, usually in the form of dissociative amnesia. Derived from hysteria disorders in the nineteenth century, dissociative amnesia in trauma developed through the years without a specific definition. Nijenhuis and Van der Hart (<emphasis role="CitationRef">
+               <phrase>2011</phrase>
+            </emphasis>) defined dissociative amnesia in trauma as “a division of an individual’s personality, that is, of the dynamic, biopsychosocial system as a whole that determines his or her characteristic mental and behavioral actions” (p. 418). Geared toward surviving the trauma, an individual’s personality is reorganized into two or more dissociative parts that are kept separate and experience the world differently (Nijenjius &amp; Van der Hart, 2011). Trauma-caused dissociation is manifested through negative or positive symptoms. The former includes dissociative amnesia and loss of affect and will, while the latter includes dissociative flashbacks or the re-experiencing of the traumatic events (Nijenjius &amp; Van der Hart, 2011); (2) Alteration in cognition in the form of persistent and exaggerated negative perception about self, others, or the world (e. g., “I am bad”; or “People are dangerous”); (3) Alteration in cognition in the form of persistent and distorted negative perceptions about the cause or consequences of the traumatic event (e. g., “If I hadn’t worn this dress the rape would not have happened”); (4) Persistently experiencing negative mood, such as sadness, fear, guilt or shame; (5) Diminished participation in significant activities (e. g. favorable, hobbies) in comparison to period prior to the trauma<indexterm significance="normal">
+               <primary>trauma</primary>
+            </indexterm>; (6) Detachment or estrangement from others with whom the individual was close prior to the trauma; (7) “Numbing inability” (Friedman, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>, p. 551) in the form of an inability to experience positive emotions such as happiness or loving feelings (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>).</para>
+         <para role="Para">
+            Criterion E<indexterm significance="normal">
+               <primary>Criterion E</primary>
+            </indexterm> clusters symptoms of <emphasis>marked alterations in arousal and reactivity associated with the traumatic event</emphasis>. Two or more of the following six symptoms must be met: (1) Irritability and anger outbursts in verbal or physical aggression toward others or objects. The behavior does not need to be triggered by provocation; (2) Reckless or self-destructive behavior, such as alcohol or substance use, non-protected/unsafe sexual relations, suicidal attempts, reckless driving, etc.; (3) Hypervigilance is manifested through maladaptive<indexterm significance="normal">
+               <primary>maladaptive</primary>
+            </indexterm>, heightened sensitivity, and attentional bias toward cues of potential threats or dangers in the environment (Kimble et al., <emphasis role="CitationRef">
+               <phrase>2014</phrase>
+            </emphasis>); (4) Exaggerated startle response in the form of increased physiological reactivity to events or thoughts associated with the trauma; (5) Problems with concentration, including short-term memory problems; (6) Difficulty sleeping in different forms (e. g., difficulty falling asleep or going back to sleep, etc.).</para>
+         <para role="Para">Criterion F requires that Clusters B to E appear for more than 1 month after the traumatic event (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). Late onset is also possible, whereby posttraumatic symptoms appear much later than 1 month requirement, at times years after the completion of the traumatic event. However, if PTSD symptoms are evident immediately and within a month following the trauma, another disorder, such as Acute Stress Disorder, should be considered.</para>
+         <para role="Para">While it is essential to detect the relevant symptoms to establish a correct diagnosis, it is similarly important to identify how the symptoms interfere with an individual’s daily functioning. Criterion G requires the clinician to compare their client’s daily functioning before and after the traumatic event and determine whether these changes interfere with daily functioning. In making the comparison, the clinician should explore different areas of an individual’s life, such as work, family, social relationships, or engagement in pleasurable activities. In addition, the clinician should verify that the symptoms or disturbance in daily functioning are not due to any type of substance use or a medical condition that could better account for the symptoms and disruption in daily functioning. While this is a standard criterion that is included in almost all DSM-5-TR disorders, it is important to rule out the possibility that the symptoms<indexterm significance="normal">
+               <primary>symptoms</primary>
+            </indexterm>are the result of substance use because of the high comorbidity between alcohol or substance use and PTSD. Finally, depersonalization and derealization, subtypes of dissociation, may accompany PTSD symptoms and, if so, should be indicated as specifiers. Both depersonalization and derealization feature distortions in perception. Depersonalization is when an individual feels as if they are looking at themselves from the outside and are not in full control of how they perceive their feelings, thoughts, or body. Derealization is where an individual feels disconnected from the external world (e. g., dreamlike, distorted, or fake) (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). These two subtypes of PTSD were first introduced in DSM-5 (APA, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s05" role="Heading">
+         <title>Prevalence of PTSD</title>
+         <para role="Para">As discussed above, a traumatic event is a prerequisite to developing PTSD. Although most people will experience at least one traumatic event during their lifetime (Benjet et al.,<emphasis role="CitationRef">
+               <phrase>2016</phrase>
+            </emphasis>), exposure to most traumatic stressors will not result in PTSD. However, research suggests that interpersonal violence increases the likelihood of developing the disorder (Ellis &amp; Zaretsky, <emphasis role="CitationRef">
+               <phrase>2018</phrase>
+            </emphasis>). In comparison to a natural disaster, a terrorist attack or sexual violence is more likely to increase the risk for PTSD.</para>
+         <para role="Para">Research examining the prevalence of PTSD<indexterm significance="normal">
+               <primary>PTSD</primary>
+            </indexterm> in the US population shows that only a small percentage of those who experience a traumatic stressor go on to develop PTSD. Kilpatrick et al. (<emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>) found that approximately 8% of the population will develop PTSD during their lifetime. Other studies suggest slightly smaller or larger numbers. A systematic review of 41 studies that assessed for PTSD in over 7 million primary care patients in the US found that 12.5% of the sample, after factoring in various sub-groups such as military veterans and special-risk populations, met the criteria for PTSD (Spottswood et al., <emphasis role="CitationRef">
+               <phrase>2017</phrase>
+            </emphasis>). A recent literature review of 38 PTSD-focused studies in the US found point estimates of PTSD prevalence ranged from 8.0% to 56.7%, 1-year prevalence from 2.3% to 9.1%, and lifetime prevalence from 3.4% to 26.9% (Schein et al., <emphasis role="CitationRef">
+               <phrase>2021</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s06" role="Heading">
+         <title>Acute Stress Disorder</title>
+         <para role="Para">A diagnosis of acute stress disorder (ASD)<indexterm significance="normal">
+               <primary>acute stress disorder (ASD)</primary>
+            </indexterm> may help to identify individuals who are at increased risk for developing PTSD. However, most people who develop PTSD do not always meet ASD criteria (Bryant, <emphasis role="CitationRef">
+               <phrase>2017</phrase>
+            </emphasis>). Criterion A of ASD is identical to Criterion A of PTSD. Although both disorders require some type of exposure to a traumatic event, there are key differences in required symptoms and their duration (see Table <emphasis role="InternalRef">
+               <phrase>10.1</phrase>
+            </emphasis>). First, symptoms needed to make a PTSD diagnosis are listed in categories (i. e., B through E) with specific requirements regarding the number of symptoms needed for each (e. g., cluster B requires at least one symptom while cluster E requires at least two).</para>
+         <para role="Para">In contrast, criterion B for ASD<indexterm significance="normal">
+               <primary>ASD</primary>
+            </indexterm> requires the presence of any nine symptoms out of the following five categories: intrusion, negative mood, dissociative symptoms, avoidance symptoms, and arousal symptoms. For ASD, the intrusion category provides several ways to note how the individual re-experiences the traumatic event: (B1) Reexperiencing the trauma<indexterm significance="normal">
+               <primary>trauma</primary>
+            </indexterm> through unwanted, recurring, and intrusive memories of the traumatic event where the memories can be manifested through sensory, emotional, or physiological distress; (B2) Reexperiencing the trauma through recurring dreams related to the traumatic event that causes distress. For example, a victim of robbery could experience recurring nightmares about being assaulted; (B3) Reexperiencing the trauma through dissociative reactions (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). Dissociative reactions, depersonalization, and derealization were discussed in detail in the PTSD section of this chapter.</para>
+         <para role="Para">In the minutes and hours after a traumatic event, it is expected that those who have been exposed will be very distressed and think constantly about the trauma. To avoid pathologizing strong yet normal reactions, a diagnosis of ASD<indexterm significance="normal">
+               <primary>ASD</primary>
+            </indexterm>is not made until at least 3 days after an event. Dissociative responses that persist beyond 3 days that should be considered include (B4) Reexperiencing the trauma through intense or prolonged psychological (e. g., fear, sadness, shame) or physiological (e. g., panic symptoms) distress where the distress is triggered by internal or external cues that resemble those of the traumatic event. The negative mood category (B5) requires that the individual finds it impossible to experience a positive state of mind (e. g., intimacy for a sexual violence survivor) or has an unremitting negative mood (e. g., sadness, anger, shame) after the trauma. The dissociative symptoms category requires alterations in awareness<indexterm significance="normal">
+               <primary>awareness</primary>
+            </indexterm>in the form of (B6) the presence of depersonalization or derealization or (B7) an inability to remember important aspects of the traumatic event (i. e., dissociative amnesia) (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>).</para>
+         <para role="Para">The avoidance symptoms category can be divided into efforts to avoid internal and external stimuli associated with the traumatic event: (B8) Efforts to avoid internal stimuli include refusal to talk about memories about the traumatic event and share thoughts or feelings (e. g., refusing to use psychological treatment); (B9) Efforts to avoid external stimuli associated with the traumatic event include avoidance of going to places or meeting with people that remind the individual of the trauma<indexterm significance="normal">
+               <primary>trauma</primary>
+            </indexterm>(e. g., using an elevator after experiencing an assault in an elevator). Individuals with Acute Stress Disorder experience heightened arousal in the form of (B10) Sleep disturbance in various forms (e. g., due to nightmares, difficulties sleeping, or waking up during the night with difficulties falling asleep); (B11) Anger outbursts or irritability (e. g., anger eruption with no apparent reason or a disproportionate reaction to a trigger); (B12) Hypervigilance in the form of heightened sensitivity to potential threats, whether related or unrelated to the traumatic event; (B13) Concentration problems including difficulties attending to tasks that require focus or remembering daily events; (B14) Exaggerated startle in response to unexpected stimuli (e. g., jumpiness in response to loud sound) (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). Second, the duration of symptoms for each of the two disorders—PTSD and ASD—is different. For an ASD diagnosis, criterion C notes that symptoms need to be present for at least 2 days but no more than 1 month (APA, <emphasis role="CitationRef">
+               <phrase>2013</phrase>
+            </emphasis>). If symptoms are present beyond 1 month, then a diagnosis of PTSD should be considered and evaluated.</para>
+         <para role="Para">Similar to nearly all DSM-5-TR disorders, the symptoms are expected to result in significant distress or impairment in social, work, and family relationships (Criterion D). In addition, it is always necessary, under criterion E, to rule out other causes that could better explain the presence of symptoms, such as substance use, medical conditions, or psychological disturbances, such as brief psychotic disorder (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). While the DSM-5-TR views acute stress disorder as a precursor to PTSD and therefore appears alongside PTSD in the same section (trauma and stress-related disorders), the World Health Organization (WHO) has a different view of acute stress. The WHO’s 11 edition of the International Classification of Diseases (ICD-11, 2018) defines acute stress as a possible reaction<indexterm significance="normal">
+               <primary>reaction</primary>
+            </indexterm> following a traumatic event. It is considered a “problem associated with harmful or traumatic events.” Moreover, the ICD-11 defines acute stress reaction as “normal given the severity of the stressor, and usually begins to subside within a few days after the event.”</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s07" role="Heading">
+         <title>Prevalence of Acute Stress Disorder</title>
+         <para role="Para">Research examining ASD<indexterm significance="normal">
+               <primary>ASD</primary>
+            </indexterm> symptoms was initiated 3 days after the September 11th terrorist attacks. A national telephone survey conducted with 560 adults revealed that events reminding them of the attacks triggered anger (30%), repeated and disturbing memories, thoughts, or dreams associated with the attacks (16%), difficulties concentrating (14%), sleep-related problems (11%), and irritability or angry outbursts (9%) (Schuster et al., <emphasis role="CitationRef">
+               <phrase>2001</phrase>
+            </emphasis>). Overall, 44% of respondents reported experiencing at least one or more symptoms of acute stress in the days following the attack. The study also found that 50% of women, compared to 37% of men, reported substantial stress reactions (Schuster et al., <emphasis role="CitationRef">
+               <phrase>2001</phrase>
+            </emphasis>).</para>
+         <para role="Para">Recent studies that measured ASD’s prevalence can be differentiated by the specific type of trauma<indexterm significance="normal">
+               <primary>trauma</primary>
+            </indexterm> the respective samples experienced. For example, human-caused violent acts increase the likelihood of ASD (Silver et al., <emphasis role="CitationRef">
+               <phrase>2002</phrase>
+            </emphasis>). A 2017 systematic review that examined the prevalence of ASD among traffic accident survivors in eight countries found that almost 16% of the survivors experienced ASD. High rates of ASD were also found among terror attack survivors. Balasinorwala<indexterm significance="normal">
+               <primary>Balasinorwala</primary>
+            </indexterm> and Shah<indexterm significance="normal">
+               <primary>Shah</primary>
+            </indexterm> (2009) found that 30% of the 2008 Mumbai, India, terror attack victims who survived with injuries endorsed ASD symptoms. They further reported that experiencing physical injuries, being female, younger than 33 years of age, unmarried, unemployed, or low socioeconomic status increased the likelihood of experiencing ASD (Balasinorwala &amp; Shah, 2009). There are also instances where non-violent traumas, such as COVID-19 related, can also lead to increased rates of ASD (Mongodi et al., <emphasis role="CitationRef">
+               <phrase>2021</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s08" role="Heading">
+         <title>Adjustment Disorder</title>
+         <para role="Para">
+            Adjustment disorder<indexterm significance="normal">
+               <primary>Adjustment disorder</primary>
+            </indexterm>criterion A requires exposure to a stressor. However, while the stressor must be identifiable, unlike acute stress disorder and PTSD, it does not need to be a traumatic event (e. g., exposure to actual death, threatened death, severe injury, or sexual violence). An infinite number of stressors meet the requirements of Criterion A, such as loss of employment, difficulty adjusting to college, or a move to a new city. In addition, the stressor can be experienced as a one-time (e. g., one-time divorce) or a continuing or recurring event (e. g., seasonal business crises). Moreover, the stressor can affect an individual, community, or country (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). Symptoms are required to start within 3 months from the beginning of the stressor and end within 6 months from the termination of the stressor or its consequences. The following symptoms are required for meeting Criterion B: (B1) Marked distress that is disproportionate to the severity or intensity of the stressor while taking into account relevant cultural considerations that may impact symptom severity and presentation; (B2) The reaction to the stressor significantly impairs essential areas of functioning, whether family, social, occupational, or other. For example, 5 months after immigrating to the USA, a woman continues to isolate, avoids applying for jobs despite financial need, and experiences frequent anger outbursts toward her partner and family members.</para>
+         <para role="Para">Similar to PTSD and acute stress disorder, the clinician should make sure that the adjustment disorder symptoms do not meet the criteria for another disorder that may take precedence, such as major depressive disorder<indexterm significance="normal">
+               <primary>disorder</primary>
+            </indexterm>(Criterion C). The clinician should also try to identify whether there is any disorder that preceded the stressor (e. g., dysthymia) and whether current symptoms could be an exacerbation of a preexisting disorder. Criterion D requires that the clinician avoids confusing the presenting symptoms with normal bereavement. Criterion E sets a relatively brief time limit, up to 6 months from the termination of the stressor or its termination of the stressor’s consequences, for the presentation of symptoms. Other diagnoses should be considered if symptoms persist for longer than 6 months. The following specifiers can be used with adjustment disorder: depressed mood, anxiety, mixed anxiety, disturbance of conduct, mixed disturbance of emotions and conduct, and unspecified (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). A new specifier for adjustment disorder was added in the DSM-5-TR, which defines adjustment as acute if symptoms have persisted for less than 6 months and as persistent (chronic) if symptoms have persisted for 6 months or longer following the termination of a stressor or its consequences (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>).</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s09" role="Heading">
+         <title>Prevalence of Adjustment Disorder</title>
+         <para role="Para">Relative to PTSD, there is a lack of research on adjustment disorder. It is likely that because of the relatively short span allowed for the disorder’s symptoms, there is less interest in its prevalence. Moreover, in comparison to both PTSD and ASD, the symptoms of adjustment disorder are nonspecific,vague<indexterm significance="normal">
+               <primary>vague</primary>
+            </indexterm>, and open to interpretation. For instance, following a divorce, one clinician may consider a highly distressed response as a part of normal grief over the change in familial circumstances. In contrast, another clinician may view it as marked distress that meets the criteria for adjustment disorder.</para>
+         <para role="Para">The DSM-5-TR estimates that between 5% and 20% of individuals receiving outpatient mental health care are diagnosed with adjustment disorder (APA,<emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). Other research studies report similar findings. In recent years, adjustment disorder has been studied, particularly in the context of unexpected health-related events<indexterm significance="normal">
+               <primary>events</primary>
+            </indexterm>. Such events require a physical adjustment of the body to a new situation and cognitive and emotional adjustment, which can be distressing. Among breast, prostate, and head and neck cancer patients in the Netherlands and in all stages and treatment modalities (<emphasis>N</emphasis> = 200), the overall prevalence of adjustment disorder is estimated at 13.1% (Van Beek et al., <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). High rates of adjustment disorder following the pandemic were also indicated in China.</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s10" role="Heading">
+         <title>Prolonged Grief Disorder</title>
+         <para role="Para">
+            Prolonged Grief Disorder (PGD)<indexterm significance="normal">
+               <primary>Prolonged Grief Disorder (PGD)</primary>
+            </indexterm> was added to the Trauma and Stress-Related Disorders in the DSM-5-TR (APA, <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). It was also integrated into the ICD-11. The intent behind the new addition was to define and help mental health providers identify a pattern of prolonged, persistent, and maladaptive grief response that may become dysfunctional and even dangerous to the mourner’s life, such as engaging in self-harming behaviors (Prigerson et al., <emphasis role="CitationRef">
+               <phrase>2021</phrase>
+            </emphasis>). To separate persistent, chronic behavior from natural and expected mourning, Criterion A requires that at least 12 months pass from the time of the passing of a person who was close to the bereaved (for children and adolescents, at least 6 months). Criterion B provides that persistent grief response should be in the form of at least one of the two: intense yearning for the deceased or preoccupation with thoughts or memories of the deceased. These emotional and cognitive experiences are expected to occur most days—where, at the time of diagnosis, they have occurred nearly every day for at least the last month—and to a clinically significant degree (e. g., with high intensity). Criterion C provides eight additional symptoms, from which three need to take place most days and to a clinically significant degree since the death and nearly every day for at least the last month before diagnosis. These symptoms that occur following<indexterm significance="normal">
+               <primary>following</primary>
+            </indexterm>and as a result of the death include (1) Identity disruption (i. e., not feeling like self since the death), (2) Marked sense of disbelief about the death, (3) Avoiding reminders that the person is dead, (4) Intense emotional pain (e. g., anger) related to the death, (5) Difficulty reintegrating back to relationships and activities (e. g. social-related activities), (6) Emotional numbness, (7) Feeling that life is meaningless, and (8) Intense sense of loneliness. Criterion D requires that the overall experience cause significant distress in main areas of life, such as social or occupational. In addition, the duration and severity of the bereavement should exceed expected social, cultural, or religious norms for the mourner (Criterion E), and alternative diagnoses that may explain the prolonged bereavement, such as Major Depressive Disorder or PTSD, have been considered and rejected (Criterion F).</para>
+      </sect3>
+      <sect3 id="ch0012s0001s01s11" role="Heading">
+         <title>Prevalence of Prolonged Grief Disorder</title>
+         <para role="Para">Given that PGD<indexterm significance="normal">
+               <primary>PGD</primary>
+            </indexterm> is a new disorder in the DSM, there is a paucity of studies on prevalence in the general population. Existing studies suggest that natural causes of death are associated with a lower potential risk of PGD compared with unnatural causes (Gang et al., <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>). A meta-analysis review of 14 studies with an adult population exposed to non-violent bereavement found a pooled prevalence of 9.8% of PGD (Lundorff et al., <emphasis role="CitationRef">
+               <phrase>2017</phrase>
+            </emphasis>).</para>
+         <para role="Para">The COVID-19 pandemic, which led to millions of deaths worldwide, also led to increased rates of PGD; a cross-sectional online survey in China<indexterm significance="normal">
+               <primary>China</primary>
+            </indexterm> conducted between September and October 2020 among participants (<emphasis>N</emphasis> = 422) who lost a close person due to COVID-19 found that between 29.3% and 37.8% screened positive for PGD, depending on the evaluation tool (Tang &amp; Xiang, <emphasis role="CitationRef">
+               <phrase>2021</phrase>
+            </emphasis>). In addition to the difference between natural and unnatural causes of death, factors such as shorter time since death, deaths of siblings and “others,” and deaths from accidents and homicides were positively associated with developing PGD (Gang et al., <emphasis role="CitationRef">
+               <phrase>2022</phrase>
+            </emphasis>).</para>
+      </sect3>
+   </sect2>
+</sect1>

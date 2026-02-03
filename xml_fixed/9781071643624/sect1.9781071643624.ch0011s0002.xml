@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0011s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0011s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0011s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0011s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>11</chapternumber>
+         <chapterid>ch0011</chapterid>
+         <chaptertitle>9. Obsessive-Compulsive and Related Disorders</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Information</title>
+   <para>
+      <phrase>2016</phrase>
+      <phrase>9.3</phrase>Table 9.3</para>
+   <para role="SimplePara">Tools to assess OCD symptom severity in adults and children and OCD-related factors<indexterm significance="normal">
+         <primary>factors</primary>
+      </indexterm>
+   </para>
+   <table id="ch0011s0002ta03">
+      <title/>
+      <tgroup cols="6">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <colspec colname="c3" colnum="3"/>
+         <colspec colname="c4" colnum="4"/>
+         <colspec colname="c5" colnum="5"/>
+         <colspec colname="c6" colnum="6"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Assessment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Reference</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Type</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Description</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Strengths</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Weaknesses</para>
+               </entry>
+            </row>
+            <row>
+               <entry nameend="c6" namest="c1">
+                  <para role="SimplePara">
+                     <emphasis role="strong">Measures of adult OCD symptom severity</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Yale-Brown Obsessive-Compulsive Scale (Y-BOCS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Goodman et al. (<emphasis role="CitationRef">
+                        <phrase>1989</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Semi-structured clinician interview</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Checklist of obsessions and compulsions followed by 10 items assessing the frequency/duration, interference, distress, resistance, and control of obsessions and compulsions on a 0–4 scale</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Comprehensive, global measure of severity</para>
+                  <para role="SimplePara">• “Gold standard” of OCD symptom assessment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Lengthy (approx. 50–60 min)</para>
+                  <para role="SimplePara">• Requires training</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Dimensional Y-BOCS (DY-BOCS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Rosario-Campos et al. (<emphasis role="CitationRef">
+                        <phrase>2006</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self-report and clinician-rated</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self-report ratings of presence and severity of obsessions and compulsions across six dimensions (harm, scrupulosity, symmetry/just right, contamination, hoarding, miscellaneous), and clinician ratings of dimensional and global symptom severity and impairment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Provides information across six dimensions</para>
+                  <para role="SimplePara">• Appropriate for use with pediatric samples</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Does not discriminate well from depression</para>
+                  <para role="SimplePara">• Requires training</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">National Institute of Mental Health (NIMH) Gobal Obsessive Compulsive Scale (GOCS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Taylor (<emphasis role="CitationRef">
+                        <phrase>1995</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Clinician-rated measure</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Single-item rating of OCD symptom severity on a scale of 1–15 (1 = <emphasis>minimal</emphasis>, 15 = <emphasis>very severe</emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Simplicity</para>
+                  <para role="SimplePara">• High test-retest reliability and inter-rater reliability</para>
+                  <para role="SimplePara">• High correlations with Y-BOCS</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Limited information that can be used for treatment (e. g., severity of specific dimensions of OCD)</para>
+                  <para role="SimplePara">• Requires expertise to produce reliable ratings</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Y-BOCS Self-Report (Y-BOCS-SR)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Baer et al. (<emphasis role="CitationRef">
+                        <phrase>1993</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">58-item symptom checklist and 10-item severity scale, based on items in the Y-BOCS</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Comprehensive</para>
+                  <para role="SimplePara">• Moderately agrees with clinician-administered Y-BOCS (Storch et al., <emphasis role="CitationRef">
+                        <phrase>2017</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• May underestimate symptom severity, especially among depressed patients</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Dimensional Obsessive-Compulsive Scale (DOCS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Abramowitz et al. (<emphasis role="CitationRef">
+                        <phrase>2010</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">20-item measure assessing four dimensions of OCD symptoms (contamination, responsibility/harm, unacceptable thoughts, symmetry)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Assesses severity of four empirically supported dimensions</para>
+                  <para role="SimplePara">• Brief and easy to administer</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Does not assess specific obsessions and compulsions</para>
+                  <para role="SimplePara">• Not well-suited for children and adolescents</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Obsessive-Compulsive Inventory-Revised (OCI-R)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Foa et al. (<emphasis role="CitationRef">
+                        <phrase>2002</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">18-item screening measure assessing distress associated with common OCD symptoms, yielding a total score and six subscales (washing, checking, ordering, obsessing, hoarding, neutralizing)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Brief screening measure and diagnostic aid</para>
+                  <para role="SimplePara">• Easy to score and compare subscales</para>
+                  <para role="SimplePara">• Assesses breadth of OCD symptoms</para>
+                  <para role="SimplePara">• Also has a 12-item version and 4-item version (Abramovitch et al., <emphasis role="CitationRef">
+                        <phrase>2021a</phrase>
+                     </emphasis>, <emphasis role="CitationRef">
+                        <phrase>2021b</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Measures distress specifically</para>
+                  <para role="SimplePara">• Only mild-to-moderate correlations with other measures of OCD</para>
+                  <para role="SimplePara">• Mild-to-moderate correlations with depression and trait anxiety</para>
+                  <para role="SimplePara">• Not a diagnostic tool; requires further assessment to determine OCD diagnosis</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Florida Obsessive-Compulsive Inventory (FOCI)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Storch et al. (<emphasis role="CitationRef">
+                        <phrase>2007</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">20-item Symptom Checklist and 5-item Severity Scale derived from the Y-BOCS</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Brief (approx. 5 min) and easy to score</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Obsessions severity and compulsions severity are combined</para>
+               </entry>
+            </row>
+            <row>
+               <entry nameend="c6" namest="c1">
+                  <para role="SimplePara">
+                     <emphasis role="strong">Measures of child and adolescent OCD symptom severity</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Children’s Y-BOCS (CY-BOCS)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Scahill et al. (<emphasis role="CitationRef">
+                        <phrase>1997</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Semi-structured interview</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Derived from the Y-BOCS, includes a checklist of obsessions and compulsions, followed by 10 items assessing the frequency/duration, interference, distress, resistance, and control of obsessions and compulsions on a 0–4 scale</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• “Gold standard” of OCD symptom assessment in youth</para>
+                  <para role="SimplePara">• Allows clinician to account for information from both child and parent</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Lengthy (approx. 50–60 min)</para>
+                  <para role="SimplePara">• Requires training</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">CY-BOCS-Child-Report and -Parent-Report (CYBOCS-CR and -PR)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Storch et al. (<emphasis role="CitationRef">
+                        <phrase>2006</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Child- and parent-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">10-item measure of symptom severity derived from CY-BOCS</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Potentially easier alternative to clinician-administered CY-BOCS</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Items were derived from the first edition of the CY-BOCS</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Obsessive-Compulsive Inventory-Child Version (OCI-CV)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Foa et al. (<emphasis role="CitationRef">
+                        <phrase>2010</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Child-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">21-item measure of symptom severity, each item rated on a 0–3 scale, which yields a total score and six subscale scores (doubting/checking, obsessing, hoarding, washing, ordering, neutralizing); derived from the OCI-R</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Assess six specific symptom domains</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• More strongly correlated with depression measure than CY-BOCS</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Obsessive-Compulsive Inventory-Child Version-Revised (OCI-CV-R)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Abramovitch et al. (<emphasis role="CitationRef">
+                        <phrase>2022a</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Child-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">18-item measure consisting of the OCI-CV minus the hoarding items</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Reflects recent shift in the literature seeing hoarding as separate from OCD</para>
+                  <para role="SimplePara">• Consistent factor structure for older and younger children</para>
+                  <para role="SimplePara">• Also has a 5-item version (Abramovitch et al., <emphasis role="CitationRef">
+                        <phrase>2022b</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Not tested in ethnically/racially diverse samples</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Children’s Florida Obsessive-Compulsive Inventory (C-FOCI)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Storch et al. (<emphasis role="CitationRef">
+                        <phrase>2009</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Child-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">17-item Symptom Checklist and 5-item Severity Scale derived from the CY-BOCS</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Brief (approx. 5–10 min)</para>
+                  <para role="SimplePara">• Easy to administer and score</para>
+                  <para role="SimplePara">• No training required</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• May not identify less common OCD symptoms</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Child Obsessive-Compulsive Impact Scale-Revised (COIS-R)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Piacentini et al. (<emphasis role="CitationRef">
+                        <phrase>2007</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Parent- and child-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">33-item measure that assesses OCD-specific functional impairment in youth; parent-report measure yields four subscales (daily living skills, school, social, family/activities) and child-report measure yields three subscales (school, social, activities)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Predicts treatment response</para>
+                  <para role="SimplePara">• Sensitive to treatment response</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• May not capture all areas of functional impairment</para>
+               </entry>
+            </row>
+            <row>
+               <entry nameend="c6" namest="c1">
+                  <para role="SimplePara">
+                     <emphasis role="strong">Measures of OCD-related factors (i. e., insight, family accommodation)</emphasis>
+                  </para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Brown Assessment Of Beliefs Scale</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Eisen et al. (<emphasis role="CitationRef">
+                        <phrase>1998</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Semi-structured clinician interview</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">7-item scale that assesses delusional beliefs in psychiatric disorders including OCD; specifically, items tap into conviction, perception of others’ views of beliefs, explanation of differing views, fixity of ideas, attempt to disprove beliefs, insight, and ideas/delusions of reference</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Relatively brief (10–15 min)</para>
+                  <para role="SimplePara">• Also has an adolescent version</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Need to accurately determine the belief underlying patients’ obsession; phrasing of the belief can influence results</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Family Accommodation Scale for OCD—Interviewer Rated (FAS-IR)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Calvocoressi et al. (<emphasis role="CitationRef">
+                        <phrase>1999</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Semi-structured clinician interview</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">First section includes an OCD symptom checklist; second section includes a 12-item interview that assesses frequency and magnitude of family accommodation among adults with OCD (i. e., modification, distress and consequences, participation)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Comprehensive tool that helps identify families who would benefit from targeting accommodation</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Requires training</para>
+                  <para role="SimplePara">• Lengthy (approx. 30–45 min)</para>
+                  <para role="SimplePara">• Limitations hinder its use among families with children with OCD</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Family Accommodation Scale—Parent Report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Flessner et al. (<emphasis role="CitationRef">
+                        <phrase>2011</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Parent-report</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">13-item, parent-reported, abridged version of the FAS-IR, which includes 9 items assessing family accommodation and 4 exploratory items assessing consequences and distress of withholding accommodations</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• No training needed; cost-efficient</para>
+                  <para role="SimplePara">• Shorter completion time than semi-structured interview FAS</para>
+                  <para role="SimplePara">• Respondent may be more comfortable disclosing accommodation when not face-to-face with clinician</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Inconsistency across research studies</para>
+                  <para role="SimplePara">• Excludes the OCD symptom checklist</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Family Accommodation Scale for OCD—Self-Rated Version (FAS-SR)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Pinto et al. (<emphasis role="CitationRef">
+                        <phrase>2013</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self-report (by patient’s relative)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Derived from the FAS-IR, the first section includes an OCD symptom checklist, and the second section assesses family accommodation</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Assesses multiple dimensions of accommodation</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Can be challenging to contact relatives for information</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Family Accommodation Scale for OCD—Patient Version (FAS-PV)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Wu et al. (<emphasis role="CitationRef">
+                        <phrase>2016</phrase>
+                     </emphasis>)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Self-report (by patient)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Derived from the FAS-IR, the first section includes an OCD symptom checklist, and the second section assesses the patient’s perceived frequency of accommodations from family</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Assesses a range of accommodating behaviors (e. g., directly participating in OCD symptoms, avoiding triggers, taking on patient’s responsibilities, modifying personal responsibilities)</para>
+                  <para role="SimplePara">• Practical to gather data from patient</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Patient may have different perception of accommodation than family members</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

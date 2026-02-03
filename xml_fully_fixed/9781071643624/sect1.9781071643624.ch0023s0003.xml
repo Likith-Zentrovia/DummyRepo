@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0023s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0023s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0023s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0023s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>23</chapternumber>
+         <chapterid>ch0023</chapterid>
+         <chaptertitle>20. Interviewing in Health, Medical, and Integrated Care Settings</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Procedures for Gathering Information</title>
+   <para role="Para">The<emphasis>referral source and question or consult</emphasis> begins our journey as to what involvement psychology will have. A psychologist<indexterm significance="normal">
+         <primary>psychologist</primary>
+      </indexterm>may need to clarify the referral or consult question. A good practice includes speaking directly with the referring professional (e. g., primary care physician, psychiatrist, etc.) to understand their concerns and the context of the referral. A psychologist must ensure the referral question is specific, with a clear purpose and rationale. Sometimes referrals may read as “Patient refuses to adhere to recommendations and will not take medications. Psychology requested for capacity evaluation.” In this example, psychology may provide consultation on providing staff with tools to navigate challenging behaviors, assessing the underlying purpose of demonstrated behaviors, and providing an assessment for cognitive abilities, capacity, or both. A psychologist can confirm with the referrer what they hope to achieve with the referral. Clarification can help align the assessment or consultation with their expectations.</para>
+   <para role="Para">A<emphasis>chart review</emphasis> is the best place to start when a referral or consultation for psychology services is requested. It is beneficial when the psychologist is not an integrated member of the individual’s care team and may need immediate access to the referral source to clarify the referral question. The health record contains valuable information, including demographic information, social history, past and present medical history, hospitalization history, medications, and past mental health engagement. Additionally, medical care professionals’ notes may contain descriptions of interpersonal interactions, treatment compliance history, personality, mental and cognitive functioning, and safety alerts.</para>
+   <para role="Para">
+      <emphasis>Collateral information</emphasis> may also be available from the healthcare team professionals and individuals ‘support systems, such as caregivers, friends, and family. Regarding the latter, psychologists should be aware of documentation through a signed release, a healthcare activation note indicating a medical proxy is the point of contact, or through a healthcare power of attorney documented in the chart. Psychologists working within an organization like a hospital or community clinic may not need an additional release to speak with the individual’s healthcare team. The psychologist should know the organization’s structure to verify the protocol. Collecting collateral observations helps to clarify the referral question and to prepare the psychologist for the clinical interview. In some cases, the collateral contact may be the final source of information gathered, especially if the individual cannot participate<indexterm significance="normal">
+         <primary>participate</primary>
+      </indexterm> in the clinical interview. Situations where the individual cannot communicate effectively on their own include severe mental health crisis, impaired cognitive functioning due to delirium, dementia, or brain injuries, substance intoxication or withdrawal, and physical illness or fatigue.</para>
+   <para role="Para">The<emphasis>clinical interview</emphasis> is the most essential tool for the psychologist. In most instances, the initial encounter with the individual sets the tone for the therapeutic relationship and ongoing rapport. The psychologist needs to clarify their role and reason for the encounter. Maintaining an open and honest dialogue with the individual, along with providing additional education to dispel myths and stigma around mental health, is crucial. How a psychologist may go about engaging the patient may be informed<indexterm significance="normal">
+         <primary>informed</primary>
+      </indexterm>by the chart review and collateral interview process. For example, humor can be used to engage an individual whose interpersonal interactions with staff tend to be relaxed and humorous, or the referring healthcare professional or trusted healthcare team member can introduce the psychologist.<link linkend="ch0023s0003fg03">20.3</link>
+   </para>
+   explore<indexterm significance="normal">
+      <primary>explore</primary>
+   </indexterm>
+   psychological<indexterm significance="normal">
+      <primary>psychological</primary>
+   </indexterm>
+   <figure float="0" id="ch0023s0003fg03" role="Figure">
+      <title>
+         <emphasis role="CaptionNumber">Fig. 20.3</emphasis>Pathways to information gathering<indexterm significance="normal">
+            <primary>gathering</primary>
+         </indexterm>
+      </title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0023f03.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+</sect1>

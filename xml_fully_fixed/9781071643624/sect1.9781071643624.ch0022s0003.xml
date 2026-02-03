@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0022s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0022s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0022s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0022s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>22</chapternumber>
+         <chapterid>ch0022</chapterid>
+         <chaptertitle>19. Interviewing Older Adults</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Recommendations for Formal Assessment</title>
+   lifecycle<indexterm significance="normal">
+      <primary>lifecycle</primary>
+   </indexterm>
+   <para>
+      <phrase>19.4</phrase>Table 19.4</para>
+   <para role="SimplePara">Example structure for clinical interview<indexterm significance="normal">
+         <primary>interview</primary>
+      </indexterm>and categories for resulting report</para>
+   <table id="ch0022s0003ta04">
+      <title/>
+      <tgroup cols="2">
+         <colspec colname="c1" colnum="1"/>
+         <colspec colname="c2" colnum="2"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Category</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">Question</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Identifying information</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Demographic/background (e. g., age, race/ethnicity, education, gender (including preference for documentation)</para>
+                  <para role="SimplePara">• Current status: Living situation, employment, relationships</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Referral and chief complaint</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Source and reason for referral (e. g., primary care provider, self, neurologist)</para>
+                  <para role="SimplePara">• Patient’s presenting concerns (from their perspective)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">History of presenting problem</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Precipitating or current stressors</para>
+                  <para role="SimplePara">• Chronology of problem</para>
+                  <para role="SimplePara">• Impact of the problem on daily living and functioning</para>
+                  <para role="SimplePara">• Approaches to coping used by patient</para>
+                  <para role="SimplePara">• Impetus for seeking help now</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Past psychiatric history</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Past experiences of depression, anxiety, etc.</para>
+                  <para role="SimplePara">• Chronology and precipitating stressors</para>
+                  <para role="SimplePara">• Worst and most recent episode</para>
+                  <para role="SimplePara">• Diagnosis, if known</para>
+                  <para role="SimplePara">• Treatment pursued and experience of it</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Family history</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Mental health problems in family</para>
+                  <para role="SimplePara">• Cognitive problems in family (e. g., dementia history)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Medical history</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Past medical conditions and treatment</para>
+                  <para role="SimplePara">• Past and current medical problems or conditions (e. g., cancer, diabetes, cardiovascular health, head injury, falls, arthritis/ other chronic pain)</para>
+                  <para role="SimplePara">• Hearing/eyesight</para>
+                  <para role="SimplePara">• Current medications (medical and/or psychiatric)</para>
+                  <para role="SimplePara">• Overall perceived health</para>
+                  <para role="SimplePara">• Impact of medical problems on functioning and mood</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Substance use history</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Past substance use</para>
+                  <para role="SimplePara">• Current substance use</para>
+                  <para role="SimplePara">• Consider alcohol, caffeine, nicotine, drugs</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Developmental/educational/occupational history</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Developmental issues</para>
+                  <para role="SimplePara">• Educational history and any problems/intervention</para>
+                  <para role="SimplePara">• Occupational history</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Social support and activities</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Early life (e. g., family structure, place raised)</para>
+                  <para role="SimplePara">• Relationship history (e. g., close relationships, marriage, children)</para>
+                  <para role="SimplePara">• Sexual functioning/needs</para>
+                  <para role="SimplePara">• Caregiving roles or responsibilities</para>
+                  <para role="SimplePara">• Significant losses, recent bereavement</para>
+                  <para role="SimplePara">• Current social support, including community-based (e. g., religious community)</para>
+                  <para role="SimplePara">• Social activities</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Functional status/impairment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• ADLs (bathing, dressing, grooming, eating, transferring, toileting)</para>
+                  <para role="SimplePara">• IADLs (driving, using the telephone, shopping, preparing food, using tools, doing laundry and other household chores, driving, traveling, managing medications, managing money)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Safety issues (as needed depending on vulnerabilities such as cognitive impairment)</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Medication monitoring and organization</para>
+                  <para role="SimplePara">• Assistance with tasks/care availability</para>
+                  <para role="SimplePara">• Supervision in home</para>
+                  <para role="SimplePara">• Episodes of unsafe behavior</para>
+                  <para role="SimplePara">• Signs of elder abuse or self-neglect</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Mental status and mental state exams</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Appearance, behavior, mood (GAS, GDS), affect, thought content (SI/HI, hallucinations, delusions), thought process, vegetative symptoms</para>
+                  <para role="SimplePara">• Brief cognitive exam (MMSE, 3 MS, MoCA)</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Strengths and barriers to treatment</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Patient perception of what might be helpful</para>
+                  <para role="SimplePara">• Strengths/sources of meaning/coping skills</para>
+                  <para role="SimplePara">• Barriers to treatment: Intrapsychic, social, practical, physical, systemic/structural</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Summary and diagnostic considerations</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Summarize problems, integrate methods used (e. g., patient report, collateral, measures), consider context</para>
+                  <para role="SimplePara">• Diagnostic considerations using DSM-5-TR</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Recommendations</para>
+               </entry>
+               <entry>
+                  <para role="SimplePara">• Clear and understandable plan for both patient and caregivers as applicable</para>
+                  <para role="SimplePara">• Targets for treatment that center patient goals</para>
+                  <para role="SimplePara">• Level of urgency</para>
+                  <para role="SimplePara">• Additional referrals or assessment (medical or neuropsychological) needed</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <sect2 id="ch0022s0003s01" role="Heading">
+      <title>Clarification of Referral Question and Record Review</title>
+      <para role="Para">In most settings, the assessment<indexterm significance="normal">
+            <primary>assessment</primary>
+         </indexterm> process begins with a discussion (often in an initial phone call or secure electronic exchange) with the patient and/or a referring caregiver or allied health professional, to clarify the identified problem and reason for referral. Clinicians should take special note of words used to define the presenting problem, evidence provided to support the framing of the problem, and the environmental context in which the problem arises. Records can be useful in providing medical or psychiatric history and related medications, as well as documenting prior laboratory tests and previous treatments. Current medical problems and medications should be noted and included in the report. Of note, it is important to maintain a critical stance when reviewing records, being mindful of the potential fallibility of prior evaluations or diagnostic labels, due to reporting biases, variation in clinician interpretation, and the dynamic nature<indexterm significance="normal">
+            <primary>nature</primary>
+         </indexterm>of various syndromes (e. g., mild neurocognitive impairment).</para>
+   </sect2>
+   <sect2 id="ch0022s0003s02" role="Heading">
+      <title>Conducting the Clinical Interview</title>
+      <para role="Para">The clinical interview<indexterm significance="normal">
+            <primary>clinical interview</primary>
+         </indexterm> should center the patient’s subjective experience and perceived needs for care, while also eliciting sufficient details and chronology to inform a holistic picture of the patient’s presenting problems, as well as approaches to coping. In addition to the general principles described earlier, clinicians should approach the interview with a goal of gathering details about both psychological and physical symptoms, which often requires a sorting out of symptoms to differentiate or identify their overlap. A clinician may find that self-reported symptoms do not correspond with other sources of information. This can particularly<indexterm significance="normal">
+            <primary>particularly</primary>
+         </indexterm> arise in the case of concerns about cognitive impairment in that the patient’s perception of their problem may differ from what is present and shown in tests. The chronology of the presenting issues should be assessed and changes such as improvements or worsening should be attended to. As noted, the gathering of information in the interview should also involve obtaining collateral input when available and asking informants about perceived behavioral changes and impacts on the<indexterm significance="normal">
+            <primary>the</primary>
+         </indexterm> patient’s functioning and overall quality of life.</para>
+   </sect2>
+   <sect2 id="ch0022s0003s03" role="Heading">
+      <title>Mental Status Exam, Behavioral Observations, and Neurocognitive Screening</title>
+      <para role="Para">Beyond the clinical interview<indexterm significance="normal">
+            <primary>interview</primary>
+         </indexterm>, the diagnostic assessment process should also characterize mental status, including mood, affect, appearance, speech, thought process, content, etc. Such details may be derived from the interview content, behavioral observations noted by the clinician, and formal screening measures. Specific aspects of mental status to attend to, particularly if cognitive impairment is suspected, might include: appearance that shows signs of ability to engage in ADLs (e. g., bathing, dressing), speech changes (e. g., dysarthria), thought process being highly circumstantial or showing word finding issues, and thought content being notably concrete. In conjunction with observations and clinical interview, a thorough diagnostic assessment of an older adult should involve the use of a brief cognitive screener. Even for those who may not have obvious signs of cognitive change, it can be useful to conduct yearly cognitive screening to facilitate comparison<indexterm significance="normal">
+            <primary>comparison</primary>
+         </indexterm>from baseline to potential future changes. The 3 MS Mini Mental Status Exam (Bravo &amp; Hébert,<emphasis role="CitationRef">
+            <phrase>1997</phrase>
+         </emphasis>; Jones et al., <emphasis role="CitationRef">
+            <phrase>2002</phrase>
+         </emphasis>; Teng &amp; Chui, <emphasis role="CitationRef">
+            <phrase>1987</phrase>
+         </emphasis>) is one reliable and valid screening tool for cognitive impairment. Regardless of the presenting problem, it is also recommended to screen for depression and anxiety symptoms given their prevalence and frequent co-occurrence with other conditions or mimicry of other conditions, particularly in older adults. For example, the Geriatric Depression Scale (GDS; Sheikh &amp; Yesavage, <emphasis role="CitationRef">
+            <phrase>1986</phrase>
+         </emphasis>), Geriatric Anxiety Scale (Segal et al., <emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>), and the S-MAST substance abuse screening tool (Hirata et al., <emphasis role="CitationRef">
+            <phrase>2001</phrase>
+         </emphasis>) are all validated with samples of older adults. It is important to consider there is a scarcity of instruments normed on older adults from racial and ethnic minority groups. Table <emphasis role="InternalRef">
+            <phrase>19.3</phrase>
+         </emphasis> summarizes key measures for cognitive screening, mood screening, substance use, sleep disorders, and risk and sources for older adult norms<indexterm significance="normal">
+            <primary>norms</primary>
+         </indexterm> when available.</para>
+   </sect2>
+   <sect2 id="ch0022s0003s04" role="Heading">
+      <title>Providing Feedback and Recommendations</title>
+      <para role="Para">When providing feedback<indexterm significance="normal">
+            <primary>feedback</primary>
+         </indexterm>on the assessment findings and related recommendations, one psychoeducational model that is recommended is the “ask-tell-ask” approach. In many cases, it may make sense for both the patient and their family and/or caregiver to be present, particularly if there is implication of cognitive impairment. Even if such impairment is not present, it can be helpful for many patients to have another person available to take notes and hear recommendations, given findings can be emotionally distressing or overwhelming for some. Feedback should maintain a focus on the main findings and communicate these in as clear a manner as possible, avoiding the use of jargon. Any remaining uncertainties regarding the diagnosis or further assessment needed should also be communicated. In both the written report and feedback session, recommendations should be provided that are tailored to the individual, including being feasible for their life circumstances (e. g., supports, resources, living setting), comorbidities if relevant, and current problems. Taking a person-centered approach that also highlights and builds on the patient’s strengths is essential not only to promote self-efficacy and dignity but also to enable the patient to be able to take in aspects of the feedback that may be distressing. To that end, recommendations should align with the patient’s values and model of illness and coping with illness.</para>
+   </sect2>
+</sect1>

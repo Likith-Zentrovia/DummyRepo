@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0003s0003" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0003s0002</risprev>
+         <riscurrent>sect1.9781071643624.ch0003s0003</riscurrent>
+         <risnext>sect1.9781071643624.ch0003s0004</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>3</chapternumber>
+         <chapterid>ch0003</chapterid>
+         <chaptertitle>2. Interviewing Strategies, Empathy, and Rapport</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Technical Skills</title>
+   <sect2 id="ch0003s0003s01" role="Heading">
+      <title>Case Formulation</title>
+      <para role="Para">
+         Case formulation<indexterm significance="normal">
+            <primary>Case formulation</primary>
+         </indexterm> (also known as case conceptualization) involves comprehensively understanding a client’s presenting concern, any precipitating and maintaining factors, and a hypothesis of the underlying factors driving the problem, along with their origins. Although a full, thorough overview of case formulation is beyond the scope of this chapter, it is an important technical foundation for clinical and diagnostic interviewing. Indeed, some research suggests that incorporating case formulation into your interview framework results in better outcomes for clients (Persons et al., <emphasis role="CitationRef">
+            <phrase>2006</phrase>
+         </emphasis>). A good case formulation stems from a collaborative clinical interview with the client to collect pertinent data related not only to diagnosis but also to various influencing factors that may be driving a diagnosis. Predictions about the client’s diagnoses<indexterm significance="normal">
+            <primary>diagnoses</primary>
+         </indexterm> are then made based on the case formulation, and the hypotheses are then tested by applying a treatment plan that aligns with the client’s and therapist’s goals for treatment (Persons, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>).</para>
+      <para role="Para">To build on this collaborative process<indexterm significance="normal">
+            <primary>process</primary>
+         </indexterm>, a useful case formulation is rooted in an effective diagnostic interview. As reviewed later in this section, clinical interviews can be unstructured, semi-structured, or structured. With any interview type, a good starting point is to gain an understanding of the current problem(s). A longstanding psychotherapy theory is that clients present for treatment when feeling demoralized (Frank, <emphasis role="CitationRef">
+            <phrase>1974</phrase>
+         </emphasis>), so it is also important to assess why the client presented for treatment at this time and whether any functional impairment is present. As discussed earlier in this chapter, it is important to gather this pertinent information while also maintaining rapport and collaborative interpersonal dynamics. To advance case formulation, additional information should also be gathered about the client’s presentation.</para>
+   </sect2>
+   <sect2 id="ch0003s0003s02" role="Heading">
+      <title>Behavioral Observations</title>
+      <para role="Para">The content a client communicates is just one source of information. Another important source of information comes from observable features<indexterm significance="normal">
+            <primary>features</primary>
+         </indexterm>, which can provide additional insight into client strengths and problem(s). For instance, the client may present with what they are calling “depression,” but you notice their affect is within normal limits even though they described their mood as “sad.” A client may be presenting for treatment for court-ordered alcohol misuse treatment and appear to have an unsteady gait and slurred speech despite them insisting that they are sober. Behavioral observations can help develop understanding of the client’s problems and place some of their problems into context.</para>
+      <para role="Para">In many instances, clinicians include behavioral observations in their reports and integrate them into their diagnostic rationales and case formulation. The first step in behavioral observation is to identify and operationalize behaviors<indexterm significance="normal">
+            <primary>behaviors</primary>
+         </indexterm>consistent with the presenting problem. For instance, we may expect a client presenting with problems related to social anxiety disorder to appear anxious speaking with us (e. g., avoiding eye contact, turning red when disclosing sensitive information). It can also be helpful to notice and describe behaviors that are not fully consistent with expected presentations to help in differential diagnosis.<phrase>2016</phrase>
+         <phrase>2.1</phrase>behavioral assessment Table 2.1</para>
+      nuance<indexterm significance="normal">
+         <primary>nuance</primary>
+      </indexterm>
+      <para role="SimplePara">Mental status exam components</para>
+      <table id="ch0003s0003ta01">
+         <title/>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Component</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Elements to assess</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Example descriptions that can be used in a report</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="3">
+                     <para role="SimplePara">Appearance and general behavior</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Appearance</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Well-groomed, unkempt, distinguishing features (e. g., scars, tattoos), ill-or well-appearing</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Body habitus</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">How the patient looks compared with his or her age</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Eye contact</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Appropriate, fleeting, sporadic, avoided, none</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">General behavior</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Cooperative, open, candid, engaging, relaxed, withdrawn, guarded, hostile, irritable, resistant, shy, defensive</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="2">
+                     <para role="SimplePara">Motor activity</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Psychomotor agitation/restlessness</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Pacing, wringing of hands, inability to sit still</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Psychomotor retardation/bradykinesia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Slowing of physical, cognitive, and emotional reactions</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Catatonia</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Immobility with muscular rigidity or inflexibility</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="3">
+                     <para role="SimplePara">Speech</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Quantity</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Talkative, expansive, paucity, poverty (alogia)</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Rate</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Fast, pressured, slow, normal</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Volume and tone</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Loud, soft, monotone, weak, strong, mumbled</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Fluency and rhythm</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Slurred, clear, hesitant, aphasic coherent/incoherent</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry morerows="1">
+                     <para role="SimplePara">Mood and affect</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Mood</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Client’s subjective report of emotional state</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Affect</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Therapist’s objective observation of patient’s expressed emotional state</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Thought process</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Form and flow of thought</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Logical, goal-directed, irrelevant detail, repeated words and phrases, thought blocking (interrupted thinking), tangential, circumstantial, flight of ideas</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Thought content</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Content assessed in the patient’s thoughts</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Within normal limits, suicide/self-harm/homicide, hallucinations, delusions, dissociation, persecutory, obsessions</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Cognition</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Orientation/attention/memory</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Oriented to time, space, and person, short/long-term memory, general intellect</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Insight</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Awareness and understanding of mental health problems and need for treatment</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Excellent, good, fair, poor</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para role="SimplePara">Judgment</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Client’s recognition of consequences of actions</para>
+                  </entry>
+                  <entry>
+                     <para role="SimplePara">Excellent, good, fair, poor</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="SimplePara">Note: The example descriptions are not an all-exhaustive list of descriptions to use; rather, this list comprises common examples typically seen across reports</para>
+   </sect2>
+   <sect2 id="ch0003s0003s03" role="Heading">
+      <title>Diagnostic Classification and Interviewing Frameworks</title>
+      <para role="Para">For the past several decades, many mental health professionals have approached diagnosis using some iteration of the <emphasis>Diagnostic and Statistical Manual of Mental Disorders</emphasis> (DSM). The current iteration of the DSM is the DSM-5-Text Revision (American Psychiatric Association, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>), which is widely used in the United States and Australia. These diagnoses largely map onto the <emphasis>International Statistical Classification of Diseases and Related Health Problems</emphasis> (11th edition) (World Health Organization, <emphasis role="CitationRef">
+            <phrase>2018</phrase>
+         </emphasis>)—a diagnostic framework that much of the rest of the world uses. These diagnostic systems use a categorical-polythetic classification approach to mental disorder classification. This approach assumes that psychopathology can be classified, like medical diseases, into distinct categories—where meeting a diagnostic threshold includes having a sufficient number and range of symptoms. A benefit to such a system for diagnosis is that it capitalizes on reliability. Indeed, when using structured clinical interview, reliability coefficients tend to be high relative to unstructured means (Osorio et al., <emphasis role="CitationRef">
+            <phrase>2019</phrase>
+         </emphasis>). Thus, this chapter focuses on a more structured approach to diagnosis to promote consistency in diagnostic clinical interviewing.</para>
+      <para role="Para">It is important to note that alternative models for assessing mental health disorders have been put forth and include the Research Domain Criteria (RDoC; Insel et al.,<emphasis role="CitationRef">
+            <phrase>2010</phrase>
+         </emphasis>), the Hierarchical Taxonomy Model of Psychopathology (HiTOP)<indexterm significance="normal">
+            <primary>Hierarchical Taxonomy Model of Psychopathology (HiTOP)</primary>
+         </indexterm> (Kotov et al., <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>), and the Alternative Model for Personality Disorders (AMPD) (American Psychiatric Association, <emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>; Krueger et al., <emphasis role="CitationRef">
+            <phrase>2012</phrase>
+         </emphasis>).</para>
+      <para role="Para">RDoC was an initiative put forth by the National Institute of Mental Health (NIMH) to move away from categorical-polythetic classification systems. RDoC is meant to (1) quantify dimensional domains as they relate to behaviors and neural systems and (2) foster research to validate these dimensions defined by neurobiology and behavioral measures that cut across current disorder categories. It is important to note that RDoC was not developed to replace current diagnostic systems; rather, it was created to be used as a framework to increase fidelity within research findings.</para>
+      <para role="Para">
+         HiTOP<indexterm significance="normal">
+            <primary>HiTOP</primary>
+         </indexterm> is a more recent initiative that builds upon decades of evidence regarding the structure of psychopathology. Regardless of the types of indicators used, HiTOP has consistently replicated (Forbes et al., <emphasis role="CitationRef">
+            <phrase>2024</phrase>
+         </emphasis>; Kotov et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>; Ringwald et al., <emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>, <emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>). A number of self-report measures are aligned with assessing dimensions within the HiTOP framework, including the Minnesota Multiphasic Personality Inventory-3 (MMPI-3; Ben-Porath &amp; Tellegen, <emphasis role="CitationRef">
+            <phrase>2020a</phrase>
+         </emphasis>, <emphasis role="CitationRef">
+            <phrase>b</phrase>
+         </emphasis>) and the Personality Assessment Inventory (PAI; Morey, <emphasis role="CitationRef">
+            <phrase>1991</phrase>
+         </emphasis>, <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). The creation of additional self-report measures and a structured clinical interview for HiTOP is currently underway.</para>
+      <para role="Para">Lastly, the AMPD is recognized and included in Sect. III (Emerging Models and Measures) of the DSM-5-TR. AMPD is a dimensional model that is used to diagnose personality disorders. There is a self-report method to assess personality impairment severity (Morey,<emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>) though it is not yet practical to use in clinical practice due to lack of normative data and clear guidelines as to how to interpret high and low scale scores. However, a structured clinical interview has been developed and validated to assess dimensional personality traits (First et al., 2017) and will be discussed below.</para>
+   </sect2>
+   <sect2 id="ch0003s0003s04" role="Heading">
+      <title>Ways of Interviewing</title>
+      <para role="Para">
+         Diagnostic interviewing<indexterm significance="normal">
+            <primary>Diagnostic interviewing</primary>
+         </indexterm> can be conceptualized as being either unstructured, semi-structured, or structured (Mueller &amp; Segal, <emphasis role="CitationRef">
+            <phrase>2014</phrase>
+         </emphasis>). The type of diagnostic interview one chooses to use is dependent on time, complexity, and whether reliability in diagnosing is a high priority.</para>
+   </sect2>
+</sect1>

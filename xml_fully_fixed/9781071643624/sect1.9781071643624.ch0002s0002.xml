@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0002s0002" role="Heading">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781071643624.ch0002s0001</risprev>
+         <riscurrent>sect1.9781071643624.ch0002s0002</riscurrent>
+         <risnext>sect1.9781071643624.ch0002s0003</risnext>
+         <booktitle>Diagnostic Interviewing</booktitle>
+         <isbn>9781071643624</isbn>
+         <chapternumber>2</chapternumber>
+         <chapterid>ch0002</chapterid>
+         <chaptertitle>1. An Introduction to Clinical and Diagnostic Interviewing: Fundamental Skills and Key Issues</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Daniel L.</firstname>
+                  <surname>Segal</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>Springer US</publishername>
+         </publisher>
+         <pubdate>2025</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Daniel L.</firstname>
+            <surname>Segal</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Confidentiality</title>
+   <para role="Para">A hallmark feature of a professional therapeutic relationship is confidentiality<indexterm significance="normal">
+         <primary>confidentiality</primary>
+      </indexterm>, which is the requirement that mental health clinicians protect their client’s privacy by not revealing the contents of psychotherapy or counseling. Indeed, confidentiality is a critical aspect to address in an initial interview. Guidelines for psychologists regarding confidentiality are established by the American Psychological Association (APA) in the <emphasis>Ethical Principles of Psychologists and Code of Conduct</emphasis> (APA, <emphasis role="CitationRef">
+         <phrase>2017</phrase>
+      </emphasis>). Specifically, the APA ethical principle (standard 4.01) states that “Psychologists have a primary obligation and take reasonable precautions to protect confidential information<indexterm significance="normal">
+         <primary>information</primary>
+      </indexterm> obtained through or stored in any medium, recognizing that the extent and limits of confidentiality may be regulated by law or established by institutional rules or professional or scientific relationship.”<phrase>1.1</phrase>Table 1.1</para>
+   <para role="SimplePara">Common limitations to confidentiality in counseling and psychotherapy</para>
+   <table id="ch0002s0002ta01">
+      <title/>
+      <tgroup cols="1">
+         <colspec colname="c1" colnum="1"/>
+         <tbody>
+            <row>
+               <entry>
+                  <para role="SimplePara">Clinicians may disclose private information without consent in order to protect the client or the public from serious harm, for example, when a client discusses serious plans to attempt suicide or to harm another specific person</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Clinicians are commonly required to report child abuse or neglect, elder abuse or neglect, and abuse or neglect of persons with intellectual and developmental disabilities</para>
+               </entry>
+            </row>
+            <row>
+               <entry>
+                  <para role="SimplePara">Clinicians may release confidential information if they receive a court order from a judge. This event may occur when a client’s mental health comes into question during legal proceedings</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="SimplePara">Note. The client’s right to confidentiality has legal as well as clinical implications. Laws pertaining to confidentiality vary from state to state; therefore, mental health clinicians should refer to their state’s specific laws as well as their discipline-specific code of ethics</para>
+   <para role="Para">
+      Confidentiality<indexterm significance="normal">
+         <primary>Confidentiality</primary>
+      </indexterm> is such an important topic that state laws regulating the practice of psychologists typically have provisions about confidentiality and guidelines pertaining to the clinician–client relationship. In short, clinicians must maintain the privacy of their client’s communications and records in order for effective evaluation and treatment to be possible. Caution must be exercised in releasing information to anyone but the client, and it is always best to err on the conservative side (Faust, <emphasis role="CitationRef">
+         <phrase>1998</phrase>
+      </emphasis>). If in doubt, do not release information without written consent from the client or a court order. Several specific factors that may impinge on confidentiality are discussed next.</para>
+   <sect2 id="ch0002s0002s01" role="Heading">
+      <title>Age of Consent</title>
+      <para role="Para">The age of consent to psychological evaluation or treatment varies among the states. Therefore, a 14-year-old adolescent seeking mental health services without parental or legal guardian consent may be able to do so legally in one state but not the other. In a state where it is legal to provide services<indexterm significance="normal">
+            <primary>services</primary>
+         </indexterm> to a minor without parental or guardian consent, all confidentiality laws of that state and all professional ethical guidelines would apply. In other states, persons under the age of 18 would be considered minors, and no services may be rendered without parental or guardian consent. In such cases, the minor client should be informed of this requirement prior to the interview, and the client should also be made aware that his or her parents or guardians have a legal right to all records of evaluation and treatment. In sum, any clinician who treats minors must have a complete understanding of their state’s laws and how medical consent affects client privacy laws and ethics.</para>
+   </sect2>
+   <sect2 id="ch0002s0002s02" role="Heading">
+      <title>Confidentiality of Client’s Records</title>
+      <para role="Para">Records of psychological services (including assessment and psychotherapy) are confidential documents. These records may not be released to any third party (including other professionals) without written consent from the client. For unlicensed professionals or students in training, the supervisor or clinical supervision team will be privy to the information, and the client should<indexterm significance="normal">
+            <primary>should</primary>
+         </indexterm>be duly informed of this, usually in writing in the informed consent document. It is the responsibility of each professional to maintain up-to-date, detailed, and accurate records of treatment and to provide safeguards for such material. Given the number of people who could potentially access records (i. e., whomever the client releases the information to, third-party payers, legal guardians, etc.), it is prudent to take care when documenting in the record. It would be wise for clinicians to imagine that judges, attorneys, insurance company personnel, physicians, and the client himself or herself are looking over their shoulder while documenting treatment (Faust,<emphasis role="CitationRef">
+            <phrase>1998</phrase>
+         </emphasis>).</para>
+      <para role="Para">Alternatively, although one must be careful and prudent when documenting in charts, records should have enough detail to facilitate treatment planning and meet the requirements for reimbursement from third-party payers. Certain aspects of the clinical record (e. g., dates of sessions, diagnoses) may be released to a third-party payer for reimbursement. Maintaining adequate records<indexterm significance="normal">
+            <primary>records</primary>
+         </indexterm> is particularly important should the client transfer to another agency or clinician in the future. Although malpractice claims or lawsuits arising from interviews or treatments are relatively uncommon, an appropriately detailed record may also be an important part of the clinician’s defense.</para>
+      <para role="Para">The security of client records is the responsibility of the treating clinician. Written or printed information should never be left unattended and should be filed promptly and properly when not being used. Written or printed records should be kept in locked files with limited access. As most records are now created and stored digitally or electronically, this has resulted in new challenges, for example, ensuring that computers and servers are physically secure and that no data breaches occur (Lustgarten et al.,<emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). Indeed, the safety of electronic records (including email, texting, and cloud-based storage) is an increasingly important issue<indexterm significance="normal">
+            <primary>issue</primary>
+         </indexterm>. At a minimum, electronic records must be stored on a password-protected computer in a locked office. However, more secure methods of storing records electronically are preferred. Often, this includes the use of encryption software or a secure medical record system. Electronic medical record systems make it easier and more convenient for mental health providers to document and access client medical and mental health records. They also can add more security to client information than was previously offered with written records. Confidentiality<indexterm significance="normal">
+            <primary>Confidentiality</primary>
+         </indexterm> concerns may arise with electronic medical records though, especially in settings where interprofessional collaboration is common or where access is not heavily restricted. Clinicians may need to be particularly mindful of information they include in a client’s chart, especially if that information may be available to other providers. However, as technology advances, developers are adding new ways to control who can access client information, as well as where, when, and how they are able to access the information (Lustgarten et al., <emphasis role="CitationRef">
+            <phrase>2020</phrase>
+         </emphasis>). As with all record keeping, clinicians should be mindful of the information they include in the chart as well as mindful of who may potentially have access to those records.</para>
+   </sect2>
+   <sect2 id="ch0002s0002s03" role="Heading">
+      <title>Duty to Warn and Protect</title>
+      <para role="Para">As noted above, one noteworthy limitation of confidentiality<indexterm significance="normal">
+            <primary>confidentiality</primary>
+         </indexterm> is the legal and ethical responsibility of mental health professionals<indexterm significance="normal">
+            <primary>mental health professionals</primary>
+         </indexterm>to protect their clients and members of society from imminent danger. Although clinicians are legally and ethically required to maintain confidentiality between themselves and their clients, clinicians also have an obligation to protect dangerous clients from themselves (i. e., suicide) and to protect potential victims from dangerous clients (i. e., homicide, child or elder neglect or abuse). This blurring of the responsibility of confidentiality occurred because of the landmark <emphasis>Tarasoff v. Regents of University of California</emphasis> case in 1976. In this landmark case, the California Supreme Court required clinicians to take steps to protect individuals who are potential victims of their clients. This law held that psychotherapists in the state of California have a duty to protect intended victims of their client’s if their intended conduct “presents a serious danger of violence to another.” Since this ruling in 1976, similar laws have been formally established in almost every state. Therefore, should a client inform a clinician that he or she has a specific and imminent plan to seriously harm an identified potential victim, the following actions may need to be taken: the clinician has a duty to warn an intended victim, the clinician may need to get the client into a psychiatric facility (voluntarily or involuntarily), and the clinician may need to notify the police about the client’s plan (Faust, <emphasis role="CitationRef">
+            <phrase>1998</phrase>
+         </emphasis>). Consultation with supervisors or professional colleagues<indexterm significance="normal">
+            <primary>colleagues</primary>
+         </indexterm> is clearly advised during these types of situations to think through the necessary steps one must take to protect clients and members of society.</para>
+      <para role="Para">Screening of suicidal and homicidal ideation should be a routine part of clinical interviews with new clients. Some beginning clinicians may avoid asking about suicidal or homicidal ideation for fear of the response and added responsibility. However, failing to assess for either suicidal or homicidal ideation is dangerous, and a clinician could be held liable if someone is hurt and the clinician failed to reasonably assess the client. As noted earlier, limits to confidentiality<indexterm significance="normal">
+            <primary>confidentiality</primary>
+         </indexterm> must be discussed thoroughly at the start of treatment to ensure clients are aware of them and choose what information to disclose accordingly (APA, <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>). In some cases, clients who have been told these confidentiality limits may choose not to disclose information concerning suicidal or homicidal thoughts. If thoughts of harm are suspected, the clinician should communicate concern and emphasize the importance of client safety.</para>
+   </sect2>
+   <sect2 id="ch0002s0002s04" role="Heading">
+      <title>Managing the Temptation to Discuss Cases</title>
+      <para role="Para">Information gathered from clinical interviews and psychotherapy sessions should not be the topic of casual conversation under any circumstances. Even anecdotal de-identified information can be highly identifiable if the situation is distinct. Describing a client during the course of a conversation with professional colleagues in what may seem to be a private setting may actually include unintended listeners who can identify the client’s information due to the distinguishing features of the story. Novice clinicians may be tempted to discuss aspects of therapeutic experiences with peers in inappropriate settings (e. g., restaurants, bars). They may also inappropriately discuss clients in areas of the treatment setting where other listeners may be present (e. g., at the front desk, elevators, hallways). Remember that confidentiality is the rule for information gathered in a clinical interview, not the exception, and that respect for confidentiality is one of the most important elements in forging an open and honest dialogue. Violation of the client’s confidentiality without just cause is a serious offense, both legally and ethically, so mindful attention is always advised.</para>
+      <para role="Para">The issue of confidentiality<indexterm significance="normal">
+            <primary>confidentiality</primary>
+         </indexterm> is serious and complex with many potential ramifications. It can be tricky to navigate and must be handled with care. One simple rule of thumb is to avoid saying anything to anyone about the client that the clinician would be uncomfortable saying to them in front of the client, the client’s attorney, and the clinician’s supervisor. Whereas the intent of this section was to alert clinicians to the primary issues, for more in-depth coverage of confidentiality<indexterm significance="normal">
+            <primary>confidentiality</primary>
+         </indexterm> (and other key ethical issues), the interested reader is referred to Fisher (<emphasis role="CitationRef">
+            <phrase>2022</phrase>
+         </emphasis>), Knapp and Fingerhut (<emphasis role="CitationRef">
+            <phrase>2023</phrase>
+         </emphasis>), Pope et al., (<emphasis role="CitationRef">
+            <phrase>2021</phrase>
+         </emphasis>), and the Ethical Principles of Psychologists and Code of Conduct (APA, <emphasis role="CitationRef">
+            <phrase>2017</phrase>
+         </emphasis>). Now, let’s turn to some common therapeutic factors in interviewing and some key skills related to effective interviewing.</para>
+   </sect2>
+</sect1>
